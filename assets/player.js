@@ -19,17 +19,16 @@ function safeUid(uid) {
 
 const BCP_EVENT = id => `https://www.bestcoastpairings.com/event/${id}`;
 
-const regionFilter = new Set(["NI"]);   // active region filters, ANDed together; NI selected by default
+const regionFilter = new Set(["NI"]);   // exclusive region filter (NI, ROI, or neither); NI selected by default
 let rankingRows = [];
 
-// Mirrors withRanks()'s "no filter" behaviour: an empty set matches everyone.
 function filterLabel() {
-  return regionFilter.size ? [...regionFilter].sort().join(" + ") : "All";
+  return regionFilter.size ? [...regionFilter][0] : "All";
 }
 
 // Where this player ranks among the currently region-filtered player pool
-// (same AND-semantics and tie-break as the rankings page), or null if they
-// don't match the active filter at all.
+// (same tie-break as the rankings page), or null if they don't match the
+// active filter at all.
 function computeFilteredRank(uid) {
   const pool = rankingRows.filter(r => regionMatches(r.regions, regionFilter));
   const match = withRanks(pool).find(r => r.user_id === uid);

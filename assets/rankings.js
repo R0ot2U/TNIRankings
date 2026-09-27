@@ -6,7 +6,7 @@ let index = {};
 let year = null;
 let sortCol = 0;   // default: rank
 let sortDir = 1;   // 1 = asc
-const regionFilter = new Set(["NI"]);   // active region filters, ANDed together; NI selected by default
+const regionFilter = new Set(["NI"]);   // exclusive region filter (NI, ROI, or neither); NI selected by default
 
 const COLS = ["rank", "player_name", "total_points", "events_played", "best_finish", "region"];
 
@@ -64,11 +64,6 @@ function filtered() {
   return sortedRows(withRanks(data));
 }
 
-// An event has a single region; a player can have several. So "match the
-// filter" is OR for events (any selected region) but AND for players
-// (regionMatches, used in filtered()) — selecting NI+ROI together still
-// counts every event (each is one or the other) while narrowing players to
-// those who competed in both.
 function filteredEventCount() {
   if (!regionFilter.size) return events.length;
   return events.filter(e => regionFilter.has(e.region)).length;
