@@ -1,0 +1,47 @@
+{
+  "user_id": "MR0SWXjdcshk",
+  "player_name": "Richard Totten",
+  "total_points": 75.536,
+  "events_played": 2,
+  "best_finish": 15,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Tyranids",
+  "team": null,
+  "events": [
+    {
+      "event_id": "1PpZD9LRYLI6",
+      "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
+      "event_name": "Exploding Dice 40K GT 2026",
+      "date": "2026-08-29",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 5,
+      "placing": 15,
+      "max_points": 100,
+      "points": 56.25,
+      "faction": "Tyranids",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "NxXFuKF8loah",
+      "prefix": "NxXFuKF8loah",
+      "event_name": "ED Single Day 40K Event Series March 2026",
+      "date": "2026-03-28",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 20,
+      "max_points": 60,
+      "points": 19.286,
+      "faction": "Tyranids",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 170
+}

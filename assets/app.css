@@ -1,0 +1,638 @@
+/* TNIRankings — Ireland & Northern Ireland player rankings — shared styles.
+   Design system copied from the Informed Crusader site for a consistent look. */
+*, *::before, *::after { box-sizing: border-box; }
+
+:root {
+  --bg:      #0f0f1a;
+  --panel:   #16213e;
+  --accent:  #e94560;
+  --text:    #eaeaea;
+  --dim:     #888;
+  --grid:    #2a2a4a;
+  --green:   #4caf50;
+  --yellow:  #ffb300;
+  --red:     #e53935;
+  --blue:    #1565c0;
+  --blue-lt: #42a5f5;
+  --radius:  8px;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  margin: 0; padding: 0;
+  font-size: clamp(13px, 1vw, 15px);
+}
+
+/* ── Header ─────────────────────────────────────────────── */
+header {
+  background: var(--panel);
+  border-bottom: 2px solid var(--accent);
+  padding: 12px 20px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+header h1 { color: var(--accent); margin: 0; font-size: 1.2rem; }
+header .subtitle { color: var(--dim); font-size: 0.78rem; }
+
+/* Site logo link */
+.site-logo {
+  color: var(--accent);
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-decoration: none;
+  letter-spacing: -0.02em;
+}
+.site-logo:hover { opacity: 0.85; }
+.spacer { flex: 1; }
+header .meta-info { color: var(--dim); font-size: 0.75rem; text-align: right; }
+
+/* ── Nav links ──────────────────────────────────────────── */
+.nav-link {
+  color: var(--dim);
+  text-decoration: none;
+  font-size: 0.82rem;
+  padding: 4px 8px;
+  border-radius: 4px;
+  transition: background 0.15s, color 0.15s;
+}
+.nav-link:hover { background: var(--grid); color: var(--text); }
+.nav-link.active { color: var(--accent); background: rgba(233,69,96,0.12); }
+
+/* ── Tab buttons (used on dispositions page) ────────────── */
+.tab-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: 12px;
+  border-bottom: 1px solid var(--grid);
+  padding-bottom: 8px;
+}
+.tab-btn {
+  background: transparent;
+  border: 1px solid var(--grid);
+  color: var(--dim);
+  padding: 6px 12px;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 0.8rem;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.tab-btn:hover { background: var(--grid); color: var(--text); }
+.tab-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+.tab-toggle { margin-bottom: 12px; }
+.tab-content { margin-top: 4px; }
+
+/* ── Collapsible matchup sections ───────────────────────── */
+.matchup-details {
+  border: 1px solid var(--grid);
+  border-radius: var(--radius);
+  margin-bottom: 8px;
+  background: rgba(0,0,0,0.15);
+}
+.matchup-details > summary {
+  cursor: pointer;
+  padding: 10px 14px;
+  font-weight: 600;
+  font-size: 0.88rem;
+  color: var(--text);
+  list-style: none;
+  user-select: none;
+}
+.matchup-details > summary::-webkit-details-marker { display: none; }
+.matchup-details > summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 8px;
+  color: var(--accent);
+  transition: transform 0.15s;
+}
+.matchup-details[open] > summary::before { transform: rotate(90deg); }
+.matchup-details > .table-wrap,
+.matchup-details > .empty { padding: 0 14px 12px; }
+
+/* ── Main layout ────────────────────────────────────────── */
+body { display: flex; flex-direction: column; min-height: 100vh; }
+main {
+  flex: 1;
+  padding: clamp(16px, 2vw, 32px) clamp(16px, 3vw, 48px);
+  max-width: 1800px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* ── Section headers ────────────────────────────────────── */
+.section-title {
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  margin: 28px 0 10px;
+  border-left: 3px solid var(--accent);
+  padding-left: 10px;
+}
+
+/* ── Controls row ───────────────────────────────────────── */
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.search-input {
+  background: var(--panel);
+  border: 1px solid var(--grid);
+  color: var(--text);
+  padding: 7px 12px;
+  border-radius: var(--radius);
+  font-size: 0.85rem;
+  width: 220px;
+  outline: none;
+}
+.search-input:focus { border-color: var(--accent); }
+.search-input::placeholder { color: var(--dim); }
+
+.btn-group { display: flex; gap: 4px; }
+.btn {
+  background: var(--panel);
+  border: 1px solid var(--grid);
+  color: var(--dim);
+  padding: 6px 14px;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 0.82rem;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.btn:hover { background: var(--grid); color: var(--text); }
+.btn.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+
+/* ── Tables ─────────────────────────────────────────────── */
+.table-wrap { overflow-x: auto; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.84rem;
+}
+thead th {
+  background: var(--panel);
+  color: var(--dim);
+  font-weight: 600;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 9px 10px;
+  text-align: left;
+  border-bottom: 1px solid var(--grid);
+  cursor: pointer;
+  white-space: nowrap;
+  user-select: none;
+}
+thead th:hover { color: var(--text); }
+thead th.sort-asc::after  { content: " ▲"; color: var(--accent); }
+thead th.sort-desc::after { content: " ▼"; color: var(--accent); }
+tbody tr {
+  border-bottom: 1px solid var(--grid);
+  transition: background 0.1s;
+}
+tbody tr:hover { background: rgba(255,255,255,0.04); }
+tbody td { padding: 8px 10px; vertical-align: middle; }
+
+/* WR colour helpers */
+.wr-green  { color: var(--green);  font-weight: 600; }
+.wr-yellow { color: var(--yellow); font-weight: 600; }
+.wr-red    { color: var(--red);    font-weight: 600; }
+
+.trend-up   { color: var(--green); }
+.trend-down { color: var(--red);   }
+.trend-flat { color: var(--dim);   }
+
+/* Faction name as link */
+.faction-link {
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 500;
+}
+.faction-link:hover { color: var(--accent); text-decoration: underline; }
+
+/* External list link */
+.list-link {
+  color: var(--blue-lt);
+  text-decoration: none;
+  font-size: 0.8rem;
+}
+.list-link:hover { text-decoration: underline; }
+
+/* ── Badges ─────────────────────────────────────────────── */
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+.badge-green  { background: rgba(76,175,80,0.18); color: var(--green); }
+.badge-yellow { background: rgba(255,179,0,0.18); color: var(--yellow); }
+.badge-red    { background: rgba(229,57,53,0.18); color: var(--red); }
+.badge-blue   { background: rgba(21,101,192,0.18); color: var(--blue-lt); }
+
+/* ── Charts ─────────────────────────────────────────────── */
+.chart-wrap {
+  background: var(--panel);
+  border-radius: var(--radius);
+  padding: clamp(12px, 1.5vw, 20px);
+  margin-bottom: 16px;
+}
+
+/* Map container */
+.map-wrap {
+  margin-bottom: 20px;
+}
+.map-wrap #map-chart {
+  min-height: 450px;
+}
+
+/* Plotly mode bar styling for dark theme */
+.modebar {
+  background: transparent !important;
+  top: 10px !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  right: auto !important;
+  opacity: 0 !important;
+  transition: opacity 0.3s !important;
+}
+
+/* Show modebar on hover (desktop only) */
+.chart-wrap:hover .modebar,
+.panel:hover .modebar,
+.map-wrap:hover .modebar {
+  opacity: 1 !important;
+}
+
+.modebar-btn {
+  background: var(--panel) !important;
+  border: 1px solid var(--grid) !important;
+  border-radius: 4px !important;
+  margin: 0 2px !important;
+  transition: all 0.2s !important;
+}
+.modebar-btn:hover {
+  background: var(--grid) !important;
+  border-color: var(--accent) !important;
+}
+.modebar-btn path {
+  fill: var(--dim) !important;
+}
+.modebar-btn:hover path {
+  fill: var(--text) !important;
+}
+.modebar-btn.active path {
+  fill: var(--accent) !important;
+}
+
+/* Landing page bar charts — height set by JS based on row count (mobile-aware) */
+/* Removed: height: clamp(360px, 40vw, 800px) — was overriding JS heights */
+
+/* Disposition charts default heights (mobile overrides below) */
+#chart-disposition-overview {
+  height: 400px;
+}
+
+#matchup-heatmap {
+  height: 520px;
+}
+
+/* Detachment breakdown chart */
+.chart-det {
+  height: clamp(260px, 30vw, 560px);
+}
+
+/* Matchup chart — full-width on faction page; needs the most room */
+.chart-matchup {
+  height: clamp(420px, 55vw, 900px);
+}
+
+/* Timeline charts — compact pair */
+.chart-timeline {
+  height: clamp(200px, 20vw, 320px);
+}
+
+/* ── Two-col layout — fluid, collapses when columns would be < 340px ── */
+.two-col {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: clamp(16px, 2vw, 28px);
+}
+
+/* ── Loading / empty / error ────────────────────────────── */
+.loading { color: var(--dim); text-align: center; padding: 40px; font-size: 0.9rem; }
+.empty   { color: var(--dim); font-style: italic; padding: 12px 0; font-size: 0.84rem; }
+.error-state { color: var(--red); }
+.retry-btn { margin-left: 12px; font-size: 0.8rem; padding: 4px 12px; }
+
+/* ── Back breadcrumb ────────────────────────────────────── */
+.breadcrumb {
+  font-size: 0.8rem;
+  color: var(--dim);
+  margin-bottom: 16px;
+}
+.breadcrumb a { color: var(--accent); text-decoration: none; }
+.breadcrumb a:hover { text-decoration: underline; }
+
+/* ── Faction hero ───────────────────────────────────────── */
+.hero {
+  background: var(--panel);
+  border-radius: var(--radius);
+  padding: 16px 20px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+.hero h2 { margin: 0 0 4px; font-size: 1.5rem; color: var(--accent); }
+.hero .meta { color: var(--dim); font-size: 0.8rem; }
+.hero-stats {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.stat-box { text-align: center; }
+.stat-box .val { font-size: 1.4rem; font-weight: 700; }
+.stat-box .lbl { font-size: 0.7rem; color: var(--dim); letter-spacing: 0.06em; text-transform: uppercase; }
+
+/* ── Scrollable table containers ────────────────────────── */
+.panel {
+  background: var(--panel);
+  border-radius: var(--radius);
+  padding: clamp(12px, 1.5vw, 20px) clamp(14px, 2vw, 24px);
+  margin-bottom: 16px;
+}
+.panel-title {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--dim);
+  margin: 0 0 10px;
+}
+.panel-note {
+  font-size: 0.72rem;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+  color: var(--dim);
+}
+
+/* ── Footer ─────────────────────────────────────────────── */
+footer {
+  background: var(--panel);
+  border-top: 1px solid var(--grid);
+  padding: 12px 20px;
+  margin-top: 20px;
+}
+.footer-inner {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.75rem;
+  color: var(--dim);
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.footer-links { display: flex; gap: 16px; }
+.footer-links a {
+  color: var(--dim);
+  text-decoration: none;
+}
+.footer-links a:hover { color: var(--accent); }
+
+/* ── Legend / About page ────────────────────────────────── */
+.legend-page { max-width: 900px; }
+.legend-heading {
+  color: var(--accent);
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 32px 0 14px;
+  border-left: 3px solid var(--accent);
+  padding-left: 10px;
+}
+.legend-heading:first-child { margin-top: 0; }
+.legend-page > p {
+  color: var(--text);
+  line-height: 1.6;
+  margin: 0 0 12px;
+  font-size: 0.9rem;
+}
+.legend-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 14px;
+  margin-bottom: 8px;
+}
+.legend-card {
+  background: var(--panel);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+}
+.legend-term {
+  font-weight: 700;
+  font-size: 0.88rem;
+  color: var(--text);
+  margin-bottom: 6px;
+}
+.legend-card p {
+  color: var(--dim);
+  font-size: 0.83rem;
+  line-height: 1.5;
+  margin: 0 0 6px;
+}
+.legend-card p:last-child { margin-bottom: 0; }
+.legend-note {
+  font-size: 0.78rem;
+  color: var(--dim);
+  border-top: 1px solid var(--grid);
+  padding-top: 6px;
+  margin-top: 6px;
+}
+.legend-list {
+  padding-left: 20px;
+  color: var(--dim);
+  font-size: 0.85rem;
+  line-height: 1.7;
+  margin: 0 0 8px;
+}
+.legend-list strong { color: var(--text); }
+.legend-link { color: var(--blue-lt); text-decoration: none; }
+.legend-link:hover { text-decoration: underline; }
+
+/* ── Faction page enhancements ──────────────────────────── */
+.three-col {
+  display: grid;
+  grid-template-columns: minmax(200px, 250px) 1fr 1fr;
+  gap: clamp(16px, 2vw, 28px);
+  margin-bottom: 20px;
+}
+
+.ranking-panel {
+  grid-column: 1;
+}
+
+.ranking-panel .panel-title {
+  font-size: 0.9rem;
+  margin-bottom: 10px;
+}
+
+.ranking-table {
+  width: 100%;
+  font-size: 0.85rem;
+}
+
+.ranking-table td:last-child {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.chart-det-pie {
+  height: clamp(320px, 32vw, 520px);
+  min-height: 320px;
+}
+
+.stats-grid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: 8px 0;
+}
+
+.pie-btn {
+  background: var(--panel);
+  border: 1px solid var(--grid);
+  color: var(--dim);
+  padding: 3px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.75rem;
+  transition: all 0.2s;
+}
+
+.pie-btn:hover {
+  border-color: var(--blue-lt);
+  color: var(--text);
+}
+
+.pie-btn.active {
+  background: var(--blue);
+  border-color: var(--blue);
+  color: white;
+  font-weight: 600;
+}
+
+/* ── Mobile responsive ──────────────────────────────────── */
+@media (max-width: 600px) {
+  header { flex-wrap: wrap; gap: 8px; padding: 10px 14px; }
+  main { padding: 14px 10px; }
+  .controls { flex-direction: column; align-items: flex-start; }
+  .search-input { width: 100%; }
+  .footer-inner { flex-direction: column; align-items: flex-start; gap: 8px; }
+  .hero { flex-direction: column; }
+  .hero-stats { justify-content: flex-start; }
+  .three-col { grid-template-columns: 1fr; }
+
+  /* Tighter chart-wrap padding on mobile */
+  .chart-wrap { padding: 12px; }
+
+  /* Let row-scaled charts grow tall on mobile — user scrolls the page.
+     JS now computes mobile-aware heights; don't override with !important.
+     No min-height needed — JS already sets appropriate heights. */
+
+  /* Keep fixed-aspect charts viewport-fit */
+  .map-wrap #map-chart {
+    min-height: 400px !important;
+    height: clamp(400px, 50vh, 500px) !important;
+  }
+
+  /* Charts that already use CSS classes */
+  .chart-det-pie { height: clamp(320px, 45vh, 450px) !important; }
+  .chart-timeline { height: clamp(250px, 35vh, 350px) !important; }
+
+  /* Force hide modebar on mobile - aggressive selectors to override Plotly inline styles */
+  .modebar,
+  .modebar-group,
+  .modebar-container,
+  div.modebar,
+  svg.modebar,
+  [class*="modebar"] {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+  }
+
+  /* Disposition page specific - wrap filter buttons */
+  .tab-buttons {
+    flex-wrap: wrap;
+    gap: 6px !important;
+  }
+
+  .tab-btn {
+    font-size: 0.7rem !important;
+    padding: 5px 10px !important;
+  }
+
+  /* Stack filter button groups vertically on mobile */
+  #disposition-tabs + div {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 8px !important;
+  }
+
+  /* Make button groups full width on mobile */
+  .tab-toggle.btn-group {
+    width: 100%;
+    display: flex;
+  }
+
+  .tab-toggle .btn {
+    flex: 1;
+    font-size: 0.7rem;
+    padding: 6px 4px;
+    white-space: nowrap;
+  }
+
+  /* Increase specific disposition chart heights */
+  #chart-disposition-overview {
+    height: clamp(400px, 50vh, 550px) !important;
+  }
+
+  #matchup-heatmap {
+    height: clamp(450px, 55vh, 600px) !important;
+  }
+}
+
+/* ── Turn filter buttons ────────────────────────────────────── */
+#first-turn-btns .btn.active[data-val="first"] {
+  background: var(--green);
+  border-color: var(--green);
+}
+
+#first-turn-btns .btn.active[data-val="second"] {
+  background: #e94560;
+  border-color: #e94560;
+}
+
+.ft-no-data {
+  color: var(--dim);
+  font-size: 0.75rem;
+  font-style: italic;
+}

@@ -1,0 +1,64 @@
+{
+  "user_id": "8w9QwBpVM8ER",
+  "player_name": "Rickard Nordendorph",
+  "total_points": 114.245,
+  "events_played": 3,
+  "best_finish": 17,
+  "regions": [
+    "NI",
+    "ROI"
+  ],
+  "faction": "T'au Empire",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 58,
+      "max_points": 100,
+      "points": 41.837,
+      "faction": "T'au Empire",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 53,
+      "max_points": 100,
+      "points": 8.772,
+      "faction": "T'au Empire",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "j4OXdzodcigP",
+      "prefix": "j4OXdzodcigP",
+      "event_name": "Dearg Doom V: V is for Volatile",
+      "date": "2026-01-31",
+      "region": "ROI",
+      "field_size": 44,
+      "rounds": 5,
+      "placing": 17,
+      "max_points": 100,
+      "points": 63.636,
+      "faction": "Necrons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 111
+}

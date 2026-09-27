@@ -1,0 +1,31 @@
+{
+  "user_id": "Xn8EHpPbJM",
+  "player_name": "Matthew Leak",
+  "total_points": 71.93,
+  "events_played": 1,
+  "best_finish": 17,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Astra Militarum",
+  "team": "Bristol Crusaders",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 17,
+      "max_points": 100,
+      "points": 71.93,
+      "faction": "Astra Militarum",
+      "team": "Bristol Crusaders",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 175
+}

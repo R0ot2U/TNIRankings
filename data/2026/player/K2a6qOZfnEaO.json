@@ -1,0 +1,31 @@
+{
+  "user_id": "K2a6qOZfnEaO",
+  "player_name": "Alex Thompson",
+  "total_points": 3.429,
+  "events_played": 1,
+  "best_finish": 14,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Astra Militarum",
+  "team": "Maghera Wargaming",
+  "events": [
+    {
+      "event_id": "nXJFqAguUQDp",
+      "prefix": "nXJFqAguUQDp",
+      "event_name": "The MagherWaagh!",
+      "date": "2026-06-13",
+      "region": "NI",
+      "field_size": 14,
+      "rounds": 3,
+      "placing": 14,
+      "max_points": 48,
+      "points": 3.429,
+      "faction": "Astra Militarum",
+      "team": "Maghera Wargaming",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 417
+}

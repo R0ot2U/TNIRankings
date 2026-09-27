@@ -1,0 +1,31 @@
+{
+  "user_id": "HCbiMjiquHn4",
+  "player_name": "Tadhg  Reynolds",
+  "total_points": 68.254,
+  "events_played": 1,
+  "best_finish": 21,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Leagues of Votann",
+  "team": null,
+  "events": [
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 21,
+      "max_points": 100,
+      "points": 68.254,
+      "faction": "Leagues of Votann",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 181
+}

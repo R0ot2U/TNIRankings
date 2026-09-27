@@ -1,0 +1,63 @@
+{
+  "user_id": "EL9MWN8PHP",
+  "player_name": "Michal Cwik",
+  "total_points": 144.661,
+  "events_played": 3,
+  "best_finish": 5,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Chaos Space Marines",
+  "team": null,
+  "events": [
+    {
+      "event_id": "e9ytUCYU5Q1o",
+      "prefix": "e9ytUCYU5Q1o",
+      "event_name": "Galaxy Purge 27/09/26",
+      "date": "2026-09-27",
+      "region": "ROI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 5,
+      "max_points": 54,
+      "points": 44.182,
+      "faction": "Chaos Space Marines",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "O8UKh3nHs1Fs",
+      "prefix": "south_east_siege_iii__revenge_of_the_anhrathe_O8UKh3nHs1Fs",
+      "event_name": "South East Siege III: Revenge of the Anhrathe",
+      "date": "2026-08-22",
+      "region": "ROI",
+      "field_size": 38,
+      "rounds": 5,
+      "placing": 8,
+      "max_points": 100,
+      "points": 81.579,
+      "faction": "Chaos Space Marines",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "u2LuTC8Yr1bX",
+      "prefix": "u2LuTC8Yr1bX",
+      "event_name": "Underworld Gaming: Galaxy Purge",
+      "date": "2026-07-26",
+      "region": "ROI",
+      "field_size": 20,
+      "rounds": 3,
+      "placing": 14,
+      "max_points": 54,
+      "points": 18.9,
+      "faction": "Chaos Space Marines",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 77
+}

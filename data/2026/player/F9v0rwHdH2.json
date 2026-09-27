@@ -1,0 +1,63 @@
+{
+  "user_id": "F9v0rwHdH2",
+  "player_name": "Stephen Kelly-Hannon",
+  "total_points": 99.955,
+  "events_played": 3,
+  "best_finish": 16,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Death Guard",
+  "team": null,
+  "events": [
+    {
+      "event_id": "59xtuz3YSFYA",
+      "prefix": "dearg_doom_vii_59xtuz3YSFYA",
+      "event_name": "Dearg Doom VII",
+      "date": "2026-05-23",
+      "region": "ROI",
+      "field_size": 38,
+      "rounds": 5,
+      "placing": 16,
+      "max_points": 100,
+      "points": 60.526,
+      "faction": "Death Guard",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "0bK8kCFpoBdA",
+      "prefix": "dearg_doom_vi__i_can_t_believe_its_not_cork_0bK8kCFpoBdA",
+      "event_name": "Dearg Doom VI: I can't believe its not Cork",
+      "date": "2026-04-25",
+      "region": "ROI",
+      "field_size": 43,
+      "rounds": 5,
+      "placing": 29,
+      "max_points": 100,
+      "points": 34.884,
+      "faction": "Death Guard",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "j4OXdzodcigP",
+      "prefix": "j4OXdzodcigP",
+      "event_name": "Dearg Doom V: V is for Volatile",
+      "date": "2026-01-31",
+      "region": "ROI",
+      "field_size": 44,
+      "rounds": 5,
+      "placing": 43,
+      "max_points": 100,
+      "points": 4.545,
+      "faction": "Death Guard",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 129
+}

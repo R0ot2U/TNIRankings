@@ -1,0 +1,31 @@
+{
+  "user_id": "SBORVG0bkBDP",
+  "player_name": "John Kerr",
+  "total_points": 35.088,
+  "events_played": 1,
+  "best_finish": 38,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Adeptus Custodes",
+  "team": "Carrick",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 38,
+      "max_points": 100,
+      "points": 35.088,
+      "faction": "Adeptus Custodes",
+      "team": "Carrick",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 276
+}

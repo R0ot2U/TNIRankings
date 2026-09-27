@@ -1,0 +1,31 @@
+{
+  "user_id": "1NNRJGCH6X",
+  "player_name": "Darren McAuley",
+  "total_points": 59.649,
+  "events_played": 1,
+  "best_finish": 24,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Imperial Knights",
+  "team": "The Tactical Titans ",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 24,
+      "max_points": 100,
+      "points": 59.649,
+      "faction": "Imperial Knights",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 201
+}

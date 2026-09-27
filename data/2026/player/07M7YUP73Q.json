@@ -1,0 +1,79 @@
+{
+  "user_id": "07M7YUP73Q",
+  "player_name": "Matthew Wheatley",
+  "total_points": 197.421,
+  "events_played": 4,
+  "best_finish": 1,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Tyranids",
+  "team": "QUB Dragonslayers ",
+  "events": [
+    {
+      "event_id": "5xdxtgy0nEmU",
+      "prefix": "5xdxtgy0nEmU",
+      "event_name": "Dragonslayers Spring RTT 2026",
+      "date": "2026-04-25",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 1,
+      "max_points": 54,
+      "points": 54.0,
+      "faction": "Tyranids",
+      "team": "QUB Dragonslayers ",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 19,
+      "max_points": 100,
+      "points": 68.421,
+      "faction": "Tyranids",
+      "team": "QUB Dragonslayers ",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "1fKDXYIXB8ap",
+      "prefix": "1fKDXYIXB8ap",
+      "event_name": "ED Single Day 40K Event Series January 2026",
+      "date": "2026-01-18",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 15,
+      "max_points": 60,
+      "points": 30.0,
+      "faction": "Tyranids",
+      "team": "QUB Dragonslayers ",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "XRUv6LmE4wQW",
+      "prefix": "XRUv6LmE4wQW",
+      "event_name": "Warpgale 2",
+      "date": "2026-01-04",
+      "region": "NI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 7,
+      "max_points": 60,
+      "points": 45.0,
+      "faction": "Tyranids",
+      "team": "QUB Dragonslayers ",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 51
+}

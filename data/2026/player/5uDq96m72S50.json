@@ -1,0 +1,31 @@
+{
+  "user_id": "5uDq96m72S50",
+  "player_name": "Sean Kennedy",
+  "total_points": 18.367,
+  "events_played": 1,
+  "best_finish": 81,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Space Marines (Astartes)",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 81,
+      "max_points": 100,
+      "points": 18.367,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 351
+}

@@ -1,0 +1,47 @@
+{
+  "user_id": "iWCg3NtsXTOJ",
+  "player_name": "Julian Begley",
+  "total_points": 147.603,
+  "events_played": 2,
+  "best_finish": 13,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Leagues of Votann",
+  "team": null,
+  "events": [
+    {
+      "event_id": "0bK8kCFpoBdA",
+      "prefix": "dearg_doom_vi__i_can_t_believe_its_not_cork_0bK8kCFpoBdA",
+      "event_name": "Dearg Doom VI: I can't believe its not Cork",
+      "date": "2026-04-25",
+      "region": "ROI",
+      "field_size": 43,
+      "rounds": 5,
+      "placing": 13,
+      "max_points": 100,
+      "points": 72.093,
+      "faction": "Leagues of Votann",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 25,
+      "max_points": 100,
+      "points": 75.51,
+      "faction": "Leagues of Votann",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 75
+}

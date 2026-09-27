@@ -1,0 +1,47 @@
+{
+  "user_id": "Apj7DW2WFP",
+  "player_name": "Aaron Speirs",
+  "total_points": 82.087,
+  "events_played": 2,
+  "best_finish": 17,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Black Templars",
+  "team": null,
+  "events": [
+    {
+      "event_id": "VszBd0tEIxjq",
+      "prefix": "call_to_chaos_v_-_call_to_chaos-ier_VszBd0tEIxjq",
+      "event_name": "Call to Chaos V - Call To Chaos-ier",
+      "date": "2026-05-16",
+      "region": "ROI",
+      "field_size": 36,
+      "rounds": 5,
+      "placing": 17,
+      "max_points": 100,
+      "points": 55.556,
+      "faction": "Black Templars",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 73,
+      "max_points": 100,
+      "points": 26.531,
+      "faction": "Black Templars",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 159
+}

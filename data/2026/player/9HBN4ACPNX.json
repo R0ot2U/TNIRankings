@@ -1,0 +1,31 @@
+{
+  "user_id": "9HBN4ACPNX",
+  "player_name": "Kristopher Knight",
+  "total_points": 3.125,
+  "events_played": 1,
+  "best_finish": 32,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Space Marines (Astartes)",
+  "team": null,
+  "events": [
+    {
+      "event_id": "5RSqsPO0geXN",
+      "prefix": "5RSqsPO0geXN",
+      "event_name": "Dragonsreach Warhammer 40k GT",
+      "date": "2026-01-10",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 5,
+      "placing": 32,
+      "max_points": 100,
+      "points": 3.125,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 418
+}

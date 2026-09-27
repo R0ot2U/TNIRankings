@@ -1,0 +1,31 @@
+{
+  "user_id": "7HC98TLY5K",
+  "player_name": "Bayli Carr",
+  "total_points": 4.762,
+  "events_played": 1,
+  "best_finish": 61,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Aeldari",
+  "team": "Spectrum Warriors",
+  "events": [
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 61,
+      "max_points": 100,
+      "points": 4.762,
+      "faction": "Aeldari",
+      "team": "Spectrum Warriors",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 411
+}

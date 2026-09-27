@@ -1,0 +1,31 @@
+{
+  "user_id": "SOJHvfDe5uGx",
+  "player_name": "Kieran Hogarty",
+  "total_points": 30.0,
+  "events_played": 1,
+  "best_finish": 13,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Dark Angels",
+  "team": "The Tactical Titans ",
+  "events": [
+    {
+      "event_id": "XRUv6LmE4wQW",
+      "prefix": "XRUv6LmE4wQW",
+      "event_name": "Warpgale 2",
+      "date": "2026-01-04",
+      "region": "NI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 13,
+      "max_points": 60,
+      "points": 30.0,
+      "faction": "Dark Angels",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 295
+}

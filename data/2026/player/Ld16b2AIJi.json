@@ -1,0 +1,31 @@
+{
+  "user_id": "Ld16b2AIJi",
+  "player_name": "Peter Scott",
+  "total_points": 50.769,
+  "events_played": 1,
+  "best_finish": 5,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Emperor's Children",
+  "team": "The Spoon Collectors",
+  "events": [
+    {
+      "event_id": "Y2y2bOaTCw2y",
+      "prefix": "Y2y2bOaTCw2y",
+      "event_name": "Underworld Gaming: Galaxy Purge WH40K",
+      "date": "2026-02-22",
+      "region": "ROI",
+      "field_size": 26,
+      "rounds": 3,
+      "placing": 5,
+      "max_points": 60,
+      "points": 50.769,
+      "faction": "Emperor's Children",
+      "team": "The Spoon Collectors",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 225
+}

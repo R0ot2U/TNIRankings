@@ -1,0 +1,48 @@
+{
+  "user_id": "IEsJ4jTfPM",
+  "player_name": "David Sloan",
+  "total_points": 36.197,
+  "events_played": 2,
+  "best_finish": 49,
+  "regions": [
+    "NI",
+    "ROI"
+  ],
+  "faction": "T'au Empire",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 79,
+      "max_points": 100,
+      "points": 20.408,
+      "faction": "T'au Empire",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 49,
+      "max_points": 100,
+      "points": 15.789,
+      "faction": "T'au Empire",
+      "team": "Carrick",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 271
+}

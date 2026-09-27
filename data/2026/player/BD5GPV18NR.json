@@ -1,0 +1,31 @@
+{
+  "user_id": "BD5GPV18NR",
+  "player_name": "MATTHEW MURRAY",
+  "total_points": 21.053,
+  "events_played": 1,
+  "best_finish": 46,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Leagues of Votann",
+  "team": "Team Yeti",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 46,
+      "max_points": 100,
+      "points": 21.053,
+      "faction": "Leagues of Votann",
+      "team": "Team Yeti",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 335
+}

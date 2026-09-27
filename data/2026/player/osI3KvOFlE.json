@@ -1,0 +1,31 @@
+{
+  "user_id": "osI3KvOFlE",
+  "player_name": "Dan Kelly",
+  "total_points": 8.1,
+  "events_played": 1,
+  "best_finish": 18,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Death Guard",
+  "team": "The Last Chancers",
+  "events": [
+    {
+      "event_id": "TXU9YF7aiAIq",
+      "prefix": "TXU9YF7aiAIq",
+      "event_name": "Wicklow Waaagh Presents Summahsmash",
+      "date": "2026-06-27",
+      "region": "ROI",
+      "field_size": 20,
+      "rounds": 4,
+      "placing": 18,
+      "max_points": 54,
+      "points": 8.1,
+      "faction": "Death Guard",
+      "team": "The Last Chancers",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 388
+}

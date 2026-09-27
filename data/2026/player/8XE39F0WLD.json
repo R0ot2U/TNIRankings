@@ -1,0 +1,31 @@
+{
+  "user_id": "8XE39F0WLD",
+  "player_name": "Ryan Barnes",
+  "total_points": 19.298,
+  "events_played": 1,
+  "best_finish": 47,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Chaos Knights",
+  "team": "Team Yeti",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 47,
+      "max_points": 100,
+      "points": 19.298,
+      "faction": "Chaos Knights",
+      "team": "Team Yeti",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 341
+}

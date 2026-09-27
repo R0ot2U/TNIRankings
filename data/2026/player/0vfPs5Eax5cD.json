@@ -1,0 +1,31 @@
+{
+  "user_id": "0vfPs5Eax5cD",
+  "player_name": "Kris  Taylor",
+  "total_points": 20.635,
+  "events_played": 1,
+  "best_finish": 51,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Dark Angels",
+  "team": null,
+  "events": [
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 51,
+      "max_points": 100,
+      "points": 20.635,
+      "faction": "Dark Angels",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 338
+}

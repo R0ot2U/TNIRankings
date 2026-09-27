@@ -1,0 +1,79 @@
+{
+  "user_id": "00GRWMW2PU",
+  "player_name": "Darren Treanor",
+  "total_points": 67.651,
+  "events_played": 4,
+  "best_finish": 17,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "World Eaters",
+  "team": "Tuff Kuntz",
+  "events": [
+    {
+      "event_id": "e9ytUCYU5Q1o",
+      "prefix": "e9ytUCYU5Q1o",
+      "event_name": "Galaxy Purge 27/09/26",
+      "date": "2026-09-27",
+      "region": "ROI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 17,
+      "max_points": 54,
+      "points": 14.727,
+      "faction": "World Eaters",
+      "team": "Tuff Kuntz",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "8Z9mzqxPbEDM",
+      "prefix": "8Z9mzqxPbEDM",
+      "event_name": "Galaxy Purge",
+      "date": "2026-04-26",
+      "region": "ROI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 20,
+      "max_points": 60,
+      "points": 12.5,
+      "faction": "World Eaters",
+      "team": "Tuff Kuntz",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 82,
+      "max_points": 100,
+      "points": 17.347,
+      "faction": "World Eaters",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "Y2y2bOaTCw2y",
+      "prefix": "Y2y2bOaTCw2y",
+      "event_name": "Underworld Gaming: Galaxy Purge WH40K",
+      "date": "2026-02-22",
+      "region": "ROI",
+      "field_size": 26,
+      "rounds": 3,
+      "placing": 17,
+      "max_points": 60,
+      "points": 23.077,
+      "faction": "World Eaters",
+      "team": "Tuff Kuntz",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 183
+}

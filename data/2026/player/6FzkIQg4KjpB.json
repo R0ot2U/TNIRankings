@@ -1,0 +1,31 @@
+{
+  "user_id": "6FzkIQg4KjpB",
+  "player_name": "donal mckearney",
+  "total_points": 1.754,
+  "events_played": 1,
+  "best_finish": 57,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Adepta Sororitas",
+  "team": "Kill Team Grox",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 57,
+      "max_points": 100,
+      "points": 1.754,
+      "faction": "Adepta Sororitas",
+      "team": "Kill Team Grox",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 433
+}

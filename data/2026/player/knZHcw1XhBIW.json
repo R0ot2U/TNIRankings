@@ -1,0 +1,31 @@
+{
+  "user_id": "knZHcw1XhBIW",
+  "player_name": "Conor Masterson",
+  "total_points": 7.143,
+  "events_played": 1,
+  "best_finish": 92,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Space Marines (Astartes)",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 92,
+      "max_points": 100,
+      "points": 7.143,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 396
+}

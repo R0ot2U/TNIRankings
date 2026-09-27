@@ -1,0 +1,31 @@
+{
+  "user_id": "npoimDTuYCQC",
+  "player_name": "Martin Campbell",
+  "total_points": 3.509,
+  "events_played": 1,
+  "best_finish": 56,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Dark Angels",
+  "team": "Carrick",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 56,
+      "max_points": 100,
+      "points": 3.509,
+      "faction": "Dark Angels",
+      "team": "Carrick",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 416
+}

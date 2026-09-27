@@ -1,0 +1,47 @@
+{
+  "user_id": "tLlGOUbzr4FO",
+  "player_name": "Thomas O'Neill",
+  "total_points": 134.533,
+  "events_played": 2,
+  "best_finish": 11,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Necrons",
+  "team": null,
+  "events": [
+    {
+      "event_id": "59xtuz3YSFYA",
+      "prefix": "dearg_doom_vii_59xtuz3YSFYA",
+      "event_name": "Dearg Doom VII",
+      "date": "2026-05-23",
+      "region": "ROI",
+      "field_size": 38,
+      "rounds": 5,
+      "placing": 22,
+      "max_points": 100,
+      "points": 44.737,
+      "faction": "Necrons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 11,
+      "max_points": 100,
+      "points": 89.796,
+      "faction": "Necrons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 84
+}

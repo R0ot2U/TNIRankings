@@ -1,0 +1,31 @@
+{
+  "user_id": "NdqdldEMyI",
+  "player_name": "Michael McConkey",
+  "total_points": 89.474,
+  "events_played": 1,
+  "best_finish": 7,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Adeptus Custodes",
+  "team": "Peoples' Republic of Doagh",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 7,
+      "max_points": 100,
+      "points": 89.474,
+      "faction": "Adeptus Custodes",
+      "team": "Peoples' Republic of Doagh",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 146
+}

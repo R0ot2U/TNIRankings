@@ -1,0 +1,31 @@
+{
+  "user_id": "k4k5JrOgOMmH",
+  "player_name": "Conor Feeney",
+  "total_points": 37.755,
+  "events_played": 1,
+  "best_finish": 62,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Tyranids",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 62,
+      "max_points": 100,
+      "points": 37.755,
+      "faction": "Tyranids",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 266
+}

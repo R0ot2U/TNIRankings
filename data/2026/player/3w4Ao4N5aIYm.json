@@ -1,0 +1,31 @@
+{
+  "user_id": "3w4Ao4N5aIYm",
+  "player_name": "Ronan Murphy",
+  "total_points": 2.326,
+  "events_played": 1,
+  "best_finish": 43,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Space Marines (Astartes)",
+  "team": null,
+  "events": [
+    {
+      "event_id": "0bK8kCFpoBdA",
+      "prefix": "dearg_doom_vi__i_can_t_believe_its_not_cork_0bK8kCFpoBdA",
+      "event_name": "Dearg Doom VI: I can't believe its not Cork",
+      "date": "2026-04-25",
+      "region": "ROI",
+      "field_size": 43,
+      "rounds": 5,
+      "placing": 43,
+      "max_points": 100,
+      "points": 2.326,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 429
+}

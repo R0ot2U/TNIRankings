@@ -1,0 +1,31 @@
+{
+  "user_id": "YbUaREqus55i",
+  "player_name": "Conor Fitzpatrick",
+  "total_points": 25.0,
+  "events_played": 1,
+  "best_finish": 25,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Necrons",
+  "team": "The Grimsy Boys",
+  "events": [
+    {
+      "event_id": "5RSqsPO0geXN",
+      "prefix": "5RSqsPO0geXN",
+      "event_name": "Dragonsreach Warhammer 40k GT",
+      "date": "2026-01-10",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 5,
+      "placing": 25,
+      "max_points": 100,
+      "points": 25.0,
+      "faction": "Necrons",
+      "team": "The Grimsy Boys",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 321
+}

@@ -1,0 +1,31 @@
+{
+  "user_id": "WZzmP4zorQm0",
+  "player_name": "Luke Flynn",
+  "total_points": 37.5,
+  "events_played": 1,
+  "best_finish": 10,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Thousand Sons",
+  "team": null,
+  "events": [
+    {
+      "event_id": "7j34USMqfVdA",
+      "prefix": "7j34USMqfVdA",
+      "event_name": "Sandbox RTT & 11th Edition Launch Celebration Group 1",
+      "date": "2026-07-18",
+      "region": "ROI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 10,
+      "max_points": 60,
+      "points": 37.5,
+      "faction": "Thousand Sons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 267
+}

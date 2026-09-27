@@ -1,0 +1,31 @@
+{
+  "user_id": "cgDRExtoHKiJ",
+  "player_name": "David McGillicuddy",
+  "total_points": 21.053,
+  "events_played": 1,
+  "best_finish": 31,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Adeptus Mechanicus",
+  "team": "Kilkenny Nerd Club",
+  "events": [
+    {
+      "event_id": "O8UKh3nHs1Fs",
+      "prefix": "south_east_siege_iii__revenge_of_the_anhrathe_O8UKh3nHs1Fs",
+      "event_name": "South East Siege III: Revenge of the Anhrathe",
+      "date": "2026-08-22",
+      "region": "ROI",
+      "field_size": 38,
+      "rounds": 5,
+      "placing": 31,
+      "max_points": 100,
+      "points": 21.053,
+      "faction": "Adeptus Mechanicus",
+      "team": "Kilkenny Nerd Club",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 334
+}

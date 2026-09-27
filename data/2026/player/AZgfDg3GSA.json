@@ -1,0 +1,31 @@
+{
+  "user_id": "AZgfDg3GSA",
+  "player_name": "Richard Moore",
+  "total_points": 75.0,
+  "events_played": 1,
+  "best_finish": 9,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Aeldari",
+  "team": "M.U.G.S",
+  "events": [
+    {
+      "event_id": "1PpZD9LRYLI6",
+      "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
+      "event_name": "Exploding Dice 40K GT 2026",
+      "date": "2026-08-29",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 5,
+      "placing": 9,
+      "max_points": 100,
+      "points": 75.0,
+      "faction": "Aeldari",
+      "team": "M.U.G.S",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 171
+}

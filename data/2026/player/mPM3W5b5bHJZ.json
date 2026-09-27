@@ -1,0 +1,47 @@
+{
+  "user_id": "mPM3W5b5bHJZ",
+  "player_name": "David Slattery",
+  "total_points": 27.937,
+  "events_played": 2,
+  "best_finish": 17,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Chaos Space Marines",
+  "team": null,
+  "events": [
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 59,
+      "max_points": 100,
+      "points": 7.937,
+      "faction": "Chaos Space Marines",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "7j34USMqfVdA",
+      "prefix": "7j34USMqfVdA",
+      "event_name": "Sandbox RTT & 11th Edition Launch Celebration Group 1",
+      "date": "2026-07-18",
+      "region": "ROI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 17,
+      "max_points": 60,
+      "points": 20.0,
+      "faction": "Chaos Space Marines",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 301
+}

@@ -1,0 +1,31 @@
+{
+  "user_id": "Lm0uYGL8ceiP",
+  "player_name": "Josh Alcorn",
+  "total_points": 86.111,
+  "events_played": 1,
+  "best_finish": 6,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Astra Militarum",
+  "team": null,
+  "events": [
+    {
+      "event_id": "VszBd0tEIxjq",
+      "prefix": "call_to_chaos_v_-_call_to_chaos-ier_VszBd0tEIxjq",
+      "event_name": "Call to Chaos V - Call To Chaos-ier",
+      "date": "2026-05-16",
+      "region": "ROI",
+      "field_size": 36,
+      "rounds": 5,
+      "placing": 6,
+      "max_points": 100,
+      "points": 86.111,
+      "faction": "Astra Militarum",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 151
+}

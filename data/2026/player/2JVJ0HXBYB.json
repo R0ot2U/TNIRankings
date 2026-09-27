@@ -1,0 +1,79 @@
+{
+  "user_id": "2JVJ0HXBYB",
+  "player_name": "Tom Maher",
+  "total_points": 394.325,
+  "events_played": 4,
+  "best_finish": 1,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Chaos Space Marines",
+  "team": "121st chapter",
+  "events": [
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 3,
+      "max_points": 100,
+      "points": 96.825,
+      "faction": "Chaos Space Marines",
+      "team": "121st chapter",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 1,
+      "max_points": 100,
+      "points": 100.0,
+      "faction": "Chaos Space Marines",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "nxhZBtKK3mGF",
+      "prefix": "nxhZBtKK3mGF",
+      "event_name": "South East Siege 2: Attack of the Kin",
+      "date": "2026-02-28",
+      "region": "ROI",
+      "field_size": 40,
+      "rounds": 5,
+      "placing": 2,
+      "max_points": 100,
+      "points": 97.5,
+      "faction": "Chaos Daemons",
+      "team": "121st chapter",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "j4OXdzodcigP",
+      "prefix": "j4OXdzodcigP",
+      "event_name": "Dearg Doom V: V is for Volatile",
+      "date": "2026-01-31",
+      "region": "ROI",
+      "field_size": 44,
+      "rounds": 5,
+      "placing": 1,
+      "max_points": 100,
+      "points": 100.0,
+      "faction": "T'au Empire",
+      "team": "121st chapter",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 2
+}

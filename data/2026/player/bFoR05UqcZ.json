@@ -1,0 +1,47 @@
+{
+  "user_id": "bFoR05UqcZ",
+  "player_name": "Niall Gallagher",
+  "total_points": 103.169,
+  "events_played": 2,
+  "best_finish": 10,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Tyranids",
+  "team": "Drogheda Tabletop Lodge",
+  "events": [
+    {
+      "event_id": "TXU9YF7aiAIq",
+      "prefix": "TXU9YF7aiAIq",
+      "event_name": "Wicklow Waaagh Presents Summahsmash",
+      "date": "2026-06-27",
+      "region": "ROI",
+      "field_size": 20,
+      "rounds": 4,
+      "placing": 10,
+      "max_points": 54,
+      "points": 29.7,
+      "faction": "Tyranids",
+      "team": "Drogheda Tabletop Lodge",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 27,
+      "max_points": 100,
+      "points": 73.469,
+      "faction": "Tyranids",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 124
+}

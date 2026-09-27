@@ -1,0 +1,63 @@
+{
+  "user_id": "BK02L4XNEN",
+  "player_name": "Kim Steindel",
+  "total_points": 108.834,
+  "events_played": 3,
+  "best_finish": 18,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Drukhari",
+  "team": null,
+  "events": [
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 46,
+      "max_points": 100,
+      "points": 28.571,
+      "faction": "Drukhari",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "59xtuz3YSFYA",
+      "prefix": "dearg_doom_vii_59xtuz3YSFYA",
+      "event_name": "Dearg Doom VII",
+      "date": "2026-05-23",
+      "region": "ROI",
+      "field_size": 38,
+      "rounds": 5,
+      "placing": 18,
+      "max_points": 100,
+      "points": 55.263,
+      "faction": "Drukhari",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "j4OXdzodcigP",
+      "prefix": "j4OXdzodcigP",
+      "event_name": "Dearg Doom V: V is for Volatile",
+      "date": "2026-01-31",
+      "region": "ROI",
+      "field_size": 44,
+      "rounds": 5,
+      "placing": 34,
+      "max_points": 100,
+      "points": 25.0,
+      "faction": "Drukhari",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 120
+}

@@ -1,0 +1,31 @@
+{
+  "user_id": "gxyK3aSJpS",
+  "player_name": "Joseph Musgrave",
+  "total_points": 90.0,
+  "events_played": 1,
+  "best_finish": 5,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Space Marines (Astartes)",
+  "team": "Try Hard Wargaming",
+  "events": [
+    {
+      "event_id": "nxhZBtKK3mGF",
+      "prefix": "nxhZBtKK3mGF",
+      "event_name": "South East Siege 2: Attack of the Kin",
+      "date": "2026-02-28",
+      "region": "ROI",
+      "field_size": 40,
+      "rounds": 5,
+      "placing": 5,
+      "max_points": 100,
+      "points": 90.0,
+      "faction": "Space Marines (Astartes)",
+      "team": "Try Hard Wargaming",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 145
+}

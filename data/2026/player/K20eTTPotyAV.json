@@ -1,0 +1,31 @@
+{
+  "user_id": "K20eTTPotyAV",
+  "player_name": "Noel Crockett",
+  "total_points": 6.857,
+  "events_played": 1,
+  "best_finish": 13,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Adeptus Custodes",
+  "team": null,
+  "events": [
+    {
+      "event_id": "nXJFqAguUQDp",
+      "prefix": "nXJFqAguUQDp",
+      "event_name": "The MagherWaagh!",
+      "date": "2026-06-13",
+      "region": "NI",
+      "field_size": 14,
+      "rounds": 3,
+      "placing": 13,
+      "max_points": 48,
+      "points": 6.857,
+      "faction": "Adeptus Custodes",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 398
+}

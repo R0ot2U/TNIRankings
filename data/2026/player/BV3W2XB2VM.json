@@ -1,0 +1,47 @@
+{
+  "user_id": "BV3W2XB2VM",
+  "player_name": "Chris McQuillan",
+  "total_points": 57.785,
+  "events_played": 2,
+  "best_finish": 19,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Necrons",
+  "team": null,
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 50,
+      "max_points": 100,
+      "points": 14.035,
+      "faction": "Necrons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "5RSqsPO0geXN",
+      "prefix": "5RSqsPO0geXN",
+      "event_name": "Dragonsreach Warhammer 40k GT",
+      "date": "2026-01-10",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 5,
+      "placing": 19,
+      "max_points": 100,
+      "points": 43.75,
+      "faction": "Dark Angels",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 207
+}

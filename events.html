@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Events — TNIRankings</title>
+<meta name="description" content="Tournaments counted toward the Ireland & Northern Ireland player rankings.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+
+<header>
+  <a class="site-logo" href="index.html">TNIRankings</a>
+  <span class="subtitle" id="season-label"></span>
+  <span class="spacer"></span>
+  <a class="nav-link" href="index.html">Rankings</a>
+  <a class="nav-link active" href="events.html">Events</a>
+  <a class="nav-link" href="about.html">About</a>
+  <span class="meta-info" id="build-info"></span>
+</header>
+
+<main>
+  <div class="controls">
+    <input class="search-input" type="search" id="search" placeholder="Search event…" autocomplete="off">
+    <div class="btn-group" id="year-btns" role="group" aria-label="Season"></div>
+    <span id="row-count" style="color:var(--dim);font-size:0.8rem;margin-left:4px;"></span>
+  </div>
+
+  <div class="panel">
+    <div class="panel-title">Counting Events
+      <span class="panel-note">(12+ players · 3+ rounds · 2000pts singles · ROI/NI)</span></div>
+    <div class="table-wrap">
+      <table id="events-table">
+        <thead>
+          <tr>
+            <th>Date</th><th>Event</th><th>Region</th>
+            <th title="Number of players (N)">Players</th><th>Rounds</th>
+            <th title="Winner's points (max)">Max pts</th>
+          </tr>
+        </thead>
+        <tbody id="events-tbody">
+          <tr><td colspan="6" class="loading">Loading data…</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</main>
+
+<footer id="site-footer"></footer>
+
+<script src="assets/app.js" defer></script>
+<script src="assets/events.js" defer></script>
+</body>
+</html>

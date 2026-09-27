@@ -1,0 +1,47 @@
+{
+  "user_id": "dQ8Ocd6bL3yO",
+  "player_name": "Samuel  mcfall",
+  "total_points": 51.83,
+  "events_played": 2,
+  "best_finish": 5,
+  "regions": [
+    "NI"
+  ],
+  "faction": "World Eaters",
+  "team": "Tactical Titans",
+  "events": [
+    {
+      "event_id": "nXJFqAguUQDp",
+      "prefix": "nXJFqAguUQDp",
+      "event_name": "The MagherWaagh!",
+      "date": "2026-06-13",
+      "region": "NI",
+      "field_size": 14,
+      "rounds": 3,
+      "placing": 5,
+      "max_points": 48,
+      "points": 34.286,
+      "faction": "World Eaters",
+      "team": "Tactical Titans",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 48,
+      "max_points": 100,
+      "points": 17.544,
+      "faction": "Necrons",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 222
+}

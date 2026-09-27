@@ -1,0 +1,31 @@
+{
+  "user_id": "DXroJPfWUO08",
+  "player_name": "William Cole-Baker",
+  "total_points": 91.837,
+  "events_played": 1,
+  "best_finish": 9,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Necrons",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 9,
+      "max_points": 100,
+      "points": 91.837,
+      "faction": "Necrons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 140
+}

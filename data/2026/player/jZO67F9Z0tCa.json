@@ -1,0 +1,31 @@
+{
+  "user_id": "jZO67F9Z0tCa",
+  "player_name": "Adam Thornton",
+  "total_points": 24.3,
+  "events_played": 1,
+  "best_finish": 12,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Necrons",
+  "team": null,
+  "events": [
+    {
+      "event_id": "TXU9YF7aiAIq",
+      "prefix": "TXU9YF7aiAIq",
+      "event_name": "Wicklow Waaagh Presents Summahsmash",
+      "date": "2026-06-27",
+      "region": "ROI",
+      "field_size": 20,
+      "rounds": 4,
+      "placing": 12,
+      "max_points": 54,
+      "points": 24.3,
+      "faction": "Necrons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 325
+}

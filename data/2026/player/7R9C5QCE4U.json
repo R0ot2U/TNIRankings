@@ -1,0 +1,63 @@
+{
+  "user_id": "7R9C5QCE4U",
+  "player_name": "Liam Stewart",
+  "total_points": 161.166,
+  "events_played": 3,
+  "best_finish": 4,
+  "regions": [
+    "NI"
+  ],
+  "faction": "T'au Empire",
+  "team": "Sink",
+  "events": [
+    {
+      "event_id": "NxXFuKF8loah",
+      "prefix": "NxXFuKF8loah",
+      "event_name": "ED Single Day 40K Event Series March 2026",
+      "date": "2026-03-28",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 5,
+      "max_points": 60,
+      "points": 51.429,
+      "faction": "T'au Empire",
+      "team": "Sink",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 4,
+      "max_points": 100,
+      "points": 94.737,
+      "faction": "T'au Empire",
+      "team": "Sink",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "1fKDXYIXB8ap",
+      "prefix": "1fKDXYIXB8ap",
+      "event_name": "ED Single Day 40K Event Series January 2026",
+      "date": "2026-01-18",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 22,
+      "max_points": 60,
+      "points": 15.0,
+      "faction": "T'au Empire",
+      "team": "Sink",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 64
+}

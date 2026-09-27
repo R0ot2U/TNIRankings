@@ -1,0 +1,31 @@
+{
+  "user_id": "u2Inev6T4CaT",
+  "player_name": "sean Lyons",
+  "total_points": 23.469,
+  "events_played": 1,
+  "best_finish": 76,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Astra Militarum",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 76,
+      "max_points": 100,
+      "points": 23.469,
+      "faction": "Astra Militarum",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 328
+}

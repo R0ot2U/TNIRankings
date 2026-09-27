@@ -1,0 +1,79 @@
+{
+  "user_id": "CDV9YM2UVB",
+  "player_name": "Gary Mcneill",
+  "total_points": 195.959,
+  "events_played": 4,
+  "best_finish": 5,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Aeldari",
+  "team": "Legio Dál Riata",
+  "events": [
+    {
+      "event_id": "1PpZD9LRYLI6",
+      "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
+      "event_name": "Exploding Dice 40K GT 2026",
+      "date": "2026-08-29",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 5,
+      "placing": 17,
+      "max_points": 100,
+      "points": 50.0,
+      "faction": "Aeldari",
+      "team": "Legio Dál Riata",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 43,
+      "max_points": 100,
+      "points": 26.316,
+      "faction": "Death Guard",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "1fKDXYIXB8ap",
+      "prefix": "1fKDXYIXB8ap",
+      "event_name": "ED Single Day 40K Event Series January 2026",
+      "date": "2026-01-18",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 14,
+      "max_points": 60,
+      "points": 32.143,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "5RSqsPO0geXN",
+      "prefix": "5RSqsPO0geXN",
+      "event_name": "Dragonsreach Warhammer 40k GT",
+      "date": "2026-01-10",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 5,
+      "placing": 5,
+      "max_points": 100,
+      "points": 87.5,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 53
+}

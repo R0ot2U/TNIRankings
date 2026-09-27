@@ -1,0 +1,63 @@
+{
+  "user_id": "M68UK1NNGE",
+  "player_name": "Alex Cowan",
+  "total_points": 91.793,
+  "events_played": 3,
+  "best_finish": 4,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Adepta Sororitas",
+  "team": "Maghera Wargaming",
+  "events": [
+    {
+      "event_id": "nXJFqAguUQDp",
+      "prefix": "nXJFqAguUQDp",
+      "event_name": "The MagherWaagh!",
+      "date": "2026-06-13",
+      "region": "NI",
+      "field_size": 14,
+      "rounds": 3,
+      "placing": 4,
+      "max_points": 48,
+      "points": 37.714,
+      "faction": "Adepta Sororitas",
+      "team": "Maghera Wargaming",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 40,
+      "max_points": 100,
+      "points": 31.579,
+      "faction": "Adepta Sororitas",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "XRUv6LmE4wQW",
+      "prefix": "XRUv6LmE4wQW",
+      "event_name": "Warpgale 2",
+      "date": "2026-01-04",
+      "region": "NI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 16,
+      "max_points": 60,
+      "points": 22.5,
+      "faction": "Adeptus Mechanicus",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 141
+}

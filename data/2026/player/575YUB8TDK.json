@@ -1,0 +1,31 @@
+{
+  "user_id": "575YUB8TDK",
+  "player_name": "Cinnamon Sandman",
+  "total_points": 19.286,
+  "events_played": 1,
+  "best_finish": 20,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Chaos Daemons",
+  "team": null,
+  "events": [
+    {
+      "event_id": "1fKDXYIXB8ap",
+      "prefix": "1fKDXYIXB8ap",
+      "event_name": "ED Single Day 40K Event Series January 2026",
+      "date": "2026-01-18",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 20,
+      "max_points": 60,
+      "points": 19.286,
+      "faction": "Chaos Daemons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 342
+}

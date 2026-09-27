@@ -1,0 +1,31 @@
+{
+  "user_id": "KPrfFGz1Otfz",
+  "player_name": "Conor Hawkins",
+  "total_points": 24.49,
+  "events_played": 1,
+  "best_finish": 75,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Death Guard",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 75,
+      "max_points": 100,
+      "points": 24.49,
+      "faction": "Death Guard",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 324
+}

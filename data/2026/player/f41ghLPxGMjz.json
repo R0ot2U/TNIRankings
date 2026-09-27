@@ -1,0 +1,31 @@
+{
+  "user_id": "f41ghLPxGMjz",
+  "player_name": "Ryan Killeen",
+  "total_points": 1.02,
+  "events_played": 1,
+  "best_finish": 98,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Adepta Sororitas",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 98,
+      "max_points": 100,
+      "points": 1.02,
+      "faction": "Adepta Sororitas",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 434
+}

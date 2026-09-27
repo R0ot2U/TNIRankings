@@ -1,0 +1,31 @@
+{
+  "user_id": "UMD5xDqzSG7s",
+  "player_name": "Rory Conniffe",
+  "total_points": 17.143,
+  "events_played": 1,
+  "best_finish": 21,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Space Wolves",
+  "team": "Exploding Dice",
+  "events": [
+    {
+      "event_id": "1fKDXYIXB8ap",
+      "prefix": "1fKDXYIXB8ap",
+      "event_name": "ED Single Day 40K Event Series January 2026",
+      "date": "2026-01-18",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 21,
+      "max_points": 60,
+      "points": 17.143,
+      "faction": "Space Wolves",
+      "team": "Exploding Dice",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 354
+}

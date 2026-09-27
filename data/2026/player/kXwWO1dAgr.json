@@ -1,0 +1,31 @@
+{
+  "user_id": "kXwWO1dAgr",
+  "player_name": "Jarlath Moloney",
+  "total_points": 31.633,
+  "events_played": 1,
+  "best_finish": 68,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Necrons",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 68,
+      "max_points": 100,
+      "points": 31.633,
+      "faction": "Necrons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 289
+}

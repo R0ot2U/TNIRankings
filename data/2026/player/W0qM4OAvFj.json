@@ -1,0 +1,31 @@
+{
+  "user_id": "W0qM4OAvFj",
+  "player_name": "Simon Morley",
+  "total_points": 45.614,
+  "events_played": 1,
+  "best_finish": 32,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Genestealer Cult",
+  "team": "Team LolSheep",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 32,
+      "max_points": 100,
+      "points": 45.614,
+      "faction": "Genestealer Cult",
+      "team": "Team LolSheep",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 239
+}

@@ -1,0 +1,31 @@
+{
+  "user_id": "BJI7ikUiyC9M",
+  "player_name": "Jan O Longphuirt",
+  "total_points": 2.632,
+  "events_played": 1,
+  "best_finish": 38,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Imperial Knights",
+  "team": null,
+  "events": [
+    {
+      "event_id": "59xtuz3YSFYA",
+      "prefix": "dearg_doom_vii_59xtuz3YSFYA",
+      "event_name": "Dearg Doom VII",
+      "date": "2026-05-23",
+      "region": "ROI",
+      "field_size": 38,
+      "rounds": 5,
+      "placing": 38,
+      "max_points": 100,
+      "points": 2.632,
+      "faction": "Imperial Knights",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 424
+}

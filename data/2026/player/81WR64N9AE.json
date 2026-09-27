@@ -1,0 +1,31 @@
+{
+  "user_id": "81WR64N9AE",
+  "player_name": "Chris Sloane",
+  "total_points": 61.404,
+  "events_played": 1,
+  "best_finish": 23,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Emperor's Children",
+  "team": "The Tactical Titans ",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 23,
+      "max_points": 100,
+      "points": 61.404,
+      "faction": "Emperor's Children",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 196
+}

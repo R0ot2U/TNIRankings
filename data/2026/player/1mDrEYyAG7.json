@@ -1,0 +1,47 @@
+{
+  "user_id": "1mDrEYyAG7",
+  "player_name": "michael byrne",
+  "total_points": 109.725,
+  "events_played": 2,
+  "best_finish": 13,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Necrons",
+  "team": "The boys are back in town",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 15,
+      "max_points": 100,
+      "points": 75.439,
+      "faction": "Necrons",
+      "team": "The boys are back in town",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "1fKDXYIXB8ap",
+      "prefix": "1fKDXYIXB8ap",
+      "event_name": "ED Single Day 40K Event Series January 2026",
+      "date": "2026-01-18",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 13,
+      "max_points": 60,
+      "points": 34.286,
+      "faction": "Necrons",
+      "team": "Catan do you have wood for my sheep?",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 119
+}

@@ -1,0 +1,31 @@
+{
+  "user_id": "xUzXb5XXQnyH",
+  "player_name": "Liam Dooley",
+  "total_points": 35.714,
+  "events_played": 1,
+  "best_finish": 64,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Chaos Space Marines",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 64,
+      "max_points": 100,
+      "points": 35.714,
+      "faction": "Chaos Space Marines",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 273
+}

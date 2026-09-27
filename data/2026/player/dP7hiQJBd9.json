@@ -1,0 +1,31 @@
+{
+  "user_id": "dP7hiQJBd9",
+  "player_name": "Mark Griffin",
+  "total_points": 72.5,
+  "events_played": 1,
+  "best_finish": 12,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Necrons",
+  "team": "Solar Wars",
+  "events": [
+    {
+      "event_id": "nxhZBtKK3mGF",
+      "prefix": "nxhZBtKK3mGF",
+      "event_name": "South East Siege 2: Attack of the Kin",
+      "date": "2026-02-28",
+      "region": "ROI",
+      "field_size": 40,
+      "rounds": 5,
+      "placing": 12,
+      "max_points": 100,
+      "points": 72.5,
+      "faction": "Necrons",
+      "team": "Solar Wars",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 174
+}

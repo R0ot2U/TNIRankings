@@ -1,0 +1,47 @@
+{
+  "user_id": "1KQW6F7QGB",
+  "player_name": "Dec Winser",
+  "total_points": 57.0,
+  "events_played": 2,
+  "best_finish": 6,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Imperial Knights",
+  "team": null,
+  "events": [
+    {
+      "event_id": "nXJFqAguUQDp",
+      "prefix": "nXJFqAguUQDp",
+      "event_name": "The MagherWaagh!",
+      "date": "2026-06-13",
+      "region": "NI",
+      "field_size": 14,
+      "rounds": 3,
+      "placing": 8,
+      "max_points": 48,
+      "points": 24.0,
+      "faction": "Imperial Knights",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "78lO7npph1Rn",
+      "prefix": "78lO7npph1Rn",
+      "event_name": "ED Single Day 40K May 2026",
+      "date": "2026-05-23",
+      "region": "NI",
+      "field_size": 16,
+      "rounds": 3,
+      "placing": 6,
+      "max_points": 48,
+      "points": 33.0,
+      "faction": "Imperial Knights",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 210
+}

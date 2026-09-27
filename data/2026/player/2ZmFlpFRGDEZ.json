@@ -1,0 +1,31 @@
+{
+  "user_id": "2ZmFlpFRGDEZ",
+  "player_name": "Dean Johnston",
+  "total_points": 27.0,
+  "events_played": 1,
+  "best_finish": 11,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Emperor's Children",
+  "team": null,
+  "events": [
+    {
+      "event_id": "TXU9YF7aiAIq",
+      "prefix": "TXU9YF7aiAIq",
+      "event_name": "Wicklow Waaagh Presents Summahsmash",
+      "date": "2026-06-27",
+      "region": "ROI",
+      "field_size": 20,
+      "rounds": 4,
+      "placing": 11,
+      "max_points": 54,
+      "points": 27.0,
+      "faction": "Emperor's Children",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 309
+}

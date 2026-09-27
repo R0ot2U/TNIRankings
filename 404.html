@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script>
+// GitHub Pages has no server-side rewriting, so /player/<userId> 404s here.
+// Detect that pattern and redirect to player.html with the id as a query param
+// (preserving any existing query string, e.g. ?year=2026). Anything else falls
+// through to the normal 404 page below.
+(function () {
+  var parts = location.pathname.split('/').filter(Boolean);
+  var i = parts.indexOf('player');
+  if (i !== -1 && parts.length >= i + 2) {
+    var base = parts.slice(0, i).join('/');
+    var extra = location.search ? '&' + location.search.slice(1) : '';
+    var target = (base ? '/' + base : '') + '/player.html?uid=' + encodeURIComponent(parts[i + 1]) + extra;
+    location.replace(target);
+  }
+})();
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page Not Found — TNIRankings</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+
+<header>
+  <a class="site-logo" href="index.html">TNIRankings</a>
+  <span class="spacer"></span>
+  <a class="nav-link" href="index.html">Rankings</a>
+  <a class="nav-link" href="events.html">Events</a>
+  <a class="nav-link" href="about.html">About</a>
+</header>
+
+<main style="display:flex;align-items:center;justify-content:center;min-height:60vh;">
+  <div style="text-align:center;padding:40px;">
+    <div style="font-size:4rem;margin-bottom:16px;">404</div>
+    <h2 style="color:var(--accent);margin:0 0 12px;">Page not found</h2>
+    <p style="color:var(--dim);margin:0 0 24px;">The page you're looking for doesn't exist or has been moved.</p>
+    <a class="btn active" href="index.html" style="text-decoration:none;display:inline-block;">Back to Rankings</a>
+  </div>
+</main>
+
+</body>
+</html>

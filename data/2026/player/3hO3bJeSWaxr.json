@@ -1,0 +1,47 @@
+{
+  "user_id": "3hO3bJeSWaxr",
+  "player_name": "David Pentland",
+  "total_points": 59.571,
+  "events_played": 2,
+  "best_finish": 5,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Necrons",
+  "team": null,
+  "events": [
+    {
+      "event_id": "78lO7npph1Rn",
+      "prefix": "78lO7npph1Rn",
+      "event_name": "ED Single Day 40K May 2026",
+      "date": "2026-05-23",
+      "region": "NI",
+      "field_size": 16,
+      "rounds": 3,
+      "placing": 5,
+      "max_points": 48,
+      "points": 36.0,
+      "faction": "Necrons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "NxXFuKF8loah",
+      "prefix": "NxXFuKF8loah",
+      "event_name": "ED Single Day 40K Event Series March 2026",
+      "date": "2026-03-28",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 18,
+      "max_points": 60,
+      "points": 23.571,
+      "faction": "Necrons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 202
+}

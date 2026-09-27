@@ -1,0 +1,31 @@
+{
+  "user_id": "XWPHDE0RG6",
+  "player_name": "Chris Tyndall",
+  "total_points": 2.632,
+  "events_played": 1,
+  "best_finish": 38,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Astra Militarum",
+  "team": "Waterford Tabletop Gaming Community",
+  "events": [
+    {
+      "event_id": "O8UKh3nHs1Fs",
+      "prefix": "south_east_siege_iii__revenge_of_the_anhrathe_O8UKh3nHs1Fs",
+      "event_name": "South East Siege III: Revenge of the Anhrathe",
+      "date": "2026-08-22",
+      "region": "ROI",
+      "field_size": 38,
+      "rounds": 5,
+      "placing": 38,
+      "max_points": 100,
+      "points": 2.632,
+      "faction": "Astra Militarum",
+      "team": "Waterford Tabletop Gaming Community",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 424
+}

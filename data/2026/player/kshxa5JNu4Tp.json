@@ -1,0 +1,31 @@
+{
+  "user_id": "kshxa5JNu4Tp",
+  "player_name": "Kimberly O'Neill",
+  "total_points": 11.111,
+  "events_played": 1,
+  "best_finish": 33,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "T'au Empire",
+  "team": null,
+  "events": [
+    {
+      "event_id": "VszBd0tEIxjq",
+      "prefix": "call_to_chaos_v_-_call_to_chaos-ier_VszBd0tEIxjq",
+      "event_name": "Call to Chaos V - Call To Chaos-ier",
+      "date": "2026-05-16",
+      "region": "ROI",
+      "field_size": 36,
+      "rounds": 5,
+      "placing": 33,
+      "max_points": 100,
+      "points": 11.111,
+      "faction": "T'au Empire",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 375
+}

@@ -1,0 +1,31 @@
+{
+  "user_id": "chiNiXBnDItZ",
+  "player_name": "Jason  Martin",
+  "total_points": 2.5,
+  "events_played": 1,
+  "best_finish": 24,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Astra Militarum",
+  "team": null,
+  "events": [
+    {
+      "event_id": "XRUv6LmE4wQW",
+      "prefix": "XRUv6LmE4wQW",
+      "event_name": "Warpgale 2",
+      "date": "2026-01-04",
+      "region": "NI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 24,
+      "max_points": 60,
+      "points": 2.5,
+      "faction": "Astra Militarum",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 426
+}

@@ -1,0 +1,47 @@
+{
+  "user_id": "WWc1sxEpPWVj",
+  "player_name": "Daryl Moore",
+  "total_points": 145.559,
+  "events_played": 2,
+  "best_finish": 10,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Chaos Space Marines",
+  "team": "Carrickfergus Warhammer Gaming Club",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 16,
+      "max_points": 100,
+      "points": 73.684,
+      "faction": "Chaos Space Marines",
+      "team": "Carrickfergus Warhammer Gaming Club",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "5RSqsPO0geXN",
+      "prefix": "5RSqsPO0geXN",
+      "event_name": "Dragonsreach Warhammer 40k GT",
+      "date": "2026-01-10",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 5,
+      "placing": 10,
+      "max_points": 100,
+      "points": 71.875,
+      "faction": "Chaos Space Marines",
+      "team": "Carrickfergus Warhammer Gaming Club",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 76
+}

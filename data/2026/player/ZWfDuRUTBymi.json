@@ -1,0 +1,31 @@
+{
+  "user_id": "ZWfDuRUTBymi",
+  "player_name": "Derek Dagg",
+  "total_points": 28.125,
+  "events_played": 1,
+  "best_finish": 24,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Thousand Sons",
+  "team": "Lurgan Lads",
+  "events": [
+    {
+      "event_id": "5RSqsPO0geXN",
+      "prefix": "5RSqsPO0geXN",
+      "event_name": "Dragonsreach Warhammer 40k GT",
+      "date": "2026-01-10",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 5,
+      "placing": 24,
+      "max_points": 100,
+      "points": 28.125,
+      "faction": "Thousand Sons",
+      "team": "Lurgan Lads",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 300
+}

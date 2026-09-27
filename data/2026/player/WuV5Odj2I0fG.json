@@ -1,0 +1,31 @@
+{
+  "user_id": "WuV5Odj2I0fG",
+  "player_name": "Sam Malone",
+  "total_points": 33.673,
+  "events_played": 1,
+  "best_finish": 66,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Necrons",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 66,
+      "max_points": 100,
+      "points": 33.673,
+      "faction": "Necrons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 279
+}

@@ -1,0 +1,31 @@
+{
+  "user_id": "fPS2lmiavovj",
+  "player_name": "Steve Woolley",
+  "total_points": 27.429,
+  "events_played": 1,
+  "best_finish": 7,
+  "regions": [
+    "NI"
+  ],
+  "faction": "World Eaters",
+  "team": "Maghera Wargaming",
+  "events": [
+    {
+      "event_id": "nXJFqAguUQDp",
+      "prefix": "nXJFqAguUQDp",
+      "event_name": "The MagherWaagh!",
+      "date": "2026-06-13",
+      "region": "NI",
+      "field_size": 14,
+      "rounds": 3,
+      "placing": 7,
+      "max_points": 48,
+      "points": 27.429,
+      "faction": "World Eaters",
+      "team": "Maghera Wargaming",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 308
+}

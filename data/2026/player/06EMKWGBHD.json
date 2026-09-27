@@ -1,0 +1,47 @@
+{
+  "user_id": "06EMKWGBHD",
+  "player_name": "Scott Nelson",
+  "total_points": 106.161,
+  "events_played": 2,
+  "best_finish": 10,
+  "regions": [
+    "NI"
+  ],
+  "faction": "T'au Empire",
+  "team": null,
+  "events": [
+    {
+      "event_id": "1PpZD9LRYLI6",
+      "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
+      "event_name": "Exploding Dice 40K GT 2026",
+      "date": "2026-08-29",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 5,
+      "placing": 10,
+      "max_points": 100,
+      "points": 71.875,
+      "faction": "T'au Empire",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "NxXFuKF8loah",
+      "prefix": "NxXFuKF8loah",
+      "event_name": "ED Single Day 40K Event Series March 2026",
+      "date": "2026-03-28",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 13,
+      "max_points": 60,
+      "points": 34.286,
+      "faction": "T'au Empire",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 122
+}

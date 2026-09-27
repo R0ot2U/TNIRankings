@@ -1,0 +1,31 @@
+{
+  "user_id": "vhJHc045GF",
+  "player_name": "John Ryan",
+  "total_points": 54.386,
+  "events_played": 1,
+  "best_finish": 27,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Blood Angels",
+  "team": "Team LolSheep",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 27,
+      "max_points": 100,
+      "points": 54.386,
+      "faction": "Blood Angels",
+      "team": "Team LolSheep",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 214
+}

@@ -1,0 +1,63 @@
+{
+  "user_id": "kvC6IcIL5A7u",
+  "player_name": "Sean Duggan",
+  "total_points": 114.321,
+  "events_played": 3,
+  "best_finish": 8,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Space Marines (Astartes)",
+  "team": "TLC",
+  "events": [
+    {
+      "event_id": "O8UKh3nHs1Fs",
+      "prefix": "south_east_siege_iii__revenge_of_the_anhrathe_O8UKh3nHs1Fs",
+      "event_name": "South East Siege III: Revenge of the Anhrathe",
+      "date": "2026-08-22",
+      "region": "ROI",
+      "field_size": 38,
+      "rounds": 5,
+      "placing": 13,
+      "max_points": 100,
+      "points": 68.421,
+      "faction": "Space Marines (Astartes)",
+      "team": "TLC",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "TXU9YF7aiAIq",
+      "prefix": "TXU9YF7aiAIq",
+      "event_name": "Wicklow Waaagh Presents Summahsmash",
+      "date": "2026-06-27",
+      "region": "ROI",
+      "field_size": 20,
+      "rounds": 4,
+      "placing": 8,
+      "max_points": 54,
+      "points": 35.1,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "zH2LSDIcyOmU",
+      "prefix": "zH2LSDIcyOmU",
+      "event_name": "Underworld Gaming: Galaxy Purge WH40K",
+      "date": "2026-03-22",
+      "region": "ROI",
+      "field_size": 20,
+      "rounds": 3,
+      "placing": 17,
+      "max_points": 54,
+      "points": 10.8,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 110
+}

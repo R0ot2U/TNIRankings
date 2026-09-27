@@ -1,0 +1,31 @@
+{
+  "user_id": "soffgGlDC4S3",
+  "player_name": "David McComiskey",
+  "total_points": 15.0,
+  "events_played": 1,
+  "best_finish": 22,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Chaos Space Marines",
+  "team": null,
+  "events": [
+    {
+      "event_id": "NxXFuKF8loah",
+      "prefix": "NxXFuKF8loah",
+      "event_name": "ED Single Day 40K Event Series March 2026",
+      "date": "2026-03-28",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 22,
+      "max_points": 60,
+      "points": 15.0,
+      "faction": "Chaos Space Marines",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 360
+}

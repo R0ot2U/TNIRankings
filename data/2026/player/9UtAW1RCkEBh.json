@@ -1,0 +1,31 @@
+{
+  "user_id": "9UtAW1RCkEBh",
+  "player_name": "Jonathan Wilson",
+  "total_points": 25.714,
+  "events_played": 1,
+  "best_finish": 17,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Death Guard",
+  "team": null,
+  "events": [
+    {
+      "event_id": "NxXFuKF8loah",
+      "prefix": "NxXFuKF8loah",
+      "event_name": "ED Single Day 40K Event Series March 2026",
+      "date": "2026-03-28",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 17,
+      "max_points": 60,
+      "points": 25.714,
+      "faction": "Death Guard",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 315
+}

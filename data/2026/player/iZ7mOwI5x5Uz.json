@@ -1,0 +1,47 @@
+{
+  "user_id": "iZ7mOwI5x5Uz",
+  "player_name": "David McAllister",
+  "total_points": 62.143,
+  "events_played": 2,
+  "best_finish": 2,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Chaos Space Marines",
+  "team": "The Grimsy Boys",
+  "events": [
+    {
+      "event_id": "78lO7npph1Rn",
+      "prefix": "78lO7npph1Rn",
+      "event_name": "ED Single Day 40K May 2026",
+      "date": "2026-05-23",
+      "region": "NI",
+      "field_size": 16,
+      "rounds": 3,
+      "placing": 2,
+      "max_points": 48,
+      "points": 45.0,
+      "faction": "Chaos Space Marines",
+      "team": "The Grimsy Boys",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "NxXFuKF8loah",
+      "prefix": "NxXFuKF8loah",
+      "event_name": "ED Single Day 40K Event Series March 2026",
+      "date": "2026-03-28",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 21,
+      "max_points": 60,
+      "points": 17.143,
+      "faction": "Black Templars",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 194
+}

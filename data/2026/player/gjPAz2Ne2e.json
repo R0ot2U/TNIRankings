@@ -1,0 +1,47 @@
+{
+  "user_id": "gjPAz2Ne2e",
+  "player_name": "Jonathan Cassidy",
+  "total_points": 18.537,
+  "events_played": 2,
+  "best_finish": 34,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Tyranids",
+  "team": null,
+  "events": [
+    {
+      "event_id": "VszBd0tEIxjq",
+      "prefix": "call_to_chaos_v_-_call_to_chaos-ier_VszBd0tEIxjq",
+      "event_name": "Call to Chaos V - Call To Chaos-ier",
+      "date": "2026-05-16",
+      "region": "ROI",
+      "field_size": 36,
+      "rounds": 5,
+      "placing": 34,
+      "max_points": 100,
+      "points": 8.333,
+      "faction": "Tyranids",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 89,
+      "max_points": 100,
+      "points": 10.204,
+      "faction": "Chaos Space Marines",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 348
+}

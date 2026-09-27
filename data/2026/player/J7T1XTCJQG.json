@@ -1,0 +1,47 @@
+{
+  "user_id": "J7T1XTCJQG",
+  "player_name": "Casey keenan",
+  "total_points": 147.982,
+  "events_played": 2,
+  "best_finish": 3,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Space Marines (Astartes)",
+  "team": "The Tactical Titans ",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 5,
+      "max_points": 100,
+      "points": 92.982,
+      "faction": "Space Marines (Astartes)",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "XRUv6LmE4wQW",
+      "prefix": "XRUv6LmE4wQW",
+      "event_name": "Warpgale 2",
+      "date": "2026-01-04",
+      "region": "NI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 3,
+      "max_points": 60,
+      "points": 55.0,
+      "faction": "Adeptus Custodes",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 74
+}

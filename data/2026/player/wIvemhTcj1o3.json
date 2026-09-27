@@ -1,0 +1,63 @@
+{
+  "user_id": "wIvemhTcj1o3",
+  "player_name": "Elly Carpenter",
+  "total_points": 109.733,
+  "events_played": 3,
+  "best_finish": 11,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Chaos Daemons",
+  "team": "QUB Dragonslayers ",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 21,
+      "max_points": 100,
+      "points": 64.912,
+      "faction": "Chaos Daemons",
+      "team": "QUB Dragonslayers ",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "1fKDXYIXB8ap",
+      "prefix": "1fKDXYIXB8ap",
+      "event_name": "ED Single Day 40K Event Series January 2026",
+      "date": "2026-01-18",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 11,
+      "max_points": 60,
+      "points": 38.571,
+      "faction": "Emperor's Children",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "5RSqsPO0geXN",
+      "prefix": "5RSqsPO0geXN",
+      "event_name": "Dragonsreach Warhammer 40k GT",
+      "date": "2026-01-10",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 5,
+      "placing": 31,
+      "max_points": 100,
+      "points": 6.25,
+      "faction": "Emperor's Children",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 118
+}

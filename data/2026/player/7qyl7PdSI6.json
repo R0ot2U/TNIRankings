@@ -1,0 +1,31 @@
+{
+  "user_id": "7qyl7PdSI6",
+  "player_name": "Eoin Browne",
+  "total_points": 97.959,
+  "events_played": 1,
+  "best_finish": 3,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Thousand Sons",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 3,
+      "max_points": 100,
+      "points": 97.959,
+      "faction": "Thousand Sons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 131
+}

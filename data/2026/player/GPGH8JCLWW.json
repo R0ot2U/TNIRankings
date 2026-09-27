@@ -1,0 +1,31 @@
+{
+  "user_id": "GPGH8JCLWW",
+  "player_name": "james commins",
+  "total_points": 5.4,
+  "events_played": 1,
+  "best_finish": 19,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Orks",
+  "team": null,
+  "events": [
+    {
+      "event_id": "ZtjILkd4ciOc",
+      "prefix": "ZtjILkd4ciOc",
+      "event_name": "Galaxy Purge 2k Warhammer 40k",
+      "date": "2026-08-23",
+      "region": "ROI",
+      "field_size": 20,
+      "rounds": 3,
+      "placing": 19,
+      "max_points": 54,
+      "points": 5.4,
+      "faction": "Orks",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 402
+}

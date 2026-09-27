@@ -1,0 +1,31 @@
+{
+  "user_id": "nXi632w5jgf0",
+  "player_name": "Cameron Bates",
+  "total_points": 31.25,
+  "events_played": 1,
+  "best_finish": 23,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Space Marines (Astartes)",
+  "team": null,
+  "events": [
+    {
+      "event_id": "5RSqsPO0geXN",
+      "prefix": "5RSqsPO0geXN",
+      "event_name": "Dragonsreach Warhammer 40k GT",
+      "date": "2026-01-10",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 5,
+      "placing": 23,
+      "max_points": 100,
+      "points": 31.25,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 291
+}

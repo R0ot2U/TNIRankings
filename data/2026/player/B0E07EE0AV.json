@@ -1,0 +1,31 @@
+{
+  "user_id": "B0E07EE0AV",
+  "player_name": "Rob O'Driscoll",
+  "total_points": 15.789,
+  "events_played": 1,
+  "best_finish": 33,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Space Wolves",
+  "team": null,
+  "events": [
+    {
+      "event_id": "59xtuz3YSFYA",
+      "prefix": "dearg_doom_vii_59xtuz3YSFYA",
+      "event_name": "Dearg Doom VII",
+      "date": "2026-05-23",
+      "region": "ROI",
+      "field_size": 38,
+      "rounds": 5,
+      "placing": 33,
+      "max_points": 100,
+      "points": 15.789,
+      "faction": "Space Wolves",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 357
+}

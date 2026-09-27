@@ -1,0 +1,31 @@
+{
+  "user_id": "K26KnT9F9A",
+  "player_name": "Adam Potts",
+  "total_points": 64.286,
+  "events_played": 1,
+  "best_finish": 36,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Necrons",
+  "team": null,
+  "events": [
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 36,
+      "max_points": 100,
+      "points": 64.286,
+      "faction": "Necrons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 190
+}

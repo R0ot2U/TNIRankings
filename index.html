@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rankings — TNIRankings</title>
+<meta name="description" content="Warhammer 40,000 player rankings for tournaments held in Ireland and Northern Ireland.">
+<meta property="og:title" content="TNIRankings — Ireland & Northern Ireland 40k Rankings">
+<meta property="og:description" content="Yearly competitive player rankings from Ireland & Northern Ireland tournaments.">
+<meta property="og:type" content="website">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+
+<header>
+  <a class="site-logo" href="index.html">TNIRankings</a>
+  <span class="subtitle" id="season-label"></span>
+  <span class="spacer"></span>
+  <a class="nav-link active" href="index.html">Rankings</a>
+  <a class="nav-link" href="events.html">Events</a>
+  <a class="nav-link" href="about.html">About</a>
+  <span class="meta-info" id="build-info"></span>
+</header>
+
+<main>
+  <div class="controls">
+    <input class="search-input" type="search" id="search" placeholder="Search player…" autocomplete="off">
+    <div class="btn-group" id="region-filter" role="group" aria-label="Region filter">
+      <button type="button" class="btn active" data-region="NI">NI</button>
+      <button type="button" class="btn" data-region="ROI">ROI</button>
+    </div>
+    <div class="btn-group" id="year-btns" role="group" aria-label="Season"></div>
+    <span id="row-count" style="color:var(--dim);font-size:0.8rem;margin-left:4px;"></span>
+  </div>
+
+  <div class="panel">
+    <div class="panel-title">Player Rankings
+      <span class="panel-note">(Ireland &amp; Northern Ireland · best 4 events · points per placing)</span></div>
+    <div class="table-wrap">
+      <table id="rankings-table">
+        <thead>
+          <tr>
+            <th title="Rank by total season points">#</th>
+            <th>Player</th>
+            <th title="Sum of best 4 event scores this season">Points</th>
+            <th title="Counting events played">Events</th>
+            <th title="Best final placing achieved">Best</th>
+            <th title="Regions competed in">Region</th>
+          </tr>
+        </thead>
+        <tbody id="rankings-tbody">
+          <tr><td colspan="6" class="loading">Loading data…</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</main>
+
+<footer id="site-footer"></footer>
+
+<script src="assets/app.js" defer></script>
+<script src="assets/rankings.js" defer></script>
+</body>
+</html>

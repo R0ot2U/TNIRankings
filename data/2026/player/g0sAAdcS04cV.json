@@ -1,0 +1,47 @@
+{
+  "user_id": "g0sAAdcS04cV",
+  "player_name": "Kieran Lynch",
+  "total_points": 140.023,
+  "events_played": 2,
+  "best_finish": 9,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Blood Angels",
+  "team": null,
+  "events": [
+    {
+      "event_id": "VszBd0tEIxjq",
+      "prefix": "call_to_chaos_v_-_call_to_chaos-ier_VszBd0tEIxjq",
+      "event_name": "Call to Chaos V - Call To Chaos-ier",
+      "date": "2026-05-16",
+      "region": "ROI",
+      "field_size": 36,
+      "rounds": 5,
+      "placing": 9,
+      "max_points": 100,
+      "points": 77.778,
+      "faction": "Blood Angels",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 38,
+      "max_points": 100,
+      "points": 62.245,
+      "faction": "Blood Angels",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 81
+}

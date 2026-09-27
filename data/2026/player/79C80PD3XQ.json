@@ -1,0 +1,47 @@
+{
+  "user_id": "79C80PD3XQ",
+  "player_name": "Brian Cunningham",
+  "total_points": 130.612,
+  "events_played": 2,
+  "best_finish": 20,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Imperial Knights",
+  "team": null,
+  "events": [
+    {
+      "event_id": "59xtuz3YSFYA",
+      "prefix": "dearg_doom_vii_59xtuz3YSFYA",
+      "event_name": "Dearg Doom VII",
+      "date": "2026-05-23",
+      "region": "ROI",
+      "field_size": 38,
+      "rounds": 5,
+      "placing": 20,
+      "max_points": 100,
+      "points": 50.0,
+      "faction": "Imperial Knights",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 20,
+      "max_points": 100,
+      "points": 80.612,
+      "faction": "Chaos Knights",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 89
+}

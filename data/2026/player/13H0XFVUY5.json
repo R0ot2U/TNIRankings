@@ -1,0 +1,31 @@
+{
+  "user_id": "13H0XFVUY5",
+  "player_name": "Harry McComb",
+  "total_points": 98.246,
+  "events_played": 1,
+  "best_finish": 2,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Necrons",
+  "team": "Sink",
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 2,
+      "max_points": 100,
+      "points": 98.246,
+      "faction": "Necrons",
+      "team": "Sink",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 130
+}

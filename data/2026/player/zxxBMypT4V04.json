@@ -1,0 +1,31 @@
+{
+  "user_id": "zxxBMypT4V04",
+  "player_name": "Kieran Sweeney",
+  "total_points": 13.714,
+  "events_played": 1,
+  "best_finish": 11,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Blood Angels",
+  "team": null,
+  "events": [
+    {
+      "event_id": "nXJFqAguUQDp",
+      "prefix": "nXJFqAguUQDp",
+      "event_name": "The MagherWaagh!",
+      "date": "2026-06-13",
+      "region": "NI",
+      "field_size": 14,
+      "rounds": 3,
+      "placing": 11,
+      "max_points": 48,
+      "points": 13.714,
+      "faction": "Blood Angels",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 366
+}

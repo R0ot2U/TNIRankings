@@ -1,0 +1,31 @@
+{
+  "user_id": "oiAjrjWyq19O",
+  "player_name": "Jp Abellana",
+  "total_points": 27.907,
+  "events_played": 1,
+  "best_finish": 32,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Adepta Sororitas",
+  "team": null,
+  "events": [
+    {
+      "event_id": "0bK8kCFpoBdA",
+      "prefix": "dearg_doom_vi__i_can_t_believe_its_not_cork_0bK8kCFpoBdA",
+      "event_name": "Dearg Doom VI: I can't believe its not Cork",
+      "date": "2026-04-25",
+      "region": "ROI",
+      "field_size": 43,
+      "rounds": 5,
+      "placing": 32,
+      "max_points": 100,
+      "points": 27.907,
+      "faction": "Adepta Sororitas",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 302
+}

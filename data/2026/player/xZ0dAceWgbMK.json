@@ -1,0 +1,47 @@
+{
+  "user_id": "xZ0dAceWgbMK",
+  "player_name": "Alex Coldrick",
+  "total_points": 91.52,
+  "events_played": 2,
+  "best_finish": 6,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Emperor's Children",
+  "team": "Le DOW",
+  "events": [
+    {
+      "event_id": "u2LuTC8Yr1bX",
+      "prefix": "u2LuTC8Yr1bX",
+      "event_name": "Underworld Gaming: Galaxy Purge",
+      "date": "2026-07-26",
+      "region": "ROI",
+      "field_size": 20,
+      "rounds": 3,
+      "placing": 6,
+      "max_points": 54,
+      "points": 40.5,
+      "faction": "Emperor's Children",
+      "team": "Le DOW",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "aMoYfY6J6Omo",
+      "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
+      "event_name": "Broadsword Wargaming 40K ITC Seasonal Major IX",
+      "date": "2026-03-21",
+      "region": "ROI",
+      "field_size": 98,
+      "rounds": 5,
+      "placing": 49,
+      "max_points": 100,
+      "points": 51.02,
+      "faction": "Emperor's Children",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 142
+}

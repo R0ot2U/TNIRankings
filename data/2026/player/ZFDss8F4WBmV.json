@@ -1,0 +1,47 @@
+{
+  "user_id": "ZFDss8F4WBmV",
+  "player_name": "Donnacha O Donoghue",
+  "total_points": 41.31,
+  "events_played": 2,
+  "best_finish": 18,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Blood Angels",
+  "team": null,
+  "events": [
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 49,
+      "max_points": 100,
+      "points": 23.81,
+      "faction": "Blood Angels",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "7j34USMqfVdA",
+      "prefix": "7j34USMqfVdA",
+      "event_name": "Sandbox RTT & 11th Edition Launch Celebration Group 1",
+      "date": "2026-07-18",
+      "region": "ROI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 18,
+      "max_points": 60,
+      "points": 17.5,
+      "faction": "Blood Angels",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 252
+}

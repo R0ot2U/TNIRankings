@@ -1,0 +1,31 @@
+{
+  "user_id": "kExmHEIEE0Fb",
+  "player_name": "Rory Barret",
+  "total_points": 40.0,
+  "events_played": 1,
+  "best_finish": 9,
+  "regions": [
+    "ROI"
+  ],
+  "faction": "Imperial Knights",
+  "team": null,
+  "events": [
+    {
+      "event_id": "maOzGLa6eEe0",
+      "prefix": "maOzGLa6eEe0",
+      "event_name": "Sandbox RTT & 11th Edition Launch Celebration Group 2",
+      "date": "2026-07-18",
+      "region": "ROI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 9,
+      "max_points": 60,
+      "points": 40.0,
+      "faction": "Imperial Knights",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 257
+}

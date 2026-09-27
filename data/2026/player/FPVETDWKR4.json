@@ -1,0 +1,31 @@
+{
+  "user_id": "FPVETDWKR4",
+  "player_name": "Matt Yarnold",
+  "total_points": 5.263,
+  "events_played": 1,
+  "best_finish": 55,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Death Guard",
+  "team": null,
+  "events": [
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 55,
+      "max_points": 100,
+      "points": 5.263,
+      "faction": "Death Guard",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 406
+}

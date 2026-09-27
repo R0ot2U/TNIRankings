@@ -1,0 +1,63 @@
+{
+  "user_id": "BJ3TMX419B",
+  "player_name": "Donal Phillips",
+  "total_points": 22.447,
+  "events_played": 3,
+  "best_finish": 14,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Aeldari",
+  "team": null,
+  "events": [
+    {
+      "event_id": "78lO7npph1Rn",
+      "prefix": "78lO7npph1Rn",
+      "event_name": "ED Single Day 40K May 2026",
+      "date": "2026-05-23",
+      "region": "NI",
+      "field_size": 16,
+      "rounds": 3,
+      "placing": 14,
+      "max_points": 48,
+      "points": 9.0,
+      "faction": "Aeldari",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "NxXFuKF8loah",
+      "prefix": "NxXFuKF8loah",
+      "event_name": "ED Single Day 40K Event Series March 2026",
+      "date": "2026-03-28",
+      "region": "NI",
+      "field_size": 28,
+      "rounds": 3,
+      "placing": 26,
+      "max_points": 60,
+      "points": 6.429,
+      "faction": "Aeldari",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "2K77Ck5lQLUE",
+      "prefix": "2K77Ck5lQLUE",
+      "event_name": "Frontal Assault",
+      "date": "2026-02-21",
+      "region": "NI",
+      "field_size": 57,
+      "rounds": 5,
+      "placing": 54,
+      "max_points": 100,
+      "points": 7.018,
+      "faction": "Aeldari",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 331
+}

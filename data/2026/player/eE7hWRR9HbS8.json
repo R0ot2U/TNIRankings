@@ -1,0 +1,31 @@
+{
+  "user_id": "eE7hWRR9HbS8",
+  "player_name": "Darren Leckey",
+  "total_points": 18.75,
+  "events_played": 1,
+  "best_finish": 27,
+  "regions": [
+    "NI"
+  ],
+  "faction": "Space Marines (Astartes)",
+  "team": null,
+  "events": [
+    {
+      "event_id": "1PpZD9LRYLI6",
+      "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
+      "event_name": "Exploding Dice 40K GT 2026",
+      "date": "2026-08-29",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 5,
+      "placing": 27,
+      "max_points": 100,
+      "points": 18.75,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "rank": 347
+}
