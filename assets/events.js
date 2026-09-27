@@ -45,7 +45,7 @@ function renderTable() {
   }
   tbody.innerHTML = data.map(e => `
     <tr>
-      <td style="color:var(--dim)" data-sort="${e.date || ""}">${fmtDate(e.date)}</td>
+      <td style="color:var(--dim)" data-sort="${e.date ? new Date(e.date).getTime() : 0}">${fmtDate(e.date)}</td>
       <td><a class="list-link" href="${BCP_EVENT(e.event_id)}" target="_blank" rel="noopener">${e.name || e.event_id}</a>${e.forced ? ' <span class="badge badge-yellow">override</span>' : ""}</td>
       <td>${regionBadge(e.region)}</td>
       <td data-sort="${e.field_size || 0}">${e.field_size ?? ""}</td>

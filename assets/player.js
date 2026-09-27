@@ -42,6 +42,18 @@ function updateRankDisplay(uid) {
   document.getElementById("player-rank-note").textContent = `(${filterLabel()})`;
 }
 
+// Directory containing player.html itself (works whether we're currently at
+// the real .../player.html or the rewritten pretty .../player/<uid> path).
+function siteBase() {
+  return location.pathname.replace(/\/(player\/[^/]*|player\.html)$/, "");
+}
+
+// Recomputed fresh each call against the live location.pathname, so it stays
+// correct both before and after the pretty-URL history.replaceState below.
+function backLinkHref(year) {
+  return `${siteBase()}/index.html?year=${year}`;
+}
+
 async function init() {
   const resolved = await resolveYear();
   const year = resolved.year;
@@ -49,7 +61,7 @@ async function init() {
   const content = document.getElementById("player-content");
 
   // Preserve the season on the back link.
-  document.getElementById("back-link").href = `index.html?year=${year}`;
+  document.getElementById("back-link").href = backLinkHref(year);
 
   if (!uid) {
     content.innerHTML = `<div class="empty">No player specified.</div>`;
@@ -70,9 +82,12 @@ async function init() {
 
   // Now normalise the address bar to the shareable pretty URL (cosmetic only).
   try {
-    const base = location.pathname.replace(/\/(player\/[^/]*|player\.html)$/, "");
-    history.replaceState(null, "", `${base}/player/${encodeURIComponent(uid)}?year=${year}`);
+    history.replaceState(null, "", `${siteBase()}/player/${encodeURIComponent(uid)}?year=${year}`);
   } catch (_) {}
+
+  // The address bar just gained an extra /player/<uid> path segment — the
+  // back link must be recomputed against it, or it resolves one level short.
+  document.getElementById("back-link").href = backLinkHref(year);
 
   document.title = `${p.player_name} — TNIRankings`;
   renderFooter(index);
@@ -114,7 +129,7 @@ async function init() {
           <tbody>
             ${events.map(ev => `
               <tr${ev.counts ? "" : ' style="opacity:.5" title="Not one of the best results this season — does not count toward the total"'}>
-                <td style="color:var(--dim)" data-sort="${ev.date || ""}">${fmtDate(ev.date)}</td>
+                <td style="color:var(--dim)" data-sort="${ev.date ? new Date(ev.date).getTime() : 0}">${fmtDate(ev.date)}</td>
                 <td><a class="list-link" href="${BCP_EVENT(ev.event_id)}" target="_blank" rel="noopener">${ev.event_name || ev.event_id}</a>${ev.forced ? ' <span class="badge badge-yellow">override</span>' : ""}</td>
                 <td>${regionBadge(ev.region)}</td>
                 <td>${ev.field_size ?? ""}</td>
