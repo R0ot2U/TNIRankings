@@ -1,6 +1,7 @@
 /* Rankings leaderboard page. */
 
 let rows = [];
+let events = [];
 let index = {};
 let year = null;
 let sortCol = 0;   // default: rank
@@ -22,11 +23,14 @@ async function init() {
       `<tr><td colspan="6" class="loading error-state">Failed to load ${year} rankings: ${e.message}</td></tr>`;
     return;
   }
+  try {
+    events = await fetchJSON(`data/${year}/events.json`);
+  } catch (_) {
+    events = [];
+  }
 
   document.getElementById("season-label").textContent =
     `${year} season · ${index.window ? index.window.start + " → " + index.window.end : ""}`;
-  document.getElementById("build-info").textContent =
-    `${index.total_players ?? rows.length} players · ${index.total_events ?? 0} events`;
 
   renderTable();
   renderFooter(index);
@@ -60,9 +64,21 @@ function filtered() {
   return sortedRows(withRanks(data));
 }
 
+// An event has a single region; a player can have several. So "match the
+// filter" is OR for events (any selected region) but AND for players
+// (regionMatches, used in filtered()) — selecting NI+ROI together still
+// counts every event (each is one or the other) while narrowing players to
+// those who competed in both.
+function filteredEventCount() {
+  if (!regionFilter.size) return events.length;
+  return events.filter(e => regionFilter.has(e.region)).length;
+}
+
 function renderTable() {
   const data = filtered();
   document.getElementById("row-count").textContent = `${data.length} players`;
+  document.getElementById("build-info").textContent =
+    `${data.length} players · ${filteredEventCount()} events`;
   const tbody = document.getElementById("rankings-tbody");
   if (!data.length) {
     tbody.innerHTML = `<tr><td colspan="6" class="empty">No players match.</td></tr>`;

@@ -21,8 +21,6 @@ async function init() {
   }
 
   document.getElementById("season-label").textContent = `${year} season`;
-  document.getElementById("build-info").textContent =
-    `${index.total_events ?? events.length} events · ${index.total_players ?? 0} players`;
 
   renderTable();
   renderFooter(index);
@@ -38,6 +36,8 @@ function renderTable() {
   data = [...data].sort((a, b) => (b.date || "").localeCompare(a.date || ""));
 
   document.getElementById("row-count").textContent = `${data.length} events`;
+  document.getElementById("build-info").textContent =
+    `${data.length} events · ${index.total_players ?? 0} players`;
   const tbody = document.getElementById("events-tbody");
   if (!data.length) {
     tbody.innerHTML = `<tr><td colspan="6" class="empty">No events match.</td></tr>`;
