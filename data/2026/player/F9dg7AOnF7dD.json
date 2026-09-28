@@ -2,14 +2,30 @@
   "user_id": "F9dg7AOnF7dD",
   "player_name": "David Anderson",
   "total_points": 133.44,
-  "events_played": 8,
+  "events_played": 9,
   "best_finish": 13,
   "regions": [
     "NI",
     "ROI"
   ],
-  "team": "Kill Team Grox",
+  "team": null,
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 30,
+      "max_points": 60,
+      "points": 5.625,
+      "faction": "Orks",
+      "team": null,
+      "forced": false,
+      "counts": false
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -142,9 +158,9 @@
   "faction_points": [
     {
       "faction": "Orks",
-      "points": 172.94,
-      "events_played": 8
+      "points": 178.565,
+      "events_played": 9
     }
   ],
-  "rank": 82
+  "rank": 85
 }

@@ -1,14 +1,30 @@
 {
   "user_id": "EwNWT3oVKo",
   "player_name": "Ross McCarroll",
-  "total_points": 168.822,
-  "events_played": 3,
-  "best_finish": 9,
+  "total_points": 225.072,
+  "events_played": 4,
+  "best_finish": 3,
   "regions": [
     "NI"
   ],
   "team": "Northern Wasters",
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 3,
+      "max_points": 60,
+      "points": 56.25,
+      "faction": "Thousand Sons",
+      "team": "Northern Wasters",
+      "forced": false,
+      "counts": true
+    },
     {
       "event_id": "NxXFuKF8loah",
       "prefix": "NxXFuKF8loah",
@@ -66,9 +82,9 @@
     },
     {
       "faction": "Thousand Sons",
-      "points": 42.857,
-      "events_played": 1
+      "points": 99.107,
+      "events_played": 2
     }
   ],
-  "rank": 58
+  "rank": 33
 }

@@ -1,8 +1,8 @@
 {
   "user_id": "PB8CBE84P1",
   "player_name": "Haydn Dempster",
-  "total_points": 305.96,
-  "events_played": 6,
+  "total_points": 306.228,
+  "events_played": 7,
   "best_finish": 1,
   "regions": [
     "NI",
@@ -10,6 +10,22 @@
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 2,
+      "max_points": 60,
+      "points": 58.125,
+      "faction": "Adeptus Custodes",
+      "team": "Sink",
+      "forced": false,
+      "counts": true
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -104,7 +120,7 @@
       "faction": "Drukhari",
       "team": "Sink",
       "forced": false,
-      "counts": true
+      "counts": false
     }
   ],
   "faction_points": [
@@ -117,6 +133,11 @@
       "faction": "Chaos Daemons",
       "points": 133.034,
       "events_played": 2
+    },
+    {
+      "faction": "Adeptus Custodes",
+      "points": 58.125,
+      "events_played": 1
     },
     {
       "faction": "Drukhari",

@@ -2,13 +2,29 @@
   "user_id": "2F3738HURV",
   "player_name": "John Haycock",
   "total_points": 217.689,
-  "events_played": 5,
+  "events_played": 6,
   "best_finish": 3,
   "regions": [
     "NI"
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 13,
+      "max_points": 60,
+      "points": 37.5,
+      "faction": "Leagues of Votann",
+      "team": "Sink",
+      "forced": false,
+      "counts": false
+    },
     {
       "event_id": "ChZP41nemm16",
       "prefix": "wtc_warmaster_gt_2026_ChZP41nemm16",
@@ -93,8 +109,8 @@
   "faction_points": [
     {
       "faction": "Leagues of Votann",
-      "points": 108.346,
-      "events_played": 2
+      "points": 145.846,
+      "events_played": 3
     },
     {
       "faction": "Genestealer Cult",
@@ -107,5 +123,5 @@
       "events_played": 1
     }
   ],
-  "rank": 36
+  "rank": 37
 }

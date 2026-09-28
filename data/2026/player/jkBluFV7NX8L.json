@@ -1,0 +1,37 @@
+{
+  "user_id": "jkBluFV7NX8L",
+  "player_name": "Sam Muir",
+  "total_points": 20.625,
+  "events_played": 1,
+  "best_finish": 22,
+  "regions": [
+    "NI"
+  ],
+  "team": "Carrickfergus Warhammer Gaming Club",
+  "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 22,
+      "max_points": 60,
+      "points": 20.625,
+      "faction": "Orks",
+      "team": "Carrickfergus Warhammer Gaming Club",
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 20.625,
+      "events_played": 1
+    }
+  ],
+  "rank": 339
+}

@@ -1,14 +1,30 @@
 {
   "user_id": "NQT9V1B375",
   "player_name": "Peter Bond",
-  "total_points": 4.286,
-  "events_played": 1,
+  "total_points": 6.161,
+  "events_played": 2,
   "best_finish": 27,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 32,
+      "max_points": 60,
+      "points": 1.875,
+      "faction": "Astra Militarum",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
     {
       "event_id": "NxXFuKF8loah",
       "prefix": "NxXFuKF8loah",
@@ -29,9 +45,9 @@
   "faction_points": [
     {
       "faction": "Astra Militarum",
-      "points": 4.286,
-      "events_played": 1
+      "points": 6.161,
+      "events_played": 2
     }
   ],
-  "rank": 408
+  "rank": 403
 }

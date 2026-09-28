@@ -1,14 +1,30 @@
 {
   "user_id": "iZ7mOwI5x5Uz",
   "player_name": "David McAllister",
-  "total_points": 62.143,
-  "events_played": 2,
+  "total_points": 77.143,
+  "events_played": 3,
   "best_finish": 2,
   "regions": [
     "NI"
   ],
   "team": "The Grimsy Boys",
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 25,
+      "max_points": 60,
+      "points": 15.0,
+      "faction": "Black Templars",
+      "team": "The Grimsy Boys",
+      "forced": false,
+      "counts": true
+    },
     {
       "event_id": "78lO7npph1Rn",
       "prefix": "78lO7npph1Rn",
@@ -50,9 +66,9 @@
     },
     {
       "faction": "Black Templars",
-      "points": 17.143,
-      "events_played": 1
+      "points": 32.143,
+      "events_played": 2
     }
   ],
-  "rank": 189
+  "rank": 166
 }

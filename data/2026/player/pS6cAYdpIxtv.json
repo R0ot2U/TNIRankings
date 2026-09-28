@@ -1,14 +1,30 @@
 {
   "user_id": "pS6cAYdpIxtv",
   "player_name": "Lewis McCollough",
-  "total_points": 236.98,
-  "events_played": 6,
+  "total_points": 254.875,
+  "events_played": 7,
   "best_finish": 1,
   "regions": [
     "NI"
   ],
-  "team": "War Shed",
+  "team": "Carrickfergus Warhammer Gaming Club",
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 1,
+      "max_points": 60,
+      "points": 60.0,
+      "faction": "Orks",
+      "team": "Carrickfergus Warhammer Gaming Club",
+      "forced": false,
+      "counts": true
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -87,7 +103,7 @@
       "faction": "Orks",
       "team": "Carrickfergus Warhammer Gaming Club",
       "forced": false,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "5RSqsPO0geXN",
@@ -109,9 +125,9 @@
   "faction_points": [
     {
       "faction": "Orks",
-      "points": 296.746,
-      "events_played": 6
+      "points": 356.746,
+      "events_played": 7
     }
   ],
-  "rank": 27
+  "rank": 24
 }

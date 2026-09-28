@@ -1,14 +1,30 @@
 {
   "user_id": "6MVfOMCEh04x",
   "player_name": "Conor Teer",
-  "total_points": 90.625,
-  "events_played": 1,
+  "total_points": 135.625,
+  "events_played": 2,
   "best_finish": 4,
   "regions": [
     "NI"
   ],
   "team": "Exploding Dice",
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 9,
+      "max_points": 60,
+      "points": 45.0,
+      "faction": "World Eaters",
+      "team": "Exploding Dice",
+      "forced": false,
+      "counts": true
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -29,9 +45,9 @@
   "faction_points": [
     {
       "faction": "World Eaters",
-      "points": 90.625,
-      "events_played": 1
+      "points": 135.625,
+      "events_played": 2
     }
   ],
-  "rank": 139
+  "rank": 80
 }

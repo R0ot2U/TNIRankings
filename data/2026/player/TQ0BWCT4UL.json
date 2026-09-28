@@ -1,8 +1,8 @@
 {
   "user_id": "TQ0BWCT4UL",
   "player_name": "Ryan Ormandy",
-  "total_points": 64.097,
-  "events_played": 3,
+  "total_points": 75.347,
+  "events_played": 4,
   "best_finish": 20,
   "regions": [
     "NI",
@@ -10,6 +10,22 @@
   ],
   "team": "The Tactical Titans ",
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 27,
+      "max_points": 60,
+      "points": 11.25,
+      "faction": "Tyranids",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "counts": true
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -62,8 +78,8 @@
   "faction_points": [
     {
       "faction": "Tyranids",
-      "points": 54.722,
-      "events_played": 2
+      "points": 65.972,
+      "events_played": 3
     },
     {
       "faction": "Forces of the Hive Mind",
@@ -71,5 +87,5 @@
       "events_played": 1
     }
   ],
-  "rank": 186
+  "rank": 170
 }

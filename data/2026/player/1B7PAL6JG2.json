@@ -1,0 +1,37 @@
+{
+  "user_id": "1B7PAL6JG2",
+  "player_name": "Isaac Mclarnon",
+  "total_points": 3.75,
+  "events_played": 1,
+  "best_finish": 31,
+  "regions": [
+    "NI"
+  ],
+  "team": null,
+  "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 31,
+      "max_points": 60,
+      "points": 3.75,
+      "faction": "Chaos Daemons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    }
+  ],
+  "faction_points": [
+    {
+      "faction": "Chaos Daemons",
+      "points": 3.75,
+      "events_played": 1
+    }
+  ],
+  "rank": 418
+}

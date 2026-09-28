@@ -2,13 +2,29 @@
   "user_id": "QM9BQMN892",
   "player_name": "Aoife Kerins",
   "total_points": 185.652,
-  "events_played": 6,
+  "events_played": 7,
   "best_finish": 6,
   "regions": [
     "NI"
   ],
   "team": "QUB Dragonslayers ",
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 21,
+      "max_points": 60,
+      "points": 22.5,
+      "faction": "Adeptus Mechanicus",
+      "team": "QUB Dragonslayers ",
+      "forced": false,
+      "counts": false
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -118,10 +134,15 @@
       "events_played": 1
     },
     {
+      "faction": "Adeptus Mechanicus",
+      "points": 22.5,
+      "events_played": 1
+    },
+    {
       "faction": "Chaos Space Marines",
       "points": 10.714,
       "events_played": 1
     }
   ],
-  "rank": 52
+  "rank": 53
 }

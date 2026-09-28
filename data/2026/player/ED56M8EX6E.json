@@ -2,7 +2,7 @@
   "user_id": "ED56M8EX6E",
   "player_name": "Johnathon Townsend",
   "total_points": 356.944,
-  "events_played": 7,
+  "events_played": 8,
   "best_finish": 1,
   "regions": [
     "NI",
@@ -10,6 +10,22 @@
   ],
   "team": "The Tactical Titans ",
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 8,
+      "max_points": 60,
+      "points": 46.875,
+      "faction": "Tyranids",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "counts": false
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -131,8 +147,8 @@
     },
     {
       "faction": "Tyranids",
-      "points": 91.339,
-      "events_played": 2
+      "points": 138.214,
+      "events_played": 3
     },
     {
       "faction": "World Eaters",

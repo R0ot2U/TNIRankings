@@ -1,14 +1,30 @@
 {
   "user_id": "PbPeOUrGqO7M",
   "player_name": "Oran Donnelly",
-  "total_points": 111.134,
-  "events_played": 4,
+  "total_points": 134.17,
+  "events_played": 5,
   "best_finish": 2,
   "regions": [
     "NI"
   ],
   "team": "The Grimsy Boys",
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 15,
+      "max_points": 60,
+      "points": 33.75,
+      "faction": "Blood Angels",
+      "team": "The Grimsy Boys",
+      "forced": false,
+      "counts": true
+    },
     {
       "event_id": "78lO7npph1Rn",
       "prefix": "78lO7npph1Rn",
@@ -55,7 +71,7 @@
       "faction": "Blood Angels",
       "team": "The Grimsy Boys",
       "forced": false,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "5RSqsPO0geXN",
@@ -77,9 +93,9 @@
   "faction_points": [
     {
       "faction": "Blood Angels",
-      "points": 111.134,
-      "events_played": 4
+      "points": 144.884,
+      "events_played": 5
     }
   ],
-  "rank": 111
+  "rank": 83
 }

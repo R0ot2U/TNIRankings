@@ -1,14 +1,30 @@
 {
   "user_id": "6PDW1P9QV7",
-  "player_name": "Christopher Bell",
-  "total_points": 60.0,
-  "events_played": 1,
+  "player_name": "Chris Bell",
+  "total_points": 76.875,
+  "events_played": 2,
   "best_finish": 1,
   "regions": [
     "NI"
   ],
   "team": "Exploding Dice",
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 24,
+      "max_points": 60,
+      "points": 16.875,
+      "faction": "Chaos Knights",
+      "team": "Exploding Dice",
+      "forced": false,
+      "counts": true
+    },
     {
       "event_id": "1fKDXYIXB8ap",
       "prefix": "1fKDXYIXB8ap",
@@ -31,7 +47,12 @@
       "faction": "Blood Angels",
       "points": 60.0,
       "events_played": 1
+    },
+    {
+      "faction": "Chaos Knights",
+      "points": 16.875,
+      "events_played": 1
     }
   ],
-  "rank": 195
+  "rank": 167
 }

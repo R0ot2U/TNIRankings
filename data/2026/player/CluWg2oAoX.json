@@ -2,13 +2,29 @@
   "user_id": "CluWg2oAoX",
   "player_name": "Aaron Buckley",
   "total_points": 241.518,
-  "events_played": 6,
+  "events_played": 7,
   "best_finish": 3,
   "regions": [
     "NI"
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "1n5aSuTdt217",
+      "prefix": "1n5aSuTdt217",
+      "event_name": "ED Single Day 40K Sept 2026",
+      "date": "2026-09-27",
+      "region": "NI",
+      "field_size": 32,
+      "rounds": 3,
+      "placing": 19,
+      "max_points": 60,
+      "points": 26.25,
+      "faction": "Thousand Sons",
+      "team": "Sink",
+      "forced": false,
+      "counts": false
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -109,8 +125,8 @@
   "faction_points": [
     {
       "faction": "Thousand Sons",
-      "points": 175.839,
-      "events_played": 3
+      "points": 202.089,
+      "events_played": 4
     },
     {
       "faction": "Tyranids",
@@ -118,5 +134,5 @@
       "events_played": 3
     }
   ],
-  "rank": 25
+  "rank": 26
 }
