@@ -1,30 +1,14 @@
 {
   "user_id": "6CL51TCXQJ",
   "player_name": "Luke Lewis",
-  "total_points": 155.302,
-  "events_played": 8,
+  "total_points": 153.548,
+  "events_played": 7,
   "best_finish": 5,
   "regions": [
     "ROI"
   ],
   "team": "Spectrum Warriors",
   "events": [
-    {
-      "event_id": "VxMhCyhNMO1Q",
-      "prefix": "VxMhCyhNMO1Q",
-      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
-      "date": "2026-09-26",
-      "region": "ROI",
-      "field_size": 63,
-      "rounds": 5,
-      "placing": 43,
-      "max_points": 100,
-      "points": 33.333,
-      "faction": "T'au Empire",
-      "team": "Spectrum Warriors",
-      "forced": false,
-      "counts": true
-    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -87,7 +71,7 @@
       "faction": "T'au Empire",
       "team": null,
       "forced": false,
-      "counts": false
+      "counts": true
     },
     {
       "event_id": "YeQuCF341q3e",
@@ -141,8 +125,8 @@
   "faction_points": [
     {
       "faction": "T'au Empire",
-      "points": 190.545,
-      "events_played": 6
+      "points": 157.212,
+      "events_played": 5
     },
     {
       "faction": "Necrons",
@@ -150,5 +134,5 @@
       "events_played": 2
     }
   ],
-  "rank": 68
+  "rank": 65
 }

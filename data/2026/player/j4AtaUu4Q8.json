@@ -1,30 +1,14 @@
 {
   "user_id": "j4AtaUu4Q8",
   "player_name": "Shane O Connor",
-  "total_points": 182.36,
-  "events_played": 6,
+  "total_points": 152.577,
+  "events_played": 5,
   "best_finish": 9,
   "regions": [
     "ROI"
   ],
   "team": "Spectrum Warriors",
   "events": [
-    {
-      "event_id": "VxMhCyhNMO1Q",
-      "prefix": "VxMhCyhNMO1Q",
-      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
-      "date": "2026-09-26",
-      "region": "ROI",
-      "field_size": 63,
-      "rounds": 5,
-      "placing": 27,
-      "max_points": 100,
-      "points": 58.73,
-      "faction": "Adeptus Mechanicus",
-      "team": "Spectrum Warriors",
-      "forced": false,
-      "counts": true
-    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -71,7 +55,7 @@
       "faction": "Adeptus Mechanicus",
       "team": null,
       "forced": false,
-      "counts": false
+      "counts": true
     },
     {
       "event_id": "nxhZBtKK3mGF",
@@ -109,9 +93,9 @@
   "faction_points": [
     {
       "faction": "Adeptus Mechanicus",
-      "points": 232.307,
-      "events_played": 6
+      "points": 173.577,
+      "events_played": 5
     }
   ],
-  "rank": 59
+  "rank": 67
 }

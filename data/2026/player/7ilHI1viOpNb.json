@@ -1,30 +1,14 @@
 {
   "user_id": "7ilHI1viOpNb",
   "player_name": "Jakub Andrzejewski",
-  "total_points": 212.545,
-  "events_played": 5,
+  "total_points": 173.151,
+  "events_played": 4,
   "best_finish": 7,
   "regions": [
     "ROI"
   ],
   "team": null,
   "events": [
-    {
-      "event_id": "VxMhCyhNMO1Q",
-      "prefix": "VxMhCyhNMO1Q",
-      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
-      "date": "2026-09-26",
-      "region": "ROI",
-      "field_size": 63,
-      "rounds": 5,
-      "placing": 22,
-      "max_points": 100,
-      "points": 66.667,
-      "faction": "Orks",
-      "team": null,
-      "forced": false,
-      "counts": true
-    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -87,20 +71,20 @@
       "faction": "Chaos Space Marines",
       "team": null,
       "forced": false,
-      "counts": false
+      "counts": true
     }
   ],
   "faction_points": [
     {
-      "faction": "Orks",
-      "points": 133.334,
-      "events_played": 2
-    },
-    {
       "faction": "Chaos Space Marines",
       "points": 106.484,
       "events_played": 3
+    },
+    {
+      "faction": "Orks",
+      "points": 66.667,
+      "events_played": 1
     }
   ],
-  "rank": 46
+  "rank": 57
 }

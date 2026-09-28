@@ -1,30 +1,14 @@
 {
   "user_id": "y0P4pQWL7oJ8",
   "player_name": "Clement Duval",
-  "total_points": 211.089,
-  "events_played": 8,
+  "total_points": 180.155,
+  "events_played": 7,
   "best_finish": 3,
   "regions": [
     "ROI"
   ],
   "team": "Brethren Wargaming Club",
   "events": [
-    {
-      "event_id": "VxMhCyhNMO1Q",
-      "prefix": "VxMhCyhNMO1Q",
-      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
-      "date": "2026-09-26",
-      "region": "ROI",
-      "field_size": 63,
-      "rounds": 5,
-      "placing": 24,
-      "max_points": 100,
-      "points": 63.492,
-      "faction": "Space Marines (Astartes)",
-      "team": "Brethren Wargaming Club",
-      "forced": false,
-      "counts": true
-    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -135,15 +119,15 @@
       "faction": "Space Marines (Astartes)",
       "team": null,
       "forced": false,
-      "counts": false
+      "counts": true
     }
   ],
   "faction_points": [
     {
       "faction": "Space Marines (Astartes)",
-      "points": 315.568,
-      "events_played": 8
+      "points": 252.076,
+      "events_played": 7
     }
   ],
-  "rank": 48
+  "rank": 53
 }

@@ -1,30 +1,14 @@
 {
   "user_id": "C95R27X1AO",
   "player_name": "Kieran Hayter",
-  "total_points": 323.679,
-  "events_played": 7,
+  "total_points": 286.264,
+  "events_played": 6,
   "best_finish": 3,
   "regions": [
     "ROI"
   ],
   "team": null,
   "events": [
-    {
-      "event_id": "VxMhCyhNMO1Q",
-      "prefix": "VxMhCyhNMO1Q",
-      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
-      "date": "2026-09-26",
-      "region": "ROI",
-      "field_size": 63,
-      "rounds": 5,
-      "placing": 7,
-      "max_points": 100,
-      "points": 90.476,
-      "faction": "Space Marines (Astartes)",
-      "team": null,
-      "forced": false,
-      "counts": true
-    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -87,7 +71,7 @@
       "faction": "Space Marines (Astartes)",
       "team": null,
       "forced": false,
-      "counts": false
+      "counts": true
     },
     {
       "event_id": "nxhZBtKK3mGF",
@@ -125,8 +109,8 @@
   "faction_points": [
     {
       "faction": "Space Marines (Astartes)",
-      "points": 402.708,
-      "events_played": 6
+      "points": 312.232,
+      "events_played": 5
     },
     {
       "faction": "Unknown",
@@ -134,5 +118,5 @@
       "events_played": 1
     }
   ],
-  "rank": 12
+  "rank": 18
 }

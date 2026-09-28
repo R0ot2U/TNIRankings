@@ -1,30 +1,14 @@
 {
   "user_id": "KD3H6WXHD0",
   "player_name": "Luca Binz",
-  "total_points": 279.412,
-  "events_played": 4,
+  "total_points": 195.285,
+  "events_played": 3,
   "best_finish": 1,
   "regions": [
     "ROI"
   ],
   "team": null,
   "events": [
-    {
-      "event_id": "VxMhCyhNMO1Q",
-      "prefix": "VxMhCyhNMO1Q",
-      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
-      "date": "2026-09-26",
-      "region": "ROI",
-      "field_size": 63,
-      "rounds": 5,
-      "placing": 11,
-      "max_points": 100,
-      "points": 84.127,
-      "faction": "Imperial Knights",
-      "team": null,
-      "forced": false,
-      "counts": true
-    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -77,9 +61,9 @@
   "faction_points": [
     {
       "faction": "Imperial Knights",
-      "points": 279.412,
-      "events_played": 4
+      "points": 195.285,
+      "events_played": 3
     }
   ],
-  "rank": 24
+  "rank": 50
 }

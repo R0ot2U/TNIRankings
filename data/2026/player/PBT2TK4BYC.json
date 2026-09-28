@@ -1,30 +1,14 @@
 {
   "user_id": "PBT2TK4BYC",
   "player_name": "Robin O Leary",
-  "total_points": 224.286,
-  "events_played": 7,
+  "total_points": 218.443,
+  "events_played": 6,
   "best_finish": 2,
   "regions": [
     "ROI"
   ],
   "team": "Spectrum Warriors",
   "events": [
-    {
-      "event_id": "VxMhCyhNMO1Q",
-      "prefix": "VxMhCyhNMO1Q",
-      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
-      "date": "2026-09-26",
-      "region": "ROI",
-      "field_size": 63,
-      "rounds": 5,
-      "placing": 28,
-      "max_points": 100,
-      "points": 57.143,
-      "faction": "Death Guard",
-      "team": "Spectrum Warriors",
-      "forced": false,
-      "counts": true
-    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -71,7 +55,7 @@
       "faction": "Space Marines (Astartes)",
       "team": "Spectrum Warriors",
       "forced": false,
-      "counts": false
+      "counts": true
     },
     {
       "event_id": "nxhZBtKK3mGF",
@@ -129,15 +113,15 @@
       "events_played": 3
     },
     {
-      "faction": "Death Guard",
-      "points": 114.286,
-      "events_played": 2
-    },
-    {
       "faction": "Space Marines (Astartes)",
       "points": 103.8,
       "events_played": 2
+    },
+    {
+      "faction": "Death Guard",
+      "points": 57.143,
+      "events_played": 1
     }
   ],
-  "rank": 41
+  "rank": 35
 }

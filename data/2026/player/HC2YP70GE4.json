@@ -1,30 +1,14 @@
 {
   "user_id": "HC2YP70GE4",
   "player_name": "David Cleary",
-  "total_points": 150.629,
-  "events_played": 10,
+  "total_points": 115.51,
+  "events_played": 9,
   "best_finish": 16,
   "regions": [
     "ROI"
   ],
   "team": "Brethern Wargaming",
   "events": [
-    {
-      "event_id": "VxMhCyhNMO1Q",
-      "prefix": "VxMhCyhNMO1Q",
-      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
-      "date": "2026-09-26",
-      "region": "ROI",
-      "field_size": 63,
-      "rounds": 5,
-      "placing": 34,
-      "max_points": 100,
-      "points": 47.619,
-      "faction": "Dark Angels",
-      "team": "Brethern Wargaming",
-      "forced": false,
-      "counts": true
-    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -71,7 +55,7 @@
       "faction": "Dark Angels",
       "team": "Brethern Wargaming",
       "forced": false,
-      "counts": false
+      "counts": true
     },
     {
       "event_id": "59xtuz3YSFYA",
@@ -173,8 +157,8 @@
   "faction_points": [
     {
       "faction": "Dark Angels",
-      "points": 113.422,
-      "events_played": 4
+      "points": 65.803,
+      "events_played": 3
     },
     {
       "faction": "Death Guard",
@@ -187,5 +171,5 @@
       "events_played": 5
     }
   ],
-  "rank": 71
+  "rank": 104
 }
