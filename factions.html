@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Faction Rankings — TNIRankings</title>
+<meta name="description" content="Warhammer 40,000 faction rankings for Northern Ireland tournaments — total points per faction and top players.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+
+<header>
+  <a class="site-logo" href="index.html">TNIRankings</a>
+  <span class="subtitle" id="season-label"></span>
+  <span class="spacer"></span>
+  <a class="nav-link" href="index.html">Rankings</a>
+  <a class="nav-link active" href="factions.html">Factions</a>
+  <a class="nav-link" href="events.html">Events</a>
+  <a class="nav-link" href="about.html">About</a>
+  <span class="meta-info" id="build-info"></span>
+</header>
+
+<main>
+  <div class="controls">
+    <input class="search-input" type="search" id="search" placeholder="Search faction…" autocomplete="off">
+    <div class="btn-group" id="year-btns" role="group" aria-label="Season"></div>
+    <span id="row-count" style="color:var(--dim);font-size:0.8rem;margin-left:4px;"></span>
+  </div>
+
+  <div class="panel">
+    <div class="panel-title">Faction Rankings
+      <span class="panel-note">(Northern Ireland · total of players' season points, grouped by faction)</span></div>
+    <div class="table-wrap">
+      <table id="factions-table">
+        <thead>
+          <tr>
+            <th title="Rank by total faction points">#</th>
+            <th>Faction</th>
+            <th title="Sum of every NI player's season points, grouped by faction">Total Points</th>
+            <th title="Number of NI players who played this faction">Players</th>
+            <th style="cursor:default" title="Top 3 scoring players for this faction">Top 3 Players</th>
+          </tr>
+        </thead>
+        <tbody id="factions-tbody">
+          <tr><td colspan="5" class="loading">Loading data…</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</main>
+
+<footer id="site-footer"></footer>
+
+<script src="assets/app.js" defer></script>
+<script src="assets/factions.js" defer></script>
+</body>
+</html>
