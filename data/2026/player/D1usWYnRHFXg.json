@@ -84,7 +84,7 @@
       "placing": 8,
       "max_points": 60,
       "points": 43.846,
-      "faction": "Unknown",
+      "faction": null,
       "team": "Lil' Green Gools",
       "forced": false,
       "counts": true

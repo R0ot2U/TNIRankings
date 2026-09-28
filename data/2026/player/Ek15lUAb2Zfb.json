@@ -68,7 +68,7 @@
       "placing": 5,
       "max_points": 48,
       "points": 36.0,
-      "faction": "Unknown",
+      "faction": null,
       "team": null,
       "forced": false,
       "counts": true

@@ -20,7 +20,7 @@
       "placing": 21,
       "max_points": 100,
       "points": 50.0,
-      "faction": "Unknown",
+      "faction": null,
       "team": "Solar Wars",
       "forced": false,
       "counts": true

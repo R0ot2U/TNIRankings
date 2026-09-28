@@ -20,7 +20,7 @@
       "placing": 11,
       "max_points": 100,
       "points": 72.222,
-      "faction": "Unknown",
+      "faction": "Imperial Knights",
       "team": null,
       "forced": false,
       "counts": true
@@ -44,14 +44,9 @@
   ],
   "faction_points": [
     {
-      "faction": "Unknown",
-      "points": 72.222,
-      "events_played": 1
-    },
-    {
       "faction": "Imperial Knights",
-      "points": 71.429,
-      "events_played": 1
+      "points": 143.651,
+      "events_played": 2
     }
   ],
   "rank": 74

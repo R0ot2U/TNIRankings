@@ -20,7 +20,7 @@
       "placing": 14,
       "max_points": 54,
       "points": 18.9,
-      "faction": "Unknown",
+      "faction": "Space Marines (Astartes)",
       "team": null,
       "forced": false,
       "counts": true
@@ -28,7 +28,7 @@
   ],
   "faction_points": [
     {
-      "faction": "Unknown",
+      "faction": "Space Marines (Astartes)",
       "points": 18.9,
       "events_played": 1
     }

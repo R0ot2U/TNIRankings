@@ -69,7 +69,7 @@
       "placing": 7,
       "max_points": 100,
       "points": 93.878,
-      "faction": "Unknown",
+      "faction": "Necrons",
       "team": null,
       "forced": false,
       "counts": true
@@ -98,18 +98,13 @@
       "events_played": 2
     },
     {
+      "faction": "Necrons",
+      "points": 151.735,
+      "events_played": 2
+    },
+    {
       "faction": "Death Guard",
       "points": 100.0,
-      "events_played": 1
-    },
-    {
-      "faction": "Unknown",
-      "points": 93.878,
-      "events_played": 1
-    },
-    {
-      "faction": "Necrons",
-      "points": 57.857,
       "events_played": 1
     }
   ],

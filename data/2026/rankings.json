@@ -71,18 +71,13 @@
         "events_played": 2
       },
       {
+        "faction": "Necrons",
+        "points": 151.735,
+        "events_played": 2
+      },
+      {
         "faction": "Death Guard",
         "points": 100.0,
-        "events_played": 1
-      },
-      {
-        "faction": "Unknown",
-        "points": 93.878,
-        "events_played": 1
-      },
-      {
-        "faction": "Necrons",
-        "points": 57.857,
         "events_played": 1
       }
     ],
@@ -1775,14 +1770,9 @@
     "best_finish": 11,
     "faction_points": [
       {
-        "faction": "Unknown",
-        "points": 72.222,
-        "events_played": 1
-      },
-      {
         "faction": "Imperial Knights",
-        "points": 71.429,
-        "events_played": 1
+        "points": 143.651,
+        "events_played": 2
       }
     ],
     "team": null,
@@ -1983,13 +1973,8 @@
     "faction_points": [
       {
         "faction": "Necrons",
-        "points": 71.465,
-        "events_played": 2
-      },
-      {
-        "faction": "Unknown",
-        "points": 39.789,
-        "events_played": 1
+        "points": 111.254,
+        "events_played": 3
       },
       {
         "faction": "Space Marines (Astartes)",
@@ -5572,7 +5557,7 @@
         "events_played": 3
       },
       {
-        "faction": "Unknown",
+        "faction": "Space Marines (Astartes)",
         "points": 3.175,
         "events_played": 1
       }
@@ -7175,7 +7160,7 @@
     "best_finish": 14,
     "faction_points": [
       {
-        "faction": "Unknown",
+        "faction": "Space Marines (Astartes)",
         "points": 18.9,
         "events_played": 1
       }

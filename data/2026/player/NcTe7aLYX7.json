@@ -20,7 +20,7 @@
       "placing": 62,
       "max_points": 100,
       "points": 3.175,
-      "faction": "Unknown",
+      "faction": "Space Marines (Astartes)",
       "team": "Spectrum Warriors",
       "forced": false,
       "counts": true
@@ -81,7 +81,7 @@
       "events_played": 3
     },
     {
-      "faction": "Unknown",
+      "faction": "Space Marines (Astartes)",
       "points": 3.175,
       "events_played": 1
     }

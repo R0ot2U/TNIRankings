@@ -36,7 +36,7 @@
       "placing": 6,
       "max_points": 54,
       "points": 39.789,
-      "faction": "Unknown",
+      "faction": "Necrons",
       "team": null,
       "forced": false,
       "counts": true
@@ -93,13 +93,8 @@
   "faction_points": [
     {
       "faction": "Necrons",
-      "points": 71.465,
-      "events_played": 2
-    },
-    {
-      "faction": "Unknown",
-      "points": 39.789,
-      "events_played": 1
+      "points": 111.254,
+      "events_played": 3
     },
     {
       "faction": "Space Marines (Astartes)",

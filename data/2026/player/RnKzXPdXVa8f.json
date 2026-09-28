@@ -148,7 +148,7 @@
       "placing": 14,
       "max_points": 54,
       "points": 15.0,
-      "faction": "Unknown",
+      "faction": null,
       "team": null,
       "forced": false,
       "counts": false
