@@ -96,6 +96,19 @@ function withRanks(data) {
   });
 }
 
+// After a pretty-URL history.replaceState moves the effective directory
+// (e.g. /player.html -> /player/<uid>), relative hrefs baked into static
+// HTML (header/footer nav) would resolve one level too deep. Rewrite them
+// to absolute paths anchored at `base` (from siteBase()-style helpers) so
+// they work regardless of how many path segments deep the address bar is.
+function rebaseLinks(base, selector) {
+  document.querySelectorAll(selector).forEach(a => {
+    const href = a.getAttribute("href");
+    if (!href || /^([a-z][a-z0-9+.-]*:)?\/\//i.test(href) || href.startsWith("#") || href.startsWith("/")) return;
+    a.setAttribute("href", `${base}/${href}`);
+  });
+}
+
 function fmtPoints(n) {
   return (n ?? 0).toLocaleString(undefined, { minimumFractionDigits: 0, maximumFractionDigits: 3 });
 }

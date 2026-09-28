@@ -80,10 +80,15 @@ async function init() {
 
   // The address bar just gained an extra /player/<uid> path segment — the
   // back link must be recomputed against it, or it resolves one level short.
+  // Every other relative link on the page (header nav, footer) needs the
+  // same treatment, or clicking them 404s and gets misrouted by 404.html's
+  // /player/<uid> pattern match (e.g. events.html -> uid=events.html).
   document.getElementById("back-link").href = backLinkHref(year);
+  rebaseLinks(siteBase(), "header a[href]");
 
   document.title = `${p.player_name} — TNIRankings`;
   renderFooter(index);
+  rebaseLinks(siteBase(), "footer a[href]");
 
   const events = (p.events || []).slice().sort((a, b) => (b.date || "").localeCompare(a.date || ""));
   const countedN = events.filter(e => e.counts).length;
