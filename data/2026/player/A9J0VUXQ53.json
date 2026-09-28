@@ -68,7 +68,7 @@
       "placing": 18,
       "max_points": 100,
       "points": 60.465,
-      "faction": "Genestealer Cult",
+      "faction": "Genestealer Cults",
       "team": null,
       "forced": false,
       "counts": true
@@ -92,14 +92,19 @@
   ],
   "faction_points": [
     {
-      "faction": "Genestealer Cult",
-      "points": 154.465,
-      "events_played": 3
-    },
-    {
       "faction": "Death Guard",
       "points": 118.278,
       "events_played": 2
+    },
+    {
+      "faction": "Genestealer Cult",
+      "points": 94.0,
+      "events_played": 2
+    },
+    {
+      "faction": "Genestealer Cults",
+      "points": 60.465,
+      "events_played": 1
     }
   ],
   "rank": 31

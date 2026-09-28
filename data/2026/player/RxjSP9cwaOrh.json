@@ -20,7 +20,7 @@
       "placing": 31,
       "max_points": 100,
       "points": 16.667,
-      "faction": "Genestealer Cult",
+      "faction": "Genestealer Cults",
       "team": null,
       "forced": false,
       "counts": true
@@ -28,7 +28,7 @@
   ],
   "faction_points": [
     {
-      "faction": "Genestealer Cult",
+      "faction": "Genestealer Cults",
       "points": 16.667,
       "events_played": 1
     }

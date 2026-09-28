@@ -20,7 +20,7 @@
       "placing": 40,
       "max_points": 100,
       "points": 38.095,
-      "faction": "Xenos",
+      "faction": "Orks",
       "team": null,
       "forced": false,
       "counts": true
@@ -28,7 +28,7 @@
   ],
   "faction_points": [
     {
-      "faction": "Xenos",
+      "faction": "Orks",
       "points": 38.095,
       "events_played": 1
     }

@@ -36,7 +36,7 @@
       "placing": 32,
       "max_points": 100,
       "points": 18.421,
-      "faction": "Chaos",
+      "faction": "Chaos Space Marines",
       "team": null,
       "forced": false,
       "counts": false
@@ -109,13 +109,8 @@
   "faction_points": [
     {
       "faction": "Chaos Space Marines",
-      "points": 161.709,
-      "events_played": 5
-    },
-    {
-      "faction": "Chaos",
-      "points": 18.421,
-      "events_played": 1
+      "points": 180.13,
+      "events_played": 6
     }
   ],
   "rank": 68

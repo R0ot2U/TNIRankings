@@ -37,7 +37,7 @@
       "placing": 30,
       "max_points": 100,
       "points": 9.375,
-      "faction": "Forces of the Hive Mind",
+      "faction": "Tyranids",
       "team": "The Tactical Titans ",
       "forced": false,
       "counts": true
@@ -78,13 +78,8 @@
   "faction_points": [
     {
       "faction": "Tyranids",
-      "points": 65.972,
-      "events_played": 3
-    },
-    {
-      "faction": "Forces of the Hive Mind",
-      "points": 9.375,
-      "events_played": 1
+      "points": 75.347,
+      "events_played": 4
     }
   ],
   "rank": 170

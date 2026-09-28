@@ -84,7 +84,7 @@
       "placing": 21,
       "max_points": 100,
       "points": 79.592,
-      "faction": "Genestealer Cult",
+      "faction": "Genestealer Cults",
       "team": null,
       "forced": false,
       "counts": true
@@ -113,9 +113,14 @@
       "events_played": 3
     },
     {
+      "faction": "Genestealer Cults",
+      "points": 79.592,
+      "events_played": 1
+    },
+    {
       "faction": "Genestealer Cult",
-      "points": 121.13,
-      "events_played": 2
+      "points": 41.538,
+      "events_played": 1
     },
     {
       "faction": "Chaos Daemons",

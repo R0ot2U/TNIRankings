@@ -434,9 +434,14 @@
         "events_played": 3
       },
       {
+        "faction": "Genestealer Cults",
+        "points": 79.592,
+        "events_played": 1
+      },
+      {
         "faction": "Genestealer Cult",
-        "points": 121.13,
-        "events_played": 2
+        "points": 41.538,
+        "events_played": 1
       },
       {
         "faction": "Chaos Daemons",
@@ -627,9 +632,14 @@
     "best_finish": 10,
     "faction_points": [
       {
+        "faction": "Genestealer Cults",
+        "points": 169.886,
+        "events_played": 2
+      },
+      {
         "faction": "Genestealer Cult",
-        "points": 247.841,
-        "events_played": 4
+        "points": 77.955,
+        "events_played": 2
       }
     ],
     "team": null,
@@ -758,14 +768,19 @@
     "best_finish": 4,
     "faction_points": [
       {
-        "faction": "Genestealer Cult",
-        "points": 154.465,
-        "events_played": 3
-      },
-      {
         "faction": "Death Guard",
         "points": 118.278,
         "events_played": 2
+      },
+      {
+        "faction": "Genestealer Cult",
+        "points": 94.0,
+        "events_played": 2
+      },
+      {
+        "faction": "Genestealer Cults",
+        "points": 60.465,
+        "events_played": 1
       }
     ],
     "team": "Brethren",
@@ -996,13 +1011,8 @@
     "faction_points": [
       {
         "faction": "Chaos Daemons",
-        "points": 137.89,
-        "events_played": 3
-      },
-      {
-        "faction": "Chaos",
-        "points": 69.388,
-        "events_played": 1
+        "points": 207.278,
+        "events_played": 4
       },
       {
         "faction": "Chaos Space Marines",
@@ -1641,13 +1651,8 @@
     "faction_points": [
       {
         "faction": "Chaos Space Marines",
-        "points": 161.709,
-        "events_played": 5
-      },
-      {
-        "faction": "Chaos",
-        "points": 18.421,
-        "events_played": 1
+        "points": 180.13,
+        "events_played": 6
       }
     ],
     "team": null,
@@ -3743,13 +3748,8 @@
     "faction_points": [
       {
         "faction": "Tyranids",
-        "points": 65.972,
-        "events_played": 3
-      },
-      {
-        "faction": "Forces of the Hive Mind",
-        "points": 9.375,
-        "events_played": 1
+        "points": 75.347,
+        "events_played": 4
       }
     ],
     "team": "The Tactical Titans ",
@@ -4762,7 +4762,7 @@
     "best_finish": 2,
     "faction_points": [
       {
-        "faction": "Genestealer Cult",
+        "faction": "Genestealer Cults",
         "points": 51.3,
         "events_played": 1
       }
@@ -5576,7 +5576,7 @@
     "best_finish": 40,
     "faction_points": [
       {
-        "faction": "Xenos",
+        "faction": "Orks",
         "points": 38.095,
         "events_played": 1
       }
@@ -7374,7 +7374,7 @@
     "best_finish": 31,
     "faction_points": [
       {
-        "faction": "Genestealer Cult",
+        "faction": "Genestealer Cults",
         "points": 16.667,
         "events_played": 1
       }

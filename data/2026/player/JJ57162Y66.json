@@ -37,7 +37,7 @@
       "placing": 31,
       "max_points": 100,
       "points": 69.388,
-      "faction": "Chaos",
+      "faction": "Chaos Daemons",
       "team": null,
       "forced": false,
       "counts": true
@@ -110,13 +110,8 @@
   "faction_points": [
     {
       "faction": "Chaos Daemons",
-      "points": 137.89,
-      "events_played": 3
-    },
-    {
-      "faction": "Chaos",
-      "points": 69.388,
-      "events_played": 1
+      "points": 207.278,
+      "events_played": 4
     },
     {
       "faction": "Chaos Space Marines",
