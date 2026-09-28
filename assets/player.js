@@ -19,16 +19,11 @@ function safeUid(uid) {
 
 const BCP_EVENT = id => `https://www.bestcoastpairings.com/event/${id}`;
 
-const regionFilter = new Set(["NI"]);   // exclusive region filter (NI, ROI, or neither); NI selected by default
+const regionFilter = new Set(["NI"]);   // fixed to NI — includes every player with at least one NI event (overrides included); no filter UI
 let rankingRows = [];
 
-function filterLabel() {
-  return regionFilter.size ? [...regionFilter][0] : "All";
-}
-
-// Where this player ranks among the currently region-filtered player pool
-// (same tie-break as the rankings page), or null if they don't match the
-// active filter at all.
+// Where this player ranks among the NI player pool (same tie-break as the
+// rankings page), or null if they don't have an NI-qualifying event at all.
 function computeFilteredRank(uid) {
   const pool = rankingRows.filter(r => regionMatches(r.regions, regionFilter));
   const match = withRanks(pool).find(r => r.user_id === uid);
@@ -38,7 +33,6 @@ function computeFilteredRank(uid) {
 function updateRankDisplay(uid) {
   const rank = computeFilteredRank(uid);
   document.getElementById("player-rank-val").textContent = rank ?? "—";
-  document.getElementById("player-rank-note").textContent = `(${filterLabel()})`;
 }
 
 // Directory containing player.html itself (works whether we're currently at
@@ -101,13 +95,9 @@ async function init() {
       <div>
         <h2>${p.player_name || uid}</h2>
         <div class="meta">${regionsHtml(p.regions)} ${p.faction ? "· " + p.faction : ""}${p.team ? " · " + p.team : ""}</div>
-        <div class="btn-group" id="player-region-filter" role="group" aria-label="Region filter" style="margin-top:8px;">
-          <button type="button" class="btn${regionFilter.has("NI") ? " active" : ""}" data-region="NI">NI</button>
-          <button type="button" class="btn${regionFilter.has("ROI") ? " active" : ""}" data-region="ROI">ROI</button>
-        </div>
       </div>
       <div class="hero-stats">
-        <div class="stat-box"><div class="val" id="player-rank-val">${initialRank ?? "—"}</div><div class="lbl">Rank <span id="player-rank-note" style="color:var(--dim)">(${filterLabel()})</span></div></div>
+        <div class="stat-box"><div class="val" id="player-rank-val">${initialRank ?? "—"}</div><div class="lbl">Rank <span style="color:var(--dim)">(NI)</span></div></div>
         <div class="stat-box"><div class="val">${fmtPoints(p.total_points)}</div><div class="lbl">Points</div></div>
         <div class="stat-box"><div class="val">${p.events_played || 0}</div><div class="lbl">Events</div></div>
         <div class="stat-box"><div class="val">${p.best_finish ?? "—"}</div><div class="lbl">Best finish</div></div>
@@ -144,8 +134,6 @@ async function init() {
 
   const table = document.getElementById("events-table");
   if (table) makeSortable(table);
-
-  setupRegionFilter("player-region-filter", regionFilter, () => updateRankDisplay(uid));
 }
 
 init();

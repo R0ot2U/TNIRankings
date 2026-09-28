@@ -68,8 +68,7 @@ function regionsHtml(regions) {
   return (regions || []).map(regionBadge).join(" ");
 }
 
-// filterSet holds at most one region (exclusive either/or filter — see
-// setupRegionFilter below). Shared by the rankings and player pages.
+// filterSet holds the fixed NI filter used by the rankings and player pages.
 function regionMatches(regions, filterSet) {
   if (!filterSet || filterSet.size === 0) return true;
   const set = new Set(regions || []);
@@ -94,25 +93,6 @@ function withRanks(data) {
     const key = `${r.total_points}|${r.events_played}|${r.best_finish}`;
     if (key !== prevKey) { rank = i + 1; prevKey = key; }
     return { ...r, rank };
-  });
-}
-
-// Wires exclusive (either/or) click behaviour for a `.btn-group` of region
-// buttons: clicking a region selects only it (deselecting any other),
-// clicking the already-selected region clears the filter entirely. At most
-// one region is ever active. Mutates `filterSet` in place and calls
-// `onChange` after each click.
-function setupRegionFilter(containerId, filterSet, onChange) {
-  const buttons = document.querySelectorAll(`#${containerId} .btn`);
-  buttons.forEach(btn => {
-    btn.addEventListener("click", () => {
-      const region = btn.dataset.region;
-      const wasActive = filterSet.has(region);
-      filterSet.clear();
-      if (!wasActive) filterSet.add(region);
-      buttons.forEach(b => b.classList.toggle("active", filterSet.has(b.dataset.region)));
-      onChange();
-    });
   });
 }
 

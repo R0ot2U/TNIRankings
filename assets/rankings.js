@@ -6,7 +6,7 @@ let index = {};
 let year = null;
 let sortCol = 0;   // default: rank
 let sortDir = 1;   // 1 = asc
-const regionFilter = new Set(["NI"]);   // exclusive region filter (NI, ROI, or neither); NI selected by default
+const regionFilter = new Set(["NI"]);   // fixed to NI — includes every player with at least one NI event (overrides included); no filter UI
 
 const COLS = ["rank", "player_name", "total_points", "events_played", "best_finish", "region"];
 
@@ -35,7 +35,6 @@ async function init() {
   renderTable();
   renderFooter(index);
   setupSorting();
-  setupRegionFilter("region-filter", regionFilter, renderTable);
   document.getElementById("search").addEventListener("input", debounce(renderTable, 200));
 }
 
@@ -58,15 +57,13 @@ function sortedRows(data) {
 
 function filtered() {
   const q = (document.getElementById("search").value || "").toLowerCase().trim();
-  let data = rows;
-  if (regionFilter.size) data = data.filter(r => regionMatches(r.regions, regionFilter));
+  let data = rows.filter(r => regionMatches(r.regions, regionFilter));
   data = withRanks(data);
   if (q) data = data.filter(r => (r.player_name || "").toLowerCase().includes(q));
   return sortedRows(data);
 }
 
 function filteredEventCount() {
-  if (!regionFilter.size) return events.length;
   return events.filter(e => regionFilter.has(e.region)).length;
 }
 
