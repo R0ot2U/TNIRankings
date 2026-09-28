@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Chaos Daemons",
   "team": null,
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 195
+  "faction_points": [
+    {
+      "faction": "Chaos Daemons",
+      "points": 62.072,
+      "events_played": 2
+    }
+  ],
+  "rank": 190
 }

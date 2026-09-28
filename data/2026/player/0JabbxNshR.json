@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Black Templars",
   "team": "Sandbox Sad Squigs",
   "events": [
     {
@@ -123,5 +122,17 @@
       "counts": false
     }
   ],
-  "rank": 13
+  "faction_points": [
+    {
+      "faction": "Black Templars",
+      "points": 335.868,
+      "events_played": 5
+    },
+    {
+      "faction": "Dark Angels",
+      "points": 130.531,
+      "events_played": 2
+    }
+  ],
+  "rank": 12
 }

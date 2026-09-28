@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Dark Angels",
   "team": "Carrick",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 416
+  "faction_points": [
+    {
+      "faction": "Dark Angels",
+      "points": 3.509,
+      "events_played": 1
+    }
+  ],
+  "rank": 411
 }

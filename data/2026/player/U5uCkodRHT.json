@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Xenos",
   "team": null,
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 263
+  "faction_points": [
+    {
+      "faction": "Xenos",
+      "points": 38.095,
+      "events_played": 1
+    }
+  ],
+  "rank": 258
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Chaos Space Marines",
   "team": null,
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 397
+  "faction_points": [
+    {
+      "faction": "Chaos Space Marines",
+      "points": 6.923,
+      "events_played": 1
+    }
+  ],
+  "rank": 392
 }

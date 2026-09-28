@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Unknown",
   "team": "Spectrum Warriors",
   "events": [
     {
@@ -75,5 +74,17 @@
       "counts": true
     }
   ],
-  "rank": 262
+  "faction_points": [
+    {
+      "faction": "Blood Angels",
+      "points": 35.263,
+      "events_played": 3
+    },
+    {
+      "faction": "Unknown",
+      "points": 3.175,
+      "events_played": 1
+    }
+  ],
+  "rank": 257
 }

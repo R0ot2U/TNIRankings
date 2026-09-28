@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Death Guard",
   "team": "Waterford Tabletop Gaming Community",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 314
+  "faction_points": [
+    {
+      "faction": "Death Guard",
+      "points": 25.789,
+      "events_played": 2
+    }
+  ],
+  "rank": 309
 }

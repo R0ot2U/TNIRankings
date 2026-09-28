@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Astra Militarum",
   "team": "Lil' Green Gools",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 407
+  "faction_points": [
+    {
+      "faction": "Astra Militarum",
+      "points": 5.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 402
 }

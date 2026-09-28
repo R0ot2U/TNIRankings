@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "World Eaters",
   "team": "Tactical Titans",
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 222
+  "faction_points": [
+    {
+      "faction": "World Eaters",
+      "points": 34.286,
+      "events_played": 1
+    },
+    {
+      "faction": "Necrons",
+      "points": 17.544,
+      "events_played": 1
+    }
+  ],
+  "rank": 217
 }

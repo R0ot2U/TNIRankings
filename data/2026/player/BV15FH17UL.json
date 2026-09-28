@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Space Marines (Astartes)",
   "team": "Seals are us ",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 298
+  "faction_points": [
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 28.793,
+      "events_played": 2
+    }
+  ],
+  "rank": 293
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Grey Knights",
   "team": "Kilkenny Nerd Club",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 350
+  "faction_points": [
+    {
+      "faction": "Grey Knights",
+      "points": 18.421,
+      "events_played": 1
+    }
+  ],
+  "rank": 345
 }

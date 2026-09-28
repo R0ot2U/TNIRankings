@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "T'au Empire",
   "team": "The Last Chancers",
   "events": [
     {
@@ -59,5 +58,17 @@
       "counts": true
     }
   ],
-  "rank": 31
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 185.909,
+      "events_played": 2
+    },
+    {
+      "faction": "T'au Empire",
+      "points": 48.6,
+      "events_played": 1
+    }
+  ],
+  "rank": 29
 }

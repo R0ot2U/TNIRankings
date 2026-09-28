@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Space Wolves",
   "team": null,
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 365
+  "faction_points": [
+    {
+      "faction": "Space Wolves",
+      "points": 13.953,
+      "events_played": 1
+    }
+  ],
+  "rank": 360
 }

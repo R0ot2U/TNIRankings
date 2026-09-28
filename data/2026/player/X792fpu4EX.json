@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Black Templars",
   "team": "Sink",
   "events": [
     {
@@ -60,5 +59,12 @@
       "counts": true
     }
   ],
-  "rank": 47
+  "faction_points": [
+    {
+      "faction": "Black Templars",
+      "points": 202.243,
+      "events_played": 3
+    }
+  ],
+  "rank": 44
 }

@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Thousand Sons",
   "team": "Team Yeti",
   "events": [
     {
@@ -75,5 +74,12 @@
       "counts": true
     }
   ],
-  "rank": 55
+  "faction_points": [
+    {
+      "faction": "Thousand Sons",
+      "points": 191.81,
+      "events_played": 4
+    }
+  ],
+  "rank": 51
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Death Guard",
   "team": "Sandbox Sad Squigs",
   "events": [
     {
@@ -91,5 +90,12 @@
       "counts": false
     }
   ],
-  "rank": 48
+  "faction_points": [
+    {
+      "faction": "Death Guard",
+      "points": 216.768,
+      "events_played": 5
+    }
+  ],
+  "rank": 45
 }

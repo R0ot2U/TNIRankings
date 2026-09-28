@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Blood Angels",
   "team": "Team LolSheep",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 214
+  "faction_points": [
+    {
+      "faction": "Blood Angels",
+      "points": 54.386,
+      "events_played": 1
+    }
+  ],
+  "rank": 209
 }

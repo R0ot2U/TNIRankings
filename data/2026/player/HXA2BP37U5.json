@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Adepta Sororitas",
   "team": "Brethern Wargaming club",
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 261
+  "faction_points": [
+    {
+      "faction": "Adepta Sororitas",
+      "points": 36.508,
+      "events_played": 1
+    },
+    {
+      "faction": "Imperial Agents",
+      "points": 2.273,
+      "events_played": 1
+    }
+  ],
+  "rank": 256
 }

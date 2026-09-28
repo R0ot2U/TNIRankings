@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Genestealer Cult",
   "team": null,
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 223
+  "faction_points": [
+    {
+      "faction": "Genestealer Cult",
+      "points": 51.3,
+      "events_played": 1
+    }
+  ],
+  "rank": 218
 }

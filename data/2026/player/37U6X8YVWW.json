@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "World Eaters",
   "team": null,
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 430
+  "faction_points": [
+    {
+      "faction": "World Eaters",
+      "points": 2.143,
+      "events_played": 1
+    }
+  ],
+  "rank": 425
 }

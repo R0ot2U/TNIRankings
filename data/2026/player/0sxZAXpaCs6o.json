@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Chaos Knights",
   "team": "Kilkenny Nerd Club",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 176
+  "faction_points": [
+    {
+      "faction": "Chaos Knights",
+      "points": 71.364,
+      "events_played": 2
+    }
+  ],
+  "rank": 171
 }

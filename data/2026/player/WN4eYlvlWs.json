@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Aeldari",
   "team": "Northern Wasters",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 112
+  "faction_points": [
+    {
+      "faction": "Aeldari",
+      "points": 113.571,
+      "events_played": 2
+    }
+  ],
+  "rank": 107
 }

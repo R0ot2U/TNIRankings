@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Adeptus Mechanicus",
   "team": null,
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 245
+  "faction_points": [
+    {
+      "faction": "Astra Militarum",
+      "points": 40.5,
+      "events_played": 1
+    },
+    {
+      "faction": "Adeptus Mechanicus",
+      "points": 2.455,
+      "events_played": 1
+    }
+  ],
+  "rank": 240
 }

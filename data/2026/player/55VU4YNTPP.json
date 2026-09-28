@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Black Templars",
   "team": null,
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 379
+  "faction_points": [
+    {
+      "faction": "Black Templars",
+      "points": 10.286,
+      "events_played": 1
+    }
+  ],
+  "rank": 374
 }

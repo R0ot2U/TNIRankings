@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Chaos Knights",
   "team": null,
   "events": [
     {
@@ -155,5 +154,27 @@
       "counts": false
     }
   ],
-  "rank": 23
+  "faction_points": [
+    {
+      "faction": "Chaos Daemons",
+      "points": 184.272,
+      "events_played": 3
+    },
+    {
+      "faction": "Thousand Sons",
+      "points": 151.861,
+      "events_played": 3
+    },
+    {
+      "faction": "Chaos Knights",
+      "points": 69.616,
+      "events_played": 2
+    },
+    {
+      "faction": "Unknown",
+      "points": 15.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 22
 }

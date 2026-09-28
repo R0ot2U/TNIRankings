@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Emperor's Children",
   "team": "Waterford Shedhammer",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 361
+  "faction_points": [
+    {
+      "faction": "Emperor's Children",
+      "points": 15.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 356
 }

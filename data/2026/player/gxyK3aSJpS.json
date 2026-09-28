@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Space Marines (Astartes)",
   "team": "Try Hard Wargaming",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 145
+  "faction_points": [
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 90.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 140
 }

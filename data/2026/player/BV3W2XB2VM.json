@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Necrons",
   "team": null,
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 207
+  "faction_points": [
+    {
+      "faction": "Dark Angels",
+      "points": 43.75,
+      "events_played": 1
+    },
+    {
+      "faction": "Necrons",
+      "points": 14.035,
+      "events_played": 1
+    }
+  ],
+  "rank": 202
 }

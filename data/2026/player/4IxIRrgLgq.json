@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Chaos Daemons",
   "team": "The Spoon Collectors",
   "events": [
     {
@@ -107,5 +106,22 @@
       "counts": true
     }
   ],
-  "rank": 22
+  "faction_points": [
+    {
+      "faction": "Thousand Sons",
+      "points": 223.98,
+      "events_played": 4
+    },
+    {
+      "faction": "Chaos Daemons",
+      "points": 82.54,
+      "events_played": 1
+    },
+    {
+      "faction": "Aeldari",
+      "points": 40.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 21
 }

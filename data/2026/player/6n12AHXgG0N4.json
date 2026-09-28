@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Aeldari",
   "team": null,
   "events": [
     {
@@ -59,5 +58,17 @@
       "counts": true
     }
   ],
-  "rank": 113
+  "faction_points": [
+    {
+      "faction": "Aeldari",
+      "points": 86.842,
+      "events_played": 1
+    },
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 25.756,
+      "events_played": 2
+    }
+  ],
+  "rank": 108
 }

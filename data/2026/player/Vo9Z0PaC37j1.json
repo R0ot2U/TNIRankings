@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Astra Militarum",
   "team": "The Grimsy Boys",
   "events": [
     {
@@ -91,5 +90,12 @@
       "counts": true
     }
   ],
-  "rank": 90
+  "faction_points": [
+    {
+      "faction": "Astra Militarum",
+      "points": 144.007,
+      "events_played": 5
+    }
+  ],
+  "rank": 86
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Emperor's Children",
   "team": "The Warheads",
   "events": [
     {
@@ -107,5 +106,17 @@
       "counts": false
     }
   ],
-  "rank": 17
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 261.395,
+      "events_played": 5
+    },
+    {
+      "faction": "Emperor's Children",
+      "points": 85.714,
+      "events_played": 1
+    }
+  ],
+  "rank": 16
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Leagues of Votann",
   "team": "Waterford Tabletop Gaming Community",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 216
+  "faction_points": [
+    {
+      "faction": "Leagues of Votann",
+      "points": 54.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 211
 }

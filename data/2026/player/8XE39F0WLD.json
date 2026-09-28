@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Chaos Knights",
   "team": "Team Yeti",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 341
+  "faction_points": [
+    {
+      "faction": "Chaos Knights",
+      "points": 19.298,
+      "events_played": 1
+    }
+  ],
+  "rank": 336
 }

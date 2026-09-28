@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Grey Knights",
   "team": null,
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 400
+  "faction_points": [
+    {
+      "faction": "Grey Knights",
+      "points": 6.25,
+      "events_played": 1
+    }
+  ],
+  "rank": 395
 }

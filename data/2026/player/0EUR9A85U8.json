@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Necrons",
   "team": null,
   "events": [
     {
@@ -91,5 +90,27 @@
       "counts": false
     }
   ],
-  "rank": 85
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 71.465,
+      "events_played": 2
+    },
+    {
+      "faction": "Unknown",
+      "points": 39.789,
+      "events_played": 1
+    },
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 22.5,
+      "events_played": 1
+    },
+    {
+      "faction": "Aeldari",
+      "points": 6.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 81
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Aeldari",
   "team": null,
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 237
+  "faction_points": [
+    {
+      "faction": "Aeldari",
+      "points": 45.9,
+      "events_played": 2
+    }
+  ],
+  "rank": 232
 }

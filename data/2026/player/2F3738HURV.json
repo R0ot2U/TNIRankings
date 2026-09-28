@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Emperor's Children",
   "team": "Sink",
   "events": [
     {
@@ -91,5 +90,22 @@
       "counts": true
     }
   ],
-  "rank": 38
+  "faction_points": [
+    {
+      "faction": "Leagues of Votann",
+      "points": 108.346,
+      "events_played": 2
+    },
+    {
+      "faction": "Genestealer Cult",
+      "points": 97.143,
+      "events_played": 2
+    },
+    {
+      "faction": "Emperor's Children",
+      "points": 59.343,
+      "events_played": 1
+    }
+  ],
+  "rank": 36
 }

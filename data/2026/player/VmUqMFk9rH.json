@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Blood Angels",
   "team": "The Spoon Collectors",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 93
+  "faction_points": [
+    {
+      "faction": "Blood Angels",
+      "points": 127.028,
+      "events_played": 2
+    }
+  ],
+  "rank": 89
 }

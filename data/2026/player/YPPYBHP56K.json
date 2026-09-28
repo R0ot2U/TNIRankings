@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Tyranids",
   "team": "Sandbox Sad Squigs",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 155
+  "faction_points": [
+    {
+      "faction": "Tyranids",
+      "points": 84.0,
+      "events_played": 2
+    }
+  ],
+  "rank": 150
 }

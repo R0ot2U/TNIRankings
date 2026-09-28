@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Tyranids",
   "team": null,
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 100
+  "faction_points": [
+    {
+      "faction": "Tyranids",
+      "points": 80.702,
+      "events_played": 1
+    },
+    {
+      "faction": "Adeptus Custodes",
+      "points": 40.714,
+      "events_played": 1
+    }
+  ],
+  "rank": 96
 }

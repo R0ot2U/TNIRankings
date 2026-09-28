@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Chaos Knights",
   "team": "Me myself and I. ",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 206
+  "faction_points": [
+    {
+      "faction": "Chaos Knights",
+      "points": 57.895,
+      "events_played": 1
+    }
+  ],
+  "rank": 201
 }

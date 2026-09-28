@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Leagues of Votann",
   "team": "The Spoon Collectors",
   "events": [
     {
@@ -59,5 +58,12 @@
       "counts": true
     }
   ],
-  "rank": 204
+  "faction_points": [
+    {
+      "faction": "Leagues of Votann",
+      "points": 58.911,
+      "events_played": 3
+    }
+  ],
+  "rank": 199
 }

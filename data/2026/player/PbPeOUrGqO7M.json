@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Blood Angels",
   "team": "The Grimsy Boys",
   "events": [
     {
@@ -75,5 +74,12 @@
       "counts": true
     }
   ],
-  "rank": 116
+  "faction_points": [
+    {
+      "faction": "Blood Angels",
+      "points": 111.134,
+      "events_played": 4
+    }
+  ],
+  "rank": 111
 }

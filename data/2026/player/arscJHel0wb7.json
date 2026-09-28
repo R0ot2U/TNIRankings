@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Tyranids",
   "team": "Shake & Bake",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 247
+  "faction_points": [
+    {
+      "faction": "Tyranids",
+      "points": 42.5,
+      "events_played": 1
+    }
+  ],
+  "rank": 242
 }

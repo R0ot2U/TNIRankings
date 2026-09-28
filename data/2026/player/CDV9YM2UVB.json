@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Aeldari",
   "team": "Legio Dál Riata",
   "events": [
     {
@@ -75,5 +74,22 @@
       "counts": true
     }
   ],
-  "rank": 53
+  "faction_points": [
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 119.643,
+      "events_played": 2
+    },
+    {
+      "faction": "Aeldari",
+      "points": 50.0,
+      "events_played": 1
+    },
+    {
+      "faction": "Death Guard",
+      "points": 26.316,
+      "events_played": 1
+    }
+  ],
+  "rank": 49
 }

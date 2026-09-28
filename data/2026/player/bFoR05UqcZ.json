@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Tyranids",
   "team": "Drogheda Tabletop Lodge",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 124
+  "faction_points": [
+    {
+      "faction": "Tyranids",
+      "points": 103.169,
+      "events_played": 2
+    }
+  ],
+  "rank": 119
 }

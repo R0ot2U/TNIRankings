@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Thousand Sons",
   "team": "Seals are us ",
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 126
+  "faction_points": [
+    {
+      "faction": "Emperor's Children",
+      "points": 75.0,
+      "events_played": 1
+    },
+    {
+      "faction": "Thousand Sons",
+      "points": 27.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 121
 }

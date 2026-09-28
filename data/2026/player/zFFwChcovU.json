@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Drukhari",
   "team": "Kilkenny Nerd Club",
   "events": [
     {
@@ -59,5 +58,12 @@
       "counts": true
     }
   ],
-  "rank": 251
+  "faction_points": [
+    {
+      "faction": "Drukhari",
+      "points": 42.344,
+      "events_played": 3
+    }
+  ],
+  "rank": 246
 }

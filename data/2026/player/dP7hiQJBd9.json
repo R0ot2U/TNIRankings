@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Necrons",
   "team": "Solar Wars",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 174
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 72.5,
+      "events_played": 1
+    }
+  ],
+  "rank": 169
 }

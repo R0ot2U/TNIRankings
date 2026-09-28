@@ -8,7 +8,6 @@
     "ROI",
     "NI"
   ],
-  "faction": "Emperor's Children",
   "team": "Maghera Wargaming",
   "events": [
     {
@@ -44,5 +43,12 @@
       "counts": true
     }
   ],
-  "rank": 135
+  "faction_points": [
+    {
+      "faction": "Emperor's Children",
+      "points": 95.871,
+      "events_played": 2
+    }
+  ],
+  "rank": 130
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Necrons",
   "team": "Sneaky Midnight Uncles",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 221
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 52.5,
+      "events_played": 1
+    }
+  ],
+  "rank": 216
 }

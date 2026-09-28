@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Adeptus Custodes",
   "team": null,
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 402
+  "faction_points": [
+    {
+      "faction": "Adeptus Custodes",
+      "points": 5.4,
+      "events_played": 1
+    }
+  ],
+  "rank": 397
 }

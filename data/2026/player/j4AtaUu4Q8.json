@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Adeptus Mechanicus",
   "team": "Spectrum Warriors",
   "events": [
     {
@@ -91,5 +90,12 @@
       "counts": false
     }
   ],
-  "rank": 71
+  "faction_points": [
+    {
+      "faction": "Adeptus Mechanicus",
+      "points": 173.577,
+      "events_played": 5
+    }
+  ],
+  "rank": 67
 }

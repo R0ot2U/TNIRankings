@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Necrons",
   "team": "The boys are back in town",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 119
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 109.725,
+      "events_played": 2
+    }
+  ],
+  "rank": 114
 }

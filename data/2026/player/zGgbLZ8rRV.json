@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Space Wolves",
   "team": "Spectrum Warriors",
   "events": [
     {
@@ -187,5 +186,12 @@
       "counts": false
     }
   ],
-  "rank": 14
+  "faction_points": [
+    {
+      "faction": "Space Wolves",
+      "points": 628.462,
+      "events_played": 11
+    }
+  ],
+  "rank": 13
 }

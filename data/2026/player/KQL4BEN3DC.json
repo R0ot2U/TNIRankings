@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Dark Angels",
   "team": null,
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 272
+  "faction_points": [
+    {
+      "faction": "Dark Angels",
+      "points": 36.0,
+      "events_played": 2
+    }
+  ],
+  "rank": 267
 }

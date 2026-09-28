@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Adeptus Custodes",
   "team": "War Shed",
   "events": [
     {
@@ -59,5 +58,17 @@
       "counts": true
     }
   ],
-  "rank": 107
+  "faction_points": [
+    {
+      "faction": "World Eaters",
+      "points": 65.625,
+      "events_played": 1
+    },
+    {
+      "faction": "Adeptus Custodes",
+      "points": 50.455,
+      "events_played": 2
+    }
+  ],
+  "rank": 103
 }

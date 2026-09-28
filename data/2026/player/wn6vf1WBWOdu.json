@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Adeptus Mechanicus",
   "team": "Kilkenny Nerd Club",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 393
+  "faction_points": [
+    {
+      "faction": "Adeptus Mechanicus",
+      "points": 7.895,
+      "events_played": 1
+    }
+  ],
+  "rank": 388
 }

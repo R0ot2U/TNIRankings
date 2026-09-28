@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Emperor's Children",
   "team": null,
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 255
+  "faction_points": [
+    {
+      "faction": "Emperor's Children",
+      "points": 40.685,
+      "events_played": 2
+    }
+  ],
+  "rank": 250
 }

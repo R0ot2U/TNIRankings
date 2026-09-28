@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Chaos Knights",
   "team": "QUB Dragonslayers ",
   "events": [
     {
@@ -107,5 +106,22 @@
       "counts": true
     }
   ],
-  "rank": 56
+  "faction_points": [
+    {
+      "faction": "Death Guard",
+      "points": 170.027,
+      "events_played": 4
+    },
+    {
+      "faction": "Chaos Knights",
+      "points": 31.25,
+      "events_played": 1
+    },
+    {
+      "faction": "Chaos Space Marines",
+      "points": 10.714,
+      "events_played": 1
+    }
+  ],
+  "rank": 52
 }

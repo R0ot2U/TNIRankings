@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Black Templars",
   "team": "Donegal Dice Flingers",
   "events": [
     {
@@ -44,5 +43,12 @@
       "counts": true
     }
   ],
-  "rank": 82
+  "faction_points": [
+    {
+      "faction": "Black Templars",
+      "points": 138.211,
+      "events_played": 2
+    }
+  ],
+  "rank": 78
 }

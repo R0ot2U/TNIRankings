@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Space Marines (Astartes)",
   "team": "Brethren Wargaming Club",
   "events": [
     {
@@ -123,5 +122,12 @@
       "counts": true
     }
   ],
-  "rank": 57
+  "faction_points": [
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 252.076,
+      "events_played": 7
+    }
+  ],
+  "rank": 53
 }

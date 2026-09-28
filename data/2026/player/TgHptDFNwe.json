@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Drukhari",
   "team": "Legio Tír Chonaill",
   "events": [
     {
@@ -92,5 +91,12 @@
       "counts": true
     }
   ],
-  "rank": 60
+  "faction_points": [
+    {
+      "faction": "Drukhari",
+      "points": 185.786,
+      "events_played": 5
+    }
+  ],
+  "rank": 56
 }

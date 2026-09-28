@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Adepta Sororitas",
   "team": "Tuff Kunts",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 287
+  "faction_points": [
+    {
+      "faction": "Adepta Sororitas",
+      "points": 32.308,
+      "events_played": 1
+    }
+  ],
+  "rank": 282
 }

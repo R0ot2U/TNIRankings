@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Aeldari",
   "team": "M.U.G.S",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 171
+  "faction_points": [
+    {
+      "faction": "Aeldari",
+      "points": 75.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 166
 }

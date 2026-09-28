@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Tyranids",
   "team": "Cadre fireblade",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 376
+  "faction_points": [
+    {
+      "faction": "Tyranids",
+      "points": 10.8,
+      "events_played": 1
+    }
+  ],
+  "rank": 371
 }

@@ -94,7 +94,7 @@ async function init() {
     <div class="hero">
       <div>
         <h2>${p.player_name || uid}</h2>
-        <div class="meta">${regionsHtml(p.regions)} ${p.faction ? "· " + p.faction : ""}${p.team ? " · " + p.team : ""}</div>
+        <div class="meta">${regionsHtml(p.regions)}${p.team ? " · " + p.team : ""}</div>
       </div>
       <div class="hero-stats">
         <div class="stat-box"><div class="val" id="player-rank-val">${initialRank ?? "—"}</div><div class="lbl">Rank <span style="color:var(--dim)">(NI)</span></div></div>
@@ -111,7 +111,7 @@ async function init() {
         <table id="events-table">
           <thead>
             <tr>
-              <th>Date</th><th>Event</th><th>Region</th><th>Players</th>
+              <th>Date</th><th>Event</th><th>Region</th><th>Faction</th><th>Players</th>
               <th>Rounds</th><th>Placing</th><th>Max</th><th>Points</th>
             </tr>
           </thead>
@@ -121,6 +121,7 @@ async function init() {
                 <td style="color:var(--dim)" data-sort="${ev.date ? new Date(ev.date).getTime() : 0}">${fmtDate(ev.date)}</td>
                 <td><a class="list-link" href="${BCP_EVENT(ev.event_id)}" target="_blank" rel="noopener">${ev.event_name || ev.event_id}</a>${ev.forced ? ' <span class="badge badge-yellow">override</span>' : ""}</td>
                 <td>${regionBadge(ev.region)}</td>
+                <td>${ev.faction || "—"}</td>
                 <td>${ev.field_size ?? ""}</td>
                 <td>${ev.rounds ?? ""}</td>
                 <td>${ev.placing ?? ""}</td>

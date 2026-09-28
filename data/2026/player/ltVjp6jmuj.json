@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Orks",
   "team": "Multiple Orkasms",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 253
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 40.909,
+      "events_played": 1
+    }
+  ],
+  "rank": 248
 }

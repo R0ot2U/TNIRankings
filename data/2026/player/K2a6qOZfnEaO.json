@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Astra Militarum",
   "team": "Maghera Wargaming",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 417
+  "faction_points": [
+    {
+      "faction": "Astra Militarum",
+      "points": 3.429,
+      "events_played": 1
+    }
+  ],
+  "rank": 412
 }

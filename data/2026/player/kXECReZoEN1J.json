@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Space Wolves",
   "team": "Lil' Green Gools",
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 168
+  "faction_points": [
+    {
+      "faction": "Space Wolves",
+      "points": 43.2,
+      "events_played": 1
+    },
+    {
+      "faction": "Deathwatch",
+      "points": 34.615,
+      "events_played": 1
+    }
+  ],
+  "rank": 163
 }

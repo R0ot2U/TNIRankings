@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Drukhari",
   "team": null,
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 150
+  "faction_points": [
+    {
+      "faction": "Drukhari",
+      "points": 86.316,
+      "events_played": 2
+    }
+  ],
+  "rank": 145
 }

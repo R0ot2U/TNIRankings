@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Leagues of Votann",
   "team": "Athlone Tabletop Gaming Club",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 238
+  "faction_points": [
+    {
+      "faction": "Leagues of Votann",
+      "points": 45.9,
+      "events_played": 1
+    }
+  ],
+  "rank": 233
 }

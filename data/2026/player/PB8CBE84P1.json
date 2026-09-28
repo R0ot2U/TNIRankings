@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Chaos Daemons",
   "team": "Sink",
   "events": [
     {
@@ -108,5 +107,27 @@
       "counts": true
     }
   ],
-  "rank": 15
+  "faction_points": [
+    {
+      "faction": "Chaos Knights",
+      "points": 151.228,
+      "events_played": 2
+    },
+    {
+      "faction": "Chaos Daemons",
+      "points": 133.034,
+      "events_played": 2
+    },
+    {
+      "faction": "Drukhari",
+      "points": 57.857,
+      "events_played": 1
+    },
+    {
+      "faction": "Blood Angels",
+      "points": 5.102,
+      "events_played": 1
+    }
+  ],
+  "rank": 14
 }

@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Thousand Sons",
   "team": "Northern Wasters",
   "events": [
     {
@@ -59,5 +58,17 @@
       "counts": true
     }
   ],
-  "rank": 62
+  "faction_points": [
+    {
+      "faction": "Chaos Daemons",
+      "points": 125.965,
+      "events_played": 2
+    },
+    {
+      "faction": "Thousand Sons",
+      "points": 42.857,
+      "events_played": 1
+    }
+  ],
+  "rank": 58
 }

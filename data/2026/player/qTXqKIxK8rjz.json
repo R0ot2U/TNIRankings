@@ -8,7 +8,6 @@
     "ROI",
     "NI"
   ],
-  "faction": "T'au Empire",
   "team": "Three Rivers Gaming",
   "events": [
     {
@@ -60,5 +59,12 @@
       "counts": true
     }
   ],
-  "rank": 192
+  "faction_points": [
+    {
+      "faction": "T'au Empire",
+      "points": 63.287,
+      "events_played": 3
+    }
+  ],
+  "rank": 187
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Death Guard",
   "team": null,
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 233
+  "faction_points": [
+    {
+      "faction": "Death Guard",
+      "points": 48.6,
+      "events_played": 1
+    }
+  ],
+  "rank": 228
 }

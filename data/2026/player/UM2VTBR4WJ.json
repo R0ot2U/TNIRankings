@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Chaos Space Marines",
   "team": null,
   "events": [
     {
@@ -76,5 +75,17 @@
       "counts": true
     }
   ],
-  "rank": 16
+  "faction_points": [
+    {
+      "faction": "Astra Militarum",
+      "points": 157.072,
+      "events_played": 2
+    },
+    {
+      "faction": "Chaos Space Marines",
+      "points": 143.122,
+      "events_played": 2
+    }
+  ],
+  "rank": 15
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Necrons",
   "team": "Lil' Green Gools",
   "events": [
     {
@@ -91,5 +90,17 @@
       "counts": true
     }
   ],
-  "rank": 30
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 223.43,
+      "events_played": 4
+    },
+    {
+      "faction": "Unknown",
+      "points": 43.846,
+      "events_played": 1
+    }
+  ],
+  "rank": 28
 }

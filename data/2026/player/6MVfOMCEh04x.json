@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "World Eaters",
   "team": "Exploding Dice",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 144
+  "faction_points": [
+    {
+      "faction": "World Eaters",
+      "points": 90.625,
+      "events_played": 1
+    }
+  ],
+  "rank": 139
 }

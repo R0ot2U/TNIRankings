@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Thousand Sons",
   "team": "Lurgan Lads",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 300
+  "faction_points": [
+    {
+      "faction": "Thousand Sons",
+      "points": 28.125,
+      "events_played": 1
+    }
+  ],
+  "rank": 295
 }

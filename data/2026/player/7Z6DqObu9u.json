@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Black Templars",
   "team": null,
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 101
+  "faction_points": [
+    {
+      "faction": "Black Templars",
+      "points": 120.911,
+      "events_played": 2
+    }
+  ],
+  "rank": 97
 }

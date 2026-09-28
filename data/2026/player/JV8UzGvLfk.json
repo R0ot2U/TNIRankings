@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Orks",
   "team": "Drogheda Tabletop Lodge",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 376
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 10.8,
+      "events_played": 1
+    }
+  ],
+  "rank": 371
 }

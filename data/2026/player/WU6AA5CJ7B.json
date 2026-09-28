@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Space Wolves",
   "team": "GrayTTV_",
   "events": [
     {
@@ -92,5 +91,12 @@
       "counts": true
     }
   ],
-  "rank": 11
+  "faction_points": [
+    {
+      "faction": "Space Wolves",
+      "points": 357.318,
+      "events_played": 5
+    }
+  ],
+  "rank": 10
 }

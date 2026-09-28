@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Chaos Knights",
   "team": null,
   "events": [
     {
@@ -75,5 +74,12 @@
       "counts": true
     }
   ],
-  "rank": 87
+  "faction_points": [
+    {
+      "faction": "Chaos Knights",
+      "points": 132.227,
+      "events_played": 4
+    }
+  ],
+  "rank": 83
 }

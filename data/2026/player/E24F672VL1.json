@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Adepta Sororitas",
   "team": "Dogs Of War",
   "events": [
     {
@@ -59,5 +58,22 @@
       "counts": true
     }
   ],
-  "rank": 109
+  "faction_points": [
+    {
+      "faction": "T'au Empire",
+      "points": 50.0,
+      "events_played": 1
+    },
+    {
+      "faction": "Drukhari",
+      "points": 35.1,
+      "events_played": 1
+    },
+    {
+      "faction": "Adepta Sororitas",
+      "points": 29.7,
+      "events_played": 1
+    }
+  ],
+  "rank": 105
 }

@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Genestealer Cult",
   "team": "Team LolSheep",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 239
+  "faction_points": [
+    {
+      "faction": "Genestealer Cult",
+      "points": 45.614,
+      "events_played": 1
+    }
+  ],
+  "rank": 234
 }

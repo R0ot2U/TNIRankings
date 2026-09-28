@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Chaos Daemons",
   "team": "QUB Dragonslayers ",
   "events": [
     {
@@ -59,5 +58,17 @@
       "counts": true
     }
   ],
-  "rank": 118
+  "faction_points": [
+    {
+      "faction": "Chaos Daemons",
+      "points": 64.912,
+      "events_played": 1
+    },
+    {
+      "faction": "Emperor's Children",
+      "points": 44.821,
+      "events_played": 2
+    }
+  ],
+  "rank": 113
 }

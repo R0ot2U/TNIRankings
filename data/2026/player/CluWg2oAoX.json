@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Thousand Sons",
   "team": "Sink",
   "events": [
     {
@@ -107,5 +106,17 @@
       "counts": true
     }
   ],
-  "rank": 27
+  "faction_points": [
+    {
+      "faction": "Thousand Sons",
+      "points": 175.839,
+      "events_played": 3
+    },
+    {
+      "faction": "Tyranids",
+      "points": 144.521,
+      "events_played": 3
+    }
+  ],
+  "rank": 25
 }

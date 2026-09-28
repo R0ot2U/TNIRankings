@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Adepta Sororitas",
   "team": null,
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 434
+  "faction_points": [
+    {
+      "faction": "Adepta Sororitas",
+      "points": 1.02,
+      "events_played": 1
+    }
+  ],
+  "rank": 429
 }

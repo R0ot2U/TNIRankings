@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Imperial Knights",
   "team": "Legio Dal Riata",
   "events": [
     {
@@ -124,5 +123,12 @@
       "counts": true
     }
   ],
-  "rank": 28
+  "faction_points": [
+    {
+      "faction": "Imperial Knights",
+      "points": 345.7,
+      "events_played": 7
+    }
+  ],
+  "rank": 26
 }

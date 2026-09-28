@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Space Marines (Astartes)",
   "team": "TLC",
   "events": [
     {
@@ -59,5 +58,12 @@
       "counts": true
     }
   ],
-  "rank": 110
+  "faction_points": [
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 114.321,
+      "events_played": 3
+    }
+  ],
+  "rank": 106
 }

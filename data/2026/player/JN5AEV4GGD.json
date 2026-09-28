@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Orks",
   "team": "Solar Wars",
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 96
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 87.302,
+      "events_played": 1
+    },
+    {
+      "faction": "T'au Empire",
+      "points": 37.5,
+      "events_played": 1
+    }
+  ],
+  "rank": 92
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Chaos Daemons",
   "team": "Waterford Shedhammer",
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 123
+  "faction_points": [
+    {
+      "faction": "Chaos Daemons",
+      "points": 57.895,
+      "events_played": 1
+    },
+    {
+      "faction": "T'au Empire",
+      "points": 47.5,
+      "events_played": 1
+    }
+  ],
+  "rank": 118
 }

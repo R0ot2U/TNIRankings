@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Orks",
   "team": "Try Hard Wargaming",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 260
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 39.231,
+      "events_played": 1
+    }
+  ],
+  "rank": 255
 }

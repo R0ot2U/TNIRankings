@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Space Marines (Astartes)",
   "team": "Warhouse",
   "events": [
     {
@@ -75,5 +74,12 @@
       "counts": true
     }
   ],
-  "rank": 157
+  "faction_points": [
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 82.745,
+      "events_played": 4
+    }
+  ],
+  "rank": 152
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Leagues of Votann",
   "team": null,
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 75
+  "faction_points": [
+    {
+      "faction": "Leagues of Votann",
+      "points": 147.603,
+      "events_played": 2
+    }
+  ],
+  "rank": 71
 }

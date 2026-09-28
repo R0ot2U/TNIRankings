@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Adeptus Custodes",
   "team": "Carrick",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 276
+  "faction_points": [
+    {
+      "faction": "Adeptus Custodes",
+      "points": 35.088,
+      "events_played": 1
+    }
+  ],
+  "rank": 271
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Blood Angels",
   "team": null,
   "events": [
     {
@@ -91,5 +90,17 @@
       "counts": true
     }
   ],
-  "rank": 9
+  "faction_points": [
+    {
+      "faction": "Blood Angels",
+      "points": 324.752,
+      "events_played": 4
+    },
+    {
+      "faction": "Thousand Sons",
+      "points": 65.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 8
 }

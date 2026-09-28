@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Orks",
   "team": "The Spoon Collectors",
   "events": [
     {
@@ -59,5 +58,22 @@
       "counts": true
     }
   ],
-  "rank": 125
+  "faction_points": [
+    {
+      "faction": "World Eaters",
+      "points": 53.077,
+      "events_played": 1
+    },
+    {
+      "faction": "Orks",
+      "points": 41.727,
+      "events_played": 1
+    },
+    {
+      "faction": "Chaos",
+      "points": 7.5,
+      "events_played": 1
+    }
+  ],
+  "rank": 120
 }

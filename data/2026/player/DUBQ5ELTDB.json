@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Necrons",
   "team": "Tuff Kuntz",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 229
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 49.091,
+      "events_played": 1
+    }
+  ],
+  "rank": 224
 }

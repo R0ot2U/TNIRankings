@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Unknown",
   "team": "Solar Wars",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 226
+  "faction_points": [
+    {
+      "faction": "Unknown",
+      "points": 50.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 221
 }

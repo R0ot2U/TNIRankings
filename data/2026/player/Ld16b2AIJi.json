@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Emperor's Children",
   "team": "The Spoon Collectors",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 225
+  "faction_points": [
+    {
+      "faction": "Emperor's Children",
+      "points": 50.769,
+      "events_played": 1
+    }
+  ],
+  "rank": 220
 }

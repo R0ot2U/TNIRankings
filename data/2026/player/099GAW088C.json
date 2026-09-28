@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "T'au Empire",
   "team": "Brethren Wargaming Club",
   "events": [
     {
@@ -105,6 +104,28 @@
       "team": "Brethren Wargaming Club",
       "forced": false,
       "counts": false
+    }
+  ],
+  "faction_points": [
+    {
+      "faction": "T'au Empire",
+      "points": 272.738,
+      "events_played": 3
+    },
+    {
+      "faction": "Emperor's Children",
+      "points": 94.737,
+      "events_played": 1
+    },
+    {
+      "faction": "Death Guard",
+      "points": 45.0,
+      "events_played": 1
+    },
+    {
+      "faction": "Aeldari",
+      "points": 27.0,
+      "events_played": 1
     }
   ],
   "rank": 5

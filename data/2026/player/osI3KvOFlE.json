@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Death Guard",
   "team": "The Last Chancers",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 388
+  "faction_points": [
+    {
+      "faction": "Death Guard",
+      "points": 8.1,
+      "events_played": 1
+    }
+  ],
+  "rank": 383
 }

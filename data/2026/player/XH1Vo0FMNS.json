@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Space Marines (Astartes)",
   "team": "The last chancers ",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 264
+  "faction_points": [
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 37.8,
+      "events_played": 1
+    }
+  ],
+  "rank": 259
 }

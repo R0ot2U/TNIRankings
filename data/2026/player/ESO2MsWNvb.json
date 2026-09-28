@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Chaos Knights",
   "team": "Dundalk Gaming Community",
   "events": [
     {
@@ -91,5 +90,22 @@
       "counts": false
     }
   ],
-  "rank": 34
+  "faction_points": [
+    {
+      "faction": "Chaos Knights",
+      "points": 129.375,
+      "events_played": 2
+    },
+    {
+      "faction": "Death Guard",
+      "points": 101.241,
+      "events_played": 2
+    },
+    {
+      "faction": "Drukhari",
+      "points": 21.429,
+      "events_played": 1
+    }
+  ],
+  "rank": 32
 }

@@ -8,7 +8,6 @@
     "ROI",
     "NI"
   ],
-  "faction": "Tyranids",
   "team": "The Cesspit",
   "events": [
     {
@@ -76,5 +75,17 @@
       "counts": true
     }
   ],
-  "rank": 73
+  "faction_points": [
+    {
+      "faction": "Tyranids",
+      "points": 140.925,
+      "events_played": 3
+    },
+    {
+      "faction": "T'au Empire",
+      "points": 7.5,
+      "events_played": 1
+    }
+  ],
+  "rank": 69
 }

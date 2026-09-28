@@ -8,7 +8,6 @@
     "ROI",
     "NI"
   ],
-  "faction": "Dark Angels",
   "team": "The Cesspit",
   "events": [
     {
@@ -60,5 +59,12 @@
       "counts": true
     }
   ],
-  "rank": 164
+  "faction_points": [
+    {
+      "faction": "Dark Angels",
+      "points": 80.254,
+      "events_played": 3
+    }
+  ],
+  "rank": 159
 }

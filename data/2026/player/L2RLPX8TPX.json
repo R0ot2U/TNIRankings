@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Leagues of Votann",
   "team": "Síbín Strategists",
   "events": [
     {
@@ -107,5 +106,27 @@
       "counts": true
     }
   ],
-  "rank": 42
+  "faction_points": [
+    {
+      "faction": "Leagues of Votann",
+      "points": 131.215,
+      "events_played": 3
+    },
+    {
+      "faction": "Thousand Sons",
+      "points": 63.265,
+      "events_played": 1
+    },
+    {
+      "faction": "Adeptus Mechanicus",
+      "points": 35.0,
+      "events_played": 1
+    },
+    {
+      "faction": "Dark Angels",
+      "points": 27.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 40
 }

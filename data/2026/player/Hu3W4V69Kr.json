@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Tyranids",
   "team": null,
   "events": [
     {
@@ -75,5 +74,17 @@
       "counts": true
     }
   ],
-  "rank": 127
+  "faction_points": [
+    {
+      "faction": "Tyranids",
+      "points": 92.306,
+      "events_played": 3
+    },
+    {
+      "faction": "Astra Militarum",
+      "points": 9.091,
+      "events_played": 1
+    }
+  ],
+  "rank": 122
 }

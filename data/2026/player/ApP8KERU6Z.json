@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Necrons",
   "team": "Try Hard Wargaming",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 59
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 176.389,
+      "events_played": 2
+    }
+  ],
+  "rank": 55
 }

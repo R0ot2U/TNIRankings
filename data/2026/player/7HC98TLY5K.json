@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Aeldari",
   "team": "Spectrum Warriors",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 411
+  "faction_points": [
+    {
+      "faction": "Aeldari",
+      "points": 4.762,
+      "events_played": 1
+    }
+  ],
+  "rank": 406
 }

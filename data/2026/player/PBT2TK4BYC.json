@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Death Guard",
   "team": "Spectrum Warriors",
   "events": [
     {
@@ -107,5 +106,22 @@
       "counts": false
     }
   ],
-  "rank": 37
+  "faction_points": [
+    {
+      "faction": "Emperor's Children",
+      "points": 149.5,
+      "events_played": 3
+    },
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 103.8,
+      "events_played": 2
+    },
+    {
+      "faction": "Death Guard",
+      "points": 57.143,
+      "events_played": 1
+    }
+  ],
+  "rank": 35
 }

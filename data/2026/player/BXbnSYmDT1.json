@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Space Marines (Astartes)",
   "team": null,
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 215
+  "faction_points": [
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 54.211,
+      "events_played": 2
+    }
+  ],
+  "rank": 210
 }

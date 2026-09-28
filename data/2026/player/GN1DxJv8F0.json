@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Orks",
   "team": "Spectrum Warriors",
   "events": [
     {
@@ -107,5 +106,12 @@
       "counts": false
     }
   ],
-  "rank": 39
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 267.408,
+      "events_played": 6
+    }
+  ],
+  "rank": 37
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Adeptus Custodes",
   "team": "Sandbox Sad Squigs",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 88
+  "faction_points": [
+    {
+      "faction": "Adeptus Custodes",
+      "points": 132.103,
+      "events_played": 2
+    }
+  ],
+  "rank": 84
 }

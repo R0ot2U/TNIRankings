@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Dark Angels",
   "team": "Waterford Tabletop Gaming Community",
   "events": [
     {
@@ -107,5 +106,17 @@
       "counts": true
     }
   ],
-  "rank": 10
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 274.336,
+      "events_played": 4
+    },
+    {
+      "faction": "Dark Angels",
+      "points": 157.184,
+      "events_played": 2
+    }
+  ],
+  "rank": 9
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Imperial Knights",
   "team": "Brethern Wargaming club",
   "events": [
     {
@@ -91,5 +90,22 @@
       "counts": false
     }
   ],
-  "rank": 52
+  "faction_points": [
+    {
+      "faction": "Adeptus Custodes",
+      "points": 92.858,
+      "events_played": 2
+    },
+    {
+      "faction": "Chaos Knights",
+      "points": 92.336,
+      "events_played": 2
+    },
+    {
+      "faction": "Imperial Knights",
+      "points": 41.27,
+      "events_played": 1
+    }
+  ],
+  "rank": 48
 }

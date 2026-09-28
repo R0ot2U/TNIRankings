@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Imperial Knights",
   "team": "The Tactical Titans ",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 201
+  "faction_points": [
+    {
+      "faction": "Imperial Knights",
+      "points": 59.649,
+      "events_played": 1
+    }
+  ],
+  "rank": 196
 }

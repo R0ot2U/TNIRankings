@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "World Eaters",
   "team": null,
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 332
+  "faction_points": [
+    {
+      "faction": "World Eaters",
+      "points": 21.429,
+      "events_played": 1
+    }
+  ],
+  "rank": 327
 }

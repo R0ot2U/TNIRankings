@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Imperial Knights",
   "team": null,
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 211
+  "faction_points": [
+    {
+      "faction": "Imperial Knights",
+      "points": 56.316,
+      "events_played": 2
+    }
+  ],
+  "rank": 206
 }

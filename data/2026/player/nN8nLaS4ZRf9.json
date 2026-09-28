@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Orks",
   "team": "Sandbox Sad Squigs",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 166
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 79.921,
+      "events_played": 2
+    }
+  ],
+  "rank": 161
 }

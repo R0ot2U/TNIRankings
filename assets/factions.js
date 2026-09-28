@@ -1,6 +1,9 @@
-/* Faction Rankings page. Totals each NI player's season points by faction
-   (a player's faction is their single latest one, same value shown on the
-   main rankings page), then surfaces the top 3 scoring players per faction. */
+/* Faction Rankings page. Each player's rankings.json row carries a
+   `faction_points` breakdown — points earned per faction, summed only from
+   the events they actually played that faction in (so a player who
+   switched factions mid-season only contributes the points earned under
+   each one). This page totals those breakdowns across NI players and
+   surfaces the top 3 scoring players per faction. */
 
 let rows = [];       // raw player rows from rankings.json
 let factions = [];   // aggregated per-faction rows
@@ -43,16 +46,22 @@ async function init() {
 function aggregateFactions(pool) {
   const byFaction = new Map();
   for (const r of pool) {
-    const faction = r.faction || "Unknown";
-    if (!byFaction.has(faction)) byFaction.set(faction, []);
-    byFaction.get(faction).push(r);
+    for (const fp of (r.faction_points || [])) {
+      if (!byFaction.has(fp.faction)) byFaction.set(fp.faction, []);
+      byFaction.get(fp.faction).push({
+        user_id: r.user_id,
+        player_name: r.player_name,
+        points: fp.points,
+        events_played: fp.events_played,
+      });
+    }
   }
 
   const list = [...byFaction.entries()].map(([faction, players]) => {
-    const ordered = [...players].sort((a, b) => b.total_points - a.total_points);
+    const ordered = [...players].sort((a, b) => b.points - a.points);
     return {
       faction,
-      total_points: Math.round(players.reduce((sum, p) => sum + (p.total_points || 0), 0) * 1000) / 1000,
+      total_points: Math.round(players.reduce((sum, p) => sum + (p.points || 0), 0) * 1000) / 1000,
       player_count: players.length,
       top_players: ordered.slice(0, 3),
     };
@@ -94,7 +103,7 @@ function topPlayersHtml(top) {
   return top.map((p, i) => `
     <div>
       <a class="faction-link" href="${playerHref(p.user_id)}">${i + 1}. ${p.player_name || "Unknown"}</a>
-      <span style="color:var(--dim)">(${fmtPoints(p.total_points)})</span>
+      <span style="color:var(--dim)">(${fmtPoints(p.points)})</span>
     </div>`).join("");
 }
 

@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Adeptus Mechanicus",
   "team": "The Cesspit",
   "events": [
     {
@@ -92,5 +91,17 @@
       "counts": true
     }
   ],
-  "rank": 20
+  "faction_points": [
+    {
+      "faction": "Adeptus Mechanicus",
+      "points": 168.467,
+      "events_played": 3
+    },
+    {
+      "faction": "Imperial Knights",
+      "points": 147.5,
+      "events_played": 2
+    }
+  ],
+  "rank": 19
 }

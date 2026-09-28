@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Orks",
   "team": null,
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 371
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 12.857,
+      "events_played": 1
+    }
+  ],
+  "rank": 366
 }

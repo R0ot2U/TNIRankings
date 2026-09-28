@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Chaos Space Marines",
   "team": "Kilkenny Nerd Club",
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 209
+  "faction_points": [
+    {
+      "faction": "Chaos Daemons",
+      "points": 52.273,
+      "events_played": 1
+    },
+    {
+      "faction": "Chaos Space Marines",
+      "points": 5.263,
+      "events_played": 1
+    }
+  ],
+  "rank": 204
 }

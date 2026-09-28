@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Adeptus Mechanicus",
   "team": "Waterford Tabletop Gaming Community",
   "events": [
     {
@@ -75,5 +74,17 @@
       "counts": true
     }
   ],
-  "rank": 67
+  "faction_points": [
+    {
+      "faction": "Astra Militarum",
+      "points": 145.936,
+      "events_played": 3
+    },
+    {
+      "faction": "Adeptus Mechanicus",
+      "points": 13.158,
+      "events_played": 1
+    }
+  ],
+  "rank": 63
 }

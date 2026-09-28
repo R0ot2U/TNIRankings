@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Tyranids",
   "team": "Northern Ireland",
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 68
+  "faction_points": [
+    {
+      "faction": "Chaos Space Marines",
+      "points": 86.735,
+      "events_played": 1
+    },
+    {
+      "faction": "Tyranids",
+      "points": 68.339,
+      "events_played": 1
+    }
+  ],
+  "rank": 64
 }

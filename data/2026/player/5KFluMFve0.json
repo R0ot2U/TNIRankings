@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Orks",
   "team": "Try Hard Wargaming",
   "events": [
     {
@@ -59,5 +58,17 @@
       "counts": true
     }
   ],
-  "rank": 66
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 100.953,
+      "events_played": 2
+    },
+    {
+      "faction": "Adeptus Custodes",
+      "points": 60.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 62
 }

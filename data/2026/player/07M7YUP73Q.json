@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Tyranids",
   "team": "QUB Dragonslayers ",
   "events": [
     {
@@ -75,5 +74,12 @@
       "counts": true
     }
   ],
-  "rank": 51
+  "faction_points": [
+    {
+      "faction": "Tyranids",
+      "points": 197.421,
+      "events_played": 4
+    }
+  ],
+  "rank": 47
 }

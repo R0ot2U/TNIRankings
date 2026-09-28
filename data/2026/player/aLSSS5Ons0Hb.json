@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Astra Militarum",
   "team": null,
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 285
+  "faction_points": [
+    {
+      "faction": "Astra Militarum",
+      "points": 32.4,
+      "events_played": 1
+    }
+  ],
+  "rank": 280
 }

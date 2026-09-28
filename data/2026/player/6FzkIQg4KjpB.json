@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Adepta Sororitas",
   "team": "Kill Team Grox",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 433
+  "faction_points": [
+    {
+      "faction": "Adepta Sororitas",
+      "points": 1.754,
+      "events_played": 1
+    }
+  ],
+  "rank": 428
 }

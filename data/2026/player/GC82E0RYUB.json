@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Adeptus Custodes",
   "team": null,
   "events": [
     {
@@ -75,5 +74,22 @@
       "counts": true
     }
   ],
-  "rank": 35
+  "faction_points": [
+    {
+      "faction": "Astra Militarum",
+      "points": 116.967,
+      "events_played": 2
+    },
+    {
+      "faction": "Tyranids",
+      "points": 55.385,
+      "events_played": 1
+    },
+    {
+      "faction": "Adeptus Custodes",
+      "points": 51.545,
+      "events_played": 1
+    }
+  ],
+  "rank": 33
 }

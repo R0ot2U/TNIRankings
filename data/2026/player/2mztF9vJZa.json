@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Aeldari",
   "team": "The Spoon Collectors",
   "events": [
     {
@@ -75,5 +74,17 @@
       "counts": true
     }
   ],
-  "rank": 45
+  "faction_points": [
+    {
+      "faction": "Drukhari",
+      "points": 103.654,
+      "events_played": 2
+    },
+    {
+      "faction": "Aeldari",
+      "points": 99.9,
+      "events_played": 2
+    }
+  ],
+  "rank": 42
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "T'au Empire",
   "team": "Spectrum Warriors",
   "events": [
     {
@@ -123,5 +122,17 @@
       "counts": false
     }
   ],
-  "rank": 69
+  "faction_points": [
+    {
+      "faction": "T'au Empire",
+      "points": 157.212,
+      "events_played": 5
+    },
+    {
+      "faction": "Necrons",
+      "points": 50.636,
+      "events_played": 2
+    }
+  ],
+  "rank": 65
 }

@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Tyranids",
   "team": "The Tactical Titans ",
   "events": [
     {
@@ -122,6 +121,28 @@
       "team": "The Tactical Titans ",
       "forced": false,
       "counts": false
+    }
+  ],
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 291.319,
+      "events_played": 3
+    },
+    {
+      "faction": "Tyranids",
+      "points": 91.339,
+      "events_played": 2
+    },
+    {
+      "faction": "World Eaters",
+      "points": 40.714,
+      "events_played": 1
+    },
+    {
+      "faction": "Aeldari",
+      "points": 15.0,
+      "events_played": 1
     }
   ],
   "rank": 6

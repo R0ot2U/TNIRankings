@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Chaos Space Marines",
   "team": "Kill Team Grox",
   "events": [
     {
@@ -59,5 +58,12 @@
       "counts": true
     }
   ],
-  "rank": 268
+  "faction_points": [
+    {
+      "faction": "Chaos Space Marines",
+      "points": 37.411,
+      "events_played": 3
+    }
+  ],
+  "rank": 263
 }

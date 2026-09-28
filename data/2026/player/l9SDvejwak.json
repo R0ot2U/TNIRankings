@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Grey Knights",
   "team": "Dundalk Gaming Community",
   "events": [
     {
@@ -122,6 +121,13 @@
       "team": "Dundalk Gaming Community",
       "forced": false,
       "counts": false
+    }
+  ],
+  "faction_points": [
+    {
+      "faction": "Grey Knights",
+      "points": 544.23,
+      "events_played": 7
     }
   ],
   "rank": 4

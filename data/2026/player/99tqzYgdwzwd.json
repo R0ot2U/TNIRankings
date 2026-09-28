@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Chaos Space Marines",
   "team": "Seals are us ",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 280
+  "faction_points": [
+    {
+      "faction": "Chaos Space Marines",
+      "points": 33.477,
+      "events_played": 2
+    }
+  ],
+  "rank": 275
 }

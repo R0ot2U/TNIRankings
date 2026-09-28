@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Blood Angels",
   "team": "Exploding Dice",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 200
+  "faction_points": [
+    {
+      "faction": "Blood Angels",
+      "points": 60.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 195
 }

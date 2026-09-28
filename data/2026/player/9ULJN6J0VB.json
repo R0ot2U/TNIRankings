@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Orks",
   "team": null,
   "events": [
     {
@@ -44,5 +43,12 @@
       "counts": true
     }
   ],
-  "rank": 288
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 32.222,
+      "events_played": 2
+    }
+  ],
+  "rank": 283
 }

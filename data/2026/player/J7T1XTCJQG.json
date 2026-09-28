@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Space Marines (Astartes)",
   "team": "The Tactical Titans ",
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 74
+  "faction_points": [
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 92.982,
+      "events_played": 1
+    },
+    {
+      "faction": "Adeptus Custodes",
+      "points": 55.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 70
 }

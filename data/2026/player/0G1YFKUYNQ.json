@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Necrons",
   "team": null,
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 282
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 32.684,
+      "events_played": 2
+    }
+  ],
+  "rank": 277
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Grey Knights",
   "team": null,
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 143
+  "faction_points": [
+    {
+      "faction": "Grey Knights",
+      "points": 58.333,
+      "events_played": 1
+    },
+    {
+      "faction": "Adeptus Custodes",
+      "points": 32.4,
+      "events_played": 1
+    }
+  ],
+  "rank": 138
 }

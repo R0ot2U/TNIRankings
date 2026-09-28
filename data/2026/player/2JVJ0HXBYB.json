@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Chaos Space Marines",
   "team": "121st chapter",
   "events": [
     {
@@ -73,6 +72,23 @@
       "team": "121st chapter",
       "forced": false,
       "counts": true
+    }
+  ],
+  "faction_points": [
+    {
+      "faction": "Chaos Space Marines",
+      "points": 196.825,
+      "events_played": 2
+    },
+    {
+      "faction": "T'au Empire",
+      "points": 100.0,
+      "events_played": 1
+    },
+    {
+      "faction": "Chaos Daemons",
+      "points": 97.5,
+      "events_played": 1
     }
   ],
   "rank": 2

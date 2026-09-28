@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Chaos Space Marines",
   "team": "The Grimsy Boys",
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 194
+  "faction_points": [
+    {
+      "faction": "Chaos Space Marines",
+      "points": 45.0,
+      "events_played": 1
+    },
+    {
+      "faction": "Black Templars",
+      "points": 17.143,
+      "events_played": 1
+    }
+  ],
+  "rank": 189
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "T'au Empire",
   "team": null,
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 136
+  "faction_points": [
+    {
+      "faction": "T'au Empire",
+      "points": 95.794,
+      "events_played": 2
+    }
+  ],
+  "rank": 131
 }

@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Drukhari",
   "team": "Donegal Dice Flingers",
   "events": [
     {
@@ -92,5 +91,12 @@
       "counts": false
     }
   ],
-  "rank": 102
+  "faction_points": [
+    {
+      "faction": "Drukhari",
+      "points": 131.86,
+      "events_played": 5
+    }
+  ],
+  "rank": 98
 }

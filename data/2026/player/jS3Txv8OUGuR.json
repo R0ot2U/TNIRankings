@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Chaos Knights",
   "team": null,
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 258
+  "faction_points": [
+    {
+      "faction": "Chaos Knights",
+      "points": 23.684,
+      "events_played": 1
+    },
+    {
+      "faction": "World Eaters",
+      "points": 16.279,
+      "events_played": 1
+    }
+  ],
+  "rank": 253
 }

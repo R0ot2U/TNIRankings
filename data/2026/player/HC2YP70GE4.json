@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Dark Angels",
   "team": "Brethern Wargaming",
   "events": [
     {
@@ -155,5 +154,22 @@
       "counts": false
     }
   ],
-  "rank": 108
+  "faction_points": [
+    {
+      "faction": "Dark Angels",
+      "points": 65.803,
+      "events_played": 3
+    },
+    {
+      "faction": "Death Guard",
+      "points": 37.209,
+      "events_played": 1
+    },
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 37.077,
+      "events_played": 5
+    }
+  ],
+  "rank": 104
 }

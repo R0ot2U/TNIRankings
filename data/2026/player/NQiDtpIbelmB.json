@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Tyranids",
   "team": null,
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 292
+  "faction_points": [
+    {
+      "faction": "Tyranids",
+      "points": 31.0,
+      "events_played": 2
+    }
+  ],
+  "rank": 287
 }

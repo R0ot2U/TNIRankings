@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Necrons",
   "team": "Sandbox Sad Squigs",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 189
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 64.524,
+      "events_played": 2
+    }
+  ],
+  "rank": 184
 }

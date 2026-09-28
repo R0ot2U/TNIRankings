@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Astra Militarum",
   "team": "Bristol Crusaders",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 175
+  "faction_points": [
+    {
+      "faction": "Astra Militarum",
+      "points": 71.93,
+      "events_played": 1
+    }
+  ],
+  "rank": 170
 }

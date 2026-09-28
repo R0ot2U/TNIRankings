@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Aeldari",
   "team": "Sandbox Sad Squigs",
   "events": [
     {
@@ -59,5 +58,12 @@
       "counts": true
     }
   ],
-  "rank": 114
+  "faction_points": [
+    {
+      "faction": "Aeldari",
+      "points": 111.496,
+      "events_played": 3
+    }
+  ],
+  "rank": 109
 }

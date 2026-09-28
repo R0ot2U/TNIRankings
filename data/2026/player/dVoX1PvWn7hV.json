@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Adeptus Custodes",
   "team": "The Grimsy Boys",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 278
+  "faction_points": [
+    {
+      "faction": "Adeptus Custodes",
+      "points": 34.375,
+      "events_played": 1
+    }
+  ],
+  "rank": 273
 }

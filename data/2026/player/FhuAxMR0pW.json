@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Leagues of Votann",
   "team": null,
   "events": [
     {
@@ -76,5 +75,17 @@
       "counts": true
     }
   ],
-  "rank": 12
+  "faction_points": [
+    {
+      "faction": "Leagues of Votann",
+      "points": 218.638,
+      "events_played": 3
+    },
+    {
+      "faction": "T'au Empire",
+      "points": 93.75,
+      "events_played": 1
+    }
+  ],
+  "rank": 11
 }

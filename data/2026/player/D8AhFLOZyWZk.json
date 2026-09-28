@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Thousand Sons",
   "team": null,
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 399
+  "faction_points": [
+    {
+      "faction": "Tyranids",
+      "points": 5.0,
+      "events_played": 1
+    },
+    {
+      "faction": "Thousand Sons",
+      "points": 1.587,
+      "events_played": 1
+    }
+  ],
+  "rank": 394
 }

@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Adepta Sororitas",
   "team": "Try Hard Wargaming",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 193
+  "faction_points": [
+    {
+      "faction": "Adepta Sororitas",
+      "points": 62.5,
+      "events_played": 1
+    }
+  ],
+  "rank": 188
 }

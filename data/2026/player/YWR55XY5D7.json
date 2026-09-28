@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Adeptus Custodes",
   "team": "Sink",
   "events": [
     {
@@ -140,5 +139,27 @@
       "counts": false
     }
   ],
-  "rank": 36
+  "faction_points": [
+    {
+      "faction": "Thousand Sons",
+      "points": 185.478,
+      "events_played": 4
+    },
+    {
+      "faction": "Dark Angels",
+      "points": 73.125,
+      "events_played": 2
+    },
+    {
+      "faction": "Adeptus Custodes",
+      "points": 59.375,
+      "events_played": 1
+    },
+    {
+      "faction": "Death Guard",
+      "points": 45.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 34
 }

@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Orks",
   "team": "Kill Team Grox",
   "events": [
     {
@@ -140,5 +139,12 @@
       "counts": false
     }
   ],
-  "rank": 86
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 172.94,
+      "events_played": 8
+    }
+  ],
+  "rank": 82
 }

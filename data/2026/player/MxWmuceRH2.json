@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Death Guard",
   "team": "The Spoon Collectors",
   "events": [
     {
@@ -107,5 +106,22 @@
       "counts": false
     }
   ],
-  "rank": 18
+  "faction_points": [
+    {
+      "faction": "Death Guard",
+      "points": 207.637,
+      "events_played": 3
+    },
+    {
+      "faction": "Genestealer Cult",
+      "points": 121.13,
+      "events_played": 2
+    },
+    {
+      "faction": "Chaos Daemons",
+      "points": 40.5,
+      "events_played": 1
+    }
+  ],
+  "rank": 17
 }

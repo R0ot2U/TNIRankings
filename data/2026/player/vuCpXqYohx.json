@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Aeldari",
   "team": "Try Hard Wargaming",
   "events": [
     {
@@ -105,6 +104,23 @@
       "team": "Try Hard Wargaming",
       "forced": false,
       "counts": false
+    }
+  ],
+  "faction_points": [
+    {
+      "faction": "Aeldari",
+      "points": 390.807,
+      "events_played": 4
+    },
+    {
+      "faction": "Deathwatch",
+      "points": 100.0,
+      "events_played": 1
+    },
+    {
+      "faction": "Chaos Daemons",
+      "points": 93.08,
+      "events_played": 1
     }
   ],
   "rank": 1

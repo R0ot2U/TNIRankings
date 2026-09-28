@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "T'au Empire",
   "team": "Sink",
   "events": [
     {
@@ -59,5 +58,12 @@
       "counts": true
     }
   ],
-  "rank": 64
+  "faction_points": [
+    {
+      "faction": "T'au Empire",
+      "points": 161.166,
+      "events_played": 3
+    }
+  ],
+  "rank": 60
 }

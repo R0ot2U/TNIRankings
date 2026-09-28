@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Necrons",
   "team": "Kilkenny Nerd Club",
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 97
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 78.947,
+      "events_played": 1
+    },
+    {
+      "faction": "Adeptus Custodes",
+      "points": 45.0,
+      "events_played": 1
+    }
+  ],
+  "rank": 93
 }

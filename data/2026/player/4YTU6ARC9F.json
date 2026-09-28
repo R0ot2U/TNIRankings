@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Dark Angels",
   "team": "The Spoon Collectors",
   "events": [
     {
@@ -43,5 +42,12 @@
       "counts": true
     }
   ],
-  "rank": 220
+  "faction_points": [
+    {
+      "faction": "Dark Angels",
+      "points": 53.123,
+      "events_played": 2
+    }
+  ],
+  "rank": 215
 }

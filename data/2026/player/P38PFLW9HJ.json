@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Drukhari",
   "team": "Waterford Tabletop Gaming Community",
   "events": [
     {
@@ -91,5 +90,12 @@
       "counts": true
     }
   ],
-  "rank": 24
+  "faction_points": [
+    {
+      "faction": "Drukhari",
+      "points": 300.019,
+      "events_played": 5
+    }
+  ],
+  "rank": 23
 }

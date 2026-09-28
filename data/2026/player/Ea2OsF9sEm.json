@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Death Guard",
   "team": "Dogs Of War",
   "events": [
     {
@@ -59,5 +58,17 @@
       "counts": true
     }
   ],
-  "rank": 104
+  "faction_points": [
+    {
+      "faction": "Adeptus Mechanicus",
+      "points": 81.5,
+      "events_played": 2
+    },
+    {
+      "faction": "Death Guard",
+      "points": 37.8,
+      "events_played": 1
+    }
+  ],
+  "rank": 100
 }

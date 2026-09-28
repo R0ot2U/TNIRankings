@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Dark Angels",
   "team": "Mighty Melee",
   "events": [
     {
@@ -43,5 +42,17 @@
       "counts": true
     }
   ],
-  "rank": 65
+  "faction_points": [
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 95.918,
+      "events_played": 1
+    },
+    {
+      "faction": "Dark Angels",
+      "points": 65.052,
+      "events_played": 1
+    }
+  ],
+  "rank": 61
 }

@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Necrons",
   "team": "Sink",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 413
+  "faction_points": [
+    {
+      "faction": "Necrons",
+      "points": 4.286,
+      "events_played": 1
+    }
+  ],
+  "rank": 408
 }

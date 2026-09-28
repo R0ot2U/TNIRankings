@@ -7,7 +7,6 @@
   "regions": [
     "ROI"
   ],
-  "faction": "Thousand Sons",
   "team": null,
   "events": [
     {
@@ -59,5 +58,12 @@
       "counts": true
     }
   ],
-  "rank": 148
+  "faction_points": [
+    {
+      "faction": "Thousand Sons",
+      "points": 88.521,
+      "events_played": 3
+    }
+  ],
+  "rank": 143
 }

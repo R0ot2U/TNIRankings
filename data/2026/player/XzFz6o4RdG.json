@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Orks",
   "team": "Sink",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 256
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 40.625,
+      "events_played": 1
+    }
+  ],
+  "rank": 251
 }

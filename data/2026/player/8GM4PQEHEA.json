@@ -7,7 +7,6 @@
   "regions": [
     "NI"
   ],
-  "faction": "Adeptus Mechanicus",
   "team": "Exploding Dice",
   "events": [
     {
@@ -27,5 +26,12 @@
       "counts": true
     }
   ],
-  "rank": 382
+  "faction_points": [
+    {
+      "faction": "Adeptus Mechanicus",
+      "points": 9.375,
+      "events_played": 1
+    }
+  ],
+  "rank": 377
 }

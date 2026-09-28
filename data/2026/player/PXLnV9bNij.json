@@ -8,7 +8,6 @@
     "NI",
     "ROI"
   ],
-  "faction": "Orks",
   "team": "Northern Wasters",
   "events": [
     {
@@ -90,6 +89,28 @@
       "team": "Northern Wasters",
       "forced": false,
       "counts": true
+    }
+  ],
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 187.543,
+      "events_played": 2
+    },
+    {
+      "faction": "Death Guard",
+      "points": 100.0,
+      "events_played": 1
+    },
+    {
+      "faction": "Unknown",
+      "points": 93.878,
+      "events_played": 1
+    },
+    {
+      "faction": "Necrons",
+      "points": 57.857,
+      "events_played": 1
     }
   ],
   "rank": 3
