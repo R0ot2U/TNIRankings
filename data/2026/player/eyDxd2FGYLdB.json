@@ -1,8 +1,8 @@
 {
   "user_id": "eyDxd2FGYLdB",
   "player_name": "Zak Burton",
-  "total_points": 21.111,
-  "events_played": 2,
+  "total_points": 32.222,
+  "events_played": 3,
   "best_finish": 21,
   "regions": [
     "ROI"
@@ -12,6 +12,22 @@
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 57,
+      "max_points": 100,
+      "points": 11.111,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
       "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
       "date": "2026-09-26",
       "region": "ROI",
@@ -45,9 +61,9 @@
   "faction_points": [
     {
       "faction": "Space Marines (Astartes)",
-      "points": 21.111,
-      "events_played": 2
+      "points": 32.222,
+      "events_played": 3
     }
   ],
-  "rank": 328
+  "rank": 286
 }

@@ -1,8 +1,8 @@
 {
   "user_id": "noE7lxb8Lt6H",
   "player_name": "odhran omearain",
-  "total_points": 12.698,
-  "events_played": 1,
+  "total_points": 25.396,
+  "events_played": 2,
   "best_finish": 56,
   "regions": [
     "ROI"
@@ -24,14 +24,30 @@
       "team": null,
       "forced": false,
       "counts": true
+    },
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 56,
+      "max_points": 100,
+      "points": 12.698,
+      "faction": "Blood Angels",
+      "team": null,
+      "forced": false,
+      "counts": true
     }
   ],
   "faction_points": [
     {
       "faction": "Blood Angels",
-      "points": 12.698,
-      "events_played": 1
+      "points": 25.396,
+      "events_played": 2
     }
   ],
-  "rank": 367
+  "rank": 318
 }

@@ -1,8 +1,8 @@
 {
   "user_id": "M4XWNHCBJE",
   "player_name": "Michael Mc Carthy",
-  "total_points": 334.489,
-  "events_played": 5,
+  "total_points": 363.14,
+  "events_played": 6,
   "best_finish": 5,
   "regions": [
     "ROI"
@@ -12,6 +12,22 @@
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 5,
+      "max_points": 100,
+      "points": 93.651,
+      "faction": "Blood Angels",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
       "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
       "date": "2026-09-26",
       "region": "ROI",
@@ -71,7 +87,7 @@
       "faction": "Thousand Sons",
       "team": null,
       "forced": false,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "j4OXdzodcigP",
@@ -93,8 +109,8 @@
   "faction_points": [
     {
       "faction": "Blood Angels",
-      "points": 324.752,
-      "events_played": 4
+      "points": 418.403,
+      "events_played": 5
     },
     {
       "faction": "Thousand Sons",
@@ -102,5 +118,5 @@
       "events_played": 1
     }
   ],
-  "rank": 8
+  "rank": 6
 }

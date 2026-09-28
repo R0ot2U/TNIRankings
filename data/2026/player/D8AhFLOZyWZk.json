@@ -1,8 +1,8 @@
 {
   "user_id": "D8AhFLOZyWZk",
   "player_name": "Adam Yore",
-  "total_points": 6.587,
-  "events_played": 2,
+  "total_points": 8.174,
+  "events_played": 3,
   "best_finish": 23,
   "regions": [
     "ROI"
@@ -12,6 +12,22 @@
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 63,
+      "max_points": 100,
+      "points": 1.587,
+      "faction": "Thousand Sons",
+      "team": null,
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
       "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
       "date": "2026-09-26",
       "region": "ROI",
@@ -50,9 +66,9 @@
     },
     {
       "faction": "Thousand Sons",
-      "points": 1.587,
-      "events_played": 1
+      "points": 3.174,
+      "events_played": 2
     }
   ],
-  "rank": 394
+  "rank": 383
 }

@@ -1,8 +1,8 @@
 {
   "user_id": "8D2Q5JE3WP",
   "player_name": "Jeremy Cronin",
-  "total_points": 280.487,
-  "events_played": 8,
+  "total_points": 284.419,
+  "events_played": 9,
   "best_finish": 4,
   "regions": [
     "ROI"
@@ -12,6 +12,22 @@
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 20,
+      "max_points": 100,
+      "points": 69.841,
+      "faction": "Adeptus Custodes",
+      "team": "Spectrum Warriors",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
       "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
       "date": "2026-09-26",
       "region": "ROI",
@@ -119,7 +135,7 @@
       "faction": "Adeptus Custodes",
       "team": "Spectrum Warriors",
       "forced": false,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "8oZ7X9CmdqTr",
@@ -141,9 +157,9 @@
   "faction_points": [
     {
       "faction": "Adeptus Custodes",
-      "points": 411.134,
-      "events_played": 8
+      "points": 480.975,
+      "events_played": 9
     }
   ],
-  "rank": 20
+  "rank": 23
 }

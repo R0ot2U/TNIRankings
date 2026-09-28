@@ -1,8 +1,8 @@
 {
   "user_id": "608XJj9N6W3p",
   "player_name": "Dara McGrath",
-  "total_points": 42.857,
-  "events_played": 1,
+  "total_points": 85.714,
+  "events_played": 2,
   "best_finish": 37,
   "regions": [
     "ROI"
@@ -24,14 +24,30 @@
       "team": null,
       "forced": false,
       "counts": true
+    },
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 37,
+      "max_points": 100,
+      "points": 42.857,
+      "faction": "Tyranids",
+      "team": null,
+      "forced": false,
+      "counts": true
     }
   ],
   "faction_points": [
     {
       "faction": "Tyranids",
-      "points": 42.857,
-      "events_played": 1
+      "points": 85.714,
+      "events_played": 2
     }
   ],
-  "rank": 241
+  "rank": 152
 }

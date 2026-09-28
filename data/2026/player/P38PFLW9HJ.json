@@ -1,8 +1,8 @@
 {
   "user_id": "P38PFLW9HJ",
   "player_name": "Bartosz Chmielewski",
-  "total_points": 262.219,
-  "events_played": 5,
+  "total_points": 322.745,
+  "events_played": 6,
   "best_finish": 1,
   "regions": [
     "ROI"
@@ -12,6 +12,22 @@
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 1,
+      "max_points": 100,
+      "points": 100.0,
+      "faction": "Drukhari",
+      "team": "Waterford Tabletop Gaming Community",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
       "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
       "date": "2026-09-26",
       "region": "ROI",
@@ -71,7 +87,7 @@
       "faction": "Drukhari",
       "team": null,
       "forced": false,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "j4OXdzodcigP",
@@ -93,9 +109,9 @@
   "faction_points": [
     {
       "faction": "Drukhari",
-      "points": 300.019,
-      "events_played": 5
+      "points": 400.019,
+      "events_played": 6
     }
   ],
-  "rank": 23
+  "rank": 13
 }

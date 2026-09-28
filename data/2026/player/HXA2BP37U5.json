@@ -1,8 +1,8 @@
 {
   "user_id": "HXA2BP37U5",
   "player_name": "Robbert Groeneveld",
-  "total_points": 38.781,
-  "events_played": 2,
+  "total_points": 75.289,
+  "events_played": 3,
   "best_finish": 41,
   "regions": [
     "ROI"
@@ -12,6 +12,22 @@
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 41,
+      "max_points": 100,
+      "points": 36.508,
+      "faction": "Adepta Sororitas",
+      "team": "Brethern Wargaming club",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
       "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
       "date": "2026-09-26",
       "region": "ROI",
@@ -45,8 +61,8 @@
   "faction_points": [
     {
       "faction": "Adepta Sororitas",
-      "points": 36.508,
-      "events_played": 1
+      "points": 73.016,
+      "events_played": 2
     },
     {
       "faction": "Imperial Agents",
@@ -54,5 +70,5 @@
       "events_played": 1
     }
   ],
-  "rank": 256
+  "rank": 170
 }

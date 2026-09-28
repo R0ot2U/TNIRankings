@@ -1,8 +1,8 @@
 {
   "user_id": "099GAW088C",
   "player_name": "Conor Crowley",
-  "total_points": 367.475,
-  "events_played": 6,
+  "total_points": 385.213,
+  "events_played": 7,
   "best_finish": 1,
   "regions": [
     "ROI"
@@ -12,6 +12,22 @@
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "VxMhCyhNMO1Q",
+      "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
+      "date": "2026-09-26",
+      "region": "ROI",
+      "field_size": 63,
+      "rounds": 5,
+      "placing": 4,
+      "max_points": 100,
+      "points": 95.238,
+      "faction": "T'au Empire",
+      "team": "Brethren Wargaming Club",
+      "forced": false,
+      "counts": true
+    },
+    {
+      "event_id": "VxMhCyhNMO1Q",
+      "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
       "event_name": "Dearg Doom XIII, don't play in Cian's sandbox",
       "date": "2026-09-26",
       "region": "ROI",
@@ -87,7 +103,7 @@
       "faction": "T'au Empire",
       "team": "Brethren Wargaming Club",
       "forced": false,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "8oZ7X9CmdqTr",
@@ -109,8 +125,8 @@
   "faction_points": [
     {
       "faction": "T'au Empire",
-      "points": 272.738,
-      "events_played": 3
+      "points": 367.976,
+      "events_played": 4
     },
     {
       "faction": "Emperor's Children",
@@ -128,5 +144,5 @@
       "events_played": 1
     }
   ],
-  "rank": 5
+  "rank": 3
 }
