@@ -23,6 +23,9 @@
       "faction": "Necrons",
       "team": "The boys are back in town",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Necrons",
       "team": "Catan do you have wood for my sheep?",
       "forced": false,
+      "wins": 1,
+      "draws": 1,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -46,7 +52,10 @@
     {
       "faction": "Necrons",
       "points": 109.725,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.5625,
+      "x1_points": 1
     }
   ],
   "rank": 115

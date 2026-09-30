@@ -25,21 +25,22 @@
   <div class="controls">
     <input class="search-input" type="search" id="search" placeholder="Search faction…" autocomplete="off">
     <div class="btn-group" id="year-btns" role="group" aria-label="Season"></div>
+    <div class="btn-group" id="view-btns" role="group" aria-label="View"></div>
     <span id="row-count" style="color:var(--dim);font-size:0.8rem;margin-left:4px;"></span>
   </div>
 
   <div class="panel">
     <div class="panel-title">Faction Rankings
-      <span class="panel-note">(Northern Ireland · points earned only in events played under that faction)</span></div>
+      <span class="panel-note" id="panel-note">(Northern Ireland · points earned only in events played under that faction)</span></div>
     <div class="table-wrap">
       <table id="factions-table">
         <thead>
           <tr>
-            <th title="Rank by total faction points">#</th>
+            <th title="Rank for the selected view">#</th>
             <th>Faction</th>
-            <th title="Sum of every NI player's points earned in events played under this faction">Total Points</th>
+            <th id="metric-header" title="Sum of every NI player's points earned in events played under this faction">Total Points</th>
             <th title="Number of NI players who played this faction">Players</th>
-            <th style="cursor:default" title="Top 3 scoring players for this faction">Top 3 Players</th>
+            <th style="cursor:default" id="top-players-header" title="Top 3 scoring players for this faction">Top 3 Players</th>
           </tr>
         </thead>
         <tbody id="factions-tbody">

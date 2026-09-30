@@ -23,6 +23,9 @@
       "faction": "Chaos Space Marines",
       "team": "Seals are us ",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Chaos Space Marines",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
       "counts": true
     }
   ],
@@ -46,7 +52,10 @@
     {
       "faction": "Chaos Space Marines",
       "points": 33.477,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.3125,
+      "x1_points": 0
     }
   ],
   "rank": 280

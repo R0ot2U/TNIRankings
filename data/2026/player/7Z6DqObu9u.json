@@ -23,6 +23,9 @@
       "faction": "Black Templars",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Black Templars",
       "team": "Tuff Kuntz",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -46,7 +52,10 @@
     {
       "faction": "Black Templars",
       "points": 120.911,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.625,
+      "x1_points": 1
     }
   ],
   "rank": 99

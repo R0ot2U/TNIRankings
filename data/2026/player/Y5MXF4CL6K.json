@@ -23,6 +23,9 @@
       "faction": "Emperor's Children",
       "team": null,
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -30,7 +33,10 @@
     {
       "faction": "Emperor's Children",
       "points": 48.75,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.6667,
+      "x1_points": 1
     }
   ],
   "rank": 231

@@ -23,6 +23,9 @@
       "faction": "Chaos Space Marines",
       "team": "M.U.G.S",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -30,7 +33,10 @@
     {
       "faction": "Chaos Space Marines",
       "points": 43.2,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.6667,
+      "x1_points": 1
     }
   ],
   "rank": 242

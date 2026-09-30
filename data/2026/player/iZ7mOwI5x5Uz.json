@@ -23,6 +23,9 @@
       "faction": "Black Templars",
       "team": "The Grimsy Boys",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Chaos Space Marines",
       "team": "The Grimsy Boys",
       "forced": false,
+      "wins": 2,
+      "draws": 1,
+      "losses": 0,
       "counts": true
     },
     {
@@ -55,6 +61,9 @@
       "faction": "Black Templars",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -62,12 +71,18 @@
     {
       "faction": "Chaos Space Marines",
       "points": 45.0,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.8333,
+      "x1_points": 0
     },
     {
       "faction": "Black Templars",
       "points": 32.143,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 6,
+      "win_rate": 0.3333,
+      "x1_points": 0
     }
   ],
   "rank": 166

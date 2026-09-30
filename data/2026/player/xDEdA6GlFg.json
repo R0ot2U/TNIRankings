@@ -23,6 +23,9 @@
       "faction": "Aeldari",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Aeldari",
       "team": "BBP",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -46,7 +52,10 @@
     {
       "faction": "Aeldari",
       "points": 45.9,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 6,
+      "win_rate": 0.3333,
+      "x1_points": 0
     }
   ],
   "rank": 236

@@ -24,6 +24,9 @@
       "faction": "Tyranids",
       "team": "The Tactical Titans ",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": false
     },
     {
@@ -40,6 +43,9 @@
       "faction": "Tyranids",
       "team": "The Tactical Titans ",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -56,6 +62,9 @@
       "faction": "Necrons",
       "team": null,
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -72,6 +81,9 @@
       "faction": "World Eaters",
       "team": "The Tactical Titans ",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": false
     },
     {
@@ -88,6 +100,9 @@
       "faction": "Necrons",
       "team": "The Tactical Titans ",
       "forced": false,
+      "wins": 4,
+      "draws": 1,
+      "losses": 0,
       "counts": true
     },
     {
@@ -104,6 +119,9 @@
       "faction": "Tyranids",
       "team": "The Tactical Titans ",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": false
     },
     {
@@ -120,6 +138,9 @@
       "faction": "Necrons",
       "team": "The Tactical Titans ",
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -136,6 +157,9 @@
       "faction": "Aeldari",
       "team": "The Tactical Titans ",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": false
     }
   ],
@@ -143,22 +167,34 @@
     {
       "faction": "Necrons",
       "points": 291.319,
-      "events_played": 3
+      "events_played": 3,
+      "games_played": 15,
+      "win_rate": 0.8333,
+      "x1_points": 4
     },
     {
       "faction": "Tyranids",
       "points": 138.214,
-      "events_played": 3
+      "events_played": 3,
+      "games_played": 11,
+      "win_rate": 0.5455,
+      "x1_points": 1
     },
     {
       "faction": "World Eaters",
       "points": 40.714,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.6667,
+      "x1_points": 1
     },
     {
       "faction": "Aeldari",
       "points": 15.0,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.3333,
+      "x1_points": 0
     }
   ],
   "rank": 6

@@ -168,6 +168,7 @@ main {
   border-radius: var(--radius);
   cursor: pointer;
   font-size: 0.82rem;
+  font-family: inherit;
   transition: background 0.15s, color 0.15s, border-color 0.15s;
 }
 .btn:hover { background: var(--grid); color: var(--text); }

@@ -23,6 +23,9 @@
       "faction": "Adeptus Mechanicus",
       "team": "Exploding Dice",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
       "counts": true
     }
   ],
@@ -30,7 +33,10 @@
     {
       "faction": "Adeptus Mechanicus",
       "points": 9.375,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.2,
+      "x1_points": 0
     }
   ],
   "rank": 384

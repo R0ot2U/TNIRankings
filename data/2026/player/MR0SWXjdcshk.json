@@ -23,6 +23,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -46,7 +52,10 @@
     {
       "faction": "Tyranids",
       "points": 75.536,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.4375,
+      "x1_points": 0
     }
   ],
   "rank": 169

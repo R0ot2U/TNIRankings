@@ -23,6 +23,9 @@
       "faction": "Chaos Knights",
       "team": "Exploding Dice",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Blood Angels",
       "team": "Exploding Dice",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     }
   ],
@@ -46,12 +52,18 @@
     {
       "faction": "Blood Angels",
       "points": 60.0,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 1.0,
+      "x1_points": 0
     },
     {
       "faction": "Chaos Knights",
       "points": 16.875,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.3333,
+      "x1_points": 0
     }
   ],
   "rank": 167

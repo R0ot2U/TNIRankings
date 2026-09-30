@@ -24,6 +24,9 @@
       "faction": "T'au Empire",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
       "counts": true
     },
     {
@@ -40,6 +43,9 @@
       "faction": "T'au Empire",
       "team": "Carrick",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -47,7 +53,10 @@
     {
       "faction": "T'au Empire",
       "points": 36.197,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.25,
+      "x1_points": 0
     }
   ],
   "rank": 271

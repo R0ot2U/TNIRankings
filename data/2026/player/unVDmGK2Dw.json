@@ -23,6 +23,9 @@
       "faction": "Grey Knights",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     }
   ],
@@ -30,7 +33,10 @@
     {
       "faction": "Grey Knights",
       "points": 54.0,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 1.0,
+      "x1_points": 0
     }
   ],
   "rank": 214

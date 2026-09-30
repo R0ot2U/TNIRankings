@@ -23,6 +23,9 @@
       "faction": "Emperor's Children",
       "team": "Dogs Of War",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Thousand Sons",
       "team": "Dogs Of War",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -55,6 +61,9 @@
       "faction": "Chaos Daemons",
       "team": "Dogs Of War",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -62,17 +71,26 @@
     {
       "faction": "Chaos Daemons",
       "points": 27.0,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.3333,
+      "x1_points": 0
     },
     {
       "faction": "Thousand Sons",
       "points": 25.0,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.3333,
+      "x1_points": 0
     },
     {
       "faction": "Emperor's Children",
       "points": 18.9,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.3333,
+      "x1_points": 0
     }
   ],
   "rank": 180

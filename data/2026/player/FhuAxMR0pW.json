@@ -24,6 +24,9 @@
       "faction": "Leagues of Votann",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -40,6 +43,9 @@
       "faction": "Leagues of Votann",
       "team": "Seals R Us",
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -56,6 +62,9 @@
       "faction": "Leagues of Votann",
       "team": "Seals R Us",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -72,6 +81,9 @@
       "faction": "T'au Empire",
       "team": "Seals R Us",
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -79,12 +91,18 @@
     {
       "faction": "Leagues of Votann",
       "points": 218.638,
-      "events_played": 3
+      "events_played": 3,
+      "games_played": 13,
+      "win_rate": 0.6923,
+      "x1_points": 3
     },
     {
       "faction": "T'au Empire",
       "points": 93.75,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.8,
+      "x1_points": 2
     }
   ],
   "rank": 11

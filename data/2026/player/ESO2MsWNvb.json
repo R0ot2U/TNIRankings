@@ -23,6 +23,9 @@
       "faction": "Chaos Knights",
       "team": "Dundalk Gaming Community",
       "forced": false,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Death Guard",
       "team": "Northern Ireland",
       "forced": true,
+      "wins": 2,
+      "draws": 0,
+      "losses": 4,
       "counts": true
     },
     {
@@ -55,6 +61,9 @@
       "faction": "Chaos Knights",
       "team": "Dundalk Gaming Community",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -71,6 +80,9 @@
       "faction": "Death Guard",
       "team": "Dundalk Gaming Community",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -87,6 +99,9 @@
       "faction": "Drukhari",
       "team": "Dundalk Gaming Community",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": false
     }
   ],
@@ -94,17 +109,26 @@
     {
       "faction": "Chaos Knights",
       "points": 129.375,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.6875,
+      "x1_points": 3
     },
     {
       "faction": "Death Guard",
       "points": 101.241,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 11,
+      "win_rate": 0.4545,
+      "x1_points": 0
     },
     {
       "faction": "Drukhari",
       "points": 21.429,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.3333,
+      "x1_points": 0
     }
   ],
   "rank": 32

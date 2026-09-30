@@ -23,6 +23,9 @@
       "faction": "Tyranids",
       "team": "Northern Ireland",
       "forced": true,
+      "wins": 3,
+      "draws": 1,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Chaos Space Marines",
       "team": null,
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -46,12 +52,18 @@
     {
       "faction": "Chaos Space Marines",
       "points": 86.735,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.8,
+      "x1_points": 2
     },
     {
       "faction": "Tyranids",
       "points": 68.339,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 6,
+      "win_rate": 0.5833,
+      "x1_points": 0
     }
   ],
   "rank": 64

@@ -24,6 +24,9 @@
       "faction": "Emperor's Children",
       "team": "Maghera Wargaming",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     },
     {
@@ -40,6 +43,9 @@
       "faction": "Emperor's Children",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     }
   ],
@@ -47,7 +53,10 @@
     {
       "faction": "Emperor's Children",
       "points": 95.871,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 6,
+      "win_rate": 1.0,
+      "x1_points": 0
     }
   ],
   "rank": 131

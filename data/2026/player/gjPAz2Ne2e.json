@@ -23,6 +23,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Chaos Space Marines",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
       "counts": true
     }
   ],
@@ -46,12 +52,18 @@
     {
       "faction": "Chaos Space Marines",
       "points": 10.204,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.2,
+      "x1_points": 0
     },
     {
       "faction": "Tyranids",
       "points": 8.333,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.2,
+      "x1_points": 0
     }
   ],
   "rank": 350

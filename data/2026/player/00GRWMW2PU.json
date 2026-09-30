@@ -23,6 +23,9 @@
       "faction": "World Eaters",
       "team": "Tuff Kuntz",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "World Eaters",
       "team": "Tuff Kuntz",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -55,6 +61,9 @@
       "faction": "World Eaters",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
       "counts": true
     },
     {
@@ -71,6 +80,9 @@
       "faction": "World Eaters",
       "team": "Tuff Kuntz",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -78,7 +90,10 @@
     {
       "faction": "World Eaters",
       "points": 67.651,
-      "events_played": 4
+      "events_played": 4,
+      "games_played": 14,
+      "win_rate": 0.2857,
+      "x1_points": 0
     }
   ],
   "rank": 183

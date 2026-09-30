@@ -24,6 +24,9 @@
       "faction": "Chaos Space Marines",
       "team": "Northern Wasters",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": false
     },
     {
@@ -40,6 +43,9 @@
       "faction": "Chaos Daemons",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -56,6 +62,9 @@
       "faction": "Chaos Daemons",
       "team": "Northern Wasters",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 3,
       "counts": true
     },
     {
@@ -72,6 +81,9 @@
       "faction": "Chaos Daemons",
       "team": "Northern Wasters",
       "forced": false,
+      "wins": 1,
+      "draws": 1,
+      "losses": 1,
       "counts": false
     },
     {
@@ -88,6 +100,9 @@
       "faction": "Chaos Daemons",
       "team": "Northern Wasters",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
       "counts": true
     },
     {
@@ -104,6 +119,9 @@
       "faction": "Chaos Space Marines",
       "team": "Northern Wasters",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -111,12 +129,18 @@
     {
       "faction": "Chaos Daemons",
       "points": 207.278,
-      "events_played": 4
+      "events_played": 4,
+      "games_played": 19,
+      "win_rate": 0.5,
+      "x1_points": 1
     },
     {
       "faction": "Chaos Space Marines",
       "points": 59.375,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 6,
+      "win_rate": 0.5,
+      "x1_points": 1
     }
   ],
   "rank": 40

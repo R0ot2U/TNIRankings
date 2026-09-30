@@ -23,6 +23,9 @@
       "faction": "Grey Knights",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Adeptus Custodes",
       "team": "Donegal Dice Flingers",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -46,12 +52,18 @@
     {
       "faction": "Grey Knights",
       "points": 58.333,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.6,
+      "x1_points": 0
     },
     {
       "faction": "Adeptus Custodes",
       "points": 32.4,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.6667,
+      "x1_points": 1
     }
   ],
   "rank": 139

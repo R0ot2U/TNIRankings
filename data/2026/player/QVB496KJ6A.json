@@ -23,6 +23,9 @@
       "faction": "Death Guard",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Death Guard",
       "team": null,
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -46,7 +52,10 @@
     {
       "faction": "Death Guard",
       "points": 65.291,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 6,
+      "win_rate": 0.5,
+      "x1_points": 1
     }
   ],
   "rank": 188

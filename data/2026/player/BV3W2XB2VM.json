@@ -23,6 +23,9 @@
       "faction": "Necrons",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Dark Angels",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -46,12 +52,18 @@
     {
       "faction": "Dark Angels",
       "points": 43.75,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.4,
+      "x1_points": 0
     },
     {
       "faction": "Necrons",
       "points": 14.035,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.3333,
+      "x1_points": 0
     }
   ],
   "rank": 204

@@ -23,6 +23,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Adeptus Custodes",
       "team": null,
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -46,12 +52,18 @@
     {
       "faction": "Tyranids",
       "points": 80.702,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.7,
+      "x1_points": 2
     },
     {
       "faction": "Adeptus Custodes",
       "points": 40.714,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.6667,
+      "x1_points": 1
     }
   ],
   "rank": 98

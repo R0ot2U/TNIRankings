@@ -23,6 +23,9 @@
       "faction": "Adeptus Custodes",
       "team": "War Shed",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Adeptus Custodes",
       "team": "War Shed",
       "forced": false,
+      "wins": 1,
+      "draws": 1,
+      "losses": 1,
       "counts": true
     },
     {
@@ -55,6 +61,9 @@
       "faction": "World Eaters",
       "team": "War Shed",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -62,12 +71,18 @@
     {
       "faction": "World Eaters",
       "points": 65.625,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.6,
+      "x1_points": 0
     },
     {
       "faction": "Adeptus Custodes",
       "points": 50.455,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 6,
+      "win_rate": 0.4167,
+      "x1_points": 1
     }
   ],
   "rank": 105

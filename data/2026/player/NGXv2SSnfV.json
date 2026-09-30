@@ -23,6 +23,9 @@
       "faction": "Genestealer Cults",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Genestealer Cults",
       "team": null,
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -55,6 +61,9 @@
       "faction": "Genestealer Cult",
       "team": "Wildcats",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 3,
       "counts": true
     },
     {
@@ -71,6 +80,9 @@
       "faction": "Genestealer Cult",
       "team": "Wildcats",
       "forced": false,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -78,12 +90,18 @@
     {
       "faction": "Genestealer Cults",
       "points": 169.886,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 10,
+      "win_rate": 0.7,
+      "x1_points": 2
     },
     {
       "faction": "Genestealer Cult",
       "points": 77.955,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 9,
+      "win_rate": 0.4444,
+      "x1_points": 2
     }
   ],
   "rank": 25

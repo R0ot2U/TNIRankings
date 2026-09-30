@@ -23,6 +23,9 @@
       "faction": "Dark Angels",
       "team": "Mighty Melee",
       "forced": true,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Space Marines (Astartes)",
       "team": null,
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -46,12 +52,18 @@
     {
       "faction": "Space Marines (Astartes)",
       "points": 95.918,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.8,
+      "x1_points": 2
     },
     {
       "faction": "Dark Angels",
       "points": 65.052,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.6,
+      "x1_points": 0
     }
   ],
   "rank": 61

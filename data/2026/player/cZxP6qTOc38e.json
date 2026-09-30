@@ -24,6 +24,9 @@
       "faction": "Orks",
       "team": "Legio Dál Riata",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -40,6 +43,9 @@
       "faction": "Orks",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
       "counts": true
     },
     {
@@ -56,6 +62,9 @@
       "faction": "Orks",
       "team": null,
       "forced": false,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
       "counts": true
     },
     {
@@ -72,6 +81,9 @@
       "faction": "Orks",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
       "counts": false
     },
     {
@@ -88,6 +100,9 @@
       "faction": "Orks",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -95,7 +110,10 @@
     {
       "faction": "Orks",
       "points": 246.279,
-      "events_played": 5
+      "events_played": 5,
+      "games_played": 23,
+      "win_rate": 0.4783,
+      "x1_points": 2
     }
   ],
   "rank": 30

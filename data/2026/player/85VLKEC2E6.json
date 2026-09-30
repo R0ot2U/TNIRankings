@@ -23,6 +23,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
       "counts": true
     },
     {
@@ -55,6 +61,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -71,6 +80,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
       "counts": false
     },
     {
@@ -87,6 +99,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
       "counts": false
     },
     {
@@ -103,6 +118,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -110,7 +128,10 @@
     {
       "faction": "Tyranids",
       "points": 150.222,
-      "events_played": 6
+      "events_played": 6,
+      "games_played": 24,
+      "win_rate": 0.3333,
+      "x1_points": 0
     }
   ],
   "rank": 88

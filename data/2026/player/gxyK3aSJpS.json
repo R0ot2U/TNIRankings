@@ -23,6 +23,9 @@
       "faction": "Space Marines (Astartes)",
       "team": "Try Hard Wargaming",
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -30,7 +33,10 @@
     {
       "faction": "Space Marines (Astartes)",
       "points": 90.0,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.8,
+      "x1_points": 2
     }
   ],
   "rank": 140

@@ -23,6 +23,9 @@
       "faction": "Chaos Space Marines",
       "team": "Drogheda Tabletop Lodge",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "World Eaters",
       "team": "Drogheda Tabletop Lodge",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -46,12 +52,18 @@
     {
       "faction": "World Eaters",
       "points": 45.9,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.6667,
+      "x1_points": 1
     },
     {
       "faction": "Chaos Space Marines",
       "points": 34.364,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.6667,
+      "x1_points": 1
     }
   ],
   "rank": 160

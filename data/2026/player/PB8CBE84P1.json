@@ -24,6 +24,9 @@
       "faction": "Adeptus Custodes",
       "team": "Sink",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     },
     {
@@ -40,6 +43,9 @@
       "faction": "Chaos Daemons",
       "team": "Sink",
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -56,6 +62,9 @@
       "faction": "Chaos Daemons",
       "team": "Sink",
       "forced": true,
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
       "counts": false
     },
     {
@@ -72,6 +81,9 @@
       "faction": "Chaos Knights",
       "team": "Sink",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     },
     {
@@ -88,6 +100,9 @@
       "faction": "Blood Angels",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": false
     },
     {
@@ -104,6 +119,9 @@
       "faction": "Chaos Knights",
       "team": "Sink",
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -120,6 +138,9 @@
       "faction": "Drukhari",
       "team": "Sink",
       "forced": false,
+      "wins": 2,
+      "draws": 1,
+      "losses": 0,
       "counts": false
     }
   ],
@@ -127,27 +148,42 @@
     {
       "faction": "Chaos Knights",
       "points": 151.228,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.875,
+      "x1_points": 2
     },
     {
       "faction": "Chaos Daemons",
       "points": 133.034,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 9,
+      "win_rate": 0.6667,
+      "x1_points": 2
     },
     {
       "faction": "Adeptus Custodes",
       "points": 58.125,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 1.0,
+      "x1_points": 0
     },
     {
       "faction": "Drukhari",
       "points": 57.857,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.8333,
+      "x1_points": 0
     },
     {
       "faction": "Blood Angels",
       "points": 5.102,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.3333,
+      "x1_points": 0
     }
   ],
   "rank": 14

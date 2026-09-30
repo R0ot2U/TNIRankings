@@ -23,6 +23,9 @@
       "faction": "Necrons",
       "team": "Sink",
       "forced": false,
+      "wins": 4,
+      "draws": 1,
+      "losses": 0,
       "counts": true
     }
   ],
@@ -30,7 +33,10 @@
     {
       "faction": "Necrons",
       "points": 98.246,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.9,
+      "x1_points": 0
     }
   ],
   "rank": 126

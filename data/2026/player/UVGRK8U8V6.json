@@ -23,6 +23,9 @@
       "faction": "Adeptus Mechanicus",
       "team": null,
       "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Astra Militarum",
       "team": "Ricky's Rocket Appliances",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -46,12 +52,18 @@
     {
       "faction": "Astra Militarum",
       "points": 40.5,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.6667,
+      "x1_points": 1
     },
     {
       "faction": "Adeptus Mechanicus",
       "points": 2.455,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 1,
+      "win_rate": 0.0,
+      "x1_points": 1
     }
   ],
   "rank": 244

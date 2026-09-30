@@ -23,6 +23,9 @@
       "faction": "Thousand Sons",
       "team": "Sink",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": false
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Thousand Sons",
       "team": "Sink",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -55,6 +61,9 @@
       "faction": "Thousand Sons",
       "team": "Sink",
       "forced": false,
+      "wins": 2,
+      "draws": 1,
+      "losses": 0,
       "counts": false
     },
     {
@@ -71,6 +80,9 @@
       "faction": "Thousand Sons",
       "team": "Sink",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     },
     {
@@ -87,6 +99,9 @@
       "faction": "Tyranids",
       "team": "Sink",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": false
     },
     {
@@ -103,6 +118,9 @@
       "faction": "Tyranids",
       "team": "Sink",
       "forced": false,
+      "wins": 2,
+      "draws": 1,
+      "losses": 0,
       "counts": true
     },
     {
@@ -119,6 +137,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -126,12 +147,18 @@
     {
       "faction": "Thousand Sons",
       "points": 202.089,
-      "events_played": 4
+      "events_played": 4,
+      "games_played": 14,
+      "win_rate": 0.6786,
+      "x1_points": 0
     },
     {
       "faction": "Tyranids",
       "points": 144.521,
-      "events_played": 3
+      "events_played": 3,
+      "games_played": 11,
+      "win_rate": 0.6364,
+      "x1_points": 2
     }
   ],
   "rank": 26

@@ -24,6 +24,9 @@
       "faction": "Black Templars",
       "team": "Sink",
       "forced": true,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
       "counts": true
     },
     {
@@ -40,6 +43,9 @@
       "faction": "Black Templars",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -56,6 +62,9 @@
       "faction": "Black Templars",
       "team": "Sink",
       "forced": false,
+      "wins": 4,
+      "draws": 1,
+      "losses": 0,
       "counts": true
     }
   ],
@@ -63,7 +72,10 @@
     {
       "faction": "Black Templars",
       "points": 202.243,
-      "events_played": 3
+      "events_played": 3,
+      "games_played": 15,
+      "win_rate": 0.6333,
+      "x1_points": 0
     }
   ],
   "rank": 46

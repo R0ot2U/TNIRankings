@@ -23,6 +23,9 @@
       "faction": "Tyranids",
       "team": "Drogheda Tabletop Lodge",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -46,7 +52,10 @@
     {
       "faction": "Tyranids",
       "points": 103.169,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 9,
+      "win_rate": 0.5556,
+      "x1_points": 0
     }
   ],
   "rank": 120

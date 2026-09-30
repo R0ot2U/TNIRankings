@@ -24,6 +24,9 @@
       "faction": "Orks",
       "team": null,
       "forced": false,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
       "counts": true
     },
     {
@@ -40,6 +43,9 @@
       "faction": "Orks",
       "team": "Donegal Dice Flingers",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -47,7 +53,10 @@
     {
       "faction": "Orks",
       "points": 32.222,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.3125,
+      "x1_points": 0
     }
   ],
   "rank": 289

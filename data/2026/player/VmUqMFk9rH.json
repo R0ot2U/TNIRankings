@@ -23,6 +23,9 @@
       "faction": "Blood Angels",
       "team": "The Spoon Collectors",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Blood Angels",
       "team": null,
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -46,7 +52,10 @@
     {
       "faction": "Blood Angels",
       "points": 127.028,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.75,
+      "x1_points": 3
     }
   ],
   "rank": 91

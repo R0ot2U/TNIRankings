@@ -23,6 +23,9 @@
       "faction": "Orks",
       "team": "Try Hard Wargaming",
       "forced": true,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Orks",
       "team": null,
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -55,6 +61,9 @@
       "faction": "Adeptus Custodes",
       "team": "Try Hard Wargaming",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     }
   ],
@@ -62,12 +71,18 @@
     {
       "faction": "Orks",
       "points": 100.953,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 7,
+      "win_rate": 0.7143,
+      "x1_points": 4
     },
     {
       "faction": "Adeptus Custodes",
       "points": 60.0,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 1.0,
+      "x1_points": 0
     }
   ],
   "rank": 62

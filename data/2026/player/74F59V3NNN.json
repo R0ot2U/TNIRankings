@@ -23,6 +23,9 @@
       "faction": "Death Guard",
       "team": "Waterford Tabletop Gaming Community",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Death Guard",
       "team": "Waterford Tabletop Gaming Community",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
       "counts": true
     }
   ],
@@ -46,7 +52,10 @@
     {
       "faction": "Death Guard",
       "points": 25.789,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 10,
+      "win_rate": 0.2,
+      "x1_points": 0
     }
   ],
   "rank": 315

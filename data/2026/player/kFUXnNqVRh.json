@@ -23,6 +23,9 @@
       "faction": "Orks",
       "team": null,
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Orks",
       "team": null,
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -46,7 +52,10 @@
     {
       "faction": "Orks",
       "points": 178.737,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 10,
+      "win_rate": 0.8,
+      "x1_points": 4
     }
   ],
   "rank": 55

@@ -23,6 +23,9 @@
       "faction": "Imperial Knights",
       "team": null,
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Chaos Knights",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -46,12 +52,18 @@
     {
       "faction": "Chaos Knights",
       "points": 80.612,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.6,
+      "x1_points": 0
     },
     {
       "faction": "Imperial Knights",
       "points": 50.0,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.4,
+      "x1_points": 0
     }
   ],
   "rank": 89

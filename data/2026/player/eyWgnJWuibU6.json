@@ -23,6 +23,9 @@
       "faction": "Astra Militarum",
       "team": null,
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Astra Militarum",
       "team": "Cerberus Tabletop Club",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -46,7 +52,10 @@
     {
       "faction": "Astra Militarum",
       "points": 57.724,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.375,
+      "x1_points": 0
     }
   ],
   "rank": 205

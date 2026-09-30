@@ -24,6 +24,9 @@
       "faction": "Tyranids",
       "team": "The Tactical Titans ",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -40,6 +43,9 @@
       "faction": "Tyranids",
       "team": "The Tactical Titans ",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
       "counts": true
     },
     {
@@ -56,6 +62,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
       "counts": true
     },
     {
@@ -72,6 +81,9 @@
       "faction": "Tyranids",
       "team": "The Tactical Titans ",
       "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
       "counts": true
     }
   ],
@@ -79,7 +91,10 @@
     {
       "faction": "Tyranids",
       "points": 75.347,
-      "events_played": 4
+      "events_played": 4,
+      "games_played": 16,
+      "win_rate": 0.2812,
+      "x1_points": 0
     }
   ],
   "rank": 170

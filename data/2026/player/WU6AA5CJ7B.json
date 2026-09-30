@@ -24,6 +24,9 @@
       "faction": "Space Wolves",
       "team": "GrayTTV_",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": false
     },
     {
@@ -40,6 +43,9 @@
       "faction": "Space Wolves",
       "team": "GrayTTV_",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -56,6 +62,9 @@
       "faction": "Space Wolves",
       "team": "GrayTTV_",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": false
     },
     {
@@ -72,6 +81,9 @@
       "faction": "Space Wolves",
       "team": null,
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -88,6 +100,9 @@
       "faction": "Space Wolves",
       "team": "GrayTTV_",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -104,6 +119,9 @@
       "faction": "Space Wolves",
       "team": "GrayTTV_",
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -111,7 +129,10 @@
     {
       "faction": "Space Wolves",
       "points": 389.193,
-      "events_played": 6
+      "events_played": 6,
+      "games_played": 26,
+      "win_rate": 0.6923,
+      "x1_points": 6
     }
   ],
   "rank": 10

@@ -23,6 +23,9 @@
       "faction": "Chaos Space Marines",
       "team": null,
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
       "counts": true
     }
   ],
@@ -30,7 +33,10 @@
     {
       "faction": "Chaos Space Marines",
       "points": 35.714,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.4,
+      "x1_points": 0
     }
   ],
   "rank": 273

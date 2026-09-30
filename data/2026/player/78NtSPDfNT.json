@@ -23,6 +23,9 @@
       "faction": "Drukhari",
       "team": "Eastern Fringe Gaming",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Drukhari",
       "team": "Eastern Fringe Gaming",
       "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -46,7 +52,10 @@
     {
       "faction": "Drukhari",
       "points": 72.885,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 6,
+      "win_rate": 0.5,
+      "x1_points": 1
     }
   ],
   "rank": 173

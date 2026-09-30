@@ -23,6 +23,9 @@
       "faction": "Blood Angels",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Blood Angels",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     }
   ],
@@ -46,7 +52,10 @@
     {
       "faction": "Blood Angels",
       "points": 140.023,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 10,
+      "win_rate": 0.6,
+      "x1_points": 0
     }
   ],
   "rank": 78

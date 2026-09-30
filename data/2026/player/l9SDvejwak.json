@@ -24,6 +24,9 @@
       "faction": "Grey Knights",
       "team": "Dundalk Gaming Community",
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -40,6 +43,9 @@
       "faction": "Grey Knights",
       "team": null,
       "forced": false,
+      "wins": 5,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     },
     {
@@ -56,6 +62,9 @@
       "faction": "Grey Knights",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": false
     },
     {
@@ -72,6 +81,9 @@
       "faction": "Grey Knights",
       "team": null,
       "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
       "counts": true
     },
     {
@@ -88,6 +100,9 @@
       "faction": "Grey Knights",
       "team": "Dundalk Gaming Community",
       "forced": false,
+      "wins": 5,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     },
     {
@@ -104,6 +119,9 @@
       "faction": "Grey Knights",
       "team": "Dundalk Gaming Community",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
       "counts": false
     },
     {
@@ -120,6 +138,9 @@
       "faction": "Grey Knights",
       "team": "Dundalk Gaming Community",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
       "counts": false
     }
   ],
@@ -127,7 +148,10 @@
     {
       "faction": "Grey Knights",
       "points": 544.23,
-      "events_played": 7
+      "events_played": 7,
+      "games_played": 31,
+      "win_rate": 0.8387,
+      "x1_points": 5
     }
   ],
   "rank": 4

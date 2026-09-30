@@ -23,6 +23,9 @@
       "faction": "Necrons",
       "team": "Kilkenny Nerd Club",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Adeptus Custodes",
       "team": "Kilkenny Nerd Club",
       "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
       "counts": true
     }
   ],
@@ -46,12 +52,18 @@
     {
       "faction": "Necrons",
       "points": 78.947,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.6,
+      "x1_points": 0
     },
     {
       "faction": "Adeptus Custodes",
       "points": 45.0,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.4,
+      "x1_points": 0
     }
   ],
   "rank": 95

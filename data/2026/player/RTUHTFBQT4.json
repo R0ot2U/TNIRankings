@@ -24,6 +24,9 @@
       "faction": "Black Templars",
       "team": "Donegal Dice Flingers",
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     },
     {
@@ -40,6 +43,9 @@
       "faction": "Black Templars",
       "team": "Donegal Dice Flingers",
       "forced": false,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
       "counts": true
     }
   ],
@@ -47,7 +53,10 @@
     {
       "faction": "Black Templars",
       "points": 138.211,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.8125,
+      "x1_points": 2
     }
   ],
   "rank": 79

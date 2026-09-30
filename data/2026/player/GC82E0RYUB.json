@@ -23,6 +23,9 @@
       "faction": "Adeptus Custodes",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     },
     {
@@ -39,6 +42,9 @@
       "faction": "Astra Militarum",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     },
     {
@@ -55,6 +61,9 @@
       "faction": "Astra Militarum",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
       "counts": true
     },
     {
@@ -71,6 +80,9 @@
       "faction": "Tyranids",
       "team": null,
       "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
       "counts": true
     }
   ],
@@ -78,17 +90,26 @@
     {
       "faction": "Astra Militarum",
       "points": 116.967,
-      "events_played": 2
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.75,
+      "x1_points": 0
     },
     {
       "faction": "Tyranids",
       "points": 55.385,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 1.0,
+      "x1_points": 0
     },
     {
       "faction": "Adeptus Custodes",
       "points": 51.545,
-      "events_played": 1
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 1.0,
+      "x1_points": 0
     }
   ],
   "rank": 34
