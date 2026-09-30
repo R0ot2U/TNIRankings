@@ -43,7 +43,7 @@ async function init() {
   document.getElementById("season-label").textContent =
     `${year} season · ${index.window ? index.window.start + " → " + index.window.end : ""}`;
 
-  const pool = rows.filter(r => regionMatches(r.regions, regionFilter));
+  const pool = rows.filter(r => regionMatches(r.regions, regionFilter, r.included_override));
   factions = aggregateWinRates(pool);
 
   renderTierList();

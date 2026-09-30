@@ -29,6 +29,7 @@
       "counts": true
     }
   ],
+  "included_override": false,
   "faction_points": [
     {
       "faction": "Leagues of Votann",

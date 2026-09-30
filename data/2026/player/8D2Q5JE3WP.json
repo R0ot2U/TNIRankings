@@ -162,6 +162,7 @@
       "counts": false
     }
   ],
+  "included_override": false,
   "faction_points": [
     {
       "faction": "Adeptus Custodes",

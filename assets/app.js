@@ -69,7 +69,12 @@ function regionsHtml(regions) {
 }
 
 // filterSet holds the fixed NI filter used by the rankings and player pages.
-function regionMatches(regions, filterSet) {
+// `includedOverride` (a rankings.json row's `included_override` flag) always
+// passes the filter — those are config/tni_rankings/included_players.yaml
+// whitelist entries, force-tracked precisely so they show up here despite
+// having no NI event.
+function regionMatches(regions, filterSet, includedOverride) {
+  if (includedOverride) return true;
   if (!filterSet || filterSet.size === 0) return true;
   const set = new Set(regions || []);
   for (const rg of filterSet) {

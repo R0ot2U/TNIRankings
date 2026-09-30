@@ -25,7 +25,7 @@ let rankingRows = [];
 // Where this player ranks among the NI player pool (same tie-break as the
 // rankings page), or null if they don't have an NI-qualifying event at all.
 function computeFilteredRank(uid) {
-  const pool = rankingRows.filter(r => regionMatches(r.regions, regionFilter));
+  const pool = rankingRows.filter(r => regionMatches(r.regions, regionFilter, r.included_override));
   const match = withRanks(pool).find(r => r.user_id === uid);
   return match ? match.rank : null;
 }

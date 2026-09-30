@@ -57,7 +57,7 @@ function sortedRows(data) {
 
 function filtered() {
   const q = (document.getElementById("search").value || "").toLowerCase().trim();
-  let data = rows.filter(r => regionMatches(r.regions, regionFilter));
+  let data = rows.filter(r => regionMatches(r.regions, regionFilter, r.included_override));
   data = withRanks(data);
   if (q) data = data.filter(r => (r.player_name || "").toLowerCase().includes(q));
   return sortedRows(data);
