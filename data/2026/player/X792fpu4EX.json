@@ -1,8 +1,8 @@
 {
   "user_id": "X792fpu4EX",
   "player_name": "Martin Sloan",
-  "total_points": 202.243,
-  "events_played": 3,
+  "total_points": 298.076,
+  "events_played": 4,
   "best_finish": 3,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 3,
+      "max_points": 100,
+      "points": 95.833,
+      "faction": "Black Templars",
+      "team": "Sink",
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "ChZP41nemm16",
       "prefix": "wtc_warmaster_gt_2026_ChZP41nemm16",
@@ -72,12 +91,12 @@
   "faction_points": [
     {
       "faction": "Black Templars",
-      "points": 202.243,
-      "events_played": 3,
-      "games_played": 15,
-      "win_rate": 0.6333,
-      "x1_points": 0
+      "points": 298.076,
+      "events_played": 4,
+      "games_played": 20,
+      "win_rate": 0.675,
+      "x1_points": 2
     }
   ],
-  "rank": 46
+  "rank": 16
 }

@@ -1,14 +1,33 @@
 {
   "user_id": "06EMKWGBHD",
   "player_name": "Scott Nelson",
-  "total_points": 106.161,
-  "events_played": 2,
-  "best_finish": 10,
+  "total_points": 199.911,
+  "events_played": 3,
+  "best_finish": 4,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 4,
+      "max_points": 100,
+      "points": 93.75,
+      "faction": "T'au Empire",
+      "team": null,
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "T'au Empire",
-      "points": 106.161,
-      "events_played": 2,
-      "games_played": 8,
-      "win_rate": 0.5625,
-      "x1_points": 3
+      "points": 199.911,
+      "events_played": 3,
+      "games_played": 13,
+      "win_rate": 0.6538,
+      "x1_points": 5
     }
   ],
-  "rank": 118
+  "rank": 53
 }

@@ -1,8 +1,8 @@
 {
   "user_id": "TQ0BWCT4UL",
   "player_name": "Ryan Ormandy",
-  "total_points": 75.347,
-  "events_played": 4,
+  "total_points": 90.764,
+  "events_played": 5,
   "best_finish": 20,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "The Tactical Titans ",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 38,
+      "max_points": 100,
+      "points": 22.917,
+      "faction": "Tyranids",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -84,19 +103,19 @@
       "wins": 0,
       "draws": 0,
       "losses": 3,
-      "counts": true
+      "counts": false
     }
   ],
   "included_override": false,
   "faction_points": [
     {
       "faction": "Tyranids",
-      "points": 75.347,
-      "events_played": 4,
-      "games_played": 16,
-      "win_rate": 0.2812,
+      "points": 98.264,
+      "events_played": 5,
+      "games_played": 21,
+      "win_rate": 0.2619,
       "x1_points": 0
     }
   ],
-  "rank": 170
+  "rank": 144
 }

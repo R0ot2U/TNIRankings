@@ -1,14 +1,33 @@
 {
   "user_id": "M68UK1NNGE",
   "player_name": "Alex Cowan",
-  "total_points": 91.793,
-  "events_played": 3,
+  "total_points": 177.21,
+  "events_played": 4,
   "best_finish": 4,
   "regions": [
     "NI"
   ],
-  "team": "Maghera Wargaming",
+  "team": "The Tactical Titans ",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 8,
+      "max_points": 100,
+      "points": 85.417,
+      "faction": "T'au Empire",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "nXJFqAguUQDp",
       "prefix": "nXJFqAguUQDp",
@@ -70,6 +89,14 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "T'au Empire",
+      "points": 85.417,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.8,
+      "x1_points": 2
+    },
+    {
       "faction": "Adepta Sororitas",
       "points": 69.293,
       "events_played": 2,
@@ -86,5 +113,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 137
+  "rank": 62
 }

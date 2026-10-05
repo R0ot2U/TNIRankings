@@ -1,8 +1,8 @@
 {
   "user_id": "JJ57162Y66",
   "player_name": "Thomas Mcguigan",
-  "total_points": 214.421,
-  "events_played": 6,
+  "total_points": 225.254,
+  "events_played": 7,
   "best_finish": 11,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "Northern Wasters",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 27,
+      "max_points": 100,
+      "points": 45.833,
+      "faction": "Chaos Daemons",
+      "team": "Northern Wasters",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -122,17 +141,17 @@
       "wins": 2,
       "draws": 0,
       "losses": 1,
-      "counts": true
+      "counts": false
     }
   ],
   "included_override": false,
   "faction_points": [
     {
       "faction": "Chaos Daemons",
-      "points": 207.278,
-      "events_played": 4,
-      "games_played": 19,
-      "win_rate": 0.5,
+      "points": 253.111,
+      "events_played": 5,
+      "games_played": 24,
+      "win_rate": 0.4792,
       "x1_points": 1
     },
     {
@@ -144,5 +163,5 @@
       "x1_points": 1
     }
   ],
-  "rank": 40
+  "rank": 38
 }

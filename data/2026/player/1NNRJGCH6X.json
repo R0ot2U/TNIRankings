@@ -1,14 +1,33 @@
 {
   "user_id": "1NNRJGCH6X",
   "player_name": "Darren McAuley",
-  "total_points": 59.649,
-  "events_played": 1,
+  "total_points": 84.649,
+  "events_played": 2,
   "best_finish": 24,
   "regions": [
     "NI"
   ],
-  "team": "The Tactical Titans ",
+  "team": null,
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 37,
+      "max_points": 100,
+      "points": 25.0,
+      "faction": "Adeptus Custodes",
+      "team": null,
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "2K77Ck5lQLUE",
       "prefix": "2K77Ck5lQLUE",
@@ -38,7 +57,15 @@
       "games_played": 6,
       "win_rate": 0.4167,
       "x1_points": 0
+    },
+    {
+      "faction": "Adeptus Custodes",
+      "points": 25.0,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.3333,
+      "x1_points": 0
     }
   ],
-  "rank": 198
+  "rank": 156
 }

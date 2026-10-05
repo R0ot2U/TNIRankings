@@ -1,14 +1,33 @@
 {
   "user_id": "SBORVG0bkBDP",
   "player_name": "John Kerr",
-  "total_points": 35.088,
-  "events_played": 1,
+  "total_points": 53.838,
+  "events_played": 2,
   "best_finish": 38,
   "regions": [
     "NI"
   ],
-  "team": "Carrick",
+  "team": "Sore Feet",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 40,
+      "max_points": 100,
+      "points": 18.75,
+      "faction": "Space Marines (Astartes)",
+      "team": "Sore Feet",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "counts": true
+    },
     {
       "event_id": "2K77Ck5lQLUE",
       "prefix": "2K77Ck5lQLUE",
@@ -38,7 +57,15 @@
       "games_played": 5,
       "win_rate": 0.4,
       "x1_points": 0
+    },
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 18.75,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.2,
+      "x1_points": 0
     }
   ],
-  "rank": 277
+  "rank": 224
 }

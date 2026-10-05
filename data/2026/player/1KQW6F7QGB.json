@@ -1,14 +1,33 @@
 {
   "user_id": "1KQW6F7QGB",
   "player_name": "Dec Winser",
-  "total_points": 85.125,
-  "events_played": 3,
+  "total_points": 128.875,
+  "events_played": 4,
   "best_finish": 6,
   "regions": [
     "NI"
   ],
   "team": "Maghera Wargaming",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 28,
+      "max_points": 100,
+      "points": 43.75,
+      "faction": "Imperial Knights",
+      "team": "Maghera Wargaming",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -71,12 +90,12 @@
   "faction_points": [
     {
       "faction": "Imperial Knights",
-      "points": 85.125,
-      "events_played": 3,
-      "games_played": 9,
-      "win_rate": 0.4444,
+      "points": 128.875,
+      "events_played": 4,
+      "games_played": 14,
+      "win_rate": 0.4286,
       "x1_points": 1
     }
   ],
-  "rank": 147
+  "rank": 93
 }

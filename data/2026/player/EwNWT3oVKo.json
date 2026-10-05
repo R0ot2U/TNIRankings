@@ -1,14 +1,33 @@
 {
   "user_id": "EwNWT3oVKo",
   "player_name": "Ross McCarroll",
-  "total_points": 225.072,
-  "events_played": 4,
+  "total_points": 276.739,
+  "events_played": 5,
   "best_finish": 3,
   "regions": [
     "NI"
   ],
   "team": "Northern Wasters",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 5,
+      "max_points": 100,
+      "points": 91.667,
+      "faction": "Thousand Sons",
+      "team": "Northern Wasters",
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -83,11 +102,19 @@
       "wins": 2,
       "draws": 0,
       "losses": 1,
-      "counts": true
+      "counts": false
     }
   ],
   "included_override": false,
   "faction_points": [
+    {
+      "faction": "Thousand Sons",
+      "points": 190.774,
+      "events_played": 3,
+      "games_played": 11,
+      "win_rate": 0.8182,
+      "x1_points": 3
+    },
     {
       "faction": "Chaos Daemons",
       "points": 125.965,
@@ -95,15 +122,7 @@
       "games_played": 8,
       "win_rate": 0.6875,
       "x1_points": 3
-    },
-    {
-      "faction": "Thousand Sons",
-      "points": 99.107,
-      "events_played": 2,
-      "games_played": 6,
-      "win_rate": 0.8333,
-      "x1_points": 1
     }
   ],
-  "rank": 33
+  "rank": 24
 }

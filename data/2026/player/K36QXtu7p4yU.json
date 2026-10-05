@@ -1,0 +1,44 @@
+{
+  "user_id": "K36QXtu7p4yU",
+  "player_name": "Charlie Black",
+  "total_points": 12.5,
+  "events_played": 1,
+  "best_finish": 43,
+  "regions": [
+    "NI"
+  ],
+  "team": null,
+  "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 43,
+      "max_points": 100,
+      "points": 12.5,
+      "faction": "Orks",
+      "team": null,
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Orks",
+      "points": 12.5,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.2,
+      "x1_points": 0
+    }
+  ],
+  "rank": 380
+}

@@ -1,14 +1,33 @@
 {
   "user_id": "dQ8Ocd6bL3yO",
   "player_name": "Samuel  mcfall",
-  "total_points": 51.83,
-  "events_played": 2,
+  "total_points": 78.913,
+  "events_played": 3,
   "best_finish": 5,
   "regions": [
     "NI"
   ],
-  "team": "Tactical Titans",
+  "team": "The Tactical Titans ",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 36,
+      "max_points": 100,
+      "points": 27.083,
+      "faction": "Necrons",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "nXJFqAguUQDp",
       "prefix": "nXJFqAguUQDp",
@@ -51,21 +70,21 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "Necrons",
+      "points": 44.627,
+      "events_played": 2,
+      "games_played": 10,
+      "win_rate": 0.25,
+      "x1_points": 0
+    },
+    {
       "faction": "World Eaters",
       "points": 34.286,
       "events_played": 1,
       "games_played": 3,
       "win_rate": 0.6667,
       "x1_points": 1
-    },
-    {
-      "faction": "Necrons",
-      "points": 17.544,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.2,
-      "x1_points": 0
     }
   ],
-  "rank": 221
+  "rank": 170
 }

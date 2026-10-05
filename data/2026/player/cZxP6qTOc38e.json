@@ -1,8 +1,8 @@
 {
   "user_id": "cZxP6qTOc38e",
   "player_name": "James Crymble",
-  "total_points": 233.779,
-  "events_played": 5,
+  "total_points": 261.696,
+  "events_played": 6,
   "best_finish": 5,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "Legio Dál Riata",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 26,
+      "max_points": 100,
+      "points": 47.917,
+      "faction": "Orks",
+      "team": "Legio Dál Riata",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -103,19 +122,19 @@
       "wins": 1,
       "draws": 0,
       "losses": 2,
-      "counts": true
+      "counts": false
     }
   ],
   "included_override": false,
   "faction_points": [
     {
       "faction": "Orks",
-      "points": 246.279,
-      "events_played": 5,
-      "games_played": 23,
-      "win_rate": 0.4783,
+      "points": 294.196,
+      "events_played": 6,
+      "games_played": 28,
+      "win_rate": 0.4643,
       "x1_points": 2
     }
   ],
-  "rank": 30
+  "rank": 28
 }

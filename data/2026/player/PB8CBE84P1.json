@@ -1,8 +1,8 @@
 {
   "user_id": "PB8CBE84P1",
   "player_name": "Haydn Dempster",
-  "total_points": 306.228,
-  "events_played": 7,
+  "total_points": 346.02,
+  "events_played": 8,
   "best_finish": 1,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 2,
+      "max_points": 100,
+      "points": 97.917,
+      "faction": "Death Guard",
+      "team": "Sink",
+      "forced": false,
+      "wins": 5,
+      "draws": 0,
+      "losses": 0,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -27,7 +46,7 @@
       "wins": 3,
       "draws": 0,
       "losses": 0,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "1PpZD9LRYLI6",
@@ -163,6 +182,14 @@
       "x1_points": 2
     },
     {
+      "faction": "Death Guard",
+      "points": 97.917,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 1.0,
+      "x1_points": 0
+    },
+    {
       "faction": "Adeptus Custodes",
       "points": 58.125,
       "events_played": 1,
@@ -187,5 +214,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 14
+  "rank": 8
 }

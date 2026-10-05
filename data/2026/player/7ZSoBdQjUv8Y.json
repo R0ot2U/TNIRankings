@@ -1,14 +1,33 @@
 {
   "user_id": "7ZSoBdQjUv8Y",
-  "player_name": "Simon Baird",
-  "total_points": 52.5,
-  "events_played": 1,
+  "player_name": "Simon  Baird",
+  "total_points": 67.083,
+  "events_played": 2,
   "best_finish": 5,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 42,
+      "max_points": 100,
+      "points": 14.583,
+      "faction": "Adepta Sororitas",
+      "team": null,
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -33,12 +52,12 @@
   "faction_points": [
     {
       "faction": "Adepta Sororitas",
-      "points": 52.5,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.8333,
+      "points": 67.083,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.4375,
       "x1_points": 0
     }
   ],
-  "rank": 219
+  "rank": 192
 }

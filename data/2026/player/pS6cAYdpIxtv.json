@@ -1,14 +1,33 @@
 {
   "user_id": "pS6cAYdpIxtv",
   "player_name": "Lewis McCollough",
-  "total_points": 254.875,
-  "events_played": 7,
+  "total_points": 294.375,
+  "events_played": 8,
   "best_finish": 1,
   "regions": [
     "NI"
   ],
-  "team": "Carrickfergus Warhammer Gaming Club",
+  "team": "War Shed",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 7,
+      "max_points": 100,
+      "points": 87.5,
+      "faction": "Orks",
+      "team": "War Shed",
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -64,7 +83,7 @@
       "wins": 3,
       "draws": 0,
       "losses": 0,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "5xdxtgy0nEmU",
@@ -147,12 +166,12 @@
   "faction_points": [
     {
       "faction": "Orks",
-      "points": 356.746,
-      "events_played": 7,
-      "games_played": 27,
-      "win_rate": 0.6481,
-      "x1_points": 4
+      "points": 444.246,
+      "events_played": 8,
+      "games_played": 32,
+      "win_rate": 0.6719,
+      "x1_points": 6
     }
   ],
-  "rank": 24
+  "rank": 17
 }

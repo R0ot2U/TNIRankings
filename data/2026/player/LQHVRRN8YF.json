@@ -2,14 +2,33 @@
   "user_id": "LQHVRRN8YF",
   "player_name": "Scott Palmer",
   "total_points": 237.635,
-  "events_played": 7,
+  "events_played": 8,
   "best_finish": 3,
   "regions": [
     "NI",
     "ROI"
   ],
-  "team": "Legio Dal Riata",
+  "team": "Legio Dál Riata",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 32,
+      "max_points": 100,
+      "points": 35.417,
+      "faction": "Imperial Knights",
+      "team": "Legio Dál Riata",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": false
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -148,12 +167,12 @@
   "faction_points": [
     {
       "faction": "Imperial Knights",
-      "points": 345.7,
-      "events_played": 7,
-      "games_played": 27,
-      "win_rate": 0.6296,
+      "points": 381.117,
+      "events_played": 8,
+      "games_played": 32,
+      "win_rate": 0.5938,
       "x1_points": 4
     }
   ],
-  "rank": 27
+  "rank": 33
 }

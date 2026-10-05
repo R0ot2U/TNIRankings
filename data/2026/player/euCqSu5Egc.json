@@ -1,0 +1,44 @@
+{
+  "user_id": "euCqSu5Egc",
+  "player_name": "Cathal Mulvenna",
+  "total_points": 62.5,
+  "events_played": 1,
+  "best_finish": 19,
+  "regions": [
+    "NI"
+  ],
+  "team": "D6 Damage",
+  "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 19,
+      "max_points": 100,
+      "points": 62.5,
+      "faction": "Adeptus Custodes",
+      "team": "D6 Damage",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Adeptus Custodes",
+      "points": 62.5,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.6,
+      "x1_points": 0
+    }
+  ],
+  "rank": 201
+}

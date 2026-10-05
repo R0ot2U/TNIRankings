@@ -1,14 +1,33 @@
 {
   "user_id": "1B7PAL6JG2",
   "player_name": "Isaac Mclarnon",
-  "total_points": 3.75,
-  "events_played": 1,
-  "best_finish": 31,
+  "total_points": 60.0,
+  "events_played": 2,
+  "best_finish": 22,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 22,
+      "max_points": 100,
+      "points": 56.25,
+      "faction": "Chaos Daemons",
+      "team": null,
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -33,12 +52,12 @@
   "faction_points": [
     {
       "faction": "Chaos Daemons",
-      "points": 3.75,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.0,
+      "points": 60.0,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.375,
       "x1_points": 0
     }
   ],
-  "rank": 418
+  "rank": 207
 }

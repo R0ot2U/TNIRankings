@@ -1,8 +1,8 @@
 {
   "user_id": "PXLnV9bNij",
   "player_name": "Mark Morrow",
-  "total_points": 381.421,
-  "events_played": 5,
+  "total_points": 393.878,
+  "events_played": 6,
   "best_finish": 1,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "Northern Wasters",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 1,
+      "max_points": 100,
+      "points": 100.0,
+      "faction": "Orks",
+      "team": "Northern Wasters",
+      "forced": false,
+      "wins": 5,
+      "draws": 0,
+      "losses": 0,
+      "counts": true
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -46,7 +65,7 @@
       "wins": 4,
       "draws": 0,
       "losses": 1,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "NxXFuKF8loah",
@@ -110,10 +129,10 @@
   "faction_points": [
     {
       "faction": "Orks",
-      "points": 187.543,
-      "events_played": 2,
-      "games_played": 10,
-      "win_rate": 0.9,
+      "points": 287.543,
+      "events_played": 3,
+      "games_played": 15,
+      "win_rate": 0.9333,
       "x1_points": 2
     },
     {

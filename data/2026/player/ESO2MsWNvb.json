@@ -1,14 +1,33 @@
 {
   "user_id": "ESO2MsWNvb",
   "player_name": "Lee McInerney",
-  "total_points": 230.616,
-  "events_played": 5,
+  "total_points": 283.651,
+  "events_played": 6,
   "best_finish": 6,
   "regions": [
     "NI"
   ],
   "team": "Dundalk Gaming Community",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 12,
+      "max_points": 100,
+      "points": 77.083,
+      "faction": "Chaos Space Marines",
+      "team": "Dundalk Gaming Community",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -45,7 +64,7 @@
       "wins": 2,
       "draws": 0,
       "losses": 4,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "NxXFuKF8loah",
@@ -124,6 +143,14 @@
       "x1_points": 0
     },
     {
+      "faction": "Chaos Space Marines",
+      "points": 77.083,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.6,
+      "x1_points": 0
+    },
+    {
       "faction": "Drukhari",
       "points": 21.429,
       "events_played": 1,
@@ -132,5 +159,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 32
+  "rank": 22
 }

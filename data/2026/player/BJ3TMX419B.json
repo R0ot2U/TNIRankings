@@ -1,14 +1,33 @@
 {
   "user_id": "BJ3TMX419B",
   "player_name": "Donal Phillips",
-  "total_points": 22.447,
-  "events_played": 3,
+  "total_points": 28.697,
+  "events_played": 4,
   "best_finish": 14,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 46,
+      "max_points": 100,
+      "points": 6.25,
+      "faction": "Aeldari",
+      "team": null,
+      "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 5,
+      "counts": true
+    },
     {
       "event_id": "78lO7npph1Rn",
       "prefix": "78lO7npph1Rn",
@@ -71,12 +90,12 @@
   "faction_points": [
     {
       "faction": "Aeldari",
-      "points": 22.447,
-      "events_played": 3,
-      "games_played": 11,
-      "win_rate": 0.1818,
+      "points": 28.697,
+      "events_played": 4,
+      "games_played": 16,
+      "win_rate": 0.125,
       "x1_points": 0
     }
   ],
-  "rank": 331
+  "rank": 304
 }

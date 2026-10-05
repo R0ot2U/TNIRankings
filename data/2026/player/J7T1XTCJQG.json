@@ -1,14 +1,33 @@
 {
   "user_id": "J7T1XTCJQG",
   "player_name": "Casey keenan",
-  "total_points": 147.982,
-  "events_played": 2,
+  "total_points": 212.565,
+  "events_played": 3,
   "best_finish": 3,
   "regions": [
     "NI"
   ],
   "team": "The Tactical Titans ",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 18,
+      "max_points": 100,
+      "points": 64.583,
+      "faction": "Adeptus Custodes",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "2K77Ck5lQLUE",
       "prefix": "2K77Ck5lQLUE",
@@ -51,21 +70,21 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "Adeptus Custodes",
+      "points": 119.583,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.6875,
+      "x1_points": 0
+    },
+    {
       "faction": "Space Marines (Astartes)",
       "points": 92.982,
       "events_played": 1,
       "games_played": 5,
       "win_rate": 0.8,
       "x1_points": 2
-    },
-    {
-      "faction": "Adeptus Custodes",
-      "points": 55.0,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.8333,
-      "x1_points": 0
     }
   ],
-  "rank": 70
+  "rank": 44
 }

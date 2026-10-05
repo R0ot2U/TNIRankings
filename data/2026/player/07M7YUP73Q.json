@@ -2,13 +2,32 @@
   "user_id": "07M7YUP73Q",
   "player_name": "Matthew Wheatley",
   "total_points": 210.546,
-  "events_played": 5,
+  "events_played": 6,
   "best_finish": 1,
   "regions": [
     "NI"
   ],
   "team": "QUB Dragonslayers ",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 29,
+      "max_points": 100,
+      "points": 41.667,
+      "faction": "Tyranids",
+      "team": "QUB Dragonslayers ",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": false
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -109,12 +128,12 @@
   "faction_points": [
     {
       "faction": "Tyranids",
-      "points": 240.546,
-      "events_played": 5,
-      "games_played": 17,
-      "win_rate": 0.6765,
+      "points": 282.213,
+      "events_played": 6,
+      "games_played": 22,
+      "win_rate": 0.6136,
       "x1_points": 3
     }
   ],
-  "rank": 41
+  "rank": 45
 }

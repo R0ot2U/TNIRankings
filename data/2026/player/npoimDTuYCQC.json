@@ -1,14 +1,33 @@
 {
   "user_id": "npoimDTuYCQC",
   "player_name": "Martin Campbell",
-  "total_points": 3.509,
-  "events_played": 1,
-  "best_finish": 56,
+  "total_points": 7.676,
+  "events_played": 2,
+  "best_finish": 47,
   "regions": [
     "NI"
   ],
-  "team": "Carrick",
+  "team": "Sore Feet",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 47,
+      "max_points": 100,
+      "points": 4.167,
+      "faction": "Space Marines (Astartes)",
+      "team": "Sore Feet",
+      "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "2K77Ck5lQLUE",
       "prefix": "2K77Ck5lQLUE",
@@ -32,6 +51,14 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "Space Marines (Astartes)",
+      "points": 4.167,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.0,
+      "x1_points": 0
+    },
+    {
       "faction": "Dark Angels",
       "points": 3.509,
       "events_played": 1,
@@ -40,5 +67,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 419
+  "rank": 402
 }

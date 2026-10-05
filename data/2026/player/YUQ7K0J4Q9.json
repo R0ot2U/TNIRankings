@@ -1,14 +1,33 @@
 {
   "user_id": "YUQ7K0J4Q9",
   "player_name": "Sam Lamont",
-  "total_points": 4.286,
-  "events_played": 1,
-  "best_finish": 27,
+  "total_points": 85.536,
+  "events_played": 2,
+  "best_finish": 10,
   "regions": [
     "NI"
   ],
-  "team": "Sink",
+  "team": "Team Yeti",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 10,
+      "max_points": 100,
+      "points": 81.25,
+      "faction": "Necrons",
+      "team": "Team Yeti",
+      "forced": false,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "1fKDXYIXB8ap",
       "prefix": "1fKDXYIXB8ap",
@@ -33,12 +52,12 @@
   "faction_points": [
     {
       "faction": "Necrons",
-      "points": 4.286,
-      "events_played": 1,
-      "games_played": 2,
-      "win_rate": 0.0,
-      "x1_points": 0
+      "points": 85.536,
+      "events_played": 2,
+      "games_played": 7,
+      "win_rate": 0.5,
+      "x1_points": 2
     }
   ],
-  "rank": 416
+  "rank": 153
 }

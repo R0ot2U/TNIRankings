@@ -1,0 +1,44 @@
+{
+  "user_id": "zRinOsErEhdr",
+  "player_name": "Antoin Martin",
+  "total_points": 2.083,
+  "events_played": 1,
+  "best_finish": 48,
+  "regions": [
+    "NI"
+  ],
+  "team": null,
+  "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 48,
+      "max_points": 100,
+      "points": 2.083,
+      "faction": "Leagues of Votann",
+      "team": null,
+      "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 5,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Leagues of Votann",
+      "points": 2.083,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.0,
+      "x1_points": 0
+    }
+  ],
+  "rank": 439
+}

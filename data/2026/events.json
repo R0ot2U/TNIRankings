@@ -1,5 +1,17 @@
 [
   {
+    "event_id": "UJeD8FTdEbUF",
+    "prefix": "warpstorm_3_UJeD8FTdEbUF",
+    "name": "Warpstorm 3",
+    "date": "2026-10-03",
+    "region": "NI",
+    "field_size": 48,
+    "rounds": 5,
+    "max_points": 100,
+    "points_level": 2000,
+    "forced": false
+  },
+  {
     "event_id": "1n5aSuTdt217",
     "prefix": "1n5aSuTdt217",
     "name": "ED Single Day 40K Sept 2026",

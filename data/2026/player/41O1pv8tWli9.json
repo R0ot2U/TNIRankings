@@ -1,14 +1,33 @@
 {
   "user_id": "41O1pv8tWli9",
   "player_name": "Scott McDonald",
-  "total_points": 116.08,
-  "events_played": 3,
+  "total_points": 182.747,
+  "events_played": 4,
   "best_finish": 10,
   "regions": [
     "NI"
   ],
   "team": "War Shed",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 17,
+      "max_points": 100,
+      "points": 66.667,
+      "faction": "World Eaters",
+      "team": "War Shed",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "78lO7npph1Rn",
       "prefix": "78lO7npph1Rn",
@@ -71,9 +90,9 @@
   "faction_points": [
     {
       "faction": "World Eaters",
-      "points": 65.625,
-      "events_played": 1,
-      "games_played": 5,
+      "points": 132.292,
+      "events_played": 2,
+      "games_played": 10,
       "win_rate": 0.6,
       "x1_points": 0
     },
@@ -86,5 +105,5 @@
       "x1_points": 1
     }
   ],
-  "rank": 105
+  "rank": 59
 }

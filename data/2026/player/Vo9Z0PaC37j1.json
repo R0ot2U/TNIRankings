@@ -1,14 +1,33 @@
 {
   "user_id": "Vo9Z0PaC37j1",
   "player_name": "Oisin Donnelly",
-  "total_points": 142.132,
-  "events_played": 6,
+  "total_points": 193.322,
+  "events_played": 7,
   "best_finish": 9,
   "regions": [
     "NI"
   ],
   "team": "The Grimsy Boys",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 9,
+      "max_points": 100,
+      "points": 83.333,
+      "faction": "Astra Militarum",
+      "team": "The Grimsy Boys",
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -102,7 +121,7 @@
       "wins": 1,
       "draws": 1,
       "losses": 1,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "5RSqsPO0geXN",
@@ -128,12 +147,12 @@
   "faction_points": [
     {
       "faction": "Astra Militarum",
-      "points": 185.257,
-      "events_played": 6,
-      "games_played": 22,
-      "win_rate": 0.4773,
-      "x1_points": 3
+      "points": 268.59,
+      "events_played": 7,
+      "games_played": 27,
+      "win_rate": 0.537,
+      "x1_points": 5
     }
   ],
-  "rank": 76
+  "rank": 56
 }

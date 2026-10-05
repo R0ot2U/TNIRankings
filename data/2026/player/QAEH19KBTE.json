@@ -1,15 +1,34 @@
 {
   "user_id": "QAEH19KBTE",
   "player_name": "Jack Hunter",
-  "total_points": 135.337,
-  "events_played": 3,
+  "total_points": 168.67,
+  "events_played": 4,
   "best_finish": 9,
   "regions": [
     "NI",
     "ROI"
   ],
-  "team": null,
+  "team": "The Tactical Titans ",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 33,
+      "max_points": 100,
+      "points": 33.333,
+      "faction": "Dark Angels",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "nXJFqAguUQDp",
       "prefix": "nXJFqAguUQDp",
@@ -72,10 +91,10 @@
   "faction_points": [
     {
       "faction": "Dark Angels",
-      "points": 114.766,
-      "events_played": 2,
-      "games_played": 10,
-      "win_rate": 0.55,
+      "points": 148.099,
+      "events_played": 3,
+      "games_played": 15,
+      "win_rate": 0.5,
       "x1_points": 2
     },
     {
@@ -87,5 +106,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 81
+  "rank": 66
 }

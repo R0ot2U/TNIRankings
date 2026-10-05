@@ -1,14 +1,33 @@
 {
   "user_id": "85VLKEC2E6",
   "player_name": "Mark McConnell",
-  "total_points": 131.125,
-  "events_played": 6,
+  "total_points": 134.667,
+  "events_played": 7,
   "best_finish": 11,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 41,
+      "max_points": 100,
+      "points": 16.667,
+      "faction": "Tyranids",
+      "team": null,
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -26,7 +45,7 @@
       "wins": 1,
       "draws": 0,
       "losses": 2,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "1PpZD9LRYLI6",
@@ -128,12 +147,12 @@
   "faction_points": [
     {
       "faction": "Tyranids",
-      "points": 150.222,
-      "events_played": 6,
-      "games_played": 24,
+      "points": 166.889,
+      "events_played": 7,
+      "games_played": 27,
       "win_rate": 0.3333,
       "x1_points": 0
     }
   ],
-  "rank": 88
+  "rank": 87
 }

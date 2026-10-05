@@ -1,8 +1,8 @@
 {
   "user_id": "RTUHTFBQT4",
   "player_name": "Shane Porter",
-  "total_points": 138.211,
-  "events_played": 2,
+  "total_points": 209.044,
+  "events_played": 3,
   "best_finish": 1,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "Donegal Dice Flingers",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 15,
+      "max_points": 100,
+      "points": 70.833,
+      "faction": "Chaos Knights",
+      "team": "Donegal Dice Flingers",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "EiRYSkAmw444",
       "prefix": "EiRYSkAmw444",
@@ -58,7 +77,15 @@
       "games_played": 8,
       "win_rate": 0.8125,
       "x1_points": 2
+    },
+    {
+      "faction": "Chaos Knights",
+      "points": 70.833,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.6,
+      "x1_points": 0
     }
   ],
-  "rank": 79
+  "rank": 47
 }

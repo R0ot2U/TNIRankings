@@ -1,14 +1,33 @@
 {
   "user_id": "CDV9YM2UVB",
   "player_name": "Gary Mcneill",
-  "total_points": 195.959,
-  "events_played": 4,
+  "total_points": 238.393,
+  "events_played": 5,
   "best_finish": 5,
   "regions": [
     "NI"
   ],
   "team": "Legio Dál Riata",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 16,
+      "max_points": 100,
+      "points": 68.75,
+      "faction": "Death Guard",
+      "team": "Legio Dál Riata",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -45,7 +64,7 @@
       "wins": 1,
       "draws": 1,
       "losses": 3,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "1fKDXYIXB8ap",
@@ -97,21 +116,21 @@
       "x1_points": 3
     },
     {
+      "faction": "Death Guard",
+      "points": 95.066,
+      "events_played": 2,
+      "games_played": 10,
+      "win_rate": 0.45,
+      "x1_points": 0
+    },
+    {
       "faction": "Aeldari",
       "points": 50.0,
       "events_played": 1,
       "games_played": 5,
       "win_rate": 0.5,
       "x1_points": 0
-    },
-    {
-      "faction": "Death Guard",
-      "points": 26.316,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.3,
-      "x1_points": 0
     }
   ],
-  "rank": 50
+  "rank": 32
 }

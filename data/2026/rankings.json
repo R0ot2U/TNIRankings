@@ -81,16 +81,16 @@
     "rank": 3,
     "user_id": "PXLnV9bNij",
     "player_name": "Mark Morrow",
-    "total_points": 381.421,
-    "events_played": 5,
+    "total_points": 393.878,
+    "events_played": 6,
     "best_finish": 1,
     "faction_points": [
       {
         "faction": "Orks",
-        "points": 187.543,
-        "events_played": 2,
-        "games_played": 10,
-        "win_rate": 0.9,
+        "points": 287.543,
+        "events_played": 3,
+        "games_played": 15,
+        "win_rate": 0.9333,
         "x1_points": 2
       },
       {
@@ -193,15 +193,15 @@
     "user_id": "ED56M8EX6E",
     "player_name": "Johnathon Townsend",
     "total_points": 356.944,
-    "events_played": 8,
+    "events_played": 9,
     "best_finish": 1,
     "faction_points": [
       {
         "faction": "Necrons",
-        "points": 291.319,
-        "events_played": 3,
-        "games_played": 15,
-        "win_rate": 0.8333,
+        "points": 349.652,
+        "events_played": 4,
+        "games_played": 20,
+        "win_rate": 0.775,
         "x1_points": 4
       },
       {
@@ -261,6 +261,94 @@
   },
   {
     "rank": 8,
+    "user_id": "PB8CBE84P1",
+    "player_name": "Haydn Dempster",
+    "total_points": 346.02,
+    "events_played": 8,
+    "best_finish": 1,
+    "faction_points": [
+      {
+        "faction": "Chaos Knights",
+        "points": 151.228,
+        "events_played": 2,
+        "games_played": 8,
+        "win_rate": 0.875,
+        "x1_points": 2
+      },
+      {
+        "faction": "Chaos Daemons",
+        "points": 133.034,
+        "events_played": 2,
+        "games_played": 9,
+        "win_rate": 0.6667,
+        "x1_points": 2
+      },
+      {
+        "faction": "Death Guard",
+        "points": 97.917,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 1.0,
+        "x1_points": 0
+      },
+      {
+        "faction": "Adeptus Custodes",
+        "points": 58.125,
+        "events_played": 1,
+        "games_played": 3,
+        "win_rate": 1.0,
+        "x1_points": 0
+      },
+      {
+        "faction": "Drukhari",
+        "points": 57.857,
+        "events_played": 1,
+        "games_played": 3,
+        "win_rate": 0.8333,
+        "x1_points": 0
+      },
+      {
+        "faction": "Blood Angels",
+        "points": 5.102,
+        "events_played": 1,
+        "games_played": 3,
+        "win_rate": 0.3333,
+        "x1_points": 0
+      }
+    ],
+    "team": "Sink",
+    "regions": [
+      "NI",
+      "ROI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 9,
+    "user_id": "WU6AA5CJ7B",
+    "player_name": "Adam Gray",
+    "total_points": 339.818,
+    "events_played": 7,
+    "best_finish": 4,
+    "faction_points": [
+      {
+        "faction": "Space Wolves",
+        "points": 468.36,
+        "events_played": 7,
+        "games_played": 31,
+        "win_rate": 0.6774,
+        "x1_points": 6
+      }
+    ],
+    "team": "GrayTTV_",
+    "regions": [
+      "NI",
+      "ROI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 10,
     "user_id": "M4XWNHCBJE",
     "player_name": "Michael Mc Carthy",
     "total_points": 334.489,
@@ -291,7 +379,7 @@
     "included_override": false
   },
   {
-    "rank": 9,
+    "rank": 11,
     "user_id": "gecGiBjJUXoP",
     "player_name": "Michael Power",
     "total_points": 333.38,
@@ -322,44 +410,20 @@
     "included_override": false
   },
   {
-    "rank": 10,
-    "user_id": "WU6AA5CJ7B",
-    "player_name": "Adam Gray",
-    "total_points": 327.318,
-    "events_played": 6,
-    "best_finish": 4,
-    "faction_points": [
-      {
-        "faction": "Space Wolves",
-        "points": 389.193,
-        "events_played": 6,
-        "games_played": 26,
-        "win_rate": 0.6923,
-        "x1_points": 6
-      }
-    ],
-    "team": "GrayTTV_",
-    "regions": [
-      "NI",
-      "ROI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 11,
+    "rank": 12,
     "user_id": "FhuAxMR0pW",
     "player_name": "Aidan \"GULLMAN\" Lee",
     "total_points": 312.388,
-    "events_played": 4,
+    "events_played": 5,
     "best_finish": 3,
     "faction_points": [
       {
         "faction": "Leagues of Votann",
-        "points": 218.638,
-        "events_played": 3,
-        "games_played": 13,
-        "win_rate": 0.6923,
-        "x1_points": 3
+        "points": 258.221,
+        "events_played": 4,
+        "games_played": 16,
+        "win_rate": 0.6875,
+        "x1_points": 5
       },
       {
         "faction": "T'au Empire",
@@ -370,7 +434,7 @@
         "x1_points": 2
       }
     ],
-    "team": null,
+    "team": "Seals R Us",
     "regions": [
       "NI",
       "ROI"
@@ -378,7 +442,7 @@
     "included_override": false
   },
   {
-    "rank": 12,
+    "rank": 13,
     "user_id": "0JabbxNshR",
     "player_name": "Peter Ghelfi",
     "total_points": 310.399,
@@ -409,7 +473,7 @@
     "included_override": false
   },
   {
-    "rank": 13,
+    "rank": 14,
     "user_id": "zGgbLZ8rRV",
     "player_name": "Elliott Murphy",
     "total_points": 306.545,
@@ -427,62 +491,6 @@
     ],
     "team": "Spectrum Warriors",
     "regions": [
-      "ROI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 14,
-    "user_id": "PB8CBE84P1",
-    "player_name": "Haydn Dempster",
-    "total_points": 306.228,
-    "events_played": 7,
-    "best_finish": 1,
-    "faction_points": [
-      {
-        "faction": "Chaos Knights",
-        "points": 151.228,
-        "events_played": 2,
-        "games_played": 8,
-        "win_rate": 0.875,
-        "x1_points": 2
-      },
-      {
-        "faction": "Chaos Daemons",
-        "points": 133.034,
-        "events_played": 2,
-        "games_played": 9,
-        "win_rate": 0.6667,
-        "x1_points": 2
-      },
-      {
-        "faction": "Adeptus Custodes",
-        "points": 58.125,
-        "events_played": 1,
-        "games_played": 3,
-        "win_rate": 1.0,
-        "x1_points": 0
-      },
-      {
-        "faction": "Drukhari",
-        "points": 57.857,
-        "events_played": 1,
-        "games_played": 3,
-        "win_rate": 0.8333,
-        "x1_points": 0
-      },
-      {
-        "faction": "Blood Angels",
-        "points": 5.102,
-        "events_played": 1,
-        "games_played": 3,
-        "win_rate": 0.3333,
-        "x1_points": 0
-      }
-    ],
-    "team": "Sink",
-    "regions": [
-      "NI",
       "ROI"
     ],
     "included_override": false
@@ -521,6 +529,53 @@
   },
   {
     "rank": 16,
+    "user_id": "X792fpu4EX",
+    "player_name": "Martin Sloan",
+    "total_points": 298.076,
+    "events_played": 4,
+    "best_finish": 3,
+    "faction_points": [
+      {
+        "faction": "Black Templars",
+        "points": 298.076,
+        "events_played": 4,
+        "games_played": 20,
+        "win_rate": 0.675,
+        "x1_points": 2
+      }
+    ],
+    "team": "Sink",
+    "regions": [
+      "NI",
+      "ROI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 17,
+    "user_id": "pS6cAYdpIxtv",
+    "player_name": "Lewis McCollough",
+    "total_points": 294.375,
+    "events_played": 8,
+    "best_finish": 1,
+    "faction_points": [
+      {
+        "faction": "Orks",
+        "points": 444.246,
+        "events_played": 8,
+        "games_played": 32,
+        "win_rate": 0.6719,
+        "x1_points": 6
+      }
+    ],
+    "team": "War Shed",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 18,
     "user_id": "ncG5nI2FGu",
     "player_name": "Richard Flood",
     "total_points": 293.501,
@@ -551,7 +606,7 @@
     "included_override": false
   },
   {
-    "rank": 17,
+    "rank": 19,
     "user_id": "MxWmuceRH2",
     "player_name": "Gary Lynch",
     "total_points": 287.229,
@@ -598,7 +653,7 @@
     "included_override": false
   },
   {
-    "rank": 18,
+    "rank": 20,
     "user_id": "C95R27X1AO",
     "player_name": "Kieran Hayter",
     "total_points": 286.264,
@@ -629,7 +684,7 @@
     "included_override": false
   },
   {
-    "rank": 19,
+    "rank": 21,
     "user_id": "reDHlzlApZFg",
     "player_name": "Gavin Hamilton",
     "total_points": 285.11,
@@ -661,7 +716,54 @@
     "included_override": false
   },
   {
-    "rank": 20,
+    "rank": 22,
+    "user_id": "ESO2MsWNvb",
+    "player_name": "Lee McInerney",
+    "total_points": 283.651,
+    "events_played": 6,
+    "best_finish": 6,
+    "faction_points": [
+      {
+        "faction": "Chaos Knights",
+        "points": 129.375,
+        "events_played": 2,
+        "games_played": 8,
+        "win_rate": 0.6875,
+        "x1_points": 3
+      },
+      {
+        "faction": "Death Guard",
+        "points": 101.241,
+        "events_played": 2,
+        "games_played": 11,
+        "win_rate": 0.4545,
+        "x1_points": 0
+      },
+      {
+        "faction": "Chaos Space Marines",
+        "points": 77.083,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.6,
+        "x1_points": 0
+      },
+      {
+        "faction": "Drukhari",
+        "points": 21.429,
+        "events_played": 1,
+        "games_played": 3,
+        "win_rate": 0.3333,
+        "x1_points": 0
+      }
+    ],
+    "team": "Dundalk Gaming Community",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 23,
     "user_id": "8D2Q5JE3WP",
     "player_name": "Jeremy Cronin",
     "total_points": 280.487,
@@ -684,7 +786,38 @@
     "included_override": false
   },
   {
-    "rank": 21,
+    "rank": 24,
+    "user_id": "EwNWT3oVKo",
+    "player_name": "Ross McCarroll",
+    "total_points": 276.739,
+    "events_played": 5,
+    "best_finish": 3,
+    "faction_points": [
+      {
+        "faction": "Thousand Sons",
+        "points": 190.774,
+        "events_played": 3,
+        "games_played": 11,
+        "win_rate": 0.8182,
+        "x1_points": 3
+      },
+      {
+        "faction": "Chaos Daemons",
+        "points": 125.965,
+        "events_played": 2,
+        "games_played": 8,
+        "win_rate": 0.6875,
+        "x1_points": 3
+      }
+    ],
+    "team": "Northern Wasters",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 25,
     "user_id": "4IxIRrgLgq",
     "player_name": "Ryan Lynch",
     "total_points": 274.12,
@@ -723,7 +856,7 @@
     "included_override": false
   },
   {
-    "rank": 22,
+    "rank": 26,
     "user_id": "RnKzXPdXVa8f",
     "player_name": "Colin O'Sullivan",
     "total_points": 269.233,
@@ -770,7 +903,7 @@
     "included_override": false
   },
   {
-    "rank": 23,
+    "rank": 27,
     "user_id": "P38PFLW9HJ",
     "player_name": "Bartosz Chmielewski",
     "total_points": 262.219,
@@ -793,30 +926,31 @@
     "included_override": false
   },
   {
-    "rank": 24,
-    "user_id": "pS6cAYdpIxtv",
-    "player_name": "Lewis McCollough",
-    "total_points": 254.875,
-    "events_played": 7,
-    "best_finish": 1,
+    "rank": 28,
+    "user_id": "cZxP6qTOc38e",
+    "player_name": "James Crymble",
+    "total_points": 261.696,
+    "events_played": 6,
+    "best_finish": 5,
     "faction_points": [
       {
         "faction": "Orks",
-        "points": 356.746,
-        "events_played": 7,
-        "games_played": 27,
-        "win_rate": 0.6481,
-        "x1_points": 4
+        "points": 294.196,
+        "events_played": 6,
+        "games_played": 28,
+        "win_rate": 0.4643,
+        "x1_points": 2
       }
     ],
-    "team": "Carrickfergus Warhammer Gaming Club",
+    "team": "Legio Dál Riata",
     "regions": [
-      "NI"
+      "NI",
+      "ROI"
     ],
     "included_override": false
   },
   {
-    "rank": 25,
+    "rank": 29,
     "user_id": "NGXv2SSnfV",
     "player_name": "Thomas Neville",
     "total_points": 247.841,
@@ -847,11 +981,50 @@
     "included_override": false
   },
   {
-    "rank": 26,
+    "rank": 30,
+    "user_id": "2F3738HURV",
+    "player_name": "John Haycock",
+    "total_points": 242.689,
+    "events_played": 7,
+    "best_finish": 3,
+    "faction_points": [
+      {
+        "faction": "Leagues of Votann",
+        "points": 220.846,
+        "events_played": 4,
+        "games_played": 16,
+        "win_rate": 0.625,
+        "x1_points": 1
+      },
+      {
+        "faction": "Genestealer Cult",
+        "points": 97.143,
+        "events_played": 2,
+        "games_played": 6,
+        "win_rate": 0.75,
+        "x1_points": 0
+      },
+      {
+        "faction": "Emperor's Children",
+        "points": 59.343,
+        "events_played": 1,
+        "games_played": 6,
+        "win_rate": 0.5,
+        "x1_points": 0
+      }
+    ],
+    "team": "Sink",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 31,
     "user_id": "CluWg2oAoX",
     "player_name": "Aaron Buckley",
     "total_points": 241.518,
-    "events_played": 7,
+    "events_played": 8,
     "best_finish": 3,
     "faction_points": [
       {
@@ -864,10 +1037,10 @@
       },
       {
         "faction": "Tyranids",
-        "points": 144.521,
-        "events_played": 3,
-        "games_played": 11,
-        "win_rate": 0.6364,
+        "points": 154.938,
+        "events_played": 4,
+        "games_played": 14,
+        "win_rate": 0.5714,
         "x1_points": 2
       }
     ],
@@ -878,23 +1051,62 @@
     "included_override": false
   },
   {
-    "rank": 27,
+    "rank": 32,
+    "user_id": "CDV9YM2UVB",
+    "player_name": "Gary Mcneill",
+    "total_points": 238.393,
+    "events_played": 5,
+    "best_finish": 5,
+    "faction_points": [
+      {
+        "faction": "Space Marines (Astartes)",
+        "points": 119.643,
+        "events_played": 2,
+        "games_played": 8,
+        "win_rate": 0.625,
+        "x1_points": 3
+      },
+      {
+        "faction": "Death Guard",
+        "points": 95.066,
+        "events_played": 2,
+        "games_played": 10,
+        "win_rate": 0.45,
+        "x1_points": 0
+      },
+      {
+        "faction": "Aeldari",
+        "points": 50.0,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.5,
+        "x1_points": 0
+      }
+    ],
+    "team": "Legio Dál Riata",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 33,
     "user_id": "LQHVRRN8YF",
     "player_name": "Scott Palmer",
     "total_points": 237.635,
-    "events_played": 7,
+    "events_played": 8,
     "best_finish": 3,
     "faction_points": [
       {
         "faction": "Imperial Knights",
-        "points": 345.7,
-        "events_played": 7,
-        "games_played": 27,
-        "win_rate": 0.6296,
+        "points": 381.117,
+        "events_played": 8,
+        "games_played": 32,
+        "win_rate": 0.5938,
         "x1_points": 4
       }
     ],
-    "team": "Legio Dal Riata",
+    "team": "Legio Dál Riata",
     "regions": [
       "NI",
       "ROI"
@@ -902,7 +1114,30 @@
     "included_override": false
   },
   {
-    "rank": 28,
+    "rank": 34,
+    "user_id": "WWc1sxEpPWVj",
+    "player_name": "Daryl Moore",
+    "total_points": 235.142,
+    "events_played": 3,
+    "best_finish": 6,
+    "faction_points": [
+      {
+        "faction": "Chaos Space Marines",
+        "points": 235.142,
+        "events_played": 3,
+        "games_played": 15,
+        "win_rate": 0.6667,
+        "x1_points": 2
+      }
+    ],
+    "team": "Carrickfergus Warhammer Gaming Club",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 35,
     "user_id": "D1usWYnRHFXg",
     "player_name": "Jack Kerins Mahon",
     "total_points": 234.776,
@@ -933,7 +1168,7 @@
     "included_override": false
   },
   {
-    "rank": 29,
+    "rank": 36,
     "user_id": "gz7XacVtZa",
     "player_name": "Sean Murray",
     "total_points": 234.509,
@@ -964,31 +1199,7 @@
     "included_override": false
   },
   {
-    "rank": 30,
-    "user_id": "cZxP6qTOc38e",
-    "player_name": "James Crymble",
-    "total_points": 233.779,
-    "events_played": 5,
-    "best_finish": 5,
-    "faction_points": [
-      {
-        "faction": "Orks",
-        "points": 246.279,
-        "events_played": 5,
-        "games_played": 23,
-        "win_rate": 0.4783,
-        "x1_points": 2
-      }
-    ],
-    "team": "Legio Dál Riata",
-    "regions": [
-      "NI",
-      "ROI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 31,
+    "rank": 37,
     "user_id": "A9J0VUXQ53",
     "player_name": "Luke Crowley",
     "total_points": 233.743,
@@ -1027,77 +1238,39 @@
     "included_override": false
   },
   {
-    "rank": 32,
-    "user_id": "ESO2MsWNvb",
-    "player_name": "Lee McInerney",
-    "total_points": 230.616,
-    "events_played": 5,
-    "best_finish": 6,
-    "faction_points": [
-      {
-        "faction": "Chaos Knights",
-        "points": 129.375,
-        "events_played": 2,
-        "games_played": 8,
-        "win_rate": 0.6875,
-        "x1_points": 3
-      },
-      {
-        "faction": "Death Guard",
-        "points": 101.241,
-        "events_played": 2,
-        "games_played": 11,
-        "win_rate": 0.4545,
-        "x1_points": 0
-      },
-      {
-        "faction": "Drukhari",
-        "points": 21.429,
-        "events_played": 1,
-        "games_played": 3,
-        "win_rate": 0.3333,
-        "x1_points": 0
-      }
-    ],
-    "team": "Dundalk Gaming Community",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 33,
-    "user_id": "EwNWT3oVKo",
-    "player_name": "Ross McCarroll",
-    "total_points": 225.072,
-    "events_played": 4,
-    "best_finish": 3,
+    "rank": 38,
+    "user_id": "JJ57162Y66",
+    "player_name": "Thomas Mcguigan",
+    "total_points": 225.254,
+    "events_played": 7,
+    "best_finish": 11,
     "faction_points": [
       {
         "faction": "Chaos Daemons",
-        "points": 125.965,
-        "events_played": 2,
-        "games_played": 8,
-        "win_rate": 0.6875,
-        "x1_points": 3
+        "points": 253.111,
+        "events_played": 5,
+        "games_played": 24,
+        "win_rate": 0.4792,
+        "x1_points": 1
       },
       {
-        "faction": "Thousand Sons",
-        "points": 99.107,
+        "faction": "Chaos Space Marines",
+        "points": 59.375,
         "events_played": 2,
         "games_played": 6,
-        "win_rate": 0.8333,
+        "win_rate": 0.5,
         "x1_points": 1
       }
     ],
     "team": "Northern Wasters",
     "regions": [
-      "NI"
+      "NI",
+      "ROI"
     ],
     "included_override": false
   },
   {
-    "rank": 34,
+    "rank": 39,
     "user_id": "GC82E0RYUB",
     "player_name": "Ben Keogh",
     "total_points": 223.897,
@@ -1136,7 +1309,7 @@
     "included_override": false
   },
   {
-    "rank": 35,
+    "rank": 40,
     "user_id": "YWR55XY5D7",
     "player_name": "Stefan Colhoun",
     "total_points": 222.783,
@@ -1184,7 +1357,7 @@
     "included_override": false
   },
   {
-    "rank": 36,
+    "rank": 41,
     "user_id": "PBT2TK4BYC",
     "player_name": "Robin O Leary",
     "total_points": 218.443,
@@ -1223,46 +1396,7 @@
     "included_override": false
   },
   {
-    "rank": 37,
-    "user_id": "2F3738HURV",
-    "player_name": "John Haycock",
-    "total_points": 217.689,
-    "events_played": 6,
-    "best_finish": 3,
-    "faction_points": [
-      {
-        "faction": "Leagues of Votann",
-        "points": 145.846,
-        "events_played": 3,
-        "games_played": 11,
-        "win_rate": 0.6364,
-        "x1_points": 1
-      },
-      {
-        "faction": "Genestealer Cult",
-        "points": 97.143,
-        "events_played": 2,
-        "games_played": 6,
-        "win_rate": 0.75,
-        "x1_points": 0
-      },
-      {
-        "faction": "Emperor's Children",
-        "points": 59.343,
-        "events_played": 1,
-        "games_played": 6,
-        "win_rate": 0.5,
-        "x1_points": 0
-      }
-    ],
-    "team": "Sink",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 38,
+    "rank": 42,
     "user_id": "GN1DxJv8F0",
     "player_name": "David Kiely",
     "total_points": 215.317,
@@ -1285,7 +1419,7 @@
     "included_override": false
   },
   {
-    "rank": 39,
+    "rank": 43,
     "user_id": "kowBfRHhpC",
     "player_name": "Kyle Tiernan",
     "total_points": 215.245,
@@ -1308,51 +1442,50 @@
     "included_override": false
   },
   {
-    "rank": 40,
-    "user_id": "JJ57162Y66",
-    "player_name": "Thomas Mcguigan",
-    "total_points": 214.421,
-    "events_played": 6,
-    "best_finish": 11,
+    "rank": 44,
+    "user_id": "J7T1XTCJQG",
+    "player_name": "Casey keenan",
+    "total_points": 212.565,
+    "events_played": 3,
+    "best_finish": 3,
     "faction_points": [
       {
-        "faction": "Chaos Daemons",
-        "points": 207.278,
-        "events_played": 4,
-        "games_played": 19,
-        "win_rate": 0.5,
-        "x1_points": 1
+        "faction": "Adeptus Custodes",
+        "points": 119.583,
+        "events_played": 2,
+        "games_played": 8,
+        "win_rate": 0.6875,
+        "x1_points": 0
       },
       {
-        "faction": "Chaos Space Marines",
-        "points": 59.375,
-        "events_played": 2,
-        "games_played": 6,
-        "win_rate": 0.5,
-        "x1_points": 1
+        "faction": "Space Marines (Astartes)",
+        "points": 92.982,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.8,
+        "x1_points": 2
       }
     ],
-    "team": "Northern Wasters",
+    "team": "The Tactical Titans ",
     "regions": [
-      "NI",
-      "ROI"
+      "NI"
     ],
     "included_override": false
   },
   {
-    "rank": 41,
+    "rank": 45,
     "user_id": "07M7YUP73Q",
     "player_name": "Matthew Wheatley",
     "total_points": 210.546,
-    "events_played": 5,
+    "events_played": 6,
     "best_finish": 1,
     "faction_points": [
       {
         "faction": "Tyranids",
-        "points": 240.546,
-        "events_played": 5,
-        "games_played": 17,
-        "win_rate": 0.6765,
+        "points": 282.213,
+        "events_played": 6,
+        "games_played": 22,
+        "win_rate": 0.6136,
         "x1_points": 3
       }
     ],
@@ -1363,7 +1496,7 @@
     "included_override": false
   },
   {
-    "rank": 42,
+    "rank": 46,
     "user_id": "L2RLPX8TPX",
     "player_name": "Alex Nolan",
     "total_points": 209.844,
@@ -1410,7 +1543,39 @@
     "included_override": false
   },
   {
-    "rank": 43,
+    "rank": 47,
+    "user_id": "RTUHTFBQT4",
+    "player_name": "Shane Porter",
+    "total_points": 209.044,
+    "events_played": 3,
+    "best_finish": 1,
+    "faction_points": [
+      {
+        "faction": "Black Templars",
+        "points": 138.211,
+        "events_played": 2,
+        "games_played": 8,
+        "win_rate": 0.8125,
+        "x1_points": 2
+      },
+      {
+        "faction": "Chaos Knights",
+        "points": 70.833,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.6,
+        "x1_points": 0
+      }
+    ],
+    "team": "Donegal Dice Flingers",
+    "regions": [
+      "NI",
+      "ROI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 48,
     "user_id": "QokOCE5t03Zm",
     "player_name": "Jacob Casey",
     "total_points": 203.929,
@@ -1433,7 +1598,7 @@
     "included_override": false
   },
   {
-    "rank": 44,
+    "rank": 49,
     "user_id": "2mztF9vJZa",
     "player_name": "mike tangney",
     "total_points": 203.554,
@@ -1464,7 +1629,7 @@
     "included_override": false
   },
   {
-    "rank": 45,
+    "rank": 50,
     "user_id": "Ep104nmEfA",
     "player_name": "Andrew Wilson",
     "total_points": 202.98,
@@ -1495,31 +1660,7 @@
     "included_override": false
   },
   {
-    "rank": 46,
-    "user_id": "X792fpu4EX",
-    "player_name": "Martin Sloan",
-    "total_points": 202.243,
-    "events_played": 3,
-    "best_finish": 3,
-    "faction_points": [
-      {
-        "faction": "Black Templars",
-        "points": 202.243,
-        "events_played": 3,
-        "games_played": 15,
-        "win_rate": 0.6333,
-        "x1_points": 0
-      }
-    ],
-    "team": "Sink",
-    "regions": [
-      "NI",
-      "ROI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 47,
+    "rank": 51,
     "user_id": "VaRu8WZxnkB3",
     "player_name": "Krzysztof Mendel",
     "total_points": 201.768,
@@ -1542,7 +1683,7 @@
     "included_override": false
   },
   {
-    "rank": 48,
+    "rank": 52,
     "user_id": "fMIlXapO6Q1G",
     "player_name": "Filip Zakrocki",
     "total_points": 201.147,
@@ -1565,7 +1706,30 @@
     "included_override": false
   },
   {
-    "rank": 49,
+    "rank": 53,
+    "user_id": "06EMKWGBHD",
+    "player_name": "Scott Nelson",
+    "total_points": 199.911,
+    "events_played": 3,
+    "best_finish": 4,
+    "faction_points": [
+      {
+        "faction": "T'au Empire",
+        "points": 199.911,
+        "events_played": 3,
+        "games_played": 13,
+        "win_rate": 0.6538,
+        "x1_points": 5
+      }
+    ],
+    "team": null,
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 54,
     "user_id": "8iAE32vg6eGO",
     "player_name": "Victor Sefastsson",
     "total_points": 196.919,
@@ -1604,46 +1768,7 @@
     "included_override": false
   },
   {
-    "rank": 50,
-    "user_id": "CDV9YM2UVB",
-    "player_name": "Gary Mcneill",
-    "total_points": 195.959,
-    "events_played": 4,
-    "best_finish": 5,
-    "faction_points": [
-      {
-        "faction": "Space Marines (Astartes)",
-        "points": 119.643,
-        "events_played": 2,
-        "games_played": 8,
-        "win_rate": 0.625,
-        "x1_points": 3
-      },
-      {
-        "faction": "Aeldari",
-        "points": 50.0,
-        "events_played": 1,
-        "games_played": 5,
-        "win_rate": 0.5,
-        "x1_points": 0
-      },
-      {
-        "faction": "Death Guard",
-        "points": 26.316,
-        "events_played": 1,
-        "games_played": 5,
-        "win_rate": 0.3,
-        "x1_points": 0
-      }
-    ],
-    "team": "Legio Dál Riata",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 51,
+    "rank": 55,
     "user_id": "KD3H6WXHD0",
     "player_name": "Luca Binz",
     "total_points": 195.285,
@@ -1666,7 +1791,30 @@
     "included_override": false
   },
   {
-    "rank": 52,
+    "rank": 56,
+    "user_id": "Vo9Z0PaC37j1",
+    "player_name": "Oisin Donnelly",
+    "total_points": 193.322,
+    "events_played": 7,
+    "best_finish": 9,
+    "faction_points": [
+      {
+        "faction": "Astra Militarum",
+        "points": 268.59,
+        "events_played": 7,
+        "games_played": 27,
+        "win_rate": 0.537,
+        "x1_points": 5
+      }
+    ],
+    "team": "The Grimsy Boys",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 57,
     "user_id": "L9A80YYNLD",
     "player_name": "Brendy Muldoon",
     "total_points": 191.81,
@@ -1689,7 +1837,7 @@
     "included_override": false
   },
   {
-    "rank": 53,
+    "rank": 58,
     "user_id": "QM9BQMN892",
     "player_name": "Aoife Kerins",
     "total_points": 185.652,
@@ -1736,7 +1884,38 @@
     "included_override": false
   },
   {
-    "rank": 54,
+    "rank": 59,
+    "user_id": "41O1pv8tWli9",
+    "player_name": "Scott McDonald",
+    "total_points": 182.747,
+    "events_played": 4,
+    "best_finish": 10,
+    "faction_points": [
+      {
+        "faction": "World Eaters",
+        "points": 132.292,
+        "events_played": 2,
+        "games_played": 10,
+        "win_rate": 0.6,
+        "x1_points": 0
+      },
+      {
+        "faction": "Adeptus Custodes",
+        "points": 50.455,
+        "events_played": 2,
+        "games_played": 6,
+        "win_rate": 0.4167,
+        "x1_points": 1
+      }
+    ],
+    "team": "War Shed",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 60,
     "user_id": "y0P4pQWL7oJ8",
     "player_name": "Clement Duval",
     "total_points": 180.155,
@@ -1759,7 +1938,7 @@
     "included_override": false
   },
   {
-    "rank": 55,
+    "rank": 61,
     "user_id": "kFUXnNqVRh",
     "player_name": "jer Collins",
     "total_points": 178.737,
@@ -1782,7 +1961,46 @@
     "included_override": false
   },
   {
-    "rank": 56,
+    "rank": 62,
+    "user_id": "M68UK1NNGE",
+    "player_name": "Alex Cowan",
+    "total_points": 177.21,
+    "events_played": 4,
+    "best_finish": 4,
+    "faction_points": [
+      {
+        "faction": "T'au Empire",
+        "points": 85.417,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.8,
+        "x1_points": 2
+      },
+      {
+        "faction": "Adepta Sororitas",
+        "points": 69.293,
+        "events_played": 2,
+        "games_played": 8,
+        "win_rate": 0.5,
+        "x1_points": 1
+      },
+      {
+        "faction": "Adeptus Mechanicus",
+        "points": 22.5,
+        "events_played": 1,
+        "games_played": 3,
+        "win_rate": 0.3333,
+        "x1_points": 0
+      }
+    ],
+    "team": "The Tactical Titans ",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 63,
     "user_id": "ApP8KERU6Z",
     "player_name": "Chris Musgrave",
     "total_points": 176.389,
@@ -1805,7 +2023,7 @@
     "included_override": false
   },
   {
-    "rank": 57,
+    "rank": 64,
     "user_id": "TgHptDFNwe",
     "player_name": "Daniel Gallagher",
     "total_points": 174.986,
@@ -1829,7 +2047,7 @@
     "included_override": false
   },
   {
-    "rank": 58,
+    "rank": 65,
     "user_id": "7ilHI1viOpNb",
     "player_name": "Jakub Andrzejewski",
     "total_points": 173.151,
@@ -1860,7 +2078,62 @@
     "included_override": false
   },
   {
-    "rank": 59,
+    "rank": 66,
+    "user_id": "QAEH19KBTE",
+    "player_name": "Jack Hunter",
+    "total_points": 168.67,
+    "events_played": 4,
+    "best_finish": 9,
+    "faction_points": [
+      {
+        "faction": "Dark Angels",
+        "points": 148.099,
+        "events_played": 3,
+        "games_played": 15,
+        "win_rate": 0.5,
+        "x1_points": 2
+      },
+      {
+        "faction": "Space Marines (Astartes)",
+        "points": 20.571,
+        "events_played": 1,
+        "games_played": 3,
+        "win_rate": 0.3333,
+        "x1_points": 0
+      }
+    ],
+    "team": "The Tactical Titans ",
+    "regions": [
+      "NI",
+      "ROI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 67,
+    "user_id": "PbPeOUrGqO7M",
+    "player_name": "Oran Donnelly",
+    "total_points": 166.462,
+    "events_played": 6,
+    "best_finish": 2,
+    "faction_points": [
+      {
+        "faction": "Blood Angels",
+        "points": 199.051,
+        "events_played": 6,
+        "games_played": 22,
+        "win_rate": 0.5,
+        "x1_points": 2
+      }
+    ],
+    "team": "The Grimsy Boys",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 68,
     "user_id": "DGwcM1kroW",
     "player_name": "Owen Leen",
     "total_points": 166.324,
@@ -1899,7 +2172,7 @@
     "included_override": false
   },
   {
-    "rank": 60,
+    "rank": 69,
     "user_id": "7R9C5QCE4U",
     "player_name": "Liam Stewart",
     "total_points": 161.166,
@@ -1922,7 +2195,7 @@
     "included_override": false
   },
   {
-    "rank": 61,
+    "rank": 70,
     "user_id": "GDHEU6PDV3",
     "player_name": "Charles Gould",
     "total_points": 160.97,
@@ -1953,7 +2226,7 @@
     "included_override": false
   },
   {
-    "rank": 62,
+    "rank": 71,
     "user_id": "5KFluMFve0",
     "player_name": "Ian Wilson",
     "total_points": 160.953,
@@ -1984,7 +2257,7 @@
     "included_override": false
   },
   {
-    "rank": 63,
+    "rank": 72,
     "user_id": "CJWQ5FF4KW",
     "player_name": "Brian McCarthy",
     "total_points": 159.094,
@@ -2015,7 +2288,7 @@
     "included_override": false
   },
   {
-    "rank": 64,
+    "rank": 73,
     "user_id": "DMGfz73mgz",
     "player_name": "Dylan Usher",
     "total_points": 155.074,
@@ -2046,7 +2319,7 @@
     "included_override": false
   },
   {
-    "rank": 65,
+    "rank": 74,
     "user_id": "6CL51TCXQJ",
     "player_name": "Luke Lewis",
     "total_points": 153.548,
@@ -2077,7 +2350,7 @@
     "included_override": false
   },
   {
-    "rank": 66,
+    "rank": 75,
     "user_id": "CAJND0BQUC",
     "player_name": "Mark Doherty",
     "total_points": 153.184,
@@ -2100,7 +2373,7 @@
     "included_override": false
   },
   {
-    "rank": 67,
+    "rank": 76,
     "user_id": "j4AtaUu4Q8",
     "player_name": "Shane O Connor",
     "total_points": 152.577,
@@ -2123,7 +2396,7 @@
     "included_override": false
   },
   {
-    "rank": 68,
+    "rank": 77,
     "user_id": "8B8GKKHYM4",
     "player_name": "Gary Domican",
     "total_points": 149.209,
@@ -2146,7 +2419,7 @@
     "included_override": false
   },
   {
-    "rank": 69,
+    "rank": 78,
     "user_id": "JulzG6IacBHS",
     "player_name": "Joseph Grant",
     "total_points": 148.425,
@@ -2178,38 +2451,7 @@
     "included_override": false
   },
   {
-    "rank": 70,
-    "user_id": "J7T1XTCJQG",
-    "player_name": "Casey keenan",
-    "total_points": 147.982,
-    "events_played": 2,
-    "best_finish": 3,
-    "faction_points": [
-      {
-        "faction": "Space Marines (Astartes)",
-        "points": 92.982,
-        "events_played": 1,
-        "games_played": 5,
-        "win_rate": 0.8,
-        "x1_points": 2
-      },
-      {
-        "faction": "Adeptus Custodes",
-        "points": 55.0,
-        "events_played": 1,
-        "games_played": 3,
-        "win_rate": 0.8333,
-        "x1_points": 0
-      }
-    ],
-    "team": "The Tactical Titans ",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 71,
+    "rank": 79,
     "user_id": "iWCg3NtsXTOJ",
     "player_name": "Julian Begley",
     "total_points": 147.603,
@@ -2232,30 +2474,7 @@
     "included_override": false
   },
   {
-    "rank": 72,
-    "user_id": "WWc1sxEpPWVj",
-    "player_name": "Daryl Moore",
-    "total_points": 145.559,
-    "events_played": 2,
-    "best_finish": 10,
-    "faction_points": [
-      {
-        "faction": "Chaos Space Marines",
-        "points": 145.559,
-        "events_played": 2,
-        "games_played": 10,
-        "win_rate": 0.6,
-        "x1_points": 0
-      }
-    ],
-    "team": "Carrickfergus Warhammer Gaming Club",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 73,
+    "rank": 80,
     "user_id": "EL9MWN8PHP",
     "player_name": "Michal Cwik",
     "total_points": 144.661,
@@ -2278,7 +2497,7 @@
     "included_override": false
   },
   {
-    "rank": 74,
+    "rank": 81,
     "user_id": "BNVNBJDWKC",
     "player_name": "James O'Reilly",
     "total_points": 143.651,
@@ -2301,7 +2520,7 @@
     "included_override": false
   },
   {
-    "rank": 75,
+    "rank": 82,
     "user_id": "39GUDPF8TV",
     "player_name": "Cian Sewell",
     "total_points": 143.646,
@@ -2332,30 +2551,31 @@
     "included_override": false
   },
   {
-    "rank": 76,
-    "user_id": "Vo9Z0PaC37j1",
-    "player_name": "Oisin Donnelly",
-    "total_points": 142.132,
-    "events_played": 6,
-    "best_finish": 9,
+    "rank": 83,
+    "user_id": "F9dg7AOnF7dD",
+    "player_name": "David Anderson",
+    "total_points": 140.732,
+    "events_played": 10,
+    "best_finish": 13,
     "faction_points": [
       {
-        "faction": "Astra Militarum",
-        "points": 185.257,
-        "events_played": 6,
-        "games_played": 22,
-        "win_rate": 0.4773,
-        "x1_points": 3
+        "faction": "Orks",
+        "points": 207.732,
+        "events_played": 10,
+        "games_played": 38,
+        "win_rate": 0.3026,
+        "x1_points": 2
       }
     ],
-    "team": "The Grimsy Boys",
+    "team": "Kill Team Grox",
     "regions": [
-      "NI"
+      "NI",
+      "ROI"
     ],
     "included_override": false
   },
   {
-    "rank": 77,
+    "rank": 84,
     "user_id": "U9aNWDhCuB",
     "player_name": "Vivion Grisewood",
     "total_points": 140.531,
@@ -2378,7 +2598,7 @@
     "included_override": false
   },
   {
-    "rank": 78,
+    "rank": 85,
     "user_id": "g0sAAdcS04cV",
     "player_name": "Kieran Lynch",
     "total_points": 140.023,
@@ -2401,31 +2621,7 @@
     "included_override": false
   },
   {
-    "rank": 79,
-    "user_id": "RTUHTFBQT4",
-    "player_name": "Shane Porter",
-    "total_points": 138.211,
-    "events_played": 2,
-    "best_finish": 1,
-    "faction_points": [
-      {
-        "faction": "Black Templars",
-        "points": 138.211,
-        "events_played": 2,
-        "games_played": 8,
-        "win_rate": 0.8125,
-        "x1_points": 2
-      }
-    ],
-    "team": "Donegal Dice Flingers",
-    "regions": [
-      "NI",
-      "ROI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 80,
+    "rank": 86,
     "user_id": "6MVfOMCEh04x",
     "player_name": "Conor Teer",
     "total_points": 135.625,
@@ -2448,39 +2644,30 @@
     "included_override": false
   },
   {
-    "rank": 81,
-    "user_id": "QAEH19KBTE",
-    "player_name": "Jack Hunter",
-    "total_points": 135.337,
-    "events_played": 3,
-    "best_finish": 9,
+    "rank": 87,
+    "user_id": "85VLKEC2E6",
+    "player_name": "Mark McConnell",
+    "total_points": 134.667,
+    "events_played": 7,
+    "best_finish": 11,
     "faction_points": [
       {
-        "faction": "Dark Angels",
-        "points": 114.766,
-        "events_played": 2,
-        "games_played": 10,
-        "win_rate": 0.55,
-        "x1_points": 2
-      },
-      {
-        "faction": "Space Marines (Astartes)",
-        "points": 20.571,
-        "events_played": 1,
-        "games_played": 3,
+        "faction": "Tyranids",
+        "points": 166.889,
+        "events_played": 7,
+        "games_played": 27,
         "win_rate": 0.3333,
         "x1_points": 0
       }
     ],
     "team": null,
     "regions": [
-      "NI",
-      "ROI"
+      "NI"
     ],
     "included_override": false
   },
   {
-    "rank": 82,
+    "rank": 88,
     "user_id": "tLlGOUbzr4FO",
     "player_name": "Thomas O'Neill",
     "total_points": 134.533,
@@ -2503,30 +2690,7 @@
     "included_override": false
   },
   {
-    "rank": 83,
-    "user_id": "PbPeOUrGqO7M",
-    "player_name": "Oran Donnelly",
-    "total_points": 134.17,
-    "events_played": 5,
-    "best_finish": 2,
-    "faction_points": [
-      {
-        "faction": "Blood Angels",
-        "points": 144.884,
-        "events_played": 5,
-        "games_played": 17,
-        "win_rate": 0.4706,
-        "x1_points": 2
-      }
-    ],
-    "team": "The Grimsy Boys",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 84,
+    "rank": 89,
     "user_id": "0EUR9A85U8",
     "player_name": "Cian Doherty",
     "total_points": 133.754,
@@ -2565,31 +2729,7 @@
     "included_override": false
   },
   {
-    "rank": 85,
-    "user_id": "F9dg7AOnF7dD",
-    "player_name": "David Anderson",
-    "total_points": 133.44,
-    "events_played": 9,
-    "best_finish": 13,
-    "faction_points": [
-      {
-        "faction": "Orks",
-        "points": 178.565,
-        "events_played": 9,
-        "games_played": 33,
-        "win_rate": 0.2879,
-        "x1_points": 2
-      }
-    ],
-    "team": null,
-    "regions": [
-      "NI",
-      "ROI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 86,
+    "rank": 90,
     "user_id": "PE2R57FANB",
     "player_name": "Peter Lappin",
     "total_points": 132.227,
@@ -2612,7 +2752,7 @@
     "included_override": false
   },
   {
-    "rank": 87,
+    "rank": 91,
     "user_id": "LNshBaNeBxK1",
     "player_name": "Eoghan Cooke",
     "total_points": 132.103,
@@ -2635,30 +2775,7 @@
     "included_override": false
   },
   {
-    "rank": 88,
-    "user_id": "85VLKEC2E6",
-    "player_name": "Mark McConnell",
-    "total_points": 131.125,
-    "events_played": 6,
-    "best_finish": 11,
-    "faction_points": [
-      {
-        "faction": "Tyranids",
-        "points": 150.222,
-        "events_played": 6,
-        "games_played": 24,
-        "win_rate": 0.3333,
-        "x1_points": 0
-      }
-    ],
-    "team": null,
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 89,
+    "rank": 92,
     "user_id": "79C80PD3XQ",
     "player_name": "Brian Cunningham",
     "total_points": 130.612,
@@ -2689,7 +2806,30 @@
     "included_override": false
   },
   {
-    "rank": 90,
+    "rank": 93,
+    "user_id": "1KQW6F7QGB",
+    "player_name": "Dec Winser",
+    "total_points": 128.875,
+    "events_played": 4,
+    "best_finish": 6,
+    "faction_points": [
+      {
+        "faction": "Imperial Knights",
+        "points": 128.875,
+        "events_played": 4,
+        "games_played": 14,
+        "win_rate": 0.4286,
+        "x1_points": 1
+      }
+    ],
+    "team": "Maghera Wargaming",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 94,
     "user_id": "U3KW2LTFFB",
     "player_name": "Irwin Pablo",
     "total_points": 127.806,
@@ -2712,7 +2852,7 @@
     "included_override": false
   },
   {
-    "rank": 91,
+    "rank": 95,
     "user_id": "VmUqMFk9rH",
     "player_name": "Mur Magee",
     "total_points": 127.028,
@@ -2735,7 +2875,7 @@
     "included_override": false
   },
   {
-    "rank": 92,
+    "rank": 96,
     "user_id": "Y26U5LHJAN",
     "player_name": "Steve Byrne",
     "total_points": 126.918,
@@ -2758,7 +2898,7 @@
     "included_override": false
   },
   {
-    "rank": 93,
+    "rank": 97,
     "user_id": "JWsKu7r0pNsh",
     "player_name": "Senan O'Reilly",
     "total_points": 125.532,
@@ -2781,7 +2921,7 @@
     "included_override": false
   },
   {
-    "rank": 94,
+    "rank": 98,
     "user_id": "JN5AEV4GGD",
     "player_name": "Rob McElligott",
     "total_points": 124.802,
@@ -2812,7 +2952,7 @@
     "included_override": false
   },
   {
-    "rank": 95,
+    "rank": 99,
     "user_id": "X2GDNTVU66",
     "player_name": "Gavin Martin",
     "total_points": 123.947,
@@ -2843,7 +2983,7 @@
     "included_override": false
   },
   {
-    "rank": 96,
+    "rank": 100,
     "user_id": "Ek15lUAb2Zfb",
     "player_name": "Matthew Redmond",
     "total_points": 122.502,
@@ -2874,7 +3014,30 @@
     "included_override": false
   },
   {
-    "rank": 97,
+    "rank": 101,
+    "user_id": "dVoX1PvWn7hV",
+    "player_name": "Matthew  Knell",
+    "total_points": 122.5,
+    "events_played": 3,
+    "best_finish": 6,
+    "faction_points": [
+      {
+        "faction": "Adeptus Custodes",
+        "points": 122.5,
+        "events_played": 3,
+        "games_played": 13,
+        "win_rate": 0.4615,
+        "x1_points": 1
+      }
+    ],
+    "team": "The Grimsy Boys",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 102,
     "user_id": "4C4XDTUCJ9",
     "player_name": "Ben McQuaile",
     "total_points": 121.93,
@@ -2897,7 +3060,7 @@
     "included_override": false
   },
   {
-    "rank": 98,
+    "rank": 103,
     "user_id": "YPC5N70032",
     "player_name": "Graeme Aiken",
     "total_points": 121.416,
@@ -2928,7 +3091,7 @@
     "included_override": false
   },
   {
-    "rank": 99,
+    "rank": 104,
     "user_id": "7Z6DqObu9u",
     "player_name": "David McEvoy",
     "total_points": 120.911,
@@ -2951,7 +3114,7 @@
     "included_override": false
   },
   {
-    "rank": 100,
+    "rank": 105,
     "user_id": "yZvPSMW0gyG8",
     "player_name": "Liam Lynch Morgan",
     "total_points": 120.636,
@@ -2975,7 +3138,7 @@
     "included_override": false
   },
   {
-    "rank": 101,
+    "rank": 106,
     "user_id": "wTH81hKV4L",
     "player_name": "jan karnowski",
     "total_points": 119.474,
@@ -2998,7 +3161,7 @@
     "included_override": false
   },
   {
-    "rank": 102,
+    "rank": 107,
     "user_id": "Ea2OsF9sEm",
     "player_name": "Jake Ward",
     "total_points": 119.3,
@@ -3029,7 +3192,7 @@
     "included_override": false
   },
   {
-    "rank": 103,
+    "rank": 108,
     "user_id": "TWmB7aweXKTS",
     "player_name": "Senan Pracht",
     "total_points": 117.233,
@@ -3052,7 +3215,7 @@
     "included_override": false
   },
   {
-    "rank": 104,
+    "rank": 109,
     "user_id": "3qXit00VcKba",
     "player_name": "Paul McNutt",
     "total_points": 117.033,
@@ -3076,38 +3239,7 @@
     "included_override": false
   },
   {
-    "rank": 105,
-    "user_id": "41O1pv8tWli9",
-    "player_name": "Scott McDonald",
-    "total_points": 116.08,
-    "events_played": 3,
-    "best_finish": 10,
-    "faction_points": [
-      {
-        "faction": "World Eaters",
-        "points": 65.625,
-        "events_played": 1,
-        "games_played": 5,
-        "win_rate": 0.6,
-        "x1_points": 0
-      },
-      {
-        "faction": "Adeptus Custodes",
-        "points": 50.455,
-        "events_played": 2,
-        "games_played": 6,
-        "win_rate": 0.4167,
-        "x1_points": 1
-      }
-    ],
-    "team": "War Shed",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 106,
+    "rank": 110,
     "user_id": "HC2YP70GE4",
     "player_name": "David Cleary",
     "total_points": 115.51,
@@ -3146,7 +3278,7 @@
     "included_override": false
   },
   {
-    "rank": 107,
+    "rank": 111,
     "user_id": "E24F672VL1",
     "player_name": "Zack Ward",
     "total_points": 114.8,
@@ -3185,7 +3317,7 @@
     "included_override": false
   },
   {
-    "rank": 108,
+    "rank": 112,
     "user_id": "kvC6IcIL5A7u",
     "player_name": "Sean Duggan",
     "total_points": 114.321,
@@ -3208,7 +3340,7 @@
     "included_override": false
   },
   {
-    "rank": 109,
+    "rank": 113,
     "user_id": "WN4eYlvlWs",
     "player_name": "Andrew Beattie",
     "total_points": 113.571,
@@ -3231,7 +3363,7 @@
     "included_override": false
   },
   {
-    "rank": 110,
+    "rank": 114,
     "user_id": "6n12AHXgG0N4",
     "player_name": "Darren Hoyne",
     "total_points": 112.598,
@@ -3262,7 +3394,7 @@
     "included_override": false
   },
   {
-    "rank": 111,
+    "rank": 115,
     "user_id": "3FPlLA4YBhSK",
     "player_name": "Daniel O' Driscoll",
     "total_points": 111.496,
@@ -3285,7 +3417,7 @@
     "included_override": false
   },
   {
-    "rank": 112,
+    "rank": 116,
     "user_id": "263R6HL59P",
     "player_name": "Brian Dennehy",
     "total_points": 111.484,
@@ -3308,7 +3440,7 @@
     "included_override": false
   },
   {
-    "rank": 113,
+    "rank": 117,
     "user_id": "Z38fuLkNjEqG",
     "player_name": "Joe Tate",
     "total_points": 109.788,
@@ -3331,7 +3463,7 @@
     "included_override": false
   },
   {
-    "rank": 114,
+    "rank": 118,
     "user_id": "wIvemhTcj1o3",
     "player_name": "Elly Carpenter",
     "total_points": 109.733,
@@ -3362,7 +3494,7 @@
     "included_override": false
   },
   {
-    "rank": 115,
+    "rank": 119,
     "user_id": "1mDrEYyAG7",
     "player_name": "michael byrne",
     "total_points": 109.725,
@@ -3385,7 +3517,7 @@
     "included_override": false
   },
   {
-    "rank": 116,
+    "rank": 120,
     "user_id": "BK02L4XNEN",
     "player_name": "Kim Steindel",
     "total_points": 108.834,
@@ -3408,7 +3540,38 @@
     "included_override": false
   },
   {
-    "rank": 117,
+    "rank": 121,
+    "user_id": "iZ7mOwI5x5Uz",
+    "player_name": "David McAllister",
+    "total_points": 108.393,
+    "events_played": 4,
+    "best_finish": 2,
+    "faction_points": [
+      {
+        "faction": "Chaos Space Marines",
+        "points": 76.25,
+        "events_played": 2,
+        "games_played": 8,
+        "win_rate": 0.5625,
+        "x1_points": 0
+      },
+      {
+        "faction": "Black Templars",
+        "points": 32.143,
+        "events_played": 2,
+        "games_played": 6,
+        "win_rate": 0.3333,
+        "x1_points": 0
+      }
+    ],
+    "team": "The Grimsy Boys",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 122,
     "user_id": "FRlRWJeKiI",
     "player_name": "David Robinson",
     "total_points": 107.321,
@@ -3431,30 +3594,7 @@
     "included_override": false
   },
   {
-    "rank": 118,
-    "user_id": "06EMKWGBHD",
-    "player_name": "Scott Nelson",
-    "total_points": 106.161,
-    "events_played": 2,
-    "best_finish": 10,
-    "faction_points": [
-      {
-        "faction": "T'au Empire",
-        "points": 106.161,
-        "events_played": 2,
-        "games_played": 8,
-        "win_rate": 0.5625,
-        "x1_points": 3
-      }
-    ],
-    "team": null,
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 119,
+    "rank": 123,
     "user_id": "s6bsTJywTK",
     "player_name": "Craig McLaughlin",
     "total_points": 105.395,
@@ -3485,7 +3625,38 @@
     "included_override": false
   },
   {
-    "rank": 120,
+    "rank": 124,
+    "user_id": "vhJHc045GF",
+    "player_name": "John Ryan",
+    "total_points": 104.386,
+    "events_played": 2,
+    "best_finish": 25,
+    "faction_points": [
+      {
+        "faction": "Blood Angels",
+        "points": 54.386,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.5,
+        "x1_points": 0
+      },
+      {
+        "faction": "Imperial Knights",
+        "points": 50.0,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.4,
+        "x1_points": 0
+      }
+    ],
+    "team": "Team LolSheep",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 125,
     "user_id": "bFoR05UqcZ",
     "player_name": "Niall Gallagher",
     "total_points": 103.169,
@@ -3508,7 +3679,7 @@
     "included_override": false
   },
   {
-    "rank": 121,
+    "rank": 126,
     "user_id": "3YWTX3CXL3",
     "player_name": "Alex Trimble",
     "total_points": 102.304,
@@ -3547,7 +3718,7 @@
     "included_override": false
   },
   {
-    "rank": 122,
+    "rank": 127,
     "user_id": "MUWn4OwrbwJr",
     "player_name": "Rahul Yellavarjula",
     "total_points": 102.0,
@@ -3578,7 +3749,7 @@
     "included_override": false
   },
   {
-    "rank": 123,
+    "rank": 128,
     "user_id": "Hu3W4V69Kr",
     "player_name": "James O'Rourke",
     "total_points": 101.397,
@@ -3609,7 +3780,30 @@
     "included_override": false
   },
   {
-    "rank": 124,
+    "rank": 129,
+    "user_id": "XzFz6o4RdG",
+    "player_name": "Nathan Cooper",
+    "total_points": 101.042,
+    "events_played": 2,
+    "best_finish": 20,
+    "faction_points": [
+      {
+        "faction": "Orks",
+        "points": 101.042,
+        "events_played": 2,
+        "games_played": 10,
+        "win_rate": 0.5,
+        "x1_points": 0
+      }
+    ],
+    "team": "Sink",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 130,
     "user_id": "3D1BPCUBX5",
     "player_name": "Isaac Foley",
     "total_points": 101.026,
@@ -3632,7 +3826,7 @@
     "included_override": false
   },
   {
-    "rank": 125,
+    "rank": 131,
     "user_id": "F9v0rwHdH2",
     "player_name": "Stephen Kelly-Hannon",
     "total_points": 99.955,
@@ -3655,7 +3849,7 @@
     "included_override": false
   },
   {
-    "rank": 126,
+    "rank": 132,
     "user_id": "13H0XFVUY5",
     "player_name": "Harry McComb",
     "total_points": 98.246,
@@ -3678,7 +3872,7 @@
     "included_override": false
   },
   {
-    "rank": 127,
+    "rank": 133,
     "user_id": "7qyl7PdSI6",
     "player_name": "Eoin Browne",
     "total_points": 97.959,
@@ -3701,7 +3895,7 @@
     "included_override": false
   },
   {
-    "rank": 128,
+    "rank": 134,
     "user_id": "rrS2KzYrVo",
     "player_name": "Josie Cartwright",
     "total_points": 97.368,
@@ -3724,7 +3918,7 @@
     "included_override": false
   },
   {
-    "rank": 129,
+    "rank": 135,
     "user_id": "16M568NT31",
     "player_name": "Jake Ferguson",
     "total_points": 97.307,
@@ -3747,7 +3941,7 @@
     "included_override": false
   },
   {
-    "rank": 130,
+    "rank": 136,
     "user_id": "G9jknv3SJInA",
     "player_name": "James Atchison",
     "total_points": 96.055,
@@ -3770,7 +3964,7 @@
     "included_override": false
   },
   {
-    "rank": 131,
+    "rank": 137,
     "user_id": "Mj3Ok4C3bQfw",
     "player_name": "Jake Greaves",
     "total_points": 95.871,
@@ -3794,7 +3988,7 @@
     "included_override": false
   },
   {
-    "rank": 132,
+    "rank": 138,
     "user_id": "0SRG1DaVOX",
     "player_name": "Jason Winterlich",
     "total_points": 95.794,
@@ -3817,7 +4011,7 @@
     "included_override": false
   },
   {
-    "rank": 133,
+    "rank": 139,
     "user_id": "CaJirUTkI9Bq",
     "player_name": "Rory Maher",
     "total_points": 95.349,
@@ -3840,7 +4034,7 @@
     "included_override": false
   },
   {
-    "rank": 134,
+    "rank": 140,
     "user_id": "Zirmu5ZpvX",
     "player_name": "Paul Quigley",
     "total_points": 94.364,
@@ -3863,7 +4057,7 @@
     "included_override": false
   },
   {
-    "rank": 135,
+    "rank": 141,
     "user_id": "zS7IOS4jYKVf",
     "player_name": "Barry Hamilton",
     "total_points": 93.744,
@@ -3886,7 +4080,7 @@
     "included_override": false
   },
   {
-    "rank": 136,
+    "rank": 142,
     "user_id": "DXroJPfWUO08",
     "player_name": "William Cole-Baker",
     "total_points": 91.837,
@@ -3909,38 +4103,7 @@
     "included_override": false
   },
   {
-    "rank": 137,
-    "user_id": "M68UK1NNGE",
-    "player_name": "Alex Cowan",
-    "total_points": 91.793,
-    "events_played": 3,
-    "best_finish": 4,
-    "faction_points": [
-      {
-        "faction": "Adepta Sororitas",
-        "points": 69.293,
-        "events_played": 2,
-        "games_played": 8,
-        "win_rate": 0.5,
-        "x1_points": 1
-      },
-      {
-        "faction": "Adeptus Mechanicus",
-        "points": 22.5,
-        "events_played": 1,
-        "games_played": 3,
-        "win_rate": 0.3333,
-        "x1_points": 0
-      }
-    ],
-    "team": "Maghera Wargaming",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 138,
+    "rank": 143,
     "user_id": "xZ0dAceWgbMK",
     "player_name": "Alex Coldrick",
     "total_points": 91.52,
@@ -3963,7 +4126,31 @@
     "included_override": false
   },
   {
-    "rank": 139,
+    "rank": 144,
+    "user_id": "TQ0BWCT4UL",
+    "player_name": "Ryan Ormandy",
+    "total_points": 90.764,
+    "events_played": 5,
+    "best_finish": 20,
+    "faction_points": [
+      {
+        "faction": "Tyranids",
+        "points": 98.264,
+        "events_played": 5,
+        "games_played": 21,
+        "win_rate": 0.2619,
+        "x1_points": 0
+      }
+    ],
+    "team": "The Tactical Titans ",
+    "regions": [
+      "NI",
+      "ROI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 145,
     "user_id": "txsuGBGDEc",
     "player_name": "Mark Myburgh",
     "total_points": 90.733,
@@ -3994,7 +4181,7 @@
     "included_override": false
   },
   {
-    "rank": 140,
+    "rank": 146,
     "user_id": "gxyK3aSJpS",
     "player_name": "Joseph Musgrave",
     "total_points": 90.0,
@@ -4017,7 +4204,7 @@
     "included_override": false
   },
   {
-    "rank": 141,
+    "rank": 147,
     "user_id": "NdqdldEMyI",
     "player_name": "Michael McConkey",
     "total_points": 89.474,
@@ -4040,7 +4227,7 @@
     "included_override": false
   },
   {
-    "rank": 142,
+    "rank": 148,
     "user_id": "s0JVMUjgA2",
     "player_name": "Dan Ahern",
     "total_points": 88.636,
@@ -4063,7 +4250,7 @@
     "included_override": false
   },
   {
-    "rank": 143,
+    "rank": 149,
     "user_id": "vWhz15M9ghUR",
     "player_name": "Conor Fleming",
     "total_points": 88.521,
@@ -4086,7 +4273,7 @@
     "included_override": false
   },
   {
-    "rank": 144,
+    "rank": 150,
     "user_id": "tvttBJbTJq",
     "player_name": "Bryan O'brien",
     "total_points": 86.758,
@@ -4109,7 +4296,7 @@
     "included_override": false
   },
   {
-    "rank": 145,
+    "rank": 151,
     "user_id": "oMXoPH825Ige",
     "player_name": "Jamie Hughes",
     "total_points": 86.316,
@@ -4132,7 +4319,7 @@
     "included_override": false
   },
   {
-    "rank": 146,
+    "rank": 152,
     "user_id": "Lm0uYGL8ceiP",
     "player_name": "Josh Alcorn",
     "total_points": 86.111,
@@ -4155,53 +4342,30 @@
     "included_override": false
   },
   {
-    "rank": 147,
-    "user_id": "1KQW6F7QGB",
-    "player_name": "Dec Winser",
-    "total_points": 85.125,
-    "events_played": 3,
-    "best_finish": 6,
-    "faction_points": [
-      {
-        "faction": "Imperial Knights",
-        "points": 85.125,
-        "events_played": 3,
-        "games_played": 9,
-        "win_rate": 0.4444,
-        "x1_points": 1
-      }
-    ],
-    "team": "Maghera Wargaming",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 148,
-    "user_id": "dVoX1PvWn7hV",
-    "player_name": "Matthew  Knell",
-    "total_points": 85.0,
+    "rank": 153,
+    "user_id": "YUQ7K0J4Q9",
+    "player_name": "Sam Lamont",
+    "total_points": 85.536,
     "events_played": 2,
-    "best_finish": 6,
+    "best_finish": 10,
     "faction_points": [
       {
-        "faction": "Adeptus Custodes",
-        "points": 85.0,
+        "faction": "Necrons",
+        "points": 85.536,
         "events_played": 2,
-        "games_played": 8,
+        "games_played": 7,
         "win_rate": 0.5,
-        "x1_points": 1
+        "x1_points": 2
       }
     ],
-    "team": "The Grimsy Boys",
+    "team": "Team Yeti",
     "regions": [
       "NI"
     ],
     "included_override": false
   },
   {
-    "rank": 149,
+    "rank": 154,
     "user_id": "w4YVsDSDctfD",
     "player_name": "Ruaidhrí Ó Gríofa",
     "total_points": 85.0,
@@ -4224,7 +4388,7 @@
     "included_override": false
   },
   {
-    "rank": 150,
+    "rank": 155,
     "user_id": "L5pI8dNX6rzE",
     "player_name": "Indigo Bosworth",
     "total_points": 84.694,
@@ -4247,7 +4411,38 @@
     "included_override": false
   },
   {
-    "rank": 151,
+    "rank": 156,
+    "user_id": "1NNRJGCH6X",
+    "player_name": "Darren McAuley",
+    "total_points": 84.649,
+    "events_played": 2,
+    "best_finish": 24,
+    "faction_points": [
+      {
+        "faction": "Imperial Knights",
+        "points": 59.649,
+        "events_played": 1,
+        "games_played": 6,
+        "win_rate": 0.4167,
+        "x1_points": 0
+      },
+      {
+        "faction": "Adeptus Custodes",
+        "points": 25.0,
+        "events_played": 1,
+        "games_played": 3,
+        "win_rate": 0.3333,
+        "x1_points": 0
+      }
+    ],
+    "team": null,
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 157,
     "user_id": "70MGQ5TPN1",
     "player_name": "Rob Duffin",
     "total_points": 84.101,
@@ -4270,7 +4465,7 @@
     "included_override": false
   },
   {
-    "rank": 152,
+    "rank": 158,
     "user_id": "YPPYBHP56K",
     "player_name": "George Reuter",
     "total_points": 84.0,
@@ -4293,7 +4488,7 @@
     "included_override": false
   },
   {
-    "rank": 153,
+    "rank": 159,
     "user_id": "4ig9uDnwdY",
     "player_name": "Mateusz Oswiecinski",
     "total_points": 83.673,
@@ -4316,7 +4511,7 @@
     "included_override": false
   },
   {
-    "rank": 154,
+    "rank": 160,
     "user_id": "7V4PTBFVCC",
     "player_name": "Sean Ormonde",
     "total_points": 82.745,
@@ -4339,7 +4534,7 @@
     "included_override": false
   },
   {
-    "rank": 155,
+    "rank": 161,
     "user_id": "IZpOCxcbHc",
     "player_name": "Ralph Risk",
     "total_points": 82.653,
@@ -4362,7 +4557,7 @@
     "included_override": true
   },
   {
-    "rank": 156,
+    "rank": 162,
     "user_id": "Apj7DW2WFP",
     "player_name": "Aaron Speirs",
     "total_points": 82.087,
@@ -4385,7 +4580,7 @@
     "included_override": false
   },
   {
-    "rank": 157,
+    "rank": 163,
     "user_id": "FPRJL8L1BJ",
     "player_name": "Mark Henderson",
     "total_points": 82.007,
@@ -4409,7 +4604,7 @@
     "included_override": false
   },
   {
-    "rank": 158,
+    "rank": 164,
     "user_id": "2NE4goM4ksu4",
     "player_name": "Leah Dawson",
     "total_points": 81.983,
@@ -4432,7 +4627,7 @@
     "included_override": false
   },
   {
-    "rank": 159,
+    "rank": 165,
     "user_id": "ioboznfyYdMW",
     "player_name": "Charlie Cull",
     "total_points": 81.944,
@@ -4455,7 +4650,7 @@
     "included_override": false
   },
   {
-    "rank": 160,
+    "rank": 166,
     "user_id": "DQTQ8RJG4F",
     "player_name": "Gerard Heffernan",
     "total_points": 80.264,
@@ -4486,7 +4681,7 @@
     "included_override": false
   },
   {
-    "rank": 161,
+    "rank": 167,
     "user_id": "yDKXtGQzFyeu",
     "player_name": "Stephen Callaghan",
     "total_points": 80.254,
@@ -4510,7 +4705,7 @@
     "included_override": false
   },
   {
-    "rank": 162,
+    "rank": 168,
     "user_id": "tLedFC5wrUrK",
     "player_name": "Harry Hayles",
     "total_points": 80.105,
@@ -4533,7 +4728,7 @@
     "included_override": false
   },
   {
-    "rank": 163,
+    "rank": 169,
     "user_id": "nN8nLaS4ZRf9",
     "player_name": "Odran Downey",
     "total_points": 79.921,
@@ -4556,7 +4751,38 @@
     "included_override": false
   },
   {
-    "rank": 164,
+    "rank": 170,
+    "user_id": "dQ8Ocd6bL3yO",
+    "player_name": "Samuel  mcfall",
+    "total_points": 78.913,
+    "events_played": 3,
+    "best_finish": 5,
+    "faction_points": [
+      {
+        "faction": "Necrons",
+        "points": 44.627,
+        "events_played": 2,
+        "games_played": 10,
+        "win_rate": 0.25,
+        "x1_points": 0
+      },
+      {
+        "faction": "World Eaters",
+        "points": 34.286,
+        "events_played": 1,
+        "games_played": 3,
+        "win_rate": 0.6667,
+        "x1_points": 1
+      }
+    ],
+    "team": "The Tactical Titans ",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 171,
     "user_id": "7A9G852BWE",
     "player_name": "Ivan Yakovlev",
     "total_points": 78.4,
@@ -4579,7 +4805,7 @@
     "included_override": false
   },
   {
-    "rank": 165,
+    "rank": 172,
     "user_id": "kXECReZoEN1J",
     "player_name": "Luke  Mullen",
     "total_points": 77.815,
@@ -4610,38 +4836,30 @@
     "included_override": false
   },
   {
-    "rank": 166,
-    "user_id": "iZ7mOwI5x5Uz",
-    "player_name": "David McAllister",
-    "total_points": 77.143,
+    "rank": 173,
+    "user_id": "lhdKulDztK4q",
+    "player_name": "Jonny Fisher",
+    "total_points": 77.083,
     "events_played": 3,
-    "best_finish": 2,
+    "best_finish": 18,
     "faction_points": [
       {
-        "faction": "Chaos Space Marines",
-        "points": 45.0,
-        "events_played": 1,
-        "games_played": 3,
-        "win_rate": 0.8333,
-        "x1_points": 0
-      },
-      {
-        "faction": "Black Templars",
-        "points": 32.143,
-        "events_played": 2,
-        "games_played": 6,
-        "win_rate": 0.3333,
+        "faction": "Necrons",
+        "points": 77.083,
+        "events_played": 3,
+        "games_played": 13,
+        "win_rate": 0.2692,
         "x1_points": 0
       }
     ],
-    "team": "The Grimsy Boys",
+    "team": "Northern Wasters",
     "regions": [
       "NI"
     ],
     "included_override": false
   },
   {
-    "rank": 167,
+    "rank": 174,
     "user_id": "6PDW1P9QV7",
     "player_name": "Chris Bell",
     "total_points": 76.875,
@@ -4672,7 +4890,7 @@
     "included_override": false
   },
   {
-    "rank": 168,
+    "rank": 175,
     "user_id": "SAYOIZUYE7",
     "player_name": "Mark Seery",
     "total_points": 76.744,
@@ -4695,7 +4913,7 @@
     "included_override": false
   },
   {
-    "rank": 169,
+    "rank": 176,
     "user_id": "MR0SWXjdcshk",
     "player_name": "Richard Totten",
     "total_points": 75.536,
@@ -4718,31 +4936,7 @@
     "included_override": false
   },
   {
-    "rank": 170,
-    "user_id": "TQ0BWCT4UL",
-    "player_name": "Ryan Ormandy",
-    "total_points": 75.347,
-    "events_played": 4,
-    "best_finish": 20,
-    "faction_points": [
-      {
-        "faction": "Tyranids",
-        "points": 75.347,
-        "events_played": 4,
-        "games_played": 16,
-        "win_rate": 0.2812,
-        "x1_points": 0
-      }
-    ],
-    "team": "The Tactical Titans ",
-    "regions": [
-      "NI",
-      "ROI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 171,
+    "rank": 177,
     "user_id": "AZgfDg3GSA",
     "player_name": "Richard Moore",
     "total_points": 75.0,
@@ -4765,7 +4959,7 @@
     "included_override": false
   },
   {
-    "rank": 172,
+    "rank": 178,
     "user_id": "2hnlLJww8D6U",
     "player_name": "Aaron  Moloney",
     "total_points": 74.49,
@@ -4788,7 +4982,30 @@
     "included_override": false
   },
   {
-    "rank": 173,
+    "rank": 179,
+    "user_id": "Jo8jsupweQbU",
+    "player_name": "Niall Mccaffrey",
+    "total_points": 72.917,
+    "events_played": 1,
+    "best_finish": 14,
+    "faction_points": [
+      {
+        "faction": "Emperor's Children",
+        "points": 72.917,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.6,
+        "x1_points": 0
+      }
+    ],
+    "team": null,
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 180,
     "user_id": "78NtSPDfNT",
     "player_name": "Shane Smyth",
     "total_points": 72.885,
@@ -4811,7 +5028,7 @@
     "included_override": false
   },
   {
-    "rank": 174,
+    "rank": 181,
     "user_id": "dP7hiQJBd9",
     "player_name": "Mark Griffin",
     "total_points": 72.5,
@@ -4834,7 +5051,7 @@
     "included_override": false
   },
   {
-    "rank": 175,
+    "rank": 182,
     "user_id": "Xn8EHpPbJM",
     "player_name": "Matthew Leak",
     "total_points": 71.93,
@@ -4857,7 +5074,7 @@
     "included_override": false
   },
   {
-    "rank": 176,
+    "rank": 183,
     "user_id": "0sxZAXpaCs6o",
     "player_name": "Adam Alexander",
     "total_points": 71.364,
@@ -4880,7 +5097,7 @@
     "included_override": false
   },
   {
-    "rank": 177,
+    "rank": 184,
     "user_id": "fJjnX7acGq3I",
     "player_name": "Pascal Landshoeft",
     "total_points": 71.176,
@@ -4903,7 +5120,7 @@
     "included_override": false
   },
   {
-    "rank": 178,
+    "rank": 185,
     "user_id": "3UT7Q5KQNW",
     "player_name": "duncan holmes",
     "total_points": 71.056,
@@ -4926,7 +5143,7 @@
     "included_override": false
   },
   {
-    "rank": 179,
+    "rank": 186,
     "user_id": "jvYJh19fzp",
     "player_name": "Daire O'Mahony",
     "total_points": 71.053,
@@ -4949,7 +5166,7 @@
     "included_override": false
   },
   {
-    "rank": 180,
+    "rank": 187,
     "user_id": "5RBCEX8X7D",
     "player_name": "Caitlin Carroll",
     "total_points": 70.9,
@@ -4988,7 +5205,7 @@
     "included_override": false
   },
   {
-    "rank": 181,
+    "rank": 188,
     "user_id": "HCbiMjiquHn4",
     "player_name": "Tadhg  Reynolds",
     "total_points": 68.254,
@@ -5011,7 +5228,7 @@
     "included_override": false
   },
   {
-    "rank": 182,
+    "rank": 189,
     "user_id": "CW1NM4DE37",
     "player_name": "Oskar Szulczynski",
     "total_points": 67.943,
@@ -5034,7 +5251,7 @@
     "included_override": false
   },
   {
-    "rank": 183,
+    "rank": 190,
     "user_id": "00GRWMW2PU",
     "player_name": "Darren Treanor",
     "total_points": 67.651,
@@ -5057,7 +5274,7 @@
     "included_override": false
   },
   {
-    "rank": 184,
+    "rank": 191,
     "user_id": "kFbhBKA6gmMc",
     "player_name": "Ben Oliver",
     "total_points": 67.24,
@@ -5080,7 +5297,30 @@
     "included_override": false
   },
   {
-    "rank": 185,
+    "rank": 192,
+    "user_id": "7ZSoBdQjUv8Y",
+    "player_name": "Simon  Baird",
+    "total_points": 67.083,
+    "events_played": 2,
+    "best_finish": 5,
+    "faction_points": [
+      {
+        "faction": "Adepta Sororitas",
+        "points": 67.083,
+        "events_played": 2,
+        "games_played": 8,
+        "win_rate": 0.4375,
+        "x1_points": 0
+      }
+    ],
+    "team": null,
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 193,
     "user_id": "PEYM74L524",
     "player_name": "Alan McNevin",
     "total_points": 66.518,
@@ -5103,7 +5343,7 @@
     "included_override": false
   },
   {
-    "rank": 186,
+    "rank": 194,
     "user_id": "meSIOP741L9N",
     "player_name": "Brendan Prendergast",
     "total_points": 66.449,
@@ -5126,7 +5366,7 @@
     "included_override": false
   },
   {
-    "rank": 187,
+    "rank": 195,
     "user_id": "xrZsPzmD0F",
     "player_name": "Shane Flynn",
     "total_points": 66.327,
@@ -5149,7 +5389,7 @@
     "included_override": false
   },
   {
-    "rank": 188,
+    "rank": 196,
     "user_id": "QVB496KJ6A",
     "player_name": "Jack Doran",
     "total_points": 65.291,
@@ -5172,7 +5412,7 @@
     "included_override": false
   },
   {
-    "rank": 189,
+    "rank": 197,
     "user_id": "0UW0FGFXQ0",
     "player_name": "Mike Lynch",
     "total_points": 64.524,
@@ -5195,7 +5435,7 @@
     "included_override": false
   },
   {
-    "rank": 190,
+    "rank": 198,
     "user_id": "K26KnT9F9A",
     "player_name": "Adam Potts",
     "total_points": 64.286,
@@ -5218,7 +5458,7 @@
     "included_override": false
   },
   {
-    "rank": 191,
+    "rank": 199,
     "user_id": "qTXqKIxK8rjz",
     "player_name": "Jason Reed",
     "total_points": 63.287,
@@ -5242,7 +5482,7 @@
     "included_override": false
   },
   {
-    "rank": 192,
+    "rank": 200,
     "user_id": "1z3cQS4VZC",
     "player_name": "Peter Dunlea",
     "total_points": 62.5,
@@ -5265,7 +5505,30 @@
     "included_override": false
   },
   {
-    "rank": 193,
+    "rank": 201,
+    "user_id": "euCqSu5Egc",
+    "player_name": "Cathal Mulvenna",
+    "total_points": 62.5,
+    "events_played": 1,
+    "best_finish": 19,
+    "faction_points": [
+      {
+        "faction": "Adeptus Custodes",
+        "points": 62.5,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.6,
+        "x1_points": 0
+      }
+    ],
+    "team": "D6 Damage",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 202,
     "user_id": "muh1Bz7PkP",
     "player_name": "Lee Brady",
     "total_points": 62.072,
@@ -5288,7 +5551,7 @@
     "included_override": false
   },
   {
-    "rank": 194,
+    "rank": 203,
     "user_id": "81WR64N9AE",
     "player_name": "Chris Sloane",
     "total_points": 61.404,
@@ -5311,7 +5574,7 @@
     "included_override": false
   },
   {
-    "rank": 195,
+    "rank": 204,
     "user_id": "Tt7DZyk9I17d",
     "player_name": "Mark Lennon",
     "total_points": 61.224,
@@ -5334,7 +5597,7 @@
     "included_override": false
   },
   {
-    "rank": 196,
+    "rank": 205,
     "user_id": "67JJQGFRJ9",
     "player_name": "Sam Dennehy",
     "total_points": 61.142,
@@ -5357,7 +5620,7 @@
     "included_override": false
   },
   {
-    "rank": 197,
+    "rank": 206,
     "user_id": "uje43fX9CsvT",
     "player_name": "Dj peoples",
     "total_points": 60.489,
@@ -5380,30 +5643,30 @@
     "included_override": false
   },
   {
-    "rank": 198,
-    "user_id": "1NNRJGCH6X",
-    "player_name": "Darren McAuley",
-    "total_points": 59.649,
-    "events_played": 1,
-    "best_finish": 24,
+    "rank": 207,
+    "user_id": "1B7PAL6JG2",
+    "player_name": "Isaac Mclarnon",
+    "total_points": 60.0,
+    "events_played": 2,
+    "best_finish": 22,
     "faction_points": [
       {
-        "faction": "Imperial Knights",
-        "points": 59.649,
-        "events_played": 1,
-        "games_played": 6,
-        "win_rate": 0.4167,
+        "faction": "Chaos Daemons",
+        "points": 60.0,
+        "events_played": 2,
+        "games_played": 8,
+        "win_rate": 0.375,
         "x1_points": 0
       }
     ],
-    "team": "The Tactical Titans ",
+    "team": null,
     "regions": [
       "NI"
     ],
     "included_override": false
   },
   {
-    "rank": 199,
+    "rank": 208,
     "user_id": "3hO3bJeSWaxr",
     "player_name": "David Pentland",
     "total_points": 59.571,
@@ -5426,7 +5689,7 @@
     "included_override": false
   },
   {
-    "rank": 200,
+    "rank": 209,
     "user_id": "SO69Q4Dni93l",
     "player_name": "Rory Martin",
     "total_points": 59.375,
@@ -5449,7 +5712,7 @@
     "included_override": false
   },
   {
-    "rank": 201,
+    "rank": 210,
     "user_id": "7LDP7QQJF4",
     "player_name": "Paul Maher",
     "total_points": 58.911,
@@ -5472,7 +5735,7 @@
     "included_override": false
   },
   {
-    "rank": 202,
+    "rank": 211,
     "user_id": "nAHRswPKo6VQ",
     "player_name": "Andrew McMahon",
     "total_points": 58.163,
@@ -5495,7 +5758,7 @@
     "included_override": false
   },
   {
-    "rank": 203,
+    "rank": 212,
     "user_id": "tmqRCuF9Yj",
     "player_name": "Malachy McCrudden",
     "total_points": 57.895,
@@ -5518,7 +5781,7 @@
     "included_override": false
   },
   {
-    "rank": 204,
+    "rank": 213,
     "user_id": "BV3W2XB2VM",
     "player_name": "Chris McQuillan",
     "total_points": 57.785,
@@ -5549,7 +5812,7 @@
     "included_override": false
   },
   {
-    "rank": 205,
+    "rank": 214,
     "user_id": "eyWgnJWuibU6",
     "player_name": "Darragh Ryan-Cahill",
     "total_points": 57.724,
@@ -5572,7 +5835,7 @@
     "included_override": false
   },
   {
-    "rank": 206,
+    "rank": 215,
     "user_id": "OPkSHANo6X",
     "player_name": "Matthew Margerison",
     "total_points": 57.536,
@@ -5603,7 +5866,7 @@
     "included_override": false
   },
   {
-    "rank": 207,
+    "rank": 216,
     "user_id": "P2VP76LUN6",
     "player_name": "Corey Molloy",
     "total_points": 56.316,
@@ -5626,30 +5889,7 @@
     "included_override": false
   },
   {
-    "rank": 208,
-    "user_id": "lhdKulDztK4q",
-    "player_name": "Jonny Fisher",
-    "total_points": 56.25,
-    "events_played": 2,
-    "best_finish": 18,
-    "faction_points": [
-      {
-        "faction": "Necrons",
-        "points": 56.25,
-        "events_played": 2,
-        "games_played": 8,
-        "win_rate": 0.3125,
-        "x1_points": 0
-      }
-    ],
-    "team": "Northern Wasters",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 209,
+    "rank": 217,
     "user_id": "oTlkI4jmP2wQ",
     "player_name": "Jamie Kavanagh",
     "total_points": 55.814,
@@ -5672,7 +5912,7 @@
     "included_override": false
   },
   {
-    "rank": 210,
+    "rank": 218,
     "user_id": "IE56WXMJAD",
     "player_name": "Cormac Geraghty",
     "total_points": 55.102,
@@ -5695,30 +5935,7 @@
     "included_override": false
   },
   {
-    "rank": 211,
-    "user_id": "vhJHc045GF",
-    "player_name": "John Ryan",
-    "total_points": 54.386,
-    "events_played": 1,
-    "best_finish": 27,
-    "faction_points": [
-      {
-        "faction": "Blood Angels",
-        "points": 54.386,
-        "events_played": 1,
-        "games_played": 5,
-        "win_rate": 0.5,
-        "x1_points": 0
-      }
-    ],
-    "team": "Team LolSheep",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 212,
+    "rank": 219,
     "user_id": "VBLF4sHFAG",
     "player_name": "Martin Crawley",
     "total_points": 54.375,
@@ -5741,7 +5958,7 @@
     "included_override": false
   },
   {
-    "rank": 213,
+    "rank": 220,
     "user_id": "BXbnSYmDT1",
     "player_name": "Barry Kavanagh",
     "total_points": 54.211,
@@ -5764,7 +5981,7 @@
     "included_override": false
   },
   {
-    "rank": 214,
+    "rank": 221,
     "user_id": "unVDmGK2Dw",
     "player_name": "David McCarthy",
     "total_points": 54.0,
@@ -5787,7 +6004,7 @@
     "included_override": false
   },
   {
-    "rank": 214,
+    "rank": 221,
     "user_id": "VpANp5LTol",
     "player_name": "Max Small",
     "total_points": 54.0,
@@ -5810,7 +6027,7 @@
     "included_override": false
   },
   {
-    "rank": 214,
+    "rank": 221,
     "user_id": "VCcPWZDTGM",
     "player_name": "Tristram Hills",
     "total_points": 54.0,
@@ -5833,7 +6050,38 @@
     "included_override": false
   },
   {
-    "rank": 217,
+    "rank": 224,
+    "user_id": "SBORVG0bkBDP",
+    "player_name": "John Kerr",
+    "total_points": 53.838,
+    "events_played": 2,
+    "best_finish": 38,
+    "faction_points": [
+      {
+        "faction": "Adeptus Custodes",
+        "points": 35.088,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.4,
+        "x1_points": 0
+      },
+      {
+        "faction": "Space Marines (Astartes)",
+        "points": 18.75,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.2,
+        "x1_points": 0
+      }
+    ],
+    "team": "Sore Feet",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 225,
     "user_id": "fyRjr6pF93Mm",
     "player_name": "Conor Duffy",
     "total_points": 53.488,
@@ -5856,7 +6104,7 @@
     "included_override": false
   },
   {
-    "rank": 218,
+    "rank": 226,
     "user_id": "4YTU6ARC9F",
     "player_name": "Sean Mehrbrodt",
     "total_points": 53.123,
@@ -5879,30 +6127,7 @@
     "included_override": false
   },
   {
-    "rank": 219,
-    "user_id": "7ZSoBdQjUv8Y",
-    "player_name": "Simon Baird",
-    "total_points": 52.5,
-    "events_played": 1,
-    "best_finish": 5,
-    "faction_points": [
-      {
-        "faction": "Adepta Sororitas",
-        "points": 52.5,
-        "events_played": 1,
-        "games_played": 3,
-        "win_rate": 0.8333,
-        "x1_points": 0
-      }
-    ],
-    "team": null,
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 220,
+    "rank": 227,
     "user_id": "xfub046LWM",
     "player_name": "Dave Glennon",
     "total_points": 52.5,
@@ -5925,38 +6150,7 @@
     "included_override": false
   },
   {
-    "rank": 221,
-    "user_id": "dQ8Ocd6bL3yO",
-    "player_name": "Samuel  mcfall",
-    "total_points": 51.83,
-    "events_played": 2,
-    "best_finish": 5,
-    "faction_points": [
-      {
-        "faction": "World Eaters",
-        "points": 34.286,
-        "events_played": 1,
-        "games_played": 3,
-        "win_rate": 0.6667,
-        "x1_points": 1
-      },
-      {
-        "faction": "Necrons",
-        "points": 17.544,
-        "events_played": 1,
-        "games_played": 5,
-        "win_rate": 0.2,
-        "x1_points": 0
-      }
-    ],
-    "team": "Tactical Titans",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 222,
+    "rank": 228,
     "user_id": "hGMUH3lhTsTw",
     "player_name": "Seán Kinsella",
     "total_points": 51.3,
@@ -5979,7 +6173,7 @@
     "included_override": false
   },
   {
-    "rank": 223,
+    "rank": 229,
     "user_id": "F1ycQ8HYzSpE",
     "player_name": "Jake Hyland",
     "total_points": 50.873,
@@ -6002,7 +6196,7 @@
     "included_override": false
   },
   {
-    "rank": 224,
+    "rank": 230,
     "user_id": "Ld16b2AIJi",
     "player_name": "Peter Scott",
     "total_points": 50.769,
@@ -6025,7 +6219,7 @@
     "included_override": false
   },
   {
-    "rank": 225,
+    "rank": 231,
     "user_id": "CIcyR6mvJy",
     "player_name": "Colm Murphy",
     "total_points": 50.0,
@@ -6048,7 +6242,7 @@
     "included_override": false
   },
   {
-    "rank": 226,
+    "rank": 232,
     "user_id": "dcSJiUqITkT5",
     "player_name": "Abe Mills",
     "total_points": 50.0,
@@ -6071,7 +6265,7 @@
     "included_override": false
   },
   {
-    "rank": 227,
+    "rank": 233,
     "user_id": "CG74VRCGKK",
     "player_name": "Russell Banks",
     "total_points": 49.7,
@@ -6102,7 +6296,7 @@
     "included_override": false
   },
   {
-    "rank": 228,
+    "rank": 234,
     "user_id": "rGBGWZD9n6",
     "player_name": "Darren McAteer",
     "total_points": 49.091,
@@ -6125,7 +6319,7 @@
     "included_override": false
   },
   {
-    "rank": 228,
+    "rank": 234,
     "user_id": "DUBQ5ELTDB",
     "player_name": "Ruben Lagar",
     "total_points": 49.091,
@@ -6148,7 +6342,7 @@
     "included_override": false
   },
   {
-    "rank": 230,
+    "rank": 236,
     "user_id": "BAGA4JVRJT",
     "player_name": "Joshua Denny",
     "total_points": 48.837,
@@ -6171,7 +6365,7 @@
     "included_override": false
   },
   {
-    "rank": 231,
+    "rank": 237,
     "user_id": "Y5MXF4CL6K",
     "player_name": "Tyler McDowell",
     "total_points": 48.75,
@@ -6194,7 +6388,7 @@
     "included_override": false
   },
   {
-    "rank": 232,
+    "rank": 238,
     "user_id": "VAwqAxi5EpOC",
     "player_name": "Diarmuid Dunne Lyons",
     "total_points": 48.723,
@@ -6217,7 +6411,7 @@
     "included_override": false
   },
   {
-    "rank": 233,
+    "rank": 239,
     "user_id": "J57UYH9QTD",
     "player_name": "Mark Stanley",
     "total_points": 48.6,
@@ -6240,7 +6434,7 @@
     "included_override": false
   },
   {
-    "rank": 234,
+    "rank": 240,
     "user_id": "gHEHWXRRaHp9",
     "player_name": "Max O'flynn",
     "total_points": 47.5,
@@ -6263,7 +6457,7 @@
     "included_override": false
   },
   {
-    "rank": 235,
+    "rank": 241,
     "user_id": "KvDAeTYnDh",
     "player_name": "Timmy Larkin",
     "total_points": 46.939,
@@ -6286,7 +6480,7 @@
     "included_override": false
   },
   {
-    "rank": 236,
+    "rank": 242,
     "user_id": "xDEdA6GlFg",
     "player_name": "Vinny Kooper",
     "total_points": 45.9,
@@ -6309,7 +6503,7 @@
     "included_override": false
   },
   {
-    "rank": 237,
+    "rank": 243,
     "user_id": "iUptywWQH6O1",
     "player_name": "Thomas Burke",
     "total_points": 45.9,
@@ -6332,7 +6526,7 @@
     "included_override": false
   },
   {
-    "rank": 238,
+    "rank": 244,
     "user_id": "W0qM4OAvFj",
     "player_name": "Simon Morley",
     "total_points": 45.614,
@@ -6355,7 +6549,7 @@
     "included_override": false
   },
   {
-    "rank": 239,
+    "rank": 245,
     "user_id": "8c1YQGEFAQ",
     "player_name": "Shane White",
     "total_points": 44.737,
@@ -6378,7 +6572,7 @@
     "included_override": false
   },
   {
-    "rank": 240,
+    "rank": 246,
     "user_id": "Q4s5Zp6EWM4P",
     "player_name": "Harley Wilkinson-Idokogi",
     "total_points": 44.444,
@@ -6401,7 +6595,7 @@
     "included_override": false
   },
   {
-    "rank": 241,
+    "rank": 247,
     "user_id": "7uqFOC7mQF1l",
     "player_name": "Dylan Ralph",
     "total_points": 43.481,
@@ -6424,7 +6618,7 @@
     "included_override": false
   },
   {
-    "rank": 242,
+    "rank": 248,
     "user_id": "qFAve5pcIH",
     "player_name": "Chris Rainey",
     "total_points": 43.2,
@@ -6447,7 +6641,7 @@
     "included_override": false
   },
   {
-    "rank": 242,
+    "rank": 248,
     "user_id": "mDn5mB5LkIFj",
     "player_name": "Eoghan Hendrick",
     "total_points": 43.2,
@@ -6470,7 +6664,7 @@
     "included_override": false
   },
   {
-    "rank": 244,
+    "rank": 250,
     "user_id": "UVGRK8U8V6",
     "player_name": "Richard Glennon",
     "total_points": 42.955,
@@ -6501,7 +6695,7 @@
     "included_override": false
   },
   {
-    "rank": 245,
+    "rank": 251,
     "user_id": "608XJj9N6W3p",
     "player_name": "Dara McGrath",
     "total_points": 42.857,
@@ -6524,7 +6718,7 @@
     "included_override": false
   },
   {
-    "rank": 246,
+    "rank": 252,
     "user_id": "ulOj4MXK2jP1",
     "player_name": "Adam Drake",
     "total_points": 42.5,
@@ -6547,7 +6741,7 @@
     "included_override": false
   },
   {
-    "rank": 246,
+    "rank": 252,
     "user_id": "arscJHel0wb7",
     "player_name": "Robert Jordan",
     "total_points": 42.5,
@@ -6570,7 +6764,7 @@
     "included_override": false
   },
   {
-    "rank": 248,
+    "rank": 254,
     "user_id": "bFp27RmwRV",
     "player_name": "Eoin Vin O'Brien",
     "total_points": 42.5,
@@ -6593,7 +6787,7 @@
     "included_override": false
   },
   {
-    "rank": 249,
+    "rank": 255,
     "user_id": "J00E4K6PWD",
     "player_name": "David Hughes",
     "total_points": 42.4,
@@ -6632,7 +6826,7 @@
     "included_override": false
   },
   {
-    "rank": 250,
+    "rank": 256,
     "user_id": "zFFwChcovU",
     "player_name": "Arran Quigley",
     "total_points": 42.344,
@@ -6655,7 +6849,7 @@
     "included_override": false
   },
   {
-    "rank": 251,
+    "rank": 257,
     "user_id": "ZFDss8F4WBmV",
     "player_name": "Donnacha O Donoghue",
     "total_points": 41.31,
@@ -6678,7 +6872,7 @@
     "included_override": false
   },
   {
-    "rank": 252,
+    "rank": 258,
     "user_id": "ltVjp6jmuj",
     "player_name": "Jim O Callaghan",
     "total_points": 40.909,
@@ -6701,7 +6895,7 @@
     "included_override": false
   },
   {
-    "rank": 253,
+    "rank": 259,
     "user_id": "mriPPtVsk2Tt",
     "player_name": "Adam Ryan",
     "total_points": 40.816,
@@ -6724,7 +6918,7 @@
     "included_override": false
   },
   {
-    "rank": 254,
+    "rank": 260,
     "user_id": "71k7ZzUXzciY",
     "player_name": "Mark Tanner",
     "total_points": 40.685,
@@ -6747,30 +6941,7 @@
     "included_override": false
   },
   {
-    "rank": 255,
-    "user_id": "XzFz6o4RdG",
-    "player_name": "Nathan Cooper",
-    "total_points": 40.625,
-    "events_played": 1,
-    "best_finish": 20,
-    "faction_points": [
-      {
-        "faction": "Orks",
-        "points": 40.625,
-        "events_played": 1,
-        "games_played": 5,
-        "win_rate": 0.4,
-        "x1_points": 0
-      }
-    ],
-    "team": "Sink",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 256,
+    "rank": 261,
     "user_id": "kExmHEIEE0Fb",
     "player_name": "Rory Barret",
     "total_points": 40.0,
@@ -6793,7 +6964,7 @@
     "included_override": false
   },
   {
-    "rank": 257,
+    "rank": 262,
     "user_id": "jS3Txv8OUGuR",
     "player_name": "Thomas Bergin",
     "total_points": 39.963,
@@ -6824,7 +6995,7 @@
     "included_override": false
   },
   {
-    "rank": 258,
+    "rank": 263,
     "user_id": "k3Rh4OsC5lBm",
     "player_name": "James Carmichael",
     "total_points": 39.955,
@@ -6847,7 +7018,7 @@
     "included_override": false
   },
   {
-    "rank": 259,
+    "rank": 264,
     "user_id": "PE0XaHf9Hv",
     "player_name": "David Methven",
     "total_points": 39.375,
@@ -6870,7 +7041,7 @@
     "included_override": false
   },
   {
-    "rank": 260,
+    "rank": 265,
     "user_id": "eRxIlI8CLT",
     "player_name": "Francis Mahon",
     "total_points": 39.231,
@@ -6893,7 +7064,7 @@
     "included_override": false
   },
   {
-    "rank": 261,
+    "rank": 266,
     "user_id": "HXA2BP37U5",
     "player_name": "Robbert Groeneveld",
     "total_points": 38.781,
@@ -6924,7 +7095,7 @@
     "included_override": false
   },
   {
-    "rank": 262,
+    "rank": 267,
     "user_id": "NcTe7aLYX7",
     "player_name": "mikey creed",
     "total_points": 38.438,
@@ -6955,7 +7126,7 @@
     "included_override": false
   },
   {
-    "rank": 263,
+    "rank": 268,
     "user_id": "U5uCkodRHT",
     "player_name": "Mark O Sullivan",
     "total_points": 38.095,
@@ -6978,7 +7149,7 @@
     "included_override": false
   },
   {
-    "rank": 264,
+    "rank": 269,
     "user_id": "XH1Vo0FMNS",
     "player_name": "John O'Connor",
     "total_points": 37.8,
@@ -7001,7 +7172,7 @@
     "included_override": false
   },
   {
-    "rank": 264,
+    "rank": 269,
     "user_id": "TNA1U8PDHL",
     "player_name": "Thomas Møller Jeppesen",
     "total_points": 37.8,
@@ -7024,7 +7195,7 @@
     "included_override": false
   },
   {
-    "rank": 266,
+    "rank": 271,
     "user_id": "k4k5JrOgOMmH",
     "player_name": "Conor Feeney",
     "total_points": 37.755,
@@ -7047,7 +7218,7 @@
     "included_override": false
   },
   {
-    "rank": 267,
+    "rank": 272,
     "user_id": "WZzmP4zorQm0",
     "player_name": "Luke Flynn",
     "total_points": 37.5,
@@ -7070,7 +7241,7 @@
     "included_override": false
   },
   {
-    "rank": 268,
+    "rank": 273,
     "user_id": "oZx4qtn5Ja7M",
     "player_name": "Erik Nielsen",
     "total_points": 37.411,
@@ -7093,7 +7264,7 @@
     "included_override": false
   },
   {
-    "rank": 269,
+    "rank": 274,
     "user_id": "4n01D52OdOmx",
     "player_name": "Peter Kendrick",
     "total_points": 36.818,
@@ -7116,7 +7287,7 @@
     "included_override": false
   },
   {
-    "rank": 270,
+    "rank": 275,
     "user_id": "cfslXIDYpw",
     "player_name": "Matthew Coleman",
     "total_points": 36.735,
@@ -7139,7 +7310,7 @@
     "included_override": false
   },
   {
-    "rank": 271,
+    "rank": 276,
     "user_id": "IEsJ4jTfPM",
     "player_name": "David Sloan",
     "total_points": 36.197,
@@ -7163,7 +7334,7 @@
     "included_override": false
   },
   {
-    "rank": 272,
+    "rank": 277,
     "user_id": "KQL4BEN3DC",
     "player_name": "Christopher Cave",
     "total_points": 36.0,
@@ -7186,7 +7357,7 @@
     "included_override": false
   },
   {
-    "rank": 273,
+    "rank": 278,
     "user_id": "xUzXb5XXQnyH",
     "player_name": "Liam Dooley",
     "total_points": 35.714,
@@ -7209,7 +7380,7 @@
     "included_override": false
   },
   {
-    "rank": 274,
+    "rank": 279,
     "user_id": "yKrfjb4HmA",
     "player_name": "Stephen Black",
     "total_points": 35.625,
@@ -7232,7 +7403,7 @@
     "included_override": false
   },
   {
-    "rank": 275,
+    "rank": 280,
     "user_id": "nOew7YqAAwx9",
     "player_name": "Adam Fennessy",
     "total_points": 35.1,
@@ -7255,7 +7426,7 @@
     "included_override": false
   },
   {
-    "rank": 275,
+    "rank": 280,
     "user_id": "KYA9PL1FWT",
     "player_name": "Alex Cargnel",
     "total_points": 35.1,
@@ -7278,30 +7449,7 @@
     "included_override": false
   },
   {
-    "rank": 277,
-    "user_id": "SBORVG0bkBDP",
-    "player_name": "John Kerr",
-    "total_points": 35.088,
-    "events_played": 1,
-    "best_finish": 38,
-    "faction_points": [
-      {
-        "faction": "Adeptus Custodes",
-        "points": 35.088,
-        "events_played": 1,
-        "games_played": 5,
-        "win_rate": 0.4,
-        "x1_points": 0
-      }
-    ],
-    "team": "Carrick",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 278,
+    "rank": 282,
     "user_id": "RRRahQikVziG",
     "player_name": "Daniel Malone",
     "total_points": 34.694,
@@ -7324,7 +7472,7 @@
     "included_override": false
   },
   {
-    "rank": 279,
+    "rank": 283,
     "user_id": "WuV5Odj2I0fG",
     "player_name": "Sam Malone",
     "total_points": 33.673,
@@ -7347,7 +7495,7 @@
     "included_override": false
   },
   {
-    "rank": 280,
+    "rank": 284,
     "user_id": "99tqzYgdwzwd",
     "player_name": "Lilith Cunningham",
     "total_points": 33.477,
@@ -7370,7 +7518,7 @@
     "included_override": false
   },
   {
-    "rank": 281,
+    "rank": 285,
     "user_id": "8XvGDfrymUEq",
     "player_name": "Ryan Daly",
     "total_points": 33.333,
@@ -7393,7 +7541,7 @@
     "included_override": false
   },
   {
-    "rank": 282,
+    "rank": 286,
     "user_id": "0G1YFKUYNQ",
     "player_name": "Culann Smith",
     "total_points": 32.684,
@@ -7416,7 +7564,7 @@
     "included_override": false
   },
   {
-    "rank": 283,
+    "rank": 287,
     "user_id": "Q0YGG58KJ6",
     "player_name": "Luke Murphy",
     "total_points": 32.653,
@@ -7439,7 +7587,7 @@
     "included_override": false
   },
   {
-    "rank": 284,
+    "rank": 288,
     "user_id": "YbUaREqus55i",
     "player_name": "Conor Fitzpatrick",
     "total_points": 32.5,
@@ -7462,7 +7610,7 @@
     "included_override": false
   },
   {
-    "rank": 285,
+    "rank": 289,
     "user_id": "jWRgcCPIbEJv",
     "player_name": "Jason Norris",
     "total_points": 32.5,
@@ -7485,7 +7633,7 @@
     "included_override": false
   },
   {
-    "rank": 286,
+    "rank": 290,
     "user_id": "T40LInbCmd4u",
     "player_name": "Dean Mooney",
     "total_points": 32.4,
@@ -7508,7 +7656,7 @@
     "included_override": false
   },
   {
-    "rank": 286,
+    "rank": 290,
     "user_id": "aLSSS5Ons0Hb",
     "player_name": "Seána Power",
     "total_points": 32.4,
@@ -7531,7 +7679,7 @@
     "included_override": false
   },
   {
-    "rank": 288,
+    "rank": 292,
     "user_id": "957847A7JP",
     "player_name": "Aaron Hynes",
     "total_points": 32.308,
@@ -7554,7 +7702,7 @@
     "included_override": false
   },
   {
-    "rank": 289,
+    "rank": 293,
     "user_id": "9ULJN6J0VB",
     "player_name": "Emmet Curran",
     "total_points": 32.222,
@@ -7578,7 +7726,7 @@
     "included_override": false
   },
   {
-    "rank": 290,
+    "rank": 294,
     "user_id": "kXwWO1dAgr",
     "player_name": "Jarlath Moloney",
     "total_points": 31.633,
@@ -7601,7 +7749,7 @@
     "included_override": false
   },
   {
-    "rank": 291,
+    "rank": 295,
     "user_id": "K3E7BYPD0F",
     "player_name": "Paul Hanlon",
     "total_points": 31.615,
@@ -7632,7 +7780,7 @@
     "included_override": false
   },
   {
-    "rank": 292,
+    "rank": 296,
     "user_id": "nXi632w5jgf0",
     "player_name": "Cameron Bates",
     "total_points": 31.25,
@@ -7655,7 +7803,7 @@
     "included_override": false
   },
   {
-    "rank": 293,
+    "rank": 297,
     "user_id": "NQiDtpIbelmB",
     "player_name": "Andrew Lomax",
     "total_points": 31.0,
@@ -7678,7 +7826,7 @@
     "included_override": false
   },
   {
-    "rank": 294,
+    "rank": 298,
     "user_id": "JBhfvXvCOB4D",
     "player_name": "Stewart Davis",
     "total_points": 30.612,
@@ -7701,7 +7849,7 @@
     "included_override": false
   },
   {
-    "rank": 295,
+    "rank": 299,
     "user_id": "dmjKVEos0i",
     "player_name": "Alex Mullan",
     "total_points": 30.233,
@@ -7724,7 +7872,7 @@
     "included_override": false
   },
   {
-    "rank": 296,
+    "rank": 300,
     "user_id": "Mh5on94xQ0Qt",
     "player_name": "Evan Winterlich",
     "total_points": 30.0,
@@ -7747,7 +7895,7 @@
     "included_override": false
   },
   {
-    "rank": 296,
+    "rank": 300,
     "user_id": "SOJHvfDe5uGx",
     "player_name": "Kieran Hogarty",
     "total_points": 30.0,
@@ -7770,7 +7918,7 @@
     "included_override": false
   },
   {
-    "rank": 298,
+    "rank": 302,
     "user_id": "duEG6TAJdffM",
     "player_name": "Martin Gallagher",
     "total_points": 29.7,
@@ -7793,7 +7941,7 @@
     "included_override": false
   },
   {
-    "rank": 299,
+    "rank": 303,
     "user_id": "BV15FH17UL",
     "player_name": "Conor McGrann",
     "total_points": 28.793,
@@ -7816,7 +7964,30 @@
     "included_override": false
   },
   {
-    "rank": 300,
+    "rank": 304,
+    "user_id": "BJ3TMX419B",
+    "player_name": "Donal Phillips",
+    "total_points": 28.697,
+    "events_played": 4,
+    "best_finish": 14,
+    "faction_points": [
+      {
+        "faction": "Aeldari",
+        "points": 28.697,
+        "events_played": 4,
+        "games_played": 16,
+        "win_rate": 0.125,
+        "x1_points": 0
+      }
+    ],
+    "team": null,
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 305,
     "user_id": "DKXUE8A0BC",
     "player_name": "Daniel Christie",
     "total_points": 28.571,
@@ -7839,7 +8010,7 @@
     "included_override": false
   },
   {
-    "rank": 301,
+    "rank": 306,
     "user_id": "ZWfDuRUTBymi",
     "player_name": "Derek Dagg",
     "total_points": 28.125,
@@ -7862,7 +8033,7 @@
     "included_override": false
   },
   {
-    "rank": 302,
+    "rank": 307,
     "user_id": "mPM3W5b5bHJZ",
     "player_name": "David Slattery",
     "total_points": 27.937,
@@ -7885,7 +8056,7 @@
     "included_override": false
   },
   {
-    "rank": 303,
+    "rank": 308,
     "user_id": "oiAjrjWyq19O",
     "player_name": "Jp Abellana",
     "total_points": 27.907,
@@ -7908,7 +8079,7 @@
     "included_override": false
   },
   {
-    "rank": 304,
+    "rank": 309,
     "user_id": "GJV91RQWBE",
     "player_name": "David Carroll",
     "total_points": 27.692,
@@ -7931,7 +8102,7 @@
     "included_override": false
   },
   {
-    "rank": 305,
+    "rank": 310,
     "user_id": "LdQMENmIQn",
     "player_name": "Eoghan O'Connor",
     "total_points": 27.551,
@@ -7954,7 +8125,7 @@
     "included_override": false
   },
   {
-    "rank": 306,
+    "rank": 311,
     "user_id": "B1FW7jc1eJcU",
     "player_name": "Dylan Aherne",
     "total_points": 27.5,
@@ -7977,7 +8148,7 @@
     "included_override": false
   },
   {
-    "rank": 306,
+    "rank": 311,
     "user_id": "YY2BE1CUWH",
     "player_name": "Stephen Malcolmson",
     "total_points": 27.5,
@@ -8000,7 +8171,7 @@
     "included_override": false
   },
   {
-    "rank": 308,
+    "rank": 313,
     "user_id": "b3tK4Q0EVhJz",
     "player_name": "Adam O'Sullivan",
     "total_points": 27.5,
@@ -8023,7 +8194,7 @@
     "included_override": false
   },
   {
-    "rank": 309,
+    "rank": 314,
     "user_id": "fPS2lmiavovj",
     "player_name": "Steve Woolley",
     "total_points": 27.429,
@@ -8046,7 +8217,7 @@
     "included_override": false
   },
   {
-    "rank": 310,
+    "rank": 315,
     "user_id": "2ZmFlpFRGDEZ",
     "player_name": "Dean Johnston",
     "total_points": 27.0,
@@ -8069,7 +8240,7 @@
     "included_override": false
   },
   {
-    "rank": 310,
+    "rank": 315,
     "user_id": "UWKYW448LF",
     "player_name": "Fionn Brickley",
     "total_points": 27.0,
@@ -8092,7 +8263,7 @@
     "included_override": false
   },
   {
-    "rank": 310,
+    "rank": 315,
     "user_id": "dBaBrkDFIg",
     "player_name": "James Conlon McKenna",
     "total_points": 27.0,
@@ -8115,7 +8286,7 @@
     "included_override": false
   },
   {
-    "rank": 313,
+    "rank": 318,
     "user_id": "wd9pz7Ypk8SB",
     "player_name": "Chris Wilkinson",
     "total_points": 27.0,
@@ -8138,7 +8309,7 @@
     "included_override": false
   },
   {
-    "rank": 314,
+    "rank": 319,
     "user_id": "tisaASG88Kj6",
     "player_name": "Matthew Mckeon",
     "total_points": 26.365,
@@ -8161,7 +8332,7 @@
     "included_override": false
   },
   {
-    "rank": 315,
+    "rank": 320,
     "user_id": "74F59V3NNN",
     "player_name": "Kyle O'Shea",
     "total_points": 25.789,
@@ -8184,7 +8355,7 @@
     "included_override": false
   },
   {
-    "rank": 316,
+    "rank": 321,
     "user_id": "9UtAW1RCkEBh",
     "player_name": "Jonathan Wilson",
     "total_points": 25.714,
@@ -8207,7 +8378,7 @@
     "included_override": false
   },
   {
-    "rank": 317,
+    "rank": 322,
     "user_id": "MoVZ1Tt3aB",
     "player_name": "Mark Moloney",
     "total_points": 25.581,
@@ -8230,7 +8401,7 @@
     "included_override": false
   },
   {
-    "rank": 318,
+    "rank": 323,
     "user_id": "4aTT2hFJOfZB",
     "player_name": "Peter Herbert",
     "total_points": 25.579,
@@ -8253,7 +8424,7 @@
     "included_override": false
   },
   {
-    "rank": 319,
+    "rank": 324,
     "user_id": "SOzR7JoYuWYV",
     "player_name": "Philip Lyons",
     "total_points": 25.51,
@@ -8276,7 +8447,7 @@
     "included_override": false
   },
   {
-    "rank": 320,
+    "rank": 325,
     "user_id": "MOdxUuxXYO17",
     "player_name": "Ultan O'Neil",
     "total_points": 25.064,
@@ -8299,7 +8470,7 @@
     "included_override": false
   },
   {
-    "rank": 321,
+    "rank": 326,
     "user_id": "vO49gGfHyQyq",
     "player_name": "Ross Langford",
     "total_points": 25.0,
@@ -8322,7 +8493,7 @@
     "included_override": false
   },
   {
-    "rank": 322,
+    "rank": 327,
     "user_id": "9yKNk9WfoW52",
     "player_name": "rory hodgkiss",
     "total_points": 25.0,
@@ -8345,7 +8516,7 @@
     "included_override": false
   },
   {
-    "rank": 323,
+    "rank": 328,
     "user_id": "nmP4NDxKce4s",
     "player_name": "Stephen Moore",
     "total_points": 24.545,
@@ -8368,7 +8539,7 @@
     "included_override": false
   },
   {
-    "rank": 324,
+    "rank": 329,
     "user_id": "KPrfFGz1Otfz",
     "player_name": "Conor Hawkins",
     "total_points": 24.49,
@@ -8391,7 +8562,7 @@
     "included_override": false
   },
   {
-    "rank": 325,
+    "rank": 330,
     "user_id": "jZO67F9Z0tCa",
     "player_name": "Adam Thornton",
     "total_points": 24.3,
@@ -8414,7 +8585,7 @@
     "included_override": false
   },
   {
-    "rank": 326,
+    "rank": 331,
     "user_id": "Zg00ao7SAGCk",
     "player_name": "Garrett Whyte",
     "total_points": 24.0,
@@ -8437,7 +8608,7 @@
     "included_override": false
   },
   {
-    "rank": 327,
+    "rank": 332,
     "user_id": "T2R86LYHP5",
     "player_name": "Jonathan Shaw",
     "total_points": 23.571,
@@ -8460,7 +8631,7 @@
     "included_override": false
   },
   {
-    "rank": 328,
+    "rank": 333,
     "user_id": "u2Inev6T4CaT",
     "player_name": "sean Lyons",
     "total_points": 23.469,
@@ -8483,7 +8654,7 @@
     "included_override": false
   },
   {
-    "rank": 329,
+    "rank": 334,
     "user_id": "U25VYYK259",
     "player_name": "Jamil Siddiqi",
     "total_points": 22.5,
@@ -8506,7 +8677,7 @@
     "included_override": false
   },
   {
-    "rank": 330,
+    "rank": 335,
     "user_id": "VRH7HTR8H5",
     "player_name": "Ross Kinsella",
     "total_points": 22.449,
@@ -8529,30 +8700,7 @@
     "included_override": false
   },
   {
-    "rank": 331,
-    "user_id": "BJ3TMX419B",
-    "player_name": "Donal Phillips",
-    "total_points": 22.447,
-    "events_played": 3,
-    "best_finish": 14,
-    "faction_points": [
-      {
-        "faction": "Aeldari",
-        "points": 22.447,
-        "events_played": 3,
-        "games_played": 11,
-        "win_rate": 0.1818,
-        "x1_points": 0
-      }
-    ],
-    "team": null,
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 332,
+    "rank": 336,
     "user_id": "9RwtGjl4OxVQ",
     "player_name": "David Ryan",
     "total_points": 21.429,
@@ -8575,7 +8723,7 @@
     "included_override": false
   },
   {
-    "rank": 333,
+    "rank": 337,
     "user_id": "eyDxd2FGYLdB",
     "player_name": "Zak Burton",
     "total_points": 21.111,
@@ -8598,7 +8746,7 @@
     "included_override": false
   },
   {
-    "rank": 334,
+    "rank": 338,
     "user_id": "cgDRExtoHKiJ",
     "player_name": "David McGillicuddy",
     "total_points": 21.053,
@@ -8621,7 +8769,7 @@
     "included_override": false
   },
   {
-    "rank": 335,
+    "rank": 339,
     "user_id": "BD5GPV18NR",
     "player_name": "MATTHEW MURRAY",
     "total_points": 21.053,
@@ -8644,7 +8792,7 @@
     "included_override": false
   },
   {
-    "rank": 336,
+    "rank": 340,
     "user_id": "FXN0DPN6H5",
     "player_name": "Stephen Roantree",
     "total_points": 20.93,
@@ -8667,7 +8815,7 @@
     "included_override": false
   },
   {
-    "rank": 337,
+    "rank": 341,
     "user_id": "LR55F1GULD",
     "player_name": "Jaimee Lee Swan Ducote",
     "total_points": 20.769,
@@ -8690,7 +8838,7 @@
     "included_override": false
   },
   {
-    "rank": 338,
+    "rank": 342,
     "user_id": "0vfPs5Eax5cD",
     "player_name": "Kris  Taylor",
     "total_points": 20.635,
@@ -8713,7 +8861,7 @@
     "included_override": false
   },
   {
-    "rank": 339,
+    "rank": 343,
     "user_id": "jkBluFV7NX8L",
     "player_name": "Sam Muir",
     "total_points": 20.625,
@@ -8736,7 +8884,7 @@
     "included_override": false
   },
   {
-    "rank": 340,
+    "rank": 344,
     "user_id": "pIm8xsAgPG",
     "player_name": "Tiago Sousa",
     "total_points": 20.0,
@@ -8759,7 +8907,7 @@
     "included_override": false
   },
   {
-    "rank": 341,
+    "rank": 345,
     "user_id": "wWJ6Up6BDp8N",
     "player_name": "Liam O’Keeffe",
     "total_points": 19.895,
@@ -8782,7 +8930,7 @@
     "included_override": false
   },
   {
-    "rank": 342,
+    "rank": 346,
     "user_id": "8XE39F0WLD",
     "player_name": "Ryan Barnes",
     "total_points": 19.298,
@@ -8805,7 +8953,7 @@
     "included_override": false
   },
   {
-    "rank": 343,
+    "rank": 347,
     "user_id": "575YUB8TDK",
     "player_name": "Cinnamon Sandman",
     "total_points": 19.286,
@@ -8828,7 +8976,7 @@
     "included_override": false
   },
   {
-    "rank": 344,
+    "rank": 348,
     "user_id": "Bxjii9Fn1ubQ",
     "player_name": "Cameron Wallace",
     "total_points": 18.9,
@@ -8851,7 +8999,7 @@
     "included_override": false
   },
   {
-    "rank": 344,
+    "rank": 348,
     "user_id": "08XJ2QMXNR",
     "player_name": "Colin Murray",
     "total_points": 18.9,
@@ -8874,7 +9022,7 @@
     "included_override": false
   },
   {
-    "rank": 344,
+    "rank": 348,
     "user_id": "bWmDUBX9hOSt",
     "player_name": "Conor McClean",
     "total_points": 18.9,
@@ -8897,7 +9045,7 @@
     "included_override": false
   },
   {
-    "rank": 344,
+    "rank": 348,
     "user_id": "sLqcdgf0yx3I",
     "player_name": "Joady Fogarty",
     "total_points": 18.9,
@@ -8920,7 +9068,7 @@
     "included_override": false
   },
   {
-    "rank": 348,
+    "rank": 352,
     "user_id": "M884JRWQD4",
     "player_name": "Andy Dunn",
     "total_points": 18.75,
@@ -8943,7 +9091,7 @@
     "included_override": false
   },
   {
-    "rank": 349,
+    "rank": 353,
     "user_id": "eE7hWRR9HbS8",
     "player_name": "Darren Leckey",
     "total_points": 18.75,
@@ -8966,7 +9114,7 @@
     "included_override": false
   },
   {
-    "rank": 350,
+    "rank": 354,
     "user_id": "gjPAz2Ne2e",
     "player_name": "Jonathan Cassidy",
     "total_points": 18.537,
@@ -8997,7 +9145,7 @@
     "included_override": false
   },
   {
-    "rank": 351,
+    "rank": 355,
     "user_id": "QC28XFY8Q8",
     "player_name": "Gareth Keys",
     "total_points": 18.462,
@@ -9020,7 +9168,7 @@
     "included_override": false
   },
   {
-    "rank": 352,
+    "rank": 356,
     "user_id": "84VYV5FQ3K",
     "player_name": "Ferdia Bridgeman",
     "total_points": 18.421,
@@ -9043,7 +9191,7 @@
     "included_override": false
   },
   {
-    "rank": 353,
+    "rank": 357,
     "user_id": "5uDq96m72S50",
     "player_name": "Sean Kennedy",
     "total_points": 18.367,
@@ -9066,7 +9214,7 @@
     "included_override": false
   },
   {
-    "rank": 354,
+    "rank": 358,
     "user_id": "70V60532QH",
     "player_name": "Dave O Brien",
     "total_points": 17.806,
@@ -9089,7 +9237,7 @@
     "included_override": false
   },
   {
-    "rank": 355,
+    "rank": 359,
     "user_id": "hHRhoVpnMIod",
     "player_name": "Adam McVicker",
     "total_points": 17.182,
@@ -9112,7 +9260,7 @@
     "included_override": false
   },
   {
-    "rank": 356,
+    "rank": 360,
     "user_id": "UMD5xDqzSG7s",
     "player_name": "Rory Conniffe",
     "total_points": 17.143,
@@ -9135,7 +9283,7 @@
     "included_override": false
   },
   {
-    "rank": 357,
+    "rank": 361,
     "user_id": "RxjSP9cwaOrh",
     "player_name": "Vall Syrene",
     "total_points": 16.667,
@@ -9158,7 +9306,7 @@
     "included_override": false
   },
   {
-    "rank": 358,
+    "rank": 362,
     "user_id": "tCh2vNkZLPef",
     "player_name": "David Holohan",
     "total_points": 16.2,
@@ -9181,7 +9329,7 @@
     "included_override": false
   },
   {
-    "rank": 359,
+    "rank": 363,
     "user_id": "B0E07EE0AV",
     "player_name": "Rob O'Driscoll",
     "total_points": 15.789,
@@ -9204,7 +9352,7 @@
     "included_override": false
   },
   {
-    "rank": 360,
+    "rank": 364,
     "user_id": "zWcvHSDZCYqs",
     "player_name": "Chris Murphy",
     "total_points": 15.0,
@@ -9227,7 +9375,7 @@
     "included_override": false
   },
   {
-    "rank": 360,
+    "rank": 364,
     "user_id": "Vo3GtnaA2Nma",
     "player_name": "Jackie Donnelly",
     "total_points": 15.0,
@@ -9250,7 +9398,7 @@
     "included_override": false
   },
   {
-    "rank": 362,
+    "rank": 366,
     "user_id": "soffgGlDC4S3",
     "player_name": "David McComiskey",
     "total_points": 15.0,
@@ -9273,7 +9421,7 @@
     "included_override": false
   },
   {
-    "rank": 363,
+    "rank": 367,
     "user_id": "NBStKDB9tx",
     "player_name": "Simon Whelan",
     "total_points": 15.0,
@@ -9296,7 +9444,7 @@
     "included_override": false
   },
   {
-    "rank": 364,
+    "rank": 368,
     "user_id": "9m3eAfamJYhi",
     "player_name": "Ryan Van Niekerk",
     "total_points": 14.286,
@@ -9319,7 +9467,7 @@
     "included_override": false
   },
   {
-    "rank": 365,
+    "rank": 369,
     "user_id": "9bembw67vaT5",
     "player_name": "Gordy Moran",
     "total_points": 14.286,
@@ -9342,7 +9490,7 @@
     "included_override": false
   },
   {
-    "rank": 366,
+    "rank": 370,
     "user_id": "snW2xTBLq0sa",
     "player_name": "Eoin McDaid",
     "total_points": 13.956,
@@ -9366,7 +9514,7 @@
     "included_override": false
   },
   {
-    "rank": 367,
+    "rank": 371,
     "user_id": "ulx6N3DZfYSo",
     "player_name": "Robert Johnson",
     "total_points": 13.953,
@@ -9389,7 +9537,7 @@
     "included_override": false
   },
   {
-    "rank": 368,
+    "rank": 372,
     "user_id": "zxxBMypT4V04",
     "player_name": "Kieran Sweeney",
     "total_points": 13.714,
@@ -9412,7 +9560,7 @@
     "included_override": false
   },
   {
-    "rank": 369,
+    "rank": 373,
     "user_id": "U36PCvzD4fW1",
     "player_name": "Callum Dunbar",
     "total_points": 13.5,
@@ -9435,7 +9583,7 @@
     "included_override": false
   },
   {
-    "rank": 369,
+    "rank": 373,
     "user_id": "MRK45F9PK1",
     "player_name": "Calvin Benbow",
     "total_points": 13.5,
@@ -9458,7 +9606,7 @@
     "included_override": false
   },
   {
-    "rank": 369,
+    "rank": 373,
     "user_id": "o8onSbX0uLKA",
     "player_name": "Malcolm Sutherland",
     "total_points": 13.5,
@@ -9481,7 +9629,7 @@
     "included_override": false
   },
   {
-    "rank": 372,
+    "rank": 376,
     "user_id": "HJenDfOlzD",
     "player_name": "Colm Faughnan",
     "total_points": 13.265,
@@ -9504,7 +9652,7 @@
     "included_override": false
   },
   {
-    "rank": 373,
+    "rank": 377,
     "user_id": "XPRIPjehPPXh",
     "player_name": "Phil Warke",
     "total_points": 12.857,
@@ -9527,7 +9675,7 @@
     "included_override": false
   },
   {
-    "rank": 374,
+    "rank": 378,
     "user_id": "noE7lxb8Lt6H",
     "player_name": "odhran omearain",
     "total_points": 12.698,
@@ -9550,7 +9698,7 @@
     "included_override": false
   },
   {
-    "rank": 375,
+    "rank": 379,
     "user_id": "qFGH2TiLyOZE",
     "player_name": "Michal Zur",
     "total_points": 12.5,
@@ -9573,7 +9721,30 @@
     "included_override": false
   },
   {
-    "rank": 376,
+    "rank": 380,
+    "user_id": "K36QXtu7p4yU",
+    "player_name": "Charlie Black",
+    "total_points": 12.5,
+    "events_played": 1,
+    "best_finish": 43,
+    "faction_points": [
+      {
+        "faction": "Orks",
+        "points": 12.5,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.2,
+        "x1_points": 0
+      }
+    ],
+    "team": null,
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 381,
     "user_id": "Y7G5xfaYX2lb",
     "player_name": "Craig Byrne",
     "total_points": 11.628,
@@ -9596,7 +9767,7 @@
     "included_override": false
   },
   {
-    "rank": 377,
+    "rank": 382,
     "user_id": "kshxa5JNu4Tp",
     "player_name": "Kimberly O'Neill",
     "total_points": 11.111,
@@ -9619,7 +9790,7 @@
     "included_override": false
   },
   {
-    "rank": 378,
+    "rank": 383,
     "user_id": "Q8AH35rsDK6R",
     "player_name": "Liam B",
     "total_points": 10.8,
@@ -9642,7 +9813,7 @@
     "included_override": false
   },
   {
-    "rank": 378,
+    "rank": 383,
     "user_id": "8oiNiFw2o4PU",
     "player_name": "LUKE GAFFNEY",
     "total_points": 10.8,
@@ -9665,7 +9836,7 @@
     "included_override": false
   },
   {
-    "rank": 378,
+    "rank": 383,
     "user_id": "JV8UzGvLfk",
     "player_name": "niall mulready",
     "total_points": 10.8,
@@ -9688,7 +9859,7 @@
     "included_override": false
   },
   {
-    "rank": 381,
+    "rank": 386,
     "user_id": "55VU4YNTPP",
     "player_name": "Glenn Henry",
     "total_points": 10.286,
@@ -9711,7 +9882,7 @@
     "included_override": false
   },
   {
-    "rank": 382,
+    "rank": 387,
     "user_id": "27C1VVE1WN",
     "player_name": "Neale Rooney",
     "total_points": 10.0,
@@ -9734,7 +9905,7 @@
     "included_override": false
   },
   {
-    "rank": 383,
+    "rank": 388,
     "user_id": "u7MpzeTJmjrN",
     "player_name": "Elran Tristan",
     "total_points": 9.818,
@@ -9757,7 +9928,7 @@
     "included_override": false
   },
   {
-    "rank": 384,
+    "rank": 389,
     "user_id": "8GM4PQEHEA",
     "player_name": "Martin Laughlin",
     "total_points": 9.375,
@@ -9780,7 +9951,7 @@
     "included_override": false
   },
   {
-    "rank": 385,
+    "rank": 390,
     "user_id": "bTeS4yvTQCyh",
     "player_name": "Eoghan Galligan",
     "total_points": 9.302,
@@ -9803,7 +9974,7 @@
     "included_override": false
   },
   {
-    "rank": 386,
+    "rank": 391,
     "user_id": "3QK7T542RH",
     "player_name": "Eoghan Campion",
     "total_points": 9.231,
@@ -9826,7 +9997,7 @@
     "included_override": false
   },
   {
-    "rank": 387,
+    "rank": 392,
     "user_id": "Xfb1Z8bCDa",
     "player_name": "Fred Holding",
     "total_points": 9.184,
@@ -9849,7 +10020,7 @@
     "included_override": false
   },
   {
-    "rank": 388,
+    "rank": 393,
     "user_id": "VlRXOw4YBPoF",
     "player_name": "Olan McCarthy",
     "total_points": 9.0,
@@ -9872,7 +10043,30 @@
     "included_override": false
   },
   {
-    "rank": 389,
+    "rank": 394,
+    "user_id": "1VXNsW0BL9ma",
+    "player_name": "Aubrey Spence",
+    "total_points": 8.333,
+    "events_played": 1,
+    "best_finish": 45,
+    "faction_points": [
+      {
+        "faction": "Emperor's Children",
+        "points": 8.333,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.2,
+        "x1_points": 0
+      }
+    ],
+    "team": null,
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 395,
     "user_id": "sKnTOo0iBlsJ",
     "player_name": "Gerard Connor",
     "total_points": 8.163,
@@ -9895,7 +10089,7 @@
     "included_override": false
   },
   {
-    "rank": 390,
+    "rank": 396,
     "user_id": "bLVcZf7F05",
     "player_name": "Anthony Walsh",
     "total_points": 8.1,
@@ -9918,7 +10112,7 @@
     "included_override": false
   },
   {
-    "rank": 390,
+    "rank": 396,
     "user_id": "oIDe52LVGQea",
     "player_name": "Caeden Myburgh",
     "total_points": 8.1,
@@ -9941,7 +10135,7 @@
     "included_override": false
   },
   {
-    "rank": 390,
+    "rank": 396,
     "user_id": "osI3KvOFlE",
     "player_name": "Dan Kelly",
     "total_points": 8.1,
@@ -9964,7 +10158,7 @@
     "included_override": false
   },
   {
-    "rank": 390,
+    "rank": 396,
     "user_id": "GPP0UFWAHF",
     "player_name": "Danny O'Shea",
     "total_points": 8.1,
@@ -9987,7 +10181,7 @@
     "included_override": false
   },
   {
-    "rank": 390,
+    "rank": 396,
     "user_id": "90T2AWTTBN",
     "player_name": "Stephen Clarkin",
     "total_points": 8.1,
@@ -10010,7 +10204,7 @@
     "included_override": false
   },
   {
-    "rank": 395,
+    "rank": 401,
     "user_id": "wn6vf1WBWOdu",
     "player_name": "Michael Stanton",
     "total_points": 7.895,
@@ -10033,7 +10227,38 @@
     "included_override": false
   },
   {
-    "rank": 396,
+    "rank": 402,
+    "user_id": "npoimDTuYCQC",
+    "player_name": "Martin Campbell",
+    "total_points": 7.676,
+    "events_played": 2,
+    "best_finish": 47,
+    "faction_points": [
+      {
+        "faction": "Space Marines (Astartes)",
+        "points": 4.167,
+        "events_played": 1,
+        "games_played": 3,
+        "win_rate": 0.0,
+        "x1_points": 0
+      },
+      {
+        "faction": "Dark Angels",
+        "points": 3.509,
+        "events_played": 1,
+        "games_played": 3,
+        "win_rate": 0.0,
+        "x1_points": 0
+      }
+    ],
+    "team": "Sore Feet",
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 403,
     "user_id": "P0NRo9avBIpT",
     "player_name": "Patrick Brouder",
     "total_points": 7.5,
@@ -10056,7 +10281,7 @@
     "included_override": false
   },
   {
-    "rank": 397,
+    "rank": 404,
     "user_id": "OiIcRV95KtSe",
     "player_name": "ross attley",
     "total_points": 7.364,
@@ -10079,7 +10304,7 @@
     "included_override": false
   },
   {
-    "rank": 398,
+    "rank": 405,
     "user_id": "knZHcw1XhBIW",
     "player_name": "Conor Masterson",
     "total_points": 7.143,
@@ -10102,7 +10327,7 @@
     "included_override": false
   },
   {
-    "rank": 399,
+    "rank": 406,
     "user_id": "4oUEB83LIc",
     "player_name": "Oliver Webbley",
     "total_points": 6.923,
@@ -10125,7 +10350,7 @@
     "included_override": false
   },
   {
-    "rank": 400,
+    "rank": 407,
     "user_id": "K20eTTPotyAV",
     "player_name": "Noel Crockett",
     "total_points": 6.857,
@@ -10148,7 +10373,7 @@
     "included_override": false
   },
   {
-    "rank": 401,
+    "rank": 408,
     "user_id": "D8AhFLOZyWZk",
     "player_name": "Adam Yore",
     "total_points": 6.587,
@@ -10179,7 +10404,7 @@
     "included_override": false
   },
   {
-    "rank": 402,
+    "rank": 409,
     "user_id": "Ni0CWq3EmDKr",
     "player_name": "Daniel Holmes",
     "total_points": 6.25,
@@ -10202,7 +10427,7 @@
     "included_override": false
   },
   {
-    "rank": 403,
+    "rank": 410,
     "user_id": "NQT9V1B375",
     "player_name": "Peter Bond",
     "total_points": 6.161,
@@ -10225,7 +10450,7 @@
     "included_override": false
   },
   {
-    "rank": 404,
+    "rank": 411,
     "user_id": "3kSSykNNLYmW",
     "player_name": "Rory Hyland",
     "total_points": 6.122,
@@ -10248,7 +10473,7 @@
     "included_override": false
   },
   {
-    "rank": 405,
+    "rank": 412,
     "user_id": "UHmBnNNRiZR2",
     "player_name": "Dillon Reid",
     "total_points": 5.4,
@@ -10271,7 +10496,7 @@
     "included_override": false
   },
   {
-    "rank": 405,
+    "rank": 412,
     "user_id": "RGHQJojMVqLq",
     "player_name": "Graham Farrelly",
     "total_points": 5.4,
@@ -10294,7 +10519,7 @@
     "included_override": false
   },
   {
-    "rank": 405,
+    "rank": 412,
     "user_id": "GPGH8JCLWW",
     "player_name": "james commins",
     "total_points": 5.4,
@@ -10317,7 +10542,7 @@
     "included_override": false
   },
   {
-    "rank": 405,
+    "rank": 412,
     "user_id": "4TE3fYy0VFcM",
     "player_name": "Jeffrey Flood",
     "total_points": 5.4,
@@ -10340,7 +10565,7 @@
     "included_override": false
   },
   {
-    "rank": 409,
+    "rank": 416,
     "user_id": "FPVETDWKR4",
     "player_name": "Matt Yarnold",
     "total_points": 5.263,
@@ -10363,7 +10588,7 @@
     "included_override": false
   },
   {
-    "rank": 410,
+    "rank": 417,
     "user_id": "N0gV2qFBdK6s",
     "player_name": "Dean Kavanagh",
     "total_points": 5.0,
@@ -10386,7 +10611,7 @@
     "included_override": false
   },
   {
-    "rank": 410,
+    "rank": 417,
     "user_id": "QwlK6TJjKa82",
     "player_name": "Patrick Alexander",
     "total_points": 5.0,
@@ -10409,7 +10634,7 @@
     "included_override": false
   },
   {
-    "rank": 412,
+    "rank": 419,
     "user_id": "S6XUAMuQ0RHd",
     "player_name": "Pearce Carty heffernan",
     "total_points": 4.909,
@@ -10432,7 +10657,7 @@
     "included_override": false
   },
   {
-    "rank": 412,
+    "rank": 419,
     "user_id": "NETytq0Q6LtS",
     "player_name": "Sam Johnston-Hicks",
     "total_points": 4.909,
@@ -10455,7 +10680,7 @@
     "included_override": false
   },
   {
-    "rank": 414,
+    "rank": 421,
     "user_id": "7HC98TLY5K",
     "player_name": "Bayli Carr",
     "total_points": 4.762,
@@ -10478,7 +10703,7 @@
     "included_override": false
   },
   {
-    "rank": 415,
+    "rank": 422,
     "user_id": "Nr0HCZ45tBG9",
     "player_name": "Christopher McCahill",
     "total_points": 4.651,
@@ -10501,30 +10726,7 @@
     "included_override": false
   },
   {
-    "rank": 416,
-    "user_id": "YUQ7K0J4Q9",
-    "player_name": "Sam Lamont",
-    "total_points": 4.286,
-    "events_played": 1,
-    "best_finish": 27,
-    "faction_points": [
-      {
-        "faction": "Necrons",
-        "points": 4.286,
-        "events_played": 1,
-        "games_played": 2,
-        "win_rate": 0.0,
-        "x1_points": 0
-      }
-    ],
-    "team": "Sink",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 417,
+    "rank": 423,
     "user_id": "eR3kg4emv1d5",
     "player_name": "Conal Dixon",
     "total_points": 4.082,
@@ -10547,53 +10749,7 @@
     "included_override": false
   },
   {
-    "rank": 418,
-    "user_id": "1B7PAL6JG2",
-    "player_name": "Isaac Mclarnon",
-    "total_points": 3.75,
-    "events_played": 1,
-    "best_finish": 31,
-    "faction_points": [
-      {
-        "faction": "Chaos Daemons",
-        "points": 3.75,
-        "events_played": 1,
-        "games_played": 3,
-        "win_rate": 0.0,
-        "x1_points": 0
-      }
-    ],
-    "team": null,
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 419,
-    "user_id": "npoimDTuYCQC",
-    "player_name": "Martin Campbell",
-    "total_points": 3.509,
-    "events_played": 1,
-    "best_finish": 56,
-    "faction_points": [
-      {
-        "faction": "Dark Angels",
-        "points": 3.509,
-        "events_played": 1,
-        "games_played": 3,
-        "win_rate": 0.0,
-        "x1_points": 0
-      }
-    ],
-    "team": "Carrick",
-    "regions": [
-      "NI"
-    ],
-    "included_override": false
-  },
-  {
-    "rank": 420,
+    "rank": 424,
     "user_id": "K2a6qOZfnEaO",
     "player_name": "Alex Thompson",
     "total_points": 3.429,
@@ -10616,7 +10772,7 @@
     "included_override": false
   },
   {
-    "rank": 421,
+    "rank": 425,
     "user_id": "9HBN4ACPNX",
     "player_name": "Kristopher Knight",
     "total_points": 3.125,
@@ -10639,7 +10795,7 @@
     "included_override": false
   },
   {
-    "rank": 421,
+    "rank": 425,
     "user_id": "141FBA5K9U",
     "player_name": "Michael Gamble",
     "total_points": 3.125,
@@ -10662,7 +10818,7 @@
     "included_override": false
   },
   {
-    "rank": 423,
+    "rank": 427,
     "user_id": "h52gembT5BDz",
     "player_name": "Tony Hogan",
     "total_points": 3.061,
@@ -10685,7 +10841,7 @@
     "included_override": false
   },
   {
-    "rank": 424,
+    "rank": 428,
     "user_id": "TWKEJTEVFP",
     "player_name": "Conor Patton",
     "total_points": 2.778,
@@ -10708,7 +10864,7 @@
     "included_override": false
   },
   {
-    "rank": 425,
+    "rank": 429,
     "user_id": "pC3e4WrieGq5",
     "player_name": "Aran Keating",
     "total_points": 2.7,
@@ -10731,7 +10887,7 @@
     "included_override": false
   },
   {
-    "rank": 425,
+    "rank": 429,
     "user_id": "juHJpMyAwPcp",
     "player_name": "Jim Fitzgerald",
     "total_points": 2.7,
@@ -10754,7 +10910,7 @@
     "included_override": false
   },
   {
-    "rank": 427,
+    "rank": 431,
     "user_id": "XWPHDE0RG6",
     "player_name": "Chris Tyndall",
     "total_points": 2.632,
@@ -10777,7 +10933,7 @@
     "included_override": false
   },
   {
-    "rank": 427,
+    "rank": 431,
     "user_id": "BJI7ikUiyC9M",
     "player_name": "Jan O Longphuirt",
     "total_points": 2.632,
@@ -10800,7 +10956,7 @@
     "included_override": false
   },
   {
-    "rank": 429,
+    "rank": 433,
     "user_id": "bxmqGemfL73l",
     "player_name": "Jacob O'Brien",
     "total_points": 2.5,
@@ -10823,7 +10979,7 @@
     "included_override": false
   },
   {
-    "rank": 429,
+    "rank": 433,
     "user_id": "chiNiXBnDItZ",
     "player_name": "Jason  Martin",
     "total_points": 2.5,
@@ -10846,7 +11002,7 @@
     "included_override": false
   },
   {
-    "rank": 429,
+    "rank": 433,
     "user_id": "CUiFjZxH3Dy7",
     "player_name": "Joseph Jones-Vermillion",
     "total_points": 2.5,
@@ -10869,7 +11025,7 @@
     "included_override": false
   },
   {
-    "rank": 432,
+    "rank": 436,
     "user_id": "3w4Ao4N5aIYm",
     "player_name": "Ronan Murphy",
     "total_points": 2.326,
@@ -10892,7 +11048,7 @@
     "included_override": false
   },
   {
-    "rank": 433,
+    "rank": 437,
     "user_id": "37U6X8YVWW",
     "player_name": "chris Thompson",
     "total_points": 2.143,
@@ -10915,7 +11071,7 @@
     "included_override": false
   },
   {
-    "rank": 433,
+    "rank": 437,
     "user_id": "ms02ql6v4peY",
     "player_name": "Rowan Sheridan",
     "total_points": 2.143,
@@ -10938,7 +11094,30 @@
     "included_override": false
   },
   {
-    "rank": 435,
+    "rank": 439,
+    "user_id": "zRinOsErEhdr",
+    "player_name": "Antoin Martin",
+    "total_points": 2.083,
+    "events_played": 1,
+    "best_finish": 48,
+    "faction_points": [
+      {
+        "faction": "Leagues of Votann",
+        "points": 2.083,
+        "events_played": 1,
+        "games_played": 5,
+        "win_rate": 0.0,
+        "x1_points": 0
+      }
+    ],
+    "team": null,
+    "regions": [
+      "NI"
+    ],
+    "included_override": false
+  },
+  {
+    "rank": 440,
     "user_id": "97wVFODoOtrx",
     "player_name": "Luis Hayes",
     "total_points": 2.041,
@@ -10961,7 +11140,7 @@
     "included_override": false
   },
   {
-    "rank": 436,
+    "rank": 441,
     "user_id": "6FzkIQg4KjpB",
     "player_name": "donal mckearney",
     "total_points": 1.754,
@@ -10984,7 +11163,7 @@
     "included_override": false
   },
   {
-    "rank": 437,
+    "rank": 442,
     "user_id": "f41ghLPxGMjz",
     "player_name": "Ryan Killeen",
     "total_points": 1.02,

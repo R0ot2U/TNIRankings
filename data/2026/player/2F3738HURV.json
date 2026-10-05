@@ -1,14 +1,33 @@
 {
   "user_id": "2F3738HURV",
   "player_name": "John Haycock",
-  "total_points": 217.689,
-  "events_played": 6,
+  "total_points": 242.689,
+  "events_played": 7,
   "best_finish": 3,
   "regions": [
     "NI"
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 13,
+      "max_points": 100,
+      "points": 75.0,
+      "faction": "Leagues of Votann",
+      "team": "Sink",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -121,17 +140,17 @@
       "wins": 2,
       "draws": 1,
       "losses": 0,
-      "counts": true
+      "counts": false
     }
   ],
   "included_override": false,
   "faction_points": [
     {
       "faction": "Leagues of Votann",
-      "points": 145.846,
-      "events_played": 3,
-      "games_played": 11,
-      "win_rate": 0.6364,
+      "points": 220.846,
+      "events_played": 4,
+      "games_played": 16,
+      "win_rate": 0.625,
       "x1_points": 1
     },
     {
@@ -151,5 +170,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 37
+  "rank": 30
 }

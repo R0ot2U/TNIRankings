@@ -1,14 +1,33 @@
 {
   "user_id": "WWc1sxEpPWVj",
   "player_name": "Daryl Moore",
-  "total_points": 145.559,
-  "events_played": 2,
-  "best_finish": 10,
+  "total_points": 235.142,
+  "events_played": 3,
+  "best_finish": 6,
   "regions": [
     "NI"
   ],
   "team": "Carrickfergus Warhammer Gaming Club",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 6,
+      "max_points": 100,
+      "points": 89.583,
+      "faction": "Chaos Space Marines",
+      "team": "Carrickfergus Warhammer Gaming Club",
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "2K77Ck5lQLUE",
       "prefix": "2K77Ck5lQLUE",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Chaos Space Marines",
-      "points": 145.559,
-      "events_played": 2,
-      "games_played": 10,
-      "win_rate": 0.6,
-      "x1_points": 0
+      "points": 235.142,
+      "events_played": 3,
+      "games_played": 15,
+      "win_rate": 0.6667,
+      "x1_points": 2
     }
   ],
-  "rank": 72
+  "rank": 34
 }

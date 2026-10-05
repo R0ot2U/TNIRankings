@@ -1,14 +1,33 @@
 {
   "user_id": "PbPeOUrGqO7M",
   "player_name": "Oran Donnelly",
-  "total_points": 134.17,
-  "events_played": 5,
+  "total_points": 166.462,
+  "events_played": 6,
   "best_finish": 2,
   "regions": [
     "NI"
   ],
   "team": "The Grimsy Boys",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 23,
+      "max_points": 100,
+      "points": 54.167,
+      "faction": "Blood Angels",
+      "team": "The Grimsy Boys",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -102,19 +121,19 @@
       "wins": 1,
       "draws": 1,
       "losses": 3,
-      "counts": true
+      "counts": false
     }
   ],
   "included_override": false,
   "faction_points": [
     {
       "faction": "Blood Angels",
-      "points": 144.884,
-      "events_played": 5,
-      "games_played": 17,
-      "win_rate": 0.4706,
+      "points": 199.051,
+      "events_played": 6,
+      "games_played": 22,
+      "win_rate": 0.5,
       "x1_points": 2
     }
   ],
-  "rank": 83
+  "rank": 67
 }

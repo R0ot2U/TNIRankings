@@ -2,14 +2,33 @@
   "user_id": "FhuAxMR0pW",
   "player_name": "Aidan \"GULLMAN\" Lee",
   "total_points": 312.388,
-  "events_played": 4,
+  "events_played": 5,
   "best_finish": 3,
   "regions": [
     "NI",
     "ROI"
   ],
-  "team": null,
+  "team": "Seals R Us",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 30,
+      "max_points": 100,
+      "points": 39.583,
+      "faction": "Leagues of Votann",
+      "team": "Seals R Us",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": false
+    },
     {
       "event_id": "aMoYfY6J6Omo",
       "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
@@ -91,11 +110,11 @@
   "faction_points": [
     {
       "faction": "Leagues of Votann",
-      "points": 218.638,
-      "events_played": 3,
-      "games_played": 13,
-      "win_rate": 0.6923,
-      "x1_points": 3
+      "points": 258.221,
+      "events_played": 4,
+      "games_played": 16,
+      "win_rate": 0.6875,
+      "x1_points": 5
     },
     {
       "faction": "T'au Empire",
@@ -106,5 +125,5 @@
       "x1_points": 2
     }
   ],
-  "rank": 11
+  "rank": 12
 }

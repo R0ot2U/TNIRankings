@@ -2,13 +2,32 @@
   "user_id": "CluWg2oAoX",
   "player_name": "Aaron Buckley",
   "total_points": 241.518,
-  "events_played": 7,
+  "events_played": 8,
   "best_finish": 3,
   "regions": [
     "NI"
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "UJeD8FTdEbUF",
+      "prefix": "warpstorm_3_UJeD8FTdEbUF",
+      "event_name": "Warpstorm 3",
+      "date": "2026-10-03",
+      "region": "NI",
+      "field_size": 48,
+      "rounds": 5,
+      "placing": 44,
+      "max_points": 100,
+      "points": 10.417,
+      "faction": "Tyranids",
+      "team": "Sink",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": false
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -155,12 +174,12 @@
     },
     {
       "faction": "Tyranids",
-      "points": 144.521,
-      "events_played": 3,
-      "games_played": 11,
-      "win_rate": 0.6364,
+      "points": 154.938,
+      "events_played": 4,
+      "games_played": 14,
+      "win_rate": 0.5714,
       "x1_points": 2
     }
   ],
-  "rank": 26
+  "rank": 31
 }
