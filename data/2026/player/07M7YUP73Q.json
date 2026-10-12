@@ -2,13 +2,32 @@
   "user_id": "07M7YUP73Q",
   "player_name": "Matthew Wheatley",
   "total_points": 210.546,
-  "events_played": 6,
+  "events_played": 7,
   "best_finish": 1,
   "regions": [
     "NI"
   ],
   "team": "QUB Dragonslayers ",
   "events": [
+    {
+      "event_id": "qLySu85Tidra",
+      "prefix": "qLySu85Tidra",
+      "event_name": "Dragonslayers October RTT",
+      "date": "2026-10-10",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 12,
+      "max_points": 54,
+      "points": 27.0,
+      "faction": "Tyranids",
+      "team": "QUB Dragonslayers ",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": false
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -128,12 +147,12 @@
   "faction_points": [
     {
       "faction": "Tyranids",
-      "points": 282.213,
-      "events_played": 6,
-      "games_played": 22,
-      "win_rate": 0.6136,
+      "points": 309.213,
+      "events_played": 7,
+      "games_played": 25,
+      "win_rate": 0.58,
       "x1_points": 3
     }
   ],
-  "rank": 45
+  "rank": 46
 }

@@ -1,0 +1,44 @@
+{
+  "user_id": "JyZnIW2fWNnU",
+  "player_name": "Lewis Burgess",
+  "total_points": 2.455,
+  "events_played": 1,
+  "best_finish": 22,
+  "regions": [
+    "NI"
+  ],
+  "team": null,
+  "events": [
+    {
+      "event_id": "qLySu85Tidra",
+      "prefix": "qLySu85Tidra",
+      "event_name": "Dragonslayers October RTT",
+      "date": "2026-10-10",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 22,
+      "max_points": 54,
+      "points": 2.455,
+      "faction": "Chaos Space Marines",
+      "team": null,
+      "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Chaos Space Marines",
+      "points": 2.455,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.0,
+      "x1_points": 0
+    }
+  ],
+  "rank": 448
+}

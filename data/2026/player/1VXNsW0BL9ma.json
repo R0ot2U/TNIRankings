@@ -1,14 +1,33 @@
 {
   "user_id": "1VXNsW0BL9ma",
   "player_name": "Aubrey Spence",
-  "total_points": 8.333,
-  "events_played": 1,
-  "best_finish": 45,
+  "total_points": 32.878,
+  "events_played": 2,
+  "best_finish": 13,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "qLySu85Tidra",
+      "prefix": "qLySu85Tidra",
+      "event_name": "Dragonslayers October RTT",
+      "date": "2026-10-10",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 13,
+      "max_points": 54,
+      "points": 24.545,
+      "faction": "Emperor's Children",
+      "team": null,
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -33,12 +52,12 @@
   "faction_points": [
     {
       "faction": "Emperor's Children",
-      "points": 8.333,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.2,
+      "points": 32.878,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.25,
       "x1_points": 0
     }
   ],
-  "rank": 394
+  "rank": 296
 }

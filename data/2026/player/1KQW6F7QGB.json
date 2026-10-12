@@ -1,14 +1,33 @@
 {
   "user_id": "1KQW6F7QGB",
   "player_name": "Dec Winser",
-  "total_points": 128.875,
-  "events_played": 4,
+  "total_points": 141.693,
+  "events_played": 5,
   "best_finish": 6,
   "regions": [
     "NI"
   ],
   "team": "Maghera Wargaming",
   "events": [
+    {
+      "event_id": "qLySu85Tidra",
+      "prefix": "qLySu85Tidra",
+      "event_name": "Dragonslayers October RTT",
+      "date": "2026-10-10",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 8,
+      "max_points": 54,
+      "points": 36.818,
+      "faction": "Imperial Knights",
+      "team": "Maghera Wargaming",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -64,7 +83,7 @@
       "wins": 1,
       "draws": 0,
       "losses": 2,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "78lO7npph1Rn",
@@ -90,12 +109,12 @@
   "faction_points": [
     {
       "faction": "Imperial Knights",
-      "points": 128.875,
-      "events_played": 4,
-      "games_played": 14,
-      "win_rate": 0.4286,
-      "x1_points": 1
+      "points": 165.693,
+      "events_played": 5,
+      "games_played": 17,
+      "win_rate": 0.4706,
+      "x1_points": 2
     }
   ],
-  "rank": 93
+  "rank": 86
 }

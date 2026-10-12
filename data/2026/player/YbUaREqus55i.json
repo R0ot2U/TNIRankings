@@ -1,14 +1,33 @@
 {
   "user_id": "YbUaREqus55i",
   "player_name": "Conor Fitzpatrick",
-  "total_points": 32.5,
-  "events_played": 2,
-  "best_finish": 25,
+  "total_points": 76.682,
+  "events_played": 3,
+  "best_finish": 5,
   "regions": [
     "NI"
   ],
   "team": "The Grimsy Boys",
   "events": [
+    {
+      "event_id": "qLySu85Tidra",
+      "prefix": "qLySu85Tidra",
+      "event_name": "Dragonslayers October RTT",
+      "date": "2026-10-10",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 5,
+      "max_points": 54,
+      "points": 44.182,
+      "faction": "Necrons",
+      "team": "The Grimsy Boys",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Necrons",
-      "points": 32.5,
-      "events_played": 2,
-      "games_played": 8,
-      "win_rate": 0.1875,
-      "x1_points": 0
+      "points": 76.682,
+      "events_played": 3,
+      "games_played": 11,
+      "win_rate": 0.3182,
+      "x1_points": 1
     }
   ],
-  "rank": 288
+  "rank": 178
 }

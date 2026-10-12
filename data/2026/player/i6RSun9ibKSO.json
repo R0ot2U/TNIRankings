@@ -1,0 +1,44 @@
+{
+  "user_id": "i6RSun9ibKSO",
+  "player_name": "Ross Cowan",
+  "total_points": 34.364,
+  "events_played": 1,
+  "best_finish": 9,
+  "regions": [
+    "NI"
+  ],
+  "team": null,
+  "events": [
+    {
+      "event_id": "qLySu85Tidra",
+      "prefix": "qLySu85Tidra",
+      "event_name": "Dragonslayers October RTT",
+      "date": "2026-10-10",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 9,
+      "max_points": 54,
+      "points": 34.364,
+      "faction": "Aeldari",
+      "team": null,
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Aeldari",
+      "points": 34.364,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.6667,
+      "x1_points": 1
+    }
+  ],
+  "rank": 292
+}

@@ -1,14 +1,33 @@
 {
   "user_id": "vhJHc045GF",
   "player_name": "John Ryan",
-  "total_points": 104.386,
-  "events_played": 2,
-  "best_finish": 25,
+  "total_points": 158.386,
+  "events_played": 3,
+  "best_finish": 1,
   "regions": [
     "NI"
   ],
   "team": "Team LolSheep",
   "events": [
+    {
+      "event_id": "qLySu85Tidra",
+      "prefix": "qLySu85Tidra",
+      "event_name": "Dragonslayers October RTT",
+      "date": "2026-10-10",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 1,
+      "max_points": 54,
+      "points": 54.0,
+      "faction": "Imperial Knights",
+      "team": "Team LolSheep",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "counts": true
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -51,21 +70,21 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "Imperial Knights",
+      "points": 104.0,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.625,
+      "x1_points": 0
+    },
+    {
       "faction": "Blood Angels",
       "points": 54.386,
       "events_played": 1,
       "games_played": 5,
       "win_rate": 0.5,
       "x1_points": 0
-    },
-    {
-      "faction": "Imperial Knights",
-      "points": 50.0,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.4,
-      "x1_points": 0
     }
   ],
-  "rank": 124
+  "rank": 74
 }

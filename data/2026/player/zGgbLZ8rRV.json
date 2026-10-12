@@ -2,13 +2,32 @@
   "user_id": "zGgbLZ8rRV",
   "player_name": "Elliott Murphy",
   "total_points": 306.545,
-  "events_played": 11,
+  "events_played": 12,
   "best_finish": 2,
   "regions": [
     "ROI"
   ],
   "team": "Spectrum Warriors",
   "events": [
+    {
+      "event_id": "zx8846JlKwAt",
+      "prefix": "zx8846JlKwAt",
+      "event_name": "Tipperary Tabletop Ambush RTT",
+      "date": "2026-10-10",
+      "region": "ROI",
+      "field_size": 23,
+      "rounds": 3,
+      "placing": 11,
+      "max_points": 54,
+      "points": 30.522,
+      "faction": "Space Wolves",
+      "team": "Spectrum Warriors",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": false
+    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -223,11 +242,11 @@
   "faction_points": [
     {
       "faction": "Space Wolves",
-      "points": 628.462,
-      "events_played": 11,
-      "games_played": 47,
-      "win_rate": 0.6064,
-      "x1_points": 5
+      "points": 658.984,
+      "events_played": 12,
+      "games_played": 50,
+      "win_rate": 0.61,
+      "x1_points": 6
     }
   ],
   "rank": 14

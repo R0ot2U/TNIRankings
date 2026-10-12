@@ -1,14 +1,33 @@
 {
   "user_id": "Vo9Z0PaC37j1",
   "player_name": "Oisin Donnelly",
-  "total_points": 193.322,
-  "events_played": 7,
-  "best_finish": 9,
+  "total_points": 210.503,
+  "events_played": 8,
+  "best_finish": 2,
   "regions": [
     "NI"
   ],
   "team": "The Grimsy Boys",
   "events": [
+    {
+      "event_id": "qLySu85Tidra",
+      "prefix": "qLySu85Tidra",
+      "event_name": "Dragonslayers October RTT",
+      "date": "2026-10-10",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 2,
+      "max_points": 54,
+      "points": 51.545,
+      "faction": "Astra Militarum",
+      "team": "The Grimsy Boys",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "counts": true
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -102,7 +121,7 @@
       "wins": 2,
       "draws": 0,
       "losses": 1,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "NxXFuKF8loah",
@@ -147,12 +166,12 @@
   "faction_points": [
     {
       "faction": "Astra Militarum",
-      "points": 268.59,
-      "events_played": 7,
-      "games_played": 27,
-      "win_rate": 0.537,
+      "points": 320.135,
+      "events_played": 8,
+      "games_played": 30,
+      "win_rate": 0.5833,
       "x1_points": 5
     }
   ],
-  "rank": 56
+  "rank": 47
 }

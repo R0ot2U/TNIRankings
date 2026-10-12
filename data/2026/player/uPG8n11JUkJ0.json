@@ -1,0 +1,44 @@
+{
+  "user_id": "uPG8n11JUkJ0",
+  "player_name": "Oisin Mulhern",
+  "total_points": 7.364,
+  "events_played": 1,
+  "best_finish": 20,
+  "regions": [
+    "NI"
+  ],
+  "team": null,
+  "events": [
+    {
+      "event_id": "qLySu85Tidra",
+      "prefix": "qLySu85Tidra",
+      "event_name": "Dragonslayers October RTT",
+      "date": "2026-10-10",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 20,
+      "max_points": 54,
+      "points": 7.364,
+      "faction": "World Eaters",
+      "team": null,
+      "forced": false,
+      "wins": 0,
+      "draws": 1,
+      "losses": 2,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "World Eaters",
+      "points": 7.364,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.1667,
+      "x1_points": 0
+    }
+  ],
+  "rank": 415
+}

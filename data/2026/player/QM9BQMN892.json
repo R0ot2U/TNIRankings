@@ -1,14 +1,33 @@
 {
   "user_id": "QM9BQMN892",
   "player_name": "Aoife Kerins",
-  "total_points": 185.652,
-  "events_played": 7,
-  "best_finish": 6,
+  "total_points": 203.493,
+  "events_played": 8,
+  "best_finish": 3,
   "regions": [
     "NI"
   ],
   "team": "QUB Dragonslayers ",
   "events": [
+    {
+      "event_id": "qLySu85Tidra",
+      "prefix": "qLySu85Tidra",
+      "event_name": "Dragonslayers October RTT",
+      "date": "2026-10-10",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 3,
+      "max_points": 54,
+      "points": 49.091,
+      "faction": "Death Guard",
+      "team": "QUB Dragonslayers ",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -45,7 +64,7 @@
       "wins": 2,
       "draws": 0,
       "losses": 3,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "5xdxtgy0nEmU",
@@ -147,10 +166,10 @@
   "faction_points": [
     {
       "faction": "Death Guard",
-      "points": 170.027,
-      "events_played": 4,
-      "games_played": 14,
-      "win_rate": 0.6071,
+      "points": 219.118,
+      "events_played": 5,
+      "games_played": 17,
+      "win_rate": 0.6765,
       "x1_points": 4
     },
     {
@@ -178,5 +197,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 58
+  "rank": 52
 }

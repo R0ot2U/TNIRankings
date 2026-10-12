@@ -1,14 +1,33 @@
 {
   "user_id": "cgDRExtoHKiJ",
   "player_name": "David McGillicuddy",
-  "total_points": 21.053,
-  "events_played": 1,
-  "best_finish": 31,
+  "total_points": 70.357,
+  "events_played": 2,
+  "best_finish": 3,
   "regions": [
     "ROI"
   ],
   "team": "Kilkenny Nerd Club",
   "events": [
+    {
+      "event_id": "zx8846JlKwAt",
+      "prefix": "zx8846JlKwAt",
+      "event_name": "Tipperary Tabletop Ambush RTT",
+      "date": "2026-10-10",
+      "region": "ROI",
+      "field_size": 23,
+      "rounds": 3,
+      "placing": 3,
+      "max_points": 54,
+      "points": 49.304,
+      "faction": "Adeptus Mechanicus",
+      "team": "Kilkenny Nerd Club",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "counts": true
+    },
     {
       "event_id": "O8UKh3nHs1Fs",
       "prefix": "south_east_siege_iii__revenge_of_the_anhrathe_O8UKh3nHs1Fs",
@@ -33,12 +52,12 @@
   "faction_points": [
     {
       "faction": "Adeptus Mechanicus",
-      "points": 21.053,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.4,
+      "points": 70.357,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.625,
       "x1_points": 0
     }
   ],
-  "rank": 338
+  "rank": 192
 }

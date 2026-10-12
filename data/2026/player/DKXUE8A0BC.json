@@ -1,14 +1,33 @@
 {
   "user_id": "DKXUE8A0BC",
   "player_name": "Daniel Christie",
-  "total_points": 28.571,
-  "events_played": 1,
-  "best_finish": 71,
+  "total_points": 73.18,
+  "events_played": 2,
+  "best_finish": 5,
   "regions": [
     "ROI"
   ],
-  "team": null,
+  "team": "Cerberus Tabletop Club",
   "events": [
+    {
+      "event_id": "zx8846JlKwAt",
+      "prefix": "zx8846JlKwAt",
+      "event_name": "Tipperary Tabletop Ambush RTT",
+      "date": "2026-10-10",
+      "region": "ROI",
+      "field_size": 23,
+      "rounds": 3,
+      "placing": 5,
+      "max_points": 54,
+      "points": 44.609,
+      "faction": "Chaos Daemons",
+      "team": "Cerberus Tabletop Club",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "aMoYfY6J6Omo",
       "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
@@ -32,6 +51,14 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "Chaos Daemons",
+      "points": 44.609,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.6667,
+      "x1_points": 1
+    },
+    {
       "faction": "Death Guard",
       "points": 28.571,
       "events_played": 1,
@@ -40,5 +67,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 305
+  "rank": 182
 }
