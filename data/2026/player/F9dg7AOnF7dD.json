@@ -2,14 +2,33 @@
   "user_id": "F9dg7AOnF7dD",
   "player_name": "David Anderson",
   "total_points": 140.732,
-  "events_played": 10,
+  "events_played": 11,
   "best_finish": 13,
   "regions": [
     "NI",
     "ROI"
   ],
-  "team": "Kill Team Grox",
+  "team": null,
   "events": [
+    {
+      "event_id": "Pj8jG2ZS0n4N",
+      "prefix": "Pj8jG2ZS0n4N",
+      "event_name": "Clare Gaming October RTT",
+      "date": "2026-10-18",
+      "region": "NI",
+      "field_size": 18,
+      "rounds": 3,
+      "placing": 13,
+      "max_points": 54,
+      "points": 18.0,
+      "faction": "Orks",
+      "team": null,
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": false
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -205,10 +224,10 @@
   "faction_points": [
     {
       "faction": "Orks",
-      "points": 207.732,
-      "events_played": 10,
-      "games_played": 38,
-      "win_rate": 0.3026,
+      "points": 225.732,
+      "events_played": 11,
+      "games_played": 41,
+      "win_rate": 0.3049,
       "x1_points": 2
     }
   ],

@@ -2,13 +2,32 @@
   "user_id": "pS6cAYdpIxtv",
   "player_name": "Lewis McCollough",
   "total_points": 294.375,
-  "events_played": 8,
+  "events_played": 9,
   "best_finish": 1,
   "regions": [
     "NI"
   ],
   "team": "War Shed",
   "events": [
+    {
+      "event_id": "Pj8jG2ZS0n4N",
+      "prefix": "Pj8jG2ZS0n4N",
+      "event_name": "Clare Gaming October RTT",
+      "date": "2026-10-18",
+      "region": "NI",
+      "field_size": 18,
+      "rounds": 3,
+      "placing": 18,
+      "max_points": 54,
+      "points": 3.0,
+      "faction": "Orks",
+      "team": "War Shed",
+      "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "counts": false
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -166,10 +185,10 @@
   "faction_points": [
     {
       "faction": "Orks",
-      "points": 444.246,
-      "events_played": 8,
-      "games_played": 32,
-      "win_rate": 0.6719,
+      "points": 447.246,
+      "events_played": 9,
+      "games_played": 35,
+      "win_rate": 0.6143,
       "x1_points": 6
     }
   ],

@@ -2,13 +2,32 @@
   "user_id": "2F3738HURV",
   "player_name": "John Haycock",
   "total_points": 242.689,
-  "events_played": 7,
-  "best_finish": 3,
+  "events_played": 8,
+  "best_finish": 2,
   "regions": [
     "NI"
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "Pj8jG2ZS0n4N",
+      "prefix": "Pj8jG2ZS0n4N",
+      "event_name": "Clare Gaming October RTT",
+      "date": "2026-10-18",
+      "region": "NI",
+      "field_size": 18,
+      "rounds": 3,
+      "placing": 2,
+      "max_points": 54,
+      "points": 51.0,
+      "faction": "Leagues of Votann",
+      "team": "Sink",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "counts": false
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -147,10 +166,10 @@
   "faction_points": [
     {
       "faction": "Leagues of Votann",
-      "points": 220.846,
-      "events_played": 4,
-      "games_played": 16,
-      "win_rate": 0.625,
+      "points": 271.846,
+      "events_played": 5,
+      "games_played": 19,
+      "win_rate": 0.6842,
       "x1_points": 1
     },
     {
@@ -170,5 +189,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 31
+  "rank": 32
 }

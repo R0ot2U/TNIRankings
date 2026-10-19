@@ -1,5 +1,17 @@
 [
   {
+    "event_id": "Pj8jG2ZS0n4N",
+    "prefix": "Pj8jG2ZS0n4N",
+    "name": "Clare Gaming October RTT",
+    "date": "2026-10-18",
+    "region": "NI",
+    "field_size": 18,
+    "rounds": 3,
+    "max_points": 54,
+    "points_level": 2000,
+    "forced": false
+  },
+  {
     "event_id": "qLySu85Tidra",
     "prefix": "qLySu85Tidra",
     "name": "Dragonslayers October RTT",
