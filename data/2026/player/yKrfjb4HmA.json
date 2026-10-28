@@ -1,14 +1,33 @@
 {
   "user_id": "yKrfjb4HmA",
   "player_name": "Stephen Black",
-  "total_points": 35.625,
-  "events_played": 1,
+  "total_points": 45.443,
+  "events_played": 2,
   "best_finish": 14,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 19,
+      "max_points": 54,
+      "points": 9.818,
+      "faction": "Imperial Knights",
+      "team": null,
+      "forced": false,
+      "wins": 0,
+      "draws": 1,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -33,12 +52,12 @@
   "faction_points": [
     {
       "faction": "Imperial Knights",
-      "points": 35.625,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.6667,
+      "points": 45.443,
+      "events_played": 2,
+      "games_played": 6,
+      "win_rate": 0.4167,
       "x1_points": 0
     }
   ],
-  "rank": 288
+  "rank": 265
 }

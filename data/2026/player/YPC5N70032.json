@@ -1,14 +1,33 @@
 {
   "user_id": "YPC5N70032",
   "player_name": "Graeme Aiken",
-  "total_points": 121.416,
-  "events_played": 2,
+  "total_points": 145.961,
+  "events_played": 3,
   "best_finish": 10,
   "regions": [
     "NI"
   ],
-  "team": null,
+  "team": "Exploding Dice",
   "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 13,
+      "max_points": 54,
+      "points": 24.545,
+      "faction": "Adeptus Custodes",
+      "team": "Exploding Dice",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "2K77Ck5lQLUE",
       "prefix": "2K77Ck5lQLUE",
@@ -60,12 +79,12 @@
     },
     {
       "faction": "Adeptus Custodes",
-      "points": 40.714,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.6667,
+      "points": 65.259,
+      "events_played": 2,
+      "games_played": 6,
+      "win_rate": 0.5,
       "x1_points": 1
     }
   ],
-  "rank": 106
+  "rank": 86
 }

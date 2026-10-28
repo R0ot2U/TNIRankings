@@ -1,14 +1,33 @@
 {
   "user_id": "67JJQGFRJ9",
   "player_name": "Sam Dennehy",
-  "total_points": 61.142,
-  "events_played": 2,
+  "total_points": 97.312,
+  "events_played": 3,
   "best_finish": 12,
   "regions": [
     "ROI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 31,
+      "max_points": 100,
+      "points": 36.17,
+      "faction": "Chaos Knights",
+      "team": null,
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "O8UKh3nHs1Fs",
       "prefix": "south_east_siege_iii__revenge_of_the_anhrathe_O8UKh3nHs1Fs",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Chaos Knights",
-      "points": 61.142,
-      "events_played": 2,
-      "games_played": 8,
-      "win_rate": 0.375,
+      "points": 97.312,
+      "events_played": 3,
+      "games_played": 13,
+      "win_rate": 0.3846,
       "x1_points": 0
     }
   ],
-  "rank": 213
+  "rank": 144
 }

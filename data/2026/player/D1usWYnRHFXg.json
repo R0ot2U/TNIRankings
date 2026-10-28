@@ -1,14 +1,33 @@
 {
   "user_id": "D1usWYnRHFXg",
   "player_name": "Jack Kerins Mahon",
-  "total_points": 234.776,
-  "events_played": 5,
+  "total_points": 252.632,
+  "events_played": 6,
   "best_finish": 4,
   "regions": [
     "ROI"
   ],
   "team": "Lil' Green Gools",
   "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 19,
+      "max_points": 100,
+      "points": 61.702,
+      "faction": "Necrons",
+      "team": "Lil' Green Gools",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -102,17 +121,17 @@
       "wins": 2,
       "draws": 0,
       "losses": 1,
-      "counts": true
+      "counts": false
     }
   ],
   "included_override": false,
   "faction_points": [
     {
       "faction": "Necrons",
-      "points": 223.43,
-      "events_played": 4,
-      "games_played": 16,
-      "win_rate": 0.6562,
+      "points": 285.132,
+      "events_played": 5,
+      "games_played": 21,
+      "win_rate": 0.6429,
       "x1_points": 4
     },
     {
@@ -124,5 +143,5 @@
       "x1_points": 1
     }
   ],
-  "rank": 36
+  "rank": 32
 }

@@ -1,0 +1,44 @@
+{
+  "user_id": "CYYDN0MBJT",
+  "player_name": "Peter Pratt",
+  "total_points": 49.091,
+  "events_played": 1,
+  "best_finish": 3,
+  "regions": [
+    "NI"
+  ],
+  "team": "Exploding Dice",
+  "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 3,
+      "max_points": 54,
+      "points": 49.091,
+      "faction": "Adeptus Custodes",
+      "team": "Exploding Dice",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Adeptus Custodes",
+      "points": 49.091,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 1.0,
+      "x1_points": 0
+    }
+  ],
+  "rank": 252
+}

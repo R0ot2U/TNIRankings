@@ -1,0 +1,44 @@
+{
+  "user_id": "R9FKM37U2N",
+  "player_name": "Cael O'Toole",
+  "total_points": 57.447,
+  "events_played": 1,
+  "best_finish": 21,
+  "regions": [
+    "ROI"
+  ],
+  "team": "Cerberus Tabletop Club",
+  "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 21,
+      "max_points": 100,
+      "points": 57.447,
+      "faction": "Chaos Space Marines",
+      "team": "Cerberus Tabletop Club",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Chaos Space Marines",
+      "points": 57.447,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.6,
+      "x1_points": 0
+    }
+  ],
+  "rank": 233
+}

@@ -2,7 +2,7 @@
   "user_id": "PXLnV9bNij",
   "player_name": "Mark Morrow",
   "total_points": 393.878,
-  "events_played": 6,
+  "events_played": 7,
   "best_finish": 1,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "Northern Wasters",
   "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 2,
+      "max_points": 54,
+      "points": 51.545,
+      "faction": "Orks",
+      "team": "Northern Wasters",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "counts": false
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -129,10 +148,10 @@
   "faction_points": [
     {
       "faction": "Orks",
-      "points": 287.543,
-      "events_played": 3,
-      "games_played": 15,
-      "win_rate": 0.9333,
+      "points": 339.088,
+      "events_played": 4,
+      "games_played": 18,
+      "win_rate": 0.9444,
       "x1_points": 2
     },
     {

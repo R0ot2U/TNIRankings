@@ -1,14 +1,34 @@
 {
   "user_id": "07M7YUP73Q",
   "player_name": "Matthew Wheatley",
-  "total_points": 210.546,
-  "events_played": 7,
+  "total_points": 241.889,
+  "events_played": 8,
   "best_finish": 1,
   "regions": [
-    "NI"
+    "NI",
+    "ROI"
   ],
   "team": "QUB Dragonslayers ",
   "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 13,
+      "max_points": 100,
+      "points": 74.468,
+      "faction": "Tyranids",
+      "team": "QUB Dragonslayers ",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "qLySu85Tidra",
       "prefix": "qLySu85Tidra",
@@ -64,7 +84,7 @@
       "wins": 2,
       "draws": 0,
       "losses": 1,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "5xdxtgy0nEmU",
@@ -147,12 +167,12 @@
   "faction_points": [
     {
       "faction": "Tyranids",
-      "points": 309.213,
-      "events_played": 7,
-      "games_played": 25,
-      "win_rate": 0.58,
+      "points": 383.681,
+      "events_played": 8,
+      "games_played": 30,
+      "win_rate": 0.5833,
       "x1_points": 3
     }
   ],
-  "rank": 46
+  "rank": 38
 }

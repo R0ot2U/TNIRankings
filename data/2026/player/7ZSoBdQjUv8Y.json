@@ -1,14 +1,33 @@
 {
   "user_id": "7ZSoBdQjUv8Y",
-  "player_name": "Simon  Baird",
-  "total_points": 67.083,
-  "events_played": 2,
+  "player_name": "Simon Baird",
+  "total_points": 98.992,
+  "events_played": 3,
   "best_finish": 5,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 10,
+      "max_points": 54,
+      "points": 31.909,
+      "faction": "Adepta Sororitas",
+      "team": null,
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Adepta Sororitas",
-      "points": 67.083,
-      "events_played": 2,
-      "games_played": 8,
-      "win_rate": 0.4375,
-      "x1_points": 0
+      "points": 98.992,
+      "events_played": 3,
+      "games_played": 11,
+      "win_rate": 0.5,
+      "x1_points": 1
     }
   ],
-  "rank": 198
+  "rank": 140
 }

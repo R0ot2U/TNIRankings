@@ -1,14 +1,33 @@
 {
   "user_id": "7LDP7QQJF4",
   "player_name": "Paul Maher",
-  "total_points": 58.911,
-  "events_played": 3,
+  "total_points": 80.188,
+  "events_played": 4,
   "best_finish": 8,
   "regions": [
     "ROI"
   ],
-  "team": "The Spoon Collectors",
+  "team": "Hamster Heresy",
   "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 38,
+      "max_points": 100,
+      "points": 21.277,
+      "faction": "Leagues of Votann",
+      "team": "Hamster Heresy",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "counts": true
+    },
     {
       "event_id": "e9ytUCYU5Q1o",
       "prefix": "e9ytUCYU5Q1o",
@@ -71,12 +90,12 @@
   "faction_points": [
     {
       "faction": "Leagues of Votann",
-      "points": 58.911,
-      "events_played": 3,
-      "games_played": 9,
-      "win_rate": 0.4444,
+      "points": 80.188,
+      "events_played": 4,
+      "games_played": 14,
+      "win_rate": 0.3571,
       "x1_points": 1
     }
   ],
-  "rank": 219
+  "rank": 181
 }

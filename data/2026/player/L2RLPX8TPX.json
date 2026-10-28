@@ -1,14 +1,33 @@
 {
   "user_id": "L2RLPX8TPX",
   "player_name": "Alex Nolan",
-  "total_points": 209.844,
-  "events_played": 6,
+  "total_points": 245.801,
+  "events_played": 7,
   "best_finish": 8,
   "regions": [
     "ROI"
   ],
   "team": "Síbín Strategists",
   "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 17,
+      "max_points": 100,
+      "points": 65.957,
+      "faction": "Adeptus Mechanicus",
+      "team": "Síbín Strategists",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "e9ytUCYU5Q1o",
       "prefix": "e9ytUCYU5Q1o",
@@ -121,7 +140,7 @@
       "wins": 1,
       "draws": 1,
       "losses": 1,
-      "counts": true
+      "counts": false
     }
   ],
   "included_override": false,
@@ -135,20 +154,20 @@
       "x1_points": 4
     },
     {
+      "faction": "Adeptus Mechanicus",
+      "points": 100.957,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.625,
+      "x1_points": 1
+    },
+    {
       "faction": "Thousand Sons",
       "points": 63.265,
       "events_played": 1,
       "games_played": 5,
       "win_rate": 0.6,
       "x1_points": 0
-    },
-    {
-      "faction": "Adeptus Mechanicus",
-      "points": 35.0,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.6667,
-      "x1_points": 1
     },
     {
       "faction": "Dark Angels",
@@ -159,5 +178,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 48
+  "rank": 34
 }

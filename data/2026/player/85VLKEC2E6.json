@@ -2,13 +2,32 @@
   "user_id": "85VLKEC2E6",
   "player_name": "Mark McConnell",
   "total_points": 134.667,
-  "events_played": 7,
+  "events_played": 8,
   "best_finish": 11,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 17,
+      "max_points": 54,
+      "points": 14.727,
+      "faction": "Tyranids",
+      "team": null,
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": false
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -147,12 +166,12 @@
   "faction_points": [
     {
       "faction": "Tyranids",
-      "points": 166.889,
-      "events_played": 7,
-      "games_played": 27,
+      "points": 181.616,
+      "events_played": 8,
+      "games_played": 30,
       "win_rate": 0.3333,
       "x1_points": 0
     }
   ],
-  "rank": 90
+  "rank": 97
 }

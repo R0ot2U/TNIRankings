@@ -1,0 +1,44 @@
+{
+  "user_id": "6BEJ3rdoVP",
+  "player_name": "Alec Cornelius",
+  "total_points": 68.085,
+  "events_played": 1,
+  "best_finish": 16,
+  "regions": [
+    "ROI"
+  ],
+  "team": "The Warheads",
+  "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 16,
+      "max_points": 100,
+      "points": 68.085,
+      "faction": "Drukhari",
+      "team": "The Warheads",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Drukhari",
+      "points": 68.085,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.6,
+      "x1_points": 0
+    }
+  ],
+  "rank": 207
+}

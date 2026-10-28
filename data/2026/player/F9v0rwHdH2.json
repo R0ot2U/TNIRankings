@@ -1,14 +1,33 @@
 {
   "user_id": "F9v0rwHdH2",
   "player_name": "Stephen Kelly-Hannon",
-  "total_points": 99.955,
-  "events_played": 3,
-  "best_finish": 16,
+  "total_points": 170.168,
+  "events_played": 4,
+  "best_finish": 15,
   "regions": [
     "ROI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 15,
+      "max_points": 100,
+      "points": 70.213,
+      "faction": "Death Guard",
+      "team": null,
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "59xtuz3YSFYA",
       "prefix": "dearg_doom_vii_59xtuz3YSFYA",
@@ -71,12 +90,12 @@
   "faction_points": [
     {
       "faction": "Death Guard",
-      "points": 99.955,
-      "events_played": 3,
-      "games_played": 15,
-      "win_rate": 0.4,
+      "points": 170.168,
+      "events_played": 4,
+      "games_played": 20,
+      "win_rate": 0.45,
       "x1_points": 0
     }
   ],
-  "rank": 135
+  "rank": 67
 }

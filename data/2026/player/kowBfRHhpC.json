@@ -1,14 +1,33 @@
 {
   "user_id": "kowBfRHhpC",
   "player_name": "Kyle Tiernan",
-  "total_points": 215.245,
-  "events_played": 3,
+  "total_points": 296.096,
+  "events_played": 4,
   "best_finish": 3,
   "regions": [
     "ROI"
   ],
   "team": "The Spoon Collectors",
   "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 10,
+      "max_points": 100,
+      "points": 80.851,
+      "faction": "Chaos Space Marines",
+      "team": "The Spoon Collectors",
+      "forced": false,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -71,12 +90,12 @@
   "faction_points": [
     {
       "faction": "Chaos Space Marines",
-      "points": 215.245,
-      "events_played": 3,
-      "games_played": 13,
-      "win_rate": 0.7692,
-      "x1_points": 2
+      "points": 296.096,
+      "events_played": 4,
+      "games_played": 18,
+      "win_rate": 0.75,
+      "x1_points": 4
     }
   ],
-  "rank": 44
+  "rank": 19
 }

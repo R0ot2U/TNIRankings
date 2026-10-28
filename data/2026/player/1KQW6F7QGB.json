@@ -2,13 +2,32 @@
   "user_id": "1KQW6F7QGB",
   "player_name": "Dec Winser",
   "total_points": 141.693,
-  "events_played": 5,
+  "events_played": 6,
   "best_finish": 6,
   "regions": [
     "NI"
   ],
   "team": "Maghera Wargaming",
   "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 21,
+      "max_points": 54,
+      "points": 4.909,
+      "faction": "Imperial Knights",
+      "team": "Maghera Wargaming",
+      "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "counts": false
+    },
     {
       "event_id": "qLySu85Tidra",
       "prefix": "qLySu85Tidra",
@@ -109,12 +128,12 @@
   "faction_points": [
     {
       "faction": "Imperial Knights",
-      "points": 165.693,
-      "events_played": 5,
-      "games_played": 17,
-      "win_rate": 0.4706,
+      "points": 170.602,
+      "events_played": 6,
+      "games_played": 20,
+      "win_rate": 0.4,
       "x1_points": 2
     }
   ],
-  "rank": 86
+  "rank": 92
 }

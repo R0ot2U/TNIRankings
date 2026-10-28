@@ -1,14 +1,33 @@
 {
   "user_id": "78NtSPDfNT",
   "player_name": "Shane Smyth",
-  "total_points": 72.885,
-  "events_played": 2,
+  "total_points": 111.183,
+  "events_played": 3,
   "best_finish": 6,
   "regions": [
     "ROI"
   ],
   "team": "Eastern Fringe Gaming",
   "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 30,
+      "max_points": 100,
+      "points": 38.298,
+      "faction": "Drukhari",
+      "team": "Eastern Fringe Gaming",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "8Z9mzqxPbEDM",
       "prefix": "8Z9mzqxPbEDM",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Drukhari",
-      "points": 72.885,
-      "events_played": 2,
-      "games_played": 6,
-      "win_rate": 0.5,
+      "points": 111.183,
+      "events_played": 3,
+      "games_played": 11,
+      "win_rate": 0.4545,
       "x1_points": 1
     }
   ],
-  "rank": 184
+  "rank": 127
 }

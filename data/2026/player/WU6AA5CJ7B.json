@@ -2,7 +2,7 @@
   "user_id": "WU6AA5CJ7B",
   "player_name": "Adam Gray",
   "total_points": 339.818,
-  "events_played": 8,
+  "events_played": 9,
   "best_finish": 4,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "GrayTTV_",
   "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 20,
+      "max_points": 54,
+      "points": 7.364,
+      "faction": "Space Wolves",
+      "team": "GrayTTV_",
+      "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "counts": false
+    },
     {
       "event_id": "Pj8jG2ZS0n4N",
       "prefix": "Pj8jG2ZS0n4N",
@@ -167,10 +186,10 @@
   "faction_points": [
     {
       "faction": "Space Wolves",
-      "points": 498.36,
-      "events_played": 8,
-      "games_played": 34,
-      "win_rate": 0.6618,
+      "points": 505.724,
+      "events_played": 9,
+      "games_played": 37,
+      "win_rate": 0.6081,
       "x1_points": 7
     }
   ],

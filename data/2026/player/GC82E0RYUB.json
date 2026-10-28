@@ -1,14 +1,33 @@
 {
   "user_id": "GC82E0RYUB",
   "player_name": "Ben Keogh",
-  "total_points": 223.897,
-  "events_played": 4,
+  "total_points": 273.169,
+  "events_played": 5,
   "best_finish": 2,
   "regions": [
     "ROI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 2,
+      "max_points": 100,
+      "points": 97.872,
+      "faction": "Astra Militarum",
+      "team": null,
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "e9ytUCYU5Q1o",
       "prefix": "e9ytUCYU5Q1o",
@@ -45,7 +64,7 @@
       "wins": 3,
       "draws": 0,
       "losses": 0,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "aMoYfY6J6Omo",
@@ -90,11 +109,11 @@
   "faction_points": [
     {
       "faction": "Astra Militarum",
-      "points": 116.967,
-      "events_played": 2,
-      "games_played": 8,
-      "win_rate": 0.75,
-      "x1_points": 0
+      "points": 214.839,
+      "events_played": 3,
+      "games_played": 13,
+      "win_rate": 0.7692,
+      "x1_points": 2
     },
     {
       "faction": "Tyranids",
@@ -113,5 +132,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 40
+  "rank": 29
 }

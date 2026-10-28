@@ -2,13 +2,32 @@
   "user_id": "CDV9YM2UVB",
   "player_name": "Gary Mcneill",
   "total_points": 242.25,
-  "events_played": 6,
+  "events_played": 7,
   "best_finish": 5,
   "regions": [
     "NI"
   ],
   "team": "Legio Dál Riata",
   "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 11,
+      "max_points": 54,
+      "points": 29.455,
+      "faction": "Death Guard",
+      "team": "Legio Dál Riata",
+      "forced": false,
+      "wins": 1,
+      "draws": 1,
+      "losses": 1,
+      "counts": false
+    },
     {
       "event_id": "Pj8jG2ZS0n4N",
       "prefix": "Pj8jG2ZS0n4N",
@@ -128,11 +147,11 @@
   "faction_points": [
     {
       "faction": "Death Guard",
-      "points": 131.066,
-      "events_played": 3,
-      "games_played": 13,
+      "points": 160.521,
+      "events_played": 4,
+      "games_played": 16,
       "win_rate": 0.5,
-      "x1_points": 1
+      "x1_points": 2
     },
     {
       "faction": "Space Marines (Astartes)",
@@ -151,5 +170,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 33
+  "rank": 37
 }

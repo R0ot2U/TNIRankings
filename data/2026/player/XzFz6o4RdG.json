@@ -1,14 +1,33 @@
 {
   "user_id": "XzFz6o4RdG",
   "player_name": "Nathan Cooper",
-  "total_points": 101.042,
-  "events_played": 2,
-  "best_finish": 20,
+  "total_points": 142.769,
+  "events_played": 3,
+  "best_finish": 6,
   "regions": [
     "NI"
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 6,
+      "max_points": 54,
+      "points": 41.727,
+      "faction": "Orks",
+      "team": "Sink",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Orks",
-      "points": 101.042,
-      "events_played": 2,
-      "games_played": 10,
-      "win_rate": 0.5,
-      "x1_points": 0
+      "points": 142.769,
+      "events_played": 3,
+      "games_played": 13,
+      "win_rate": 0.5385,
+      "x1_points": 1
     }
   ],
-  "rank": 133
+  "rank": 90
 }

@@ -1,0 +1,44 @@
+{
+  "user_id": "GSrrvVtaMiJL",
+  "player_name": "Liam van der Spek",
+  "total_points": 25.532,
+  "events_played": 1,
+  "best_finish": 36,
+  "regions": [
+    "ROI"
+  ],
+  "team": "Eastern Fringe Gaming",
+  "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 36,
+      "max_points": 100,
+      "points": 25.532,
+      "faction": "Space Marines (Astartes)",
+      "team": "Eastern Fringe Gaming",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 25.532,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.4,
+      "x1_points": 0
+    }
+  ],
+  "rank": 348
+}

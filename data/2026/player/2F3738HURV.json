@@ -2,13 +2,32 @@
   "user_id": "2F3738HURV",
   "player_name": "John Haycock",
   "total_points": 242.689,
-  "events_played": 8,
+  "events_played": 9,
   "best_finish": 2,
   "regions": [
     "NI"
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 12,
+      "max_points": 54,
+      "points": 27.0,
+      "faction": "Leagues of Votann",
+      "team": "Sink",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": false
+    },
     {
       "event_id": "Pj8jG2ZS0n4N",
       "prefix": "Pj8jG2ZS0n4N",
@@ -166,10 +185,10 @@
   "faction_points": [
     {
       "faction": "Leagues of Votann",
-      "points": 271.846,
-      "events_played": 5,
-      "games_played": 19,
-      "win_rate": 0.6842,
+      "points": 298.846,
+      "events_played": 6,
+      "games_played": 22,
+      "win_rate": 0.6364,
       "x1_points": 1
     },
     {
@@ -189,5 +208,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 32
+  "rank": 36
 }

@@ -1,14 +1,33 @@
 {
   "user_id": "2mztF9vJZa",
   "player_name": "mike tangney",
-  "total_points": 203.554,
-  "events_played": 4,
+  "total_points": 206.59,
+  "events_played": 5,
   "best_finish": 1,
   "regions": [
     "ROI"
   ],
   "team": "The Spoon Collectors",
   "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 25,
+      "max_points": 100,
+      "points": 48.936,
+      "faction": "Aeldari",
+      "team": "The Spoon Collectors",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "e9ytUCYU5Q1o",
       "prefix": "e9ytUCYU5Q1o",
@@ -45,7 +64,7 @@
       "wins": 2,
       "draws": 0,
       "losses": 1,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "8Z9mzqxPbEDM",
@@ -89,16 +108,16 @@
   "included_override": false,
   "faction_points": [
     {
-      "faction": "Drukhari",
-      "points": 103.654,
-      "events_played": 2,
-      "games_played": 6,
-      "win_rate": 0.8333,
+      "faction": "Aeldari",
+      "points": 148.836,
+      "events_played": 3,
+      "games_played": 11,
+      "win_rate": 0.6364,
       "x1_points": 1
     },
     {
-      "faction": "Aeldari",
-      "points": 99.9,
+      "faction": "Drukhari",
+      "points": 103.654,
       "events_played": 2,
       "games_played": 6,
       "win_rate": 0.8333,

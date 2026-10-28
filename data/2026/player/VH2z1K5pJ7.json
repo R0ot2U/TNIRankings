@@ -1,0 +1,44 @@
+{
+  "user_id": "VH2z1K5pJ7",
+  "player_name": "Andrew Franklin",
+  "total_points": 40.426,
+  "events_played": 1,
+  "best_finish": 29,
+  "regions": [
+    "ROI"
+  ],
+  "team": "The Spoon Council",
+  "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 29,
+      "max_points": 100,
+      "points": 40.426,
+      "faction": "Imperial Knights",
+      "team": "The Spoon Council",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Imperial Knights",
+      "points": 40.426,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.4,
+      "x1_points": 0
+    }
+  ],
+  "rank": 283
+}

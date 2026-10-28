@@ -2,13 +2,32 @@
   "user_id": "CluWg2oAoX",
   "player_name": "Aaron Buckley",
   "total_points": 241.518,
-  "events_played": 8,
+  "events_played": 9,
   "best_finish": 3,
   "regions": [
     "NI"
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 9,
+      "max_points": 54,
+      "points": 34.364,
+      "faction": "Tyranids",
+      "team": "Sink",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": false
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -174,12 +193,12 @@
     },
     {
       "faction": "Tyranids",
-      "points": 154.938,
-      "events_played": 4,
-      "games_played": 14,
-      "win_rate": 0.5714,
-      "x1_points": 2
+      "points": 189.302,
+      "events_played": 5,
+      "games_played": 17,
+      "win_rate": 0.5882,
+      "x1_points": 3
     }
   ],
-  "rank": 34
+  "rank": 39
 }

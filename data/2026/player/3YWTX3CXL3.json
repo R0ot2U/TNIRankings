@@ -1,14 +1,33 @@
 {
   "user_id": "3YWTX3CXL3",
   "player_name": "Alex Trimble",
-  "total_points": 102.304,
-  "events_played": 3,
+  "total_points": 161.878,
+  "events_played": 4,
   "best_finish": 4,
   "regions": [
     "ROI"
   ],
   "team": "The Spoon Collectors",
   "events": [
+    {
+      "event_id": "cTMCSZUyw4Pt",
+      "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
+      "event_name": "Gaelcon 2026",
+      "date": "2026-10-24",
+      "region": "ROI",
+      "field_size": 47,
+      "rounds": 5,
+      "placing": 20,
+      "max_points": 100,
+      "points": 59.574,
+      "faction": "Orks",
+      "team": "The Spoon Collectors",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "e9ytUCYU5Q1o",
       "prefix": "e9ytUCYU5Q1o",
@@ -70,16 +89,16 @@
   "included_override": false,
   "faction_points": [
     {
-      "faction": "World Eaters",
-      "points": 53.077,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.6667,
+      "faction": "Orks",
+      "points": 101.301,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.625,
       "x1_points": 1
     },
     {
-      "faction": "Orks",
-      "points": 41.727,
+      "faction": "World Eaters",
+      "points": 53.077,
       "events_played": 1,
       "games_played": 3,
       "win_rate": 0.6667,
@@ -94,5 +113,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 129
+  "rank": 71
 }

@@ -2,7 +2,7 @@
   "user_id": "PB8CBE84P1",
   "player_name": "Haydn Dempster",
   "total_points": 346.02,
-  "events_played": 8,
+  "events_played": 9,
   "best_finish": 1,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 1,
+      "max_points": 54,
+      "points": 54.0,
+      "faction": "Death Guard",
+      "team": "Sink",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "counts": false
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -166,6 +185,14 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "Death Guard",
+      "points": 151.917,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 1.0,
+      "x1_points": 0
+    },
+    {
       "faction": "Chaos Knights",
       "points": 151.228,
       "events_played": 2,
@@ -180,14 +207,6 @@
       "games_played": 9,
       "win_rate": 0.6667,
       "x1_points": 2
-    },
-    {
-      "faction": "Death Guard",
-      "points": 97.917,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 1.0,
-      "x1_points": 0
     },
     {
       "faction": "Adeptus Custodes",

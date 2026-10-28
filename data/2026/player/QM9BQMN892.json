@@ -1,14 +1,33 @@
 {
   "user_id": "QM9BQMN892",
   "player_name": "Aoife Kerins",
-  "total_points": 203.493,
-  "events_played": 8,
+  "total_points": 208.402,
+  "events_played": 9,
   "best_finish": 3,
   "regions": [
     "NI"
   ],
   "team": "QUB Dragonslayers ",
   "events": [
+    {
+      "event_id": "lpUy1qWvgwlx",
+      "prefix": "lpUy1qWvgwlx",
+      "event_name": "ED Single Day 40K Oct 2026",
+      "date": "2026-10-24",
+      "region": "NI",
+      "field_size": 22,
+      "rounds": 3,
+      "placing": 4,
+      "max_points": 54,
+      "points": 46.636,
+      "faction": "Death Guard",
+      "team": "QUB Dragonslayers ",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "qLySu85Tidra",
       "prefix": "qLySu85Tidra",
@@ -83,7 +102,7 @@
       "wins": 2,
       "draws": 0,
       "losses": 1,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "2K77Ck5lQLUE",
@@ -166,11 +185,11 @@
   "faction_points": [
     {
       "faction": "Death Guard",
-      "points": 219.118,
-      "events_played": 5,
-      "games_played": 17,
-      "win_rate": 0.6765,
-      "x1_points": 4
+      "points": 265.754,
+      "events_played": 6,
+      "games_played": 20,
+      "win_rate": 0.675,
+      "x1_points": 5
     },
     {
       "faction": "Chaos Knights",
@@ -197,5 +216,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 52
+  "rank": 50
 }
