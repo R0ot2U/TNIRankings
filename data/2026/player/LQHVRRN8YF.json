@@ -2,7 +2,7 @@
   "user_id": "LQHVRRN8YF",
   "player_name": "Scott Palmer",
   "total_points": 237.635,
-  "events_played": 9,
+  "events_played": 10,
   "best_finish": 3,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "Legio Dál Riata",
   "events": [
+    {
+      "event_id": "e0n7YCU8n79X",
+      "prefix": "e0n7YCU8n79X",
+      "event_name": "Ashes of the Imperium RTT",
+      "date": "2026-11-07",
+      "region": "NI",
+      "field_size": 18,
+      "rounds": 3,
+      "placing": 9,
+      "max_points": 54,
+      "points": 30.0,
+      "faction": "Imperial Knights",
+      "team": "Legio Dál Riata",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "counts": false
+    },
     {
       "event_id": "Pj8jG2ZS0n4N",
       "prefix": "Pj8jG2ZS0n4N",
@@ -186,10 +205,10 @@
   "faction_points": [
     {
       "faction": "Imperial Knights",
-      "points": 426.117,
-      "events_played": 9,
-      "games_played": 35,
-      "win_rate": 0.6,
+      "points": 456.117,
+      "events_played": 10,
+      "games_played": 37,
+      "win_rate": 0.6216,
       "x1_points": 5
     }
   ],

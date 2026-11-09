@@ -2,7 +2,7 @@
   "user_id": "ED56M8EX6E",
   "player_name": "Johnathon Townsend",
   "total_points": 356.944,
-  "events_played": 9,
+  "events_played": 10,
   "best_finish": 1,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "The Tactical Titans ",
   "events": [
+    {
+      "event_id": "e0n7YCU8n79X",
+      "prefix": "e0n7YCU8n79X",
+      "event_name": "Ashes of the Imperium RTT",
+      "date": "2026-11-07",
+      "region": "NI",
+      "field_size": 18,
+      "rounds": 3,
+      "placing": 1,
+      "max_points": 54,
+      "points": 54.0,
+      "faction": "Necrons",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "counts": false
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -186,10 +205,10 @@
   "faction_points": [
     {
       "faction": "Necrons",
-      "points": 349.652,
-      "events_played": 4,
-      "games_played": 20,
-      "win_rate": 0.775,
+      "points": 403.652,
+      "events_played": 5,
+      "games_played": 23,
+      "win_rate": 0.8043,
       "x1_points": 4
     },
     {

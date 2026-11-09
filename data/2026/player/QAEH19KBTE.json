@@ -1,15 +1,34 @@
 {
   "user_id": "QAEH19KBTE",
   "player_name": "Jack Hunter",
-  "total_points": 168.67,
-  "events_played": 4,
-  "best_finish": 9,
+  "total_points": 193.099,
+  "events_played": 5,
+  "best_finish": 4,
   "regions": [
     "NI",
     "ROI"
   ],
-  "team": "The Tactical Titans ",
+  "team": "Maghera Wargaming",
   "events": [
+    {
+      "event_id": "e0n7YCU8n79X",
+      "prefix": "e0n7YCU8n79X",
+      "event_name": "Ashes of the Imperium RTT",
+      "date": "2026-11-07",
+      "region": "NI",
+      "field_size": 18,
+      "rounds": 3,
+      "placing": 4,
+      "max_points": 54,
+      "points": 45.0,
+      "faction": "Tyranids",
+      "team": "Maghera Wargaming",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -46,7 +65,7 @@
       "wins": 1,
       "draws": 0,
       "losses": 2,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "VszBd0tEIxjq",
@@ -98,6 +117,14 @@
       "x1_points": 2
     },
     {
+      "faction": "Tyranids",
+      "points": 45.0,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.6667,
+      "x1_points": 1
+    },
+    {
       "faction": "Space Marines (Astartes)",
       "points": 20.571,
       "events_played": 1,
@@ -106,5 +133,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 68
+  "rank": 59
 }

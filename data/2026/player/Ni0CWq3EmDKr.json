@@ -1,14 +1,33 @@
 {
   "user_id": "Ni0CWq3EmDKr",
   "player_name": "Daniel Holmes",
-  "total_points": 40.341,
-  "events_played": 3,
-  "best_finish": 14,
+  "total_points": 91.341,
+  "events_played": 4,
+  "best_finish": 2,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "e0n7YCU8n79X",
+      "prefix": "e0n7YCU8n79X",
+      "event_name": "Ashes of the Imperium RTT",
+      "date": "2026-11-07",
+      "region": "NI",
+      "field_size": 18,
+      "rounds": 3,
+      "placing": 2,
+      "max_points": 54,
+      "points": 51.0,
+      "faction": "Grey Knights",
+      "team": null,
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "Pj8jG2ZS0n4N",
       "prefix": "Pj8jG2ZS0n4N",
@@ -71,12 +90,12 @@
   "faction_points": [
     {
       "faction": "Grey Knights",
-      "points": 40.341,
-      "events_played": 3,
-      "games_played": 11,
-      "win_rate": 0.1818,
-      "x1_points": 0
+      "points": 91.341,
+      "events_played": 4,
+      "games_played": 14,
+      "win_rate": 0.2857,
+      "x1_points": 1
     }
   ],
-  "rank": 284
+  "rank": 159
 }

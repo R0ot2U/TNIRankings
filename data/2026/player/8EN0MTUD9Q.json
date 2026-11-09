@@ -1,0 +1,44 @@
+{
+  "user_id": "8EN0MTUD9Q",
+  "player_name": "Jonathan Miller",
+  "total_points": 3.0,
+  "events_played": 1,
+  "best_finish": 18,
+  "regions": [
+    "NI"
+  ],
+  "team": null,
+  "events": [
+    {
+      "event_id": "e0n7YCU8n79X",
+      "prefix": "e0n7YCU8n79X",
+      "event_name": "Ashes of the Imperium RTT",
+      "date": "2026-11-07",
+      "region": "NI",
+      "field_size": 18,
+      "rounds": 3,
+      "placing": 18,
+      "max_points": 54,
+      "points": 3.0,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 3.0,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.0,
+      "x1_points": 0
+    }
+  ],
+  "rank": 478
+}

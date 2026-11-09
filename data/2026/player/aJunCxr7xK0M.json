@@ -1,0 +1,44 @@
+{
+  "user_id": "aJunCxr7xK0M",
+  "player_name": "James Butler",
+  "total_points": 21.0,
+  "events_played": 1,
+  "best_finish": 12,
+  "regions": [
+    "NI"
+  ],
+  "team": null,
+  "events": [
+    {
+      "event_id": "e0n7YCU8n79X",
+      "prefix": "e0n7YCU8n79X",
+      "event_name": "Ashes of the Imperium RTT",
+      "date": "2026-11-07",
+      "region": "NI",
+      "field_size": 18,
+      "rounds": 3,
+      "placing": 12,
+      "max_points": 54,
+      "points": 21.0,
+      "faction": "Tyranids",
+      "team": null,
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Tyranids",
+      "points": 21.0,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.3333,
+      "x1_points": 0
+    }
+  ],
+  "rank": 372
+}
