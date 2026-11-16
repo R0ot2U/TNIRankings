@@ -1,14 +1,33 @@
 {
   "user_id": "J7T1XTCJQG",
   "player_name": "Casey keenan",
-  "total_points": 212.565,
-  "events_played": 3,
+  "total_points": 255.065,
+  "events_played": 4,
   "best_finish": 3,
   "regions": [
     "NI"
   ],
   "team": "The Tactical Titans ",
   "events": [
+    {
+      "event_id": "Yxp2DxxyNjuu",
+      "prefix": "Yxp2DxxyNjuu",
+      "event_name": "Clare Gaming November RTT",
+      "date": "2026-11-15",
+      "region": "NI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 8,
+      "max_points": 60,
+      "points": 42.5,
+      "faction": "Space Marines (Astartes)",
+      "team": "The Tactical Titans ",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -70,21 +89,21 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "Space Marines (Astartes)",
+      "points": 135.482,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.75,
+      "x1_points": 3
+    },
+    {
       "faction": "Adeptus Custodes",
       "points": 119.583,
       "events_played": 2,
       "games_played": 8,
       "win_rate": 0.6875,
       "x1_points": 0
-    },
-    {
-      "faction": "Space Marines (Astartes)",
-      "points": 92.982,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.8,
-      "x1_points": 2
     }
   ],
-  "rank": 47
+  "rank": 32
 }

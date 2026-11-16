@@ -2,13 +2,32 @@
   "user_id": "j4AtaUu4Q8",
   "player_name": "Shane O Connor",
   "total_points": 152.577,
-  "events_played": 5,
+  "events_played": 6,
   "best_finish": 9,
   "regions": [
     "ROI"
   ],
   "team": "Spectrum Warriors",
   "events": [
+    {
+      "event_id": "N2eaAnoM6QNc",
+      "prefix": "N2eaAnoM6QNc",
+      "event_name": "Last Brethren RTT of 2026",
+      "date": "2026-11-14",
+      "region": "ROI",
+      "field_size": 15,
+      "rounds": 3,
+      "placing": 12,
+      "max_points": 48,
+      "points": 12.8,
+      "faction": "Adeptus Mechanicus",
+      "team": "Spectrum Warriors",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": false
+    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -109,12 +128,12 @@
   "faction_points": [
     {
       "faction": "Adeptus Mechanicus",
-      "points": 173.577,
-      "events_played": 5,
-      "games_played": 21,
-      "win_rate": 0.4762,
+      "points": 186.377,
+      "events_played": 6,
+      "games_played": 24,
+      "win_rate": 0.4583,
       "x1_points": 1
     }
   ],
-  "rank": 82
+  "rank": 83
 }

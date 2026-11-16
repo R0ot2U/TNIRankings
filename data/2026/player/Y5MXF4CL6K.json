@@ -1,14 +1,33 @@
 {
   "user_id": "Y5MXF4CL6K",
   "player_name": "Tyler McDowell",
-  "total_points": 48.75,
-  "events_played": 1,
+  "total_points": 88.75,
+  "events_played": 2,
   "best_finish": 7,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "Yxp2DxxyNjuu",
+      "prefix": "Yxp2DxxyNjuu",
+      "event_name": "Clare Gaming November RTT",
+      "date": "2026-11-15",
+      "region": "NI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 9,
+      "max_points": 60,
+      "points": 40.0,
+      "faction": "World Eaters",
+      "team": null,
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "1n5aSuTdt217",
       "prefix": "1n5aSuTdt217",
@@ -38,7 +57,15 @@
       "games_played": 3,
       "win_rate": 0.6667,
       "x1_points": 1
+    },
+    {
+      "faction": "World Eaters",
+      "points": 40.0,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.6667,
+      "x1_points": 1
     }
   ],
-  "rank": 256
+  "rank": 166
 }

@@ -1,14 +1,33 @@
 {
   "user_id": "7HC98TLY5K",
   "player_name": "Bayli Carr",
-  "total_points": 4.762,
-  "events_played": 1,
-  "best_finish": 61,
+  "total_points": 20.762,
+  "events_played": 2,
+  "best_finish": 11,
   "regions": [
     "ROI"
   ],
   "team": "Spectrum Warriors",
   "events": [
+    {
+      "event_id": "N2eaAnoM6QNc",
+      "prefix": "N2eaAnoM6QNc",
+      "event_name": "Last Brethren RTT of 2026",
+      "date": "2026-11-14",
+      "region": "ROI",
+      "field_size": 15,
+      "rounds": 3,
+      "placing": 11,
+      "max_points": 48,
+      "points": 16.0,
+      "faction": "Death Guard",
+      "team": "Spectrum Warriors",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -32,6 +51,14 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "Death Guard",
+      "points": 16.0,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.3333,
+      "x1_points": 0
+    },
+    {
       "faction": "Aeldari",
       "points": 4.762,
       "events_played": 1,
@@ -40,5 +67,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 470
+  "rank": 376
 }

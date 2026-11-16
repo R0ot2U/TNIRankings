@@ -2,13 +2,32 @@
   "user_id": "L9A80YYNLD",
   "player_name": "Brendy Muldoon",
   "total_points": 191.81,
-  "events_played": 4,
+  "events_played": 5,
   "best_finish": 4,
   "regions": [
     "NI"
   ],
   "team": "Team Yeti",
   "events": [
+    {
+      "event_id": "Yxp2DxxyNjuu",
+      "prefix": "Yxp2DxxyNjuu",
+      "event_name": "Clare Gaming November RTT",
+      "date": "2026-11-15",
+      "region": "NI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 12,
+      "max_points": 60,
+      "points": 32.5,
+      "faction": "Dark Angels",
+      "team": "Team Yeti",
+      "forced": false,
+      "wins": 1,
+      "draws": 1,
+      "losses": 1,
+      "counts": false
+    },
     {
       "event_id": "NxXFuKF8loah",
       "prefix": "NxXFuKF8loah",
@@ -94,6 +113,14 @@
       "events_played": 4,
       "games_played": 14,
       "win_rate": 0.6071,
+      "x1_points": 1
+    },
+    {
+      "faction": "Dark Angels",
+      "points": 32.5,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.5,
       "x1_points": 1
     }
   ],

@@ -1,14 +1,33 @@
 {
   "user_id": "Jo8jsupweQbU",
   "player_name": "Niall Mccaffrey",
-  "total_points": 72.917,
-  "events_played": 1,
+  "total_points": 90.417,
+  "events_played": 2,
   "best_finish": 14,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "Yxp2DxxyNjuu",
+      "prefix": "Yxp2DxxyNjuu",
+      "event_name": "Clare Gaming November RTT",
+      "date": "2026-11-15",
+      "region": "NI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 18,
+      "max_points": 60,
+      "points": 17.5,
+      "faction": "Emperor's Children",
+      "team": null,
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -33,12 +52,12 @@
   "faction_points": [
     {
       "faction": "Emperor's Children",
-      "points": 72.917,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.6,
+      "points": 90.417,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.5,
       "x1_points": 0
     }
   ],
-  "rank": 196
+  "rank": 163
 }

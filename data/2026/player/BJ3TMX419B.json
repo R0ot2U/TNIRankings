@@ -2,13 +2,32 @@
   "user_id": "BJ3TMX419B",
   "player_name": "Donal Phillips",
   "total_points": 28.697,
-  "events_played": 4,
+  "events_played": 5,
   "best_finish": 14,
   "regions": [
     "NI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "Yxp2DxxyNjuu",
+      "prefix": "Yxp2DxxyNjuu",
+      "event_name": "Clare Gaming November RTT",
+      "date": "2026-11-15",
+      "region": "NI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 24,
+      "max_points": 60,
+      "points": 2.5,
+      "faction": "Aeldari",
+      "team": null,
+      "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "counts": false
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -90,12 +109,12 @@
   "faction_points": [
     {
       "faction": "Aeldari",
-      "points": 28.697,
-      "events_played": 4,
-      "games_played": 16,
-      "win_rate": 0.125,
+      "points": 31.197,
+      "events_played": 5,
+      "games_played": 19,
+      "win_rate": 0.1053,
       "x1_points": 0
     }
   ],
-  "rank": 336
+  "rank": 338
 }

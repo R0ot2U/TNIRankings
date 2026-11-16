@@ -2,13 +2,32 @@
   "user_id": "CluWg2oAoX",
   "player_name": "Aaron Buckley",
   "total_points": 241.518,
-  "events_played": 9,
+  "events_played": 10,
   "best_finish": 3,
   "regions": [
     "NI"
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "Yxp2DxxyNjuu",
+      "prefix": "Yxp2DxxyNjuu",
+      "event_name": "Clare Gaming November RTT",
+      "date": "2026-11-15",
+      "region": "NI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 16,
+      "max_points": 60,
+      "points": 22.5,
+      "faction": "Tyranids",
+      "team": "Sink",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": false
+    },
     {
       "event_id": "lpUy1qWvgwlx",
       "prefix": "lpUy1qWvgwlx",
@@ -184,21 +203,21 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "Tyranids",
+      "points": 211.802,
+      "events_played": 6,
+      "games_played": 20,
+      "win_rate": 0.55,
+      "x1_points": 3
+    },
+    {
       "faction": "Thousand Sons",
       "points": 202.089,
       "events_played": 4,
       "games_played": 14,
       "win_rate": 0.6786,
       "x1_points": 0
-    },
-    {
-      "faction": "Tyranids",
-      "points": 189.302,
-      "events_played": 5,
-      "games_played": 17,
-      "win_rate": 0.5882,
-      "x1_points": 3
     }
   ],
-  "rank": 39
+  "rank": 40
 }

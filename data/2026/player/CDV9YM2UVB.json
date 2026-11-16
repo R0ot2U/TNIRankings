@@ -2,13 +2,32 @@
   "user_id": "CDV9YM2UVB",
   "player_name": "Gary Mcneill",
   "total_points": 242.25,
-  "events_played": 7,
+  "events_played": 8,
   "best_finish": 5,
   "regions": [
     "NI"
   ],
   "team": "Legio Dál Riata",
   "events": [
+    {
+      "event_id": "Yxp2DxxyNjuu",
+      "prefix": "Yxp2DxxyNjuu",
+      "event_name": "Clare Gaming November RTT",
+      "date": "2026-11-15",
+      "region": "NI",
+      "field_size": 24,
+      "rounds": 3,
+      "placing": 13,
+      "max_points": 60,
+      "points": 30.0,
+      "faction": "Death Guard",
+      "team": "Legio Dál Riata",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": false
+    },
     {
       "event_id": "lpUy1qWvgwlx",
       "prefix": "lpUy1qWvgwlx",
@@ -147,10 +166,10 @@
   "faction_points": [
     {
       "faction": "Death Guard",
-      "points": 160.521,
-      "events_played": 4,
-      "games_played": 16,
-      "win_rate": 0.5,
+      "points": 190.521,
+      "events_played": 5,
+      "games_played": 19,
+      "win_rate": 0.4737,
       "x1_points": 2
     },
     {
@@ -170,5 +189,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 37
+  "rank": 38
 }

@@ -1,14 +1,33 @@
 {
   "user_id": "Hu3W4V69Kr",
   "player_name": "James O'Rourke",
-  "total_points": 101.397,
-  "events_played": 4,
+  "total_points": 102.897,
+  "events_played": 5,
   "best_finish": 11,
   "regions": [
     "ROI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "N2eaAnoM6QNc",
+      "prefix": "N2eaAnoM6QNc",
+      "event_name": "Last Brethren RTT of 2026",
+      "date": "2026-11-14",
+      "region": "ROI",
+      "field_size": 15,
+      "rounds": 3,
+      "placing": 13,
+      "max_points": 48,
+      "points": 9.6,
+      "faction": "Astra Militarum",
+      "team": null,
+      "forced": false,
+      "wins": 0,
+      "draws": 1,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -64,7 +83,7 @@
       "wins": 0,
       "draws": 0,
       "losses": 3,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "j4OXdzodcigP",
@@ -98,10 +117,10 @@
     },
     {
       "faction": "Astra Militarum",
-      "points": 9.091,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.2,
+      "points": 18.691,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.1875,
       "x1_points": 0
     }
   ],

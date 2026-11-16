@@ -2,13 +2,32 @@
   "user_id": "RnKzXPdXVa8f",
   "player_name": "Colin O'Sullivan",
   "total_points": 269.233,
-  "events_played": 9,
+  "events_played": 10,
   "best_finish": 4,
   "regions": [
     "ROI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "N2eaAnoM6QNc",
+      "prefix": "N2eaAnoM6QNc",
+      "event_name": "Last Brethren RTT of 2026",
+      "date": "2026-11-14",
+      "region": "ROI",
+      "field_size": 15,
+      "rounds": 3,
+      "placing": 8,
+      "max_points": 48,
+      "points": 25.6,
+      "faction": "Adeptus Custodes",
+      "team": null,
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "counts": false
+    },
     {
       "event_id": "VxMhCyhNMO1Q",
       "prefix": "dearg_doom_xiii__don_t_play_in_cian_s_sandbox_VxMhCyhNMO1Q",
@@ -208,6 +227,14 @@
       "x1_points": 1
     },
     {
+      "faction": "Adeptus Custodes",
+      "points": 25.6,
+      "events_played": 1,
+      "games_played": 3,
+      "win_rate": 0.3333,
+      "x1_points": 0
+    },
+    {
       "faction": "Unknown",
       "points": 15.0,
       "events_played": 1,
@@ -216,5 +243,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 30
+  "rank": 31
 }
