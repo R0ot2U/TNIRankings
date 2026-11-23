@@ -96,7 +96,7 @@
       "placing": 13,
       "max_points": 100,
       "points": 70.0,
-      "faction": null,
+      "faction": "Space Marines (Astartes)",
       "team": null,
       "forced": false,
       "wins": 3,
@@ -128,20 +128,12 @@
   "faction_points": [
     {
       "faction": "Space Marines (Astartes)",
-      "points": 312.232,
-      "events_played": 5,
-      "games_played": 23,
-      "win_rate": 0.587,
+      "points": 382.232,
+      "events_played": 6,
+      "games_played": 28,
+      "win_rate": 0.5893,
       "x1_points": 3
-    },
-    {
-      "faction": "Unknown",
-      "points": 70.0,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.6,
-      "x1_points": 0
     }
   ],
-  "rank": 22
+  "rank": 27
 }

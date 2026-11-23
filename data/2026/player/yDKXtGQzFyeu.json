@@ -1,8 +1,8 @@
 {
   "user_id": "yDKXtGQzFyeu",
   "player_name": "Stephen Callaghan",
-  "total_points": 80.254,
-  "events_played": 3,
+  "total_points": 156.012,
+  "events_played": 4,
   "best_finish": 10,
   "regions": [
     "ROI",
@@ -10,6 +10,25 @@
   ],
   "team": "The Cesspit",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 25,
+      "max_points": 100,
+      "points": 75.758,
+      "faction": "Adeptus Custodes",
+      "team": "The Cesspit",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "nXJFqAguUQDp",
       "prefix": "nXJFqAguUQDp",
@@ -77,7 +96,15 @@
       "games_played": 11,
       "win_rate": 0.3636,
       "x1_points": 0
+    },
+    {
+      "faction": "Adeptus Custodes",
+      "points": 75.758,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.6,
+      "x1_points": 0
     }
   ],
-  "rank": 185
+  "rank": 94
 }

@@ -2,13 +2,32 @@
   "user_id": "MxWmuceRH2",
   "player_name": "Gary Lynch",
   "total_points": 330.474,
-  "events_played": 7,
+  "events_played": 8,
   "best_finish": 3,
   "regions": [
     "ROI"
   ],
   "team": "The Spoon Collectors",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 26,
+      "max_points": 100,
+      "points": 74.747,
+      "faction": "Chaos Daemons",
+      "team": "The Spoon Collectors",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": false
+    },
     {
       "event_id": "cTMCSZUyw4Pt",
       "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
@@ -134,7 +153,7 @@
       "placing": 9,
       "max_points": 60,
       "points": 41.538,
-      "faction": "Genestealer Cult",
+      "faction": "Genestealer Cults",
       "team": "The Spoon Collectors",
       "forced": false,
       "wins": 2,
@@ -155,28 +174,20 @@
     },
     {
       "faction": "Genestealer Cults",
-      "points": 79.592,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.6,
-      "x1_points": 0
-    },
-    {
-      "faction": "Genestealer Cult",
-      "points": 41.538,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.6667,
+      "points": 121.13,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.625,
       "x1_points": 1
     },
     {
       "faction": "Chaos Daemons",
-      "points": 40.5,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.6667,
+      "points": 115.247,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.625,
       "x1_points": 1
     }
   ],
-  "rank": 12
+  "rank": 13
 }

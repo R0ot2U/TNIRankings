@@ -1,8 +1,8 @@
 {
   "user_id": "RTUHTFBQT4",
   "player_name": "Shane Porter",
-  "total_points": 209.044,
-  "events_played": 3,
+  "total_points": 307.024,
+  "events_played": 4,
   "best_finish": 1,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "Donegal Dice Flingers",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 3,
+      "max_points": 100,
+      "points": 97.98,
+      "faction": "Chaos Knights",
+      "team": "Donegal Dice Flingers",
+      "forced": false,
+      "wins": 5,
+      "draws": 0,
+      "losses": 0,
+      "counts": true
+    },
     {
       "event_id": "UJeD8FTdEbUF",
       "prefix": "warpstorm_3_UJeD8FTdEbUF",
@@ -71,21 +90,21 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "Chaos Knights",
+      "points": 168.813,
+      "events_played": 2,
+      "games_played": 10,
+      "win_rate": 0.8,
+      "x1_points": 0
+    },
+    {
       "faction": "Black Templars",
       "points": 138.211,
       "events_played": 2,
       "games_played": 8,
       "win_rate": 0.8125,
       "x1_points": 2
-    },
-    {
-      "faction": "Chaos Knights",
-      "points": 70.833,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.6,
-      "x1_points": 0
     }
   ],
-  "rank": 49
+  "rank": 19
 }

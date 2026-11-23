@@ -20,7 +20,7 @@
       "placing": 10,
       "max_points": 54,
       "points": 29.7,
-      "faction": "Chaos",
+      "faction": "Chaos Space Marines",
       "team": null,
       "forced": false,
       "wins": 1,
@@ -32,7 +32,7 @@
   "included_override": false,
   "faction_points": [
     {
-      "faction": "Chaos",
+      "faction": "Chaos Space Marines",
       "points": 29.7,
       "events_played": 1,
       "games_played": 3,
@@ -40,5 +40,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 336
+  "rank": 357
 }

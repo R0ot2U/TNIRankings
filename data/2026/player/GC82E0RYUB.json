@@ -1,14 +1,33 @@
 {
   "user_id": "GC82E0RYUB",
   "player_name": "Ben Keogh",
-  "total_points": 273.169,
-  "events_played": 5,
+  "total_points": 314.553,
+  "events_played": 6,
   "best_finish": 2,
   "regions": [
     "ROI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 8,
+      "max_points": 100,
+      "points": 92.929,
+      "faction": "Astra Militarum",
+      "team": null,
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "cTMCSZUyw4Pt",
       "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
@@ -45,7 +64,7 @@
       "wins": 3,
       "draws": 0,
       "losses": 0,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "ZtjILkd4ciOc",
@@ -109,11 +128,11 @@
   "faction_points": [
     {
       "faction": "Astra Militarum",
-      "points": 214.839,
-      "events_played": 3,
-      "games_played": 13,
-      "win_rate": 0.7692,
-      "x1_points": 2
+      "points": 307.768,
+      "events_played": 4,
+      "games_played": 18,
+      "win_rate": 0.7778,
+      "x1_points": 4
     },
     {
       "faction": "Tyranids",
@@ -132,5 +151,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 29
+  "rank": 15
 }

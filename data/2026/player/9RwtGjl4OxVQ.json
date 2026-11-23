@@ -1,14 +1,33 @@
 {
   "user_id": "9RwtGjl4OxVQ",
   "player_name": "David Ryan",
-  "total_points": 21.429,
-  "events_played": 1,
+  "total_points": 23.449,
+  "events_played": 2,
   "best_finish": 78,
   "regions": [
     "ROI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 98,
+      "max_points": 100,
+      "points": 2.02,
+      "faction": "World Eaters",
+      "team": null,
+      "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "aMoYfY6J6Omo",
       "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
@@ -33,12 +52,12 @@
   "faction_points": [
     {
       "faction": "World Eaters",
-      "points": 21.429,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.4,
+      "points": 23.449,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.25,
       "x1_points": 0
     }
   ],
-  "rank": 370
+  "rank": 389
 }

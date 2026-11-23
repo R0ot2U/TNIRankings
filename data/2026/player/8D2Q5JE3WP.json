@@ -2,13 +2,32 @@
   "user_id": "8D2Q5JE3WP",
   "player_name": "Jeremy Cronin",
   "total_points": 280.487,
-  "events_played": 9,
+  "events_played": 10,
   "best_finish": 2,
   "regions": [
     "ROI"
   ],
   "team": "Spectrum Warriors",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 69,
+      "max_points": 100,
+      "points": 31.313,
+      "faction": "Adeptus Custodes",
+      "team": "Spectrum Warriors",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": false
+    },
     {
       "event_id": "N2eaAnoM6QNc",
       "prefix": "N2eaAnoM6QNc",
@@ -185,12 +204,12 @@
   "faction_points": [
     {
       "faction": "Adeptus Custodes",
-      "points": 455.934,
-      "events_played": 9,
-      "games_played": 35,
-      "win_rate": 0.6143,
+      "points": 487.247,
+      "events_played": 10,
+      "games_played": 40,
+      "win_rate": 0.5875,
       "x1_points": 3
     }
   ],
-  "rank": 26
+  "rank": 30
 }

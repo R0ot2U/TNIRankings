@@ -1,8 +1,8 @@
 {
   "user_id": "reDHlzlApZFg",
   "player_name": "Gavin Hamilton",
-  "total_points": 285.11,
-  "events_played": 5,
+  "total_points": 336.199,
+  "events_played": 6,
   "best_finish": 1,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "The Cesspit",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 6,
+      "max_points": 100,
+      "points": 94.949,
+      "faction": "Adeptus Mechanicus",
+      "team": "The Cesspit",
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "1PpZD9LRYLI6",
       "prefix": "exploding_dice_40k_gt_2026_1PpZD9LRYLI6",
@@ -84,7 +103,7 @@
       "wins": 2,
       "draws": 0,
       "losses": 3,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "XRUv6LmE4wQW",
@@ -110,11 +129,11 @@
   "faction_points": [
     {
       "faction": "Adeptus Mechanicus",
-      "points": 168.467,
-      "events_played": 3,
-      "games_played": 13,
-      "win_rate": 0.6154,
-      "x1_points": 3
+      "points": 263.416,
+      "events_played": 4,
+      "games_played": 18,
+      "win_rate": 0.6667,
+      "x1_points": 5
     },
     {
       "faction": "Imperial Knights",
@@ -125,5 +144,5 @@
       "x1_points": 1
     }
   ],
-  "rank": 23
+  "rank": 11
 }

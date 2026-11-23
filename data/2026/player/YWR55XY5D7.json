@@ -1,8 +1,8 @@
 {
   "user_id": "YWR55XY5D7",
   "player_name": "Stefan Colhoun",
-  "total_points": 222.783,
-  "events_played": 11,
+  "total_points": 267.682,
+  "events_played": 12,
   "best_finish": 1,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 11,
+      "max_points": 100,
+      "points": 89.899,
+      "faction": "Space Marines (Astartes)",
+      "team": "Sink",
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "Yxp2DxxyNjuu",
       "prefix": "Yxp2DxxyNjuu",
@@ -27,7 +46,7 @@
       "wins": 2,
       "draws": 0,
       "losses": 1,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "Pj8jG2ZS0n4N",
@@ -231,6 +250,14 @@
       "x1_points": 2
     },
     {
+      "faction": "Space Marines (Astartes)",
+      "points": 134.899,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.75,
+      "x1_points": 3
+    },
+    {
       "faction": "Death Guard",
       "points": 87.0,
       "events_played": 2,
@@ -253,15 +280,7 @@
       "games_played": 5,
       "win_rate": 0.6,
       "x1_points": 0
-    },
-    {
-      "faction": "Space Marines (Astartes)",
-      "points": 45.0,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.6667,
-      "x1_points": 1
     }
   ],
-  "rank": 45
+  "rank": 37
 }

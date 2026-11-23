@@ -1,14 +1,33 @@
 {
   "user_id": "TWmB7aweXKTS",
   "player_name": "Senan Pracht",
-  "total_points": 117.233,
-  "events_played": 2,
+  "total_points": 153.597,
+  "events_played": 3,
   "best_finish": 15,
   "regions": [
     "ROI"
   ],
-  "team": null,
+  "team": "Western Wargamers",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 64,
+      "max_points": 100,
+      "points": 36.364,
+      "faction": "Chaos Daemons",
+      "team": "Western Wargamers",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "VszBd0tEIxjq",
       "prefix": "call_to_chaos_v_-_call_to_chaos-ier_VszBd0tEIxjq",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Chaos Daemons",
-      "points": 117.233,
-      "events_played": 2,
-      "games_played": 10,
-      "win_rate": 0.6,
+      "points": 153.597,
+      "events_played": 3,
+      "games_played": 15,
+      "win_rate": 0.5333,
       "x1_points": 0
     }
   ],
-  "rank": 119
+  "rank": 98
 }

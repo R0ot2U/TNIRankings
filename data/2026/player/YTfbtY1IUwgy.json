@@ -1,0 +1,44 @@
+{
+  "user_id": "YTfbtY1IUwgy",
+  "player_name": "Gareth Stewart",
+  "total_points": 35.354,
+  "events_played": 1,
+  "best_finish": 65,
+  "regions": [
+    "ROI"
+  ],
+  "team": "Drogheda Tabletop Lodge",
+  "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 65,
+      "max_points": 100,
+      "points": 35.354,
+      "faction": "Space Wolves",
+      "team": "Drogheda Tabletop Lodge",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Space Wolves",
+      "points": 35.354,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.4,
+      "x1_points": 0
+    }
+  ],
+  "rank": 329
+}

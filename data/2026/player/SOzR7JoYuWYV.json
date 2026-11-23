@@ -1,14 +1,33 @@
 {
   "user_id": "SOzR7JoYuWYV",
   "player_name": "Philip Lyons",
-  "total_points": 25.51,
-  "events_played": 1,
-  "best_finish": 74,
+  "total_points": 83.086,
+  "events_played": 2,
+  "best_finish": 43,
   "regions": [
     "ROI"
   ],
-  "team": null,
+  "team": "Mayo Madlads",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 43,
+      "max_points": 100,
+      "points": 57.576,
+      "faction": "Chaos Space Marines",
+      "team": "Mayo Madlads",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "aMoYfY6J6Omo",
       "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
@@ -32,6 +51,14 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "Chaos Space Marines",
+      "points": 57.576,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.6,
+      "x1_points": 0
+    },
+    {
       "faction": "Leagues of Votann",
       "points": 25.51,
       "events_played": 1,
@@ -40,5 +67,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 356
+  "rank": 199
 }

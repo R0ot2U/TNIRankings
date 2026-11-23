@@ -1,14 +1,33 @@
 {
   "user_id": "D1usWYnRHFXg",
   "player_name": "Jack Kerins Mahon",
-  "total_points": 252.632,
-  "events_played": 6,
+  "total_points": 292.591,
+  "events_played": 7,
   "best_finish": 4,
   "regions": [
     "ROI"
   ],
   "team": "Lil' Green Gools",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 15,
+      "max_points": 100,
+      "points": 85.859,
+      "faction": "Necrons",
+      "team": "Lil' Green Gools",
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "cTMCSZUyw4Pt",
       "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
@@ -102,7 +121,7 @@
       "wins": 2,
       "draws": 0,
       "losses": 1,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "Y2y2bOaTCw2y",
@@ -115,7 +134,7 @@
       "placing": 8,
       "max_points": 60,
       "points": 43.846,
-      "faction": null,
+      "faction": "Necrons",
       "team": "Lil' Green Gools",
       "forced": false,
       "wins": 2,
@@ -128,20 +147,12 @@
   "faction_points": [
     {
       "faction": "Necrons",
-      "points": 285.132,
-      "events_played": 5,
-      "games_played": 21,
-      "win_rate": 0.6429,
-      "x1_points": 4
-    },
-    {
-      "faction": "Unknown",
-      "points": 43.846,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.6667,
-      "x1_points": 1
+      "points": 414.837,
+      "events_played": 7,
+      "games_played": 29,
+      "win_rate": 0.6724,
+      "x1_points": 7
     }
   ],
-  "rank": 33
+  "rank": 26
 }

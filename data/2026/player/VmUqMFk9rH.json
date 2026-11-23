@@ -1,14 +1,33 @@
 {
   "user_id": "VmUqMFk9rH",
   "player_name": "Mur Magee",
-  "total_points": 127.028,
-  "events_played": 2,
+  "total_points": 204.806,
+  "events_played": 3,
   "best_finish": 7,
   "regions": [
     "ROI"
   ],
-  "team": "The Spoon Collectors",
+  "team": "The Spoon Collectors/121st Chapter",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 23,
+      "max_points": 100,
+      "points": 77.778,
+      "faction": "Blood Angels",
+      "team": "The Spoon Collectors/121st Chapter",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "e9ytUCYU5Q1o",
       "prefix": "e9ytUCYU5Q1o",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Blood Angels",
-      "points": 127.028,
-      "events_played": 2,
-      "games_played": 8,
-      "win_rate": 0.75,
+      "points": 204.806,
+      "events_played": 3,
+      "games_played": 13,
+      "win_rate": 0.6923,
       "x1_points": 3
     }
   ],
-  "rank": 106
+  "rank": 56
 }

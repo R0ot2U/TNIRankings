@@ -1,14 +1,33 @@
 {
   "user_id": "Ep104nmEfA",
   "player_name": "Andrew Wilson",
-  "total_points": 242.893,
-  "events_played": 4,
+  "total_points": 267.626,
+  "events_played": 5,
   "best_finish": 7,
   "regions": [
     "ROI"
   ],
   "team": "Síbín Strategists",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 36,
+      "max_points": 100,
+      "points": 64.646,
+      "faction": "World Eaters",
+      "team": "Síbín Strategists",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "zx8846JlKwAt",
       "prefix": "zx8846JlKwAt",
@@ -26,7 +45,7 @@
       "wins": 2,
       "draws": 0,
       "losses": 1,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "59xtuz3YSFYA",
@@ -89,21 +108,21 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "World Eaters",
+      "points": 165.923,
+      "events_played": 3,
+      "games_played": 13,
+      "win_rate": 0.6154,
+      "x1_points": 1
+    },
+    {
       "faction": "Deathwatch",
       "points": 141.616,
       "events_played": 2,
       "games_played": 10,
       "win_rate": 0.7,
       "x1_points": 2
-    },
-    {
-      "faction": "World Eaters",
-      "points": 101.277,
-      "events_played": 2,
-      "games_played": 8,
-      "win_rate": 0.625,
-      "x1_points": 1
     }
   ],
-  "rank": 36
+  "rank": 38
 }

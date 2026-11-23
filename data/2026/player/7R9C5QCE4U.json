@@ -1,14 +1,34 @@
 {
   "user_id": "7R9C5QCE4U",
   "player_name": "Liam Stewart",
-  "total_points": 161.166,
-  "events_played": 3,
+  "total_points": 250.055,
+  "events_played": 4,
   "best_finish": 4,
   "regions": [
-    "NI"
+    "NI",
+    "ROI"
   ],
   "team": "Sink",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 12,
+      "max_points": 100,
+      "points": 88.889,
+      "faction": "T'au Empire",
+      "team": "Sink",
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "NxXFuKF8loah",
       "prefix": "NxXFuKF8loah",
@@ -71,12 +91,12 @@
   "faction_points": [
     {
       "faction": "T'au Empire",
-      "points": 161.166,
-      "events_played": 3,
-      "games_played": 11,
-      "win_rate": 0.6818,
-      "x1_points": 2
+      "points": 250.055,
+      "events_played": 4,
+      "games_played": 16,
+      "win_rate": 0.7188,
+      "x1_points": 4
     }
   ],
-  "rank": 73
+  "rank": 40
 }

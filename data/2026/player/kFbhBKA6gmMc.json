@@ -1,14 +1,33 @@
 {
   "user_id": "kFbhBKA6gmMc",
   "player_name": "Ben Oliver",
-  "total_points": 67.24,
-  "events_played": 2,
+  "total_points": 91.482,
+  "events_played": 3,
   "best_finish": 34,
   "regions": [
     "ROI"
   ],
-  "team": null,
+  "team": "Dungeons and Donuts ",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 76,
+      "max_points": 100,
+      "points": 24.242,
+      "faction": "Orks",
+      "team": "Dungeons and Donuts ",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "59xtuz3YSFYA",
       "prefix": "dearg_doom_vii_59xtuz3YSFYA",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Orks",
-      "points": 67.24,
-      "events_played": 2,
-      "games_played": 10,
+      "points": 91.482,
+      "events_played": 3,
+      "games_played": 15,
       "win_rate": 0.4,
       "x1_points": 0
     }
   ],
-  "rank": 212
+  "rank": 177
 }

@@ -1,14 +1,33 @@
 {
   "user_id": "KvDAeTYnDh",
   "player_name": "Timmy Larkin",
-  "total_points": 46.939,
-  "events_played": 1,
-  "best_finish": 53,
+  "total_points": 131.787,
+  "events_played": 2,
+  "best_finish": 16,
   "regions": [
     "ROI"
   ],
-  "team": null,
+  "team": "Dungeons and donuts",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 16,
+      "max_points": 100,
+      "points": 84.848,
+      "faction": "Blood Angels",
+      "team": "Dungeons and donuts",
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "aMoYfY6J6Omo",
       "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
@@ -33,12 +52,12 @@
   "faction_points": [
     {
       "faction": "Blood Angels",
-      "points": 46.939,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.4,
-      "x1_points": 0
+      "points": 131.787,
+      "events_played": 2,
+      "games_played": 10,
+      "win_rate": 0.6,
+      "x1_points": 2
     }
   ],
-  "rank": 262
+  "rank": 116
 }

@@ -2,7 +2,7 @@
   "user_id": "l9SDvejwak",
   "player_name": "Hugh Mc Cluskey",
   "total_points": 378.084,
-  "events_played": 8,
+  "events_played": 9,
   "best_finish": 1,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "Dundalk Gaming Community",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 14,
+      "max_points": 100,
+      "points": 86.869,
+      "faction": "Grey Knights",
+      "team": "Dundalk Gaming Community",
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": false
+    },
     {
       "event_id": "Yxp2DxxyNjuu",
       "prefix": "Yxp2DxxyNjuu",
@@ -167,11 +186,11 @@
   "faction_points": [
     {
       "faction": "Grey Knights",
-      "points": 544.23,
-      "events_played": 7,
-      "games_played": 31,
-      "win_rate": 0.8387,
-      "x1_points": 5
+      "points": 631.099,
+      "events_played": 8,
+      "games_played": 36,
+      "win_rate": 0.8333,
+      "x1_points": 7
     },
     {
       "faction": "Tyranids",
@@ -182,5 +201,5 @@
       "x1_points": 1
     }
   ],
-  "rank": 4
+  "rank": 5
 }

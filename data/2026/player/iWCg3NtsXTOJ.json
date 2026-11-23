@@ -1,14 +1,33 @@
 {
   "user_id": "iWCg3NtsXTOJ",
   "player_name": "Julian Begley",
-  "total_points": 147.603,
-  "events_played": 2,
+  "total_points": 210.229,
+  "events_played": 3,
   "best_finish": 13,
   "regions": [
     "ROI"
   ],
-  "team": null,
+  "team": "Last Limerick Bastion",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 38,
+      "max_points": 100,
+      "points": 62.626,
+      "faction": "Adeptus Custodes",
+      "team": "Last Limerick Bastion",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "0bK8kCFpoBdA",
       "prefix": "dearg_doom_vi__i_can_t_believe_its_not_cork_0bK8kCFpoBdA",
@@ -57,7 +76,15 @@
       "games_played": 10,
       "win_rate": 0.6,
       "x1_points": 0
+    },
+    {
+      "faction": "Adeptus Custodes",
+      "points": 62.626,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.6,
+      "x1_points": 0
     }
   ],
-  "rank": 86
+  "rank": 52
 }

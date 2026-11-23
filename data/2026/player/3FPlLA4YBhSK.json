@@ -58,7 +58,7 @@
       "placing": 40,
       "max_points": 100,
       "points": 11.364,
-      "faction": "Aeldari",
+      "faction": "Aeldari -",
       "team": null,
       "forced": false,
       "wins": 1,
@@ -71,12 +71,20 @@
   "faction_points": [
     {
       "faction": "Aeldari",
-      "points": 111.496,
-      "events_played": 3,
-      "games_played": 13,
-      "win_rate": 0.4615,
+      "points": 100.132,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.625,
       "x1_points": 1
+    },
+    {
+      "faction": "Aeldari -",
+      "points": 11.364,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.2,
+      "x1_points": 0
     }
   ],
-  "rank": 129
+  "rank": 146
 }

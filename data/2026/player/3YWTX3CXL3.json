@@ -58,7 +58,7 @@
       "placing": 22,
       "max_points": 60,
       "points": 7.5,
-      "faction": "Chaos",
+      "faction": "Chaos Space Marines",
       "team": "The Spoon Collectors",
       "forced": false,
       "wins": 0,
@@ -105,7 +105,7 @@
       "x1_points": 1
     },
     {
-      "faction": "Chaos",
+      "faction": "Chaos Space Marines",
       "points": 7.5,
       "events_played": 1,
       "games_played": 3,
@@ -113,5 +113,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 72
+  "rank": 89
 }

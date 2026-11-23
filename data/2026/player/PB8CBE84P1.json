@@ -1,15 +1,34 @@
 {
   "user_id": "PB8CBE84P1",
   "player_name": "Haydn Dempster",
-  "total_points": 346.02,
-  "events_played": 10,
+  "total_points": 382.99,
+  "events_played": 11,
   "best_finish": 1,
   "regions": [
     "NI",
     "ROI"
   ],
-  "team": "Sink",
+  "team": null,
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 4,
+      "max_points": 100,
+      "points": 96.97,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    },
     {
       "event_id": "Yxp2DxxyNjuu",
       "prefix": "Yxp2DxxyNjuu",
@@ -141,7 +160,7 @@
       "wins": 3,
       "draws": 0,
       "losses": 0,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "aMoYfY6J6Omo",
@@ -228,6 +247,14 @@
       "x1_points": 2
     },
     {
+      "faction": "Space Marines (Astartes)",
+      "points": 96.97,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.8,
+      "x1_points": 2
+    },
+    {
       "faction": "Adeptus Custodes",
       "points": 58.125,
       "events_played": 1,
@@ -252,5 +279,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 8
+  "rank": 4
 }

@@ -20,7 +20,7 @@
       "placing": 32,
       "max_points": 100,
       "points": 45.614,
-      "faction": "Genestealer Cult",
+      "faction": "Genestealer Cults",
       "team": "Team LolSheep",
       "forced": false,
       "wins": 2,
@@ -32,7 +32,7 @@
   "included_override": false,
   "faction_points": [
     {
-      "faction": "Genestealer Cult",
+      "faction": "Genestealer Cults",
       "points": 45.614,
       "events_played": 1,
       "games_played": 5,
@@ -40,5 +40,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 266
+  "rank": 288
 }

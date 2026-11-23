@@ -1,14 +1,33 @@
 {
   "user_id": "CAJND0BQUC",
   "player_name": "Mark Doherty",
-  "total_points": 153.184,
-  "events_played": 3,
+  "total_points": 176.416,
+  "events_played": 4,
   "best_finish": 8,
   "regions": [
     "ROI"
   ],
-  "team": null,
+  "team": "Donegal Dice Flingers",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 77,
+      "max_points": 100,
+      "points": 23.232,
+      "faction": "Emperor's Children",
+      "team": "Donegal Dice Flingers",
+      "forced": false,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "VszBd0tEIxjq",
       "prefix": "call_to_chaos_v_-_call_to_chaos-ier_VszBd0tEIxjq",
@@ -76,7 +95,15 @@
       "games_played": 13,
       "win_rate": 0.6154,
       "x1_points": 3
+    },
+    {
+      "faction": "Emperor's Children",
+      "points": 23.232,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.3,
+      "x1_points": 0
     }
   ],
-  "rank": 82
+  "rank": 75
 }

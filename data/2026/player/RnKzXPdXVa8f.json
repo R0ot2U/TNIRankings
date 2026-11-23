@@ -191,7 +191,7 @@
       "placing": 14,
       "max_points": 54,
       "points": 15.0,
-      "faction": null,
+      "faction": "Thousand Sons",
       "team": null,
       "forced": false,
       "wins": 1,
@@ -212,10 +212,10 @@
     },
     {
       "faction": "Thousand Sons",
-      "points": 151.861,
-      "events_played": 3,
-      "games_played": 13,
-      "win_rate": 0.5385,
+      "points": 166.861,
+      "events_played": 4,
+      "games_played": 16,
+      "win_rate": 0.5,
       "x1_points": 0
     },
     {
@@ -233,15 +233,7 @@
       "games_played": 3,
       "win_rate": 0.3333,
       "x1_points": 0
-    },
-    {
-      "faction": "Unknown",
-      "points": 15.0,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.3333,
-      "x1_points": 0
     }
   ],
-  "rank": 31
+  "rank": 36
 }

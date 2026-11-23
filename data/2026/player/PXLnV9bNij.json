@@ -1,8 +1,8 @@
 {
   "user_id": "PXLnV9bNij",
   "player_name": "Mark Morrow",
-  "total_points": 393.878,
-  "events_played": 7,
+  "total_points": 400.0,
+  "events_played": 8,
   "best_finish": 1,
   "regions": [
     "NI",
@@ -10,6 +10,25 @@
   ],
   "team": "Northern Wasters",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 1,
+      "max_points": 100,
+      "points": 100.0,
+      "faction": "Orks",
+      "team": "Northern Wasters",
+      "forced": false,
+      "wins": 5,
+      "draws": 0,
+      "losses": 0,
+      "counts": true
+    },
     {
       "event_id": "lpUy1qWvgwlx",
       "prefix": "lpUy1qWvgwlx",
@@ -122,7 +141,7 @@
       "wins": 4,
       "draws": 0,
       "losses": 1,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "5RSqsPO0geXN",
@@ -148,10 +167,10 @@
   "faction_points": [
     {
       "faction": "Orks",
-      "points": 339.088,
-      "events_played": 4,
-      "games_played": 18,
-      "win_rate": 0.9444,
+      "points": 439.088,
+      "events_played": 5,
+      "games_played": 23,
+      "win_rate": 0.9565,
       "x1_points": 2
     },
     {
@@ -171,5 +190,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 3
+  "rank": 1
 }

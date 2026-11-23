@@ -1,14 +1,33 @@
 {
   "user_id": "fJjnX7acGq3I",
-  "player_name": "Pascal Landshoeft",
-  "total_points": 71.176,
-  "events_played": 2,
+  "player_name": "Pascal  Landshöft",
+  "total_points": 80.267,
+  "events_played": 3,
   "best_finish": 9,
   "regions": [
     "ROI"
   ],
   "team": "Drogheda Tabletop Lodge",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 91,
+      "max_points": 100,
+      "points": 9.091,
+      "faction": "Leagues of Votann",
+      "team": "Drogheda Tabletop Lodge",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "TXU9YF7aiAIq",
       "prefix": "TXU9YF7aiAIq",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Leagues of Votann",
-      "points": 71.176,
-      "events_played": 2,
-      "games_played": 9,
-      "win_rate": 0.4444,
+      "points": 80.267,
+      "events_played": 3,
+      "games_played": 13,
+      "win_rate": 0.3846,
       "x1_points": 0
     }
   ],
-  "rank": 203
+  "rank": 206
 }

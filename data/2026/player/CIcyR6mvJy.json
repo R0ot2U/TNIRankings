@@ -20,7 +20,7 @@
       "placing": 21,
       "max_points": 100,
       "points": 50.0,
-      "faction": null,
+      "faction": "Astra Militarum",
       "team": "Solar Wars",
       "forced": false,
       "wins": 2,
@@ -32,7 +32,7 @@
   "included_override": false,
   "faction_points": [
     {
-      "faction": "Unknown",
+      "faction": "Astra Militarum",
       "points": 50.0,
       "events_played": 1,
       "games_played": 5,
@@ -40,5 +40,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 252
+  "rank": 274
 }

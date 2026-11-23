@@ -1,14 +1,33 @@
 {
   "user_id": "79C80PD3XQ",
   "player_name": "Brian Cunningham",
-  "total_points": 130.612,
-  "events_played": 2,
+  "total_points": 164.955,
+  "events_played": 3,
   "best_finish": 20,
   "regions": [
     "ROI"
   ],
-  "team": null,
+  "team": "Dungeons and Donuts ",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 66,
+      "max_points": 100,
+      "points": 34.343,
+      "faction": "Chaos Knights",
+      "team": "Dungeons and Donuts ",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "59xtuz3YSFYA",
       "prefix": "dearg_doom_vii_59xtuz3YSFYA",
@@ -52,10 +71,10 @@
   "faction_points": [
     {
       "faction": "Chaos Knights",
-      "points": 80.612,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.6,
+      "points": 114.955,
+      "events_played": 2,
+      "games_played": 10,
+      "win_rate": 0.5,
       "x1_points": 0
     },
     {
@@ -67,5 +86,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 102
+  "rank": 86
 }

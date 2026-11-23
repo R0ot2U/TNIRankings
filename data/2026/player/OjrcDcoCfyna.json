@@ -1,0 +1,44 @@
+{
+  "user_id": "OjrcDcoCfyna",
+  "player_name": "Krystian Gabzdyl",
+  "total_points": 26.263,
+  "events_played": 1,
+  "best_finish": 74,
+  "regions": [
+    "ROI"
+  ],
+  "team": null,
+  "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 74,
+      "max_points": 100,
+      "points": 26.263,
+      "faction": "Astra Militarum",
+      "team": null,
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Astra Militarum",
+      "points": 26.263,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.4,
+      "x1_points": 0
+    }
+  ],
+  "rank": 375
+}

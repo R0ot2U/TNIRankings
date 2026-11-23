@@ -1,14 +1,33 @@
 {
   "user_id": "L2RLPX8TPX",
   "player_name": "Alex Nolan",
-  "total_points": 245.801,
-  "events_played": 7,
+  "total_points": 270.397,
+  "events_played": 8,
   "best_finish": 8,
   "regions": [
     "ROI"
   ],
   "team": "Síbín Strategists",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 41,
+      "max_points": 100,
+      "points": 59.596,
+      "faction": "Adeptus Mechanicus",
+      "team": "Síbín Strategists",
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "cTMCSZUyw4Pt",
       "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
@@ -102,7 +121,7 @@
       "wins": 2,
       "draws": 0,
       "losses": 1,
-      "counts": true
+      "counts": false
     },
     {
       "event_id": "aMoYfY6J6Omo",
@@ -146,20 +165,20 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "Adeptus Mechanicus",
+      "points": 160.553,
+      "events_played": 3,
+      "games_played": 13,
+      "win_rate": 0.6154,
+      "x1_points": 1
+    },
+    {
       "faction": "Leagues of Votann",
       "points": 131.215,
       "events_played": 3,
       "games_played": 10,
       "win_rate": 0.6,
       "x1_points": 4
-    },
-    {
-      "faction": "Adeptus Mechanicus",
-      "points": 100.957,
-      "events_played": 2,
-      "games_played": 8,
-      "win_rate": 0.625,
-      "x1_points": 1
     },
     {
       "faction": "Thousand Sons",

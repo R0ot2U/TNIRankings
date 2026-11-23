@@ -1,14 +1,33 @@
 {
   "user_id": "tisaASG88Kj6",
   "player_name": "Matthew McKeon",
-  "total_points": 61.582,
-  "events_played": 3,
+  "total_points": 90.875,
+  "events_played": 4,
   "best_finish": 9,
   "regions": [
     "ROI"
   ],
   "team": "Last Limerick Bastion",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 71,
+      "max_points": 100,
+      "points": 29.293,
+      "faction": "Space Marines (Astartes)",
+      "team": "Last Limerick Bastion",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "zx8846JlKwAt",
       "prefix": "zx8846JlKwAt",
@@ -71,10 +90,10 @@
   "faction_points": [
     {
       "faction": "Space Marines (Astartes)",
-      "points": 35.217,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.6667,
+      "points": 64.51,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.5,
       "x1_points": 1
     },
     {
@@ -86,5 +105,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 224
+  "rank": 179
 }

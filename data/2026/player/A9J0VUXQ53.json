@@ -58,7 +58,7 @@
       "placing": 4,
       "max_points": 48,
       "points": 39.0,
-      "faction": "Genestealer Cult",
+      "faction": "Genestealer Cults",
       "team": null,
       "forced": false,
       "wins": 2,
@@ -96,7 +96,7 @@
       "placing": 19,
       "max_points": 100,
       "points": 55.0,
-      "faction": "Genestealer Cult",
+      "faction": "Genestealer Cults",
       "team": "Brethren",
       "forced": false,
       "wins": 3,
@@ -108,29 +108,21 @@
   "included_override": false,
   "faction_points": [
     {
+      "faction": "Genestealer Cults",
+      "points": 154.465,
+      "events_played": 3,
+      "games_played": 13,
+      "win_rate": 0.6154,
+      "x1_points": 1
+    },
+    {
       "faction": "Death Guard",
       "points": 118.278,
       "events_played": 2,
       "games_played": 8,
       "win_rate": 0.625,
       "x1_points": 1
-    },
-    {
-      "faction": "Genestealer Cult",
-      "points": 94.0,
-      "events_played": 2,
-      "games_played": 8,
-      "win_rate": 0.625,
-      "x1_points": 1
-    },
-    {
-      "faction": "Genestealer Cults",
-      "points": 60.465,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.6,
-      "x1_points": 0
     }
   ],
-  "rank": 43
+  "rank": 46
 }

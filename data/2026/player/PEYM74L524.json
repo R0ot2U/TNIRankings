@@ -1,14 +1,33 @@
 {
   "user_id": "PEYM74L524",
   "player_name": "Alan McNevin",
-  "total_points": 66.518,
-  "events_played": 2,
+  "total_points": 121.063,
+  "events_played": 3,
   "best_finish": 8,
   "regions": [
     "ROI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 46,
+      "max_points": 100,
+      "points": 54.545,
+      "faction": "Tyranids",
+      "team": null,
+      "forced": false,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "e9ytUCYU5Q1o",
       "prefix": "e9ytUCYU5Q1o",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Tyranids",
-      "points": 66.518,
-      "events_played": 2,
-      "games_played": 6,
-      "win_rate": 0.5833,
+      "points": 121.063,
+      "events_played": 3,
+      "games_played": 11,
+      "win_rate": 0.5909,
       "x1_points": 2
     }
   ],
-  "rank": 213
+  "rank": 130
 }

@@ -1,14 +1,33 @@
 {
   "user_id": "7uqFOC7mQF1l",
   "player_name": "Dylan Ralph",
-  "total_points": 43.481,
-  "events_played": 2,
+  "total_points": 44.491,
+  "events_played": 3,
   "best_finish": 32,
   "regions": [
     "ROI"
   ],
-  "team": null,
+  "team": "Western Wargamers",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 99,
+      "max_points": 100,
+      "points": 1.01,
+      "faction": "Chaos Space Marines",
+      "team": "Western Wargamers",
+      "forced": false,
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "VszBd0tEIxjq",
       "prefix": "call_to_chaos_v_-_call_to_chaos-ier_VszBd0tEIxjq",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Chaos Space Marines",
-      "points": 43.481,
-      "events_played": 2,
-      "games_played": 10,
-      "win_rate": 0.3,
+      "points": 44.491,
+      "events_played": 3,
+      "games_played": 13,
+      "win_rate": 0.2308,
       "x1_points": 0
     }
   ],
-  "rank": 271
+  "rank": 290
 }

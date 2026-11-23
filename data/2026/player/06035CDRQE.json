@@ -1,0 +1,44 @@
+{
+  "user_id": "06035CDRQE",
+  "player_name": "Josef Fabian",
+  "total_points": 83.838,
+  "events_played": 1,
+  "best_finish": 17,
+  "regions": [
+    "ROI"
+  ],
+  "team": "Broadsword Wargaming",
+  "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 17,
+      "max_points": 100,
+      "points": 83.838,
+      "faction": "Space Marines (Astartes)",
+      "team": "Broadsword Wargaming",
+      "forced": false,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Space Marines (Astartes)",
+      "points": 83.838,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.8,
+      "x1_points": 2
+    }
+  ],
+  "rank": 197
+}

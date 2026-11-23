@@ -1,0 +1,44 @@
+{
+  "user_id": "FXYCY6JXHM",
+  "player_name": "David Hannon",
+  "total_points": 43.434,
+  "events_played": 1,
+  "best_finish": 57,
+  "regions": [
+    "ROI"
+  ],
+  "team": "Dungeons and Donuts",
+  "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 57,
+      "max_points": 100,
+      "points": 43.434,
+      "faction": "Adeptus Mechanicus",
+      "team": "Dungeons and Donuts",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Adeptus Mechanicus",
+      "points": 43.434,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.4,
+      "x1_points": 0
+    }
+  ],
+  "rank": 293
+}

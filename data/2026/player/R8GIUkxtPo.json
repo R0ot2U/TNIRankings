@@ -1,0 +1,44 @@
+{
+  "user_id": "R8GIUkxtPo",
+  "player_name": "Francisco Dolhabaratz Bevans",
+  "total_points": 20.202,
+  "events_played": 1,
+  "best_finish": 80,
+  "regions": [
+    "ROI"
+  ],
+  "team": "Dungeons and Donuts ",
+  "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 80,
+      "max_points": 100,
+      "points": 20.202,
+      "faction": "Drukhari",
+      "team": "Dungeons and Donuts ",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "counts": true
+    }
+  ],
+  "included_override": false,
+  "faction_points": [
+    {
+      "faction": "Drukhari",
+      "points": 20.202,
+      "events_played": 1,
+      "games_played": 5,
+      "win_rate": 0.2,
+      "x1_points": 0
+    }
+  ],
+  "rank": 404
+}

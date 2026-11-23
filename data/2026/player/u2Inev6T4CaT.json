@@ -1,14 +1,33 @@
 {
   "user_id": "u2Inev6T4CaT",
   "player_name": "sean Lyons",
-  "total_points": 23.469,
-  "events_played": 1,
+  "total_points": 42.661,
+  "events_played": 2,
   "best_finish": 76,
   "regions": [
     "ROI"
   ],
-  "team": null,
+  "team": "Mayo Madlads",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 81,
+      "max_points": 100,
+      "points": 19.192,
+      "faction": "Astra Militarum",
+      "team": "Mayo Madlads",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "counts": true
+    },
     {
       "event_id": "aMoYfY6J6Omo",
       "prefix": "broadsword_wargaming_40k_itc_seasonal_major_ix_aMoYfY6J6Omo",
@@ -33,12 +52,12 @@
   "faction_points": [
     {
       "faction": "Astra Militarum",
-      "points": 23.469,
-      "events_played": 1,
-      "games_played": 5,
-      "win_rate": 0.4,
+      "points": 42.661,
+      "events_played": 2,
+      "games_played": 10,
+      "win_rate": 0.3,
       "x1_points": 0
     }
   ],
-  "rank": 365
+  "rank": 300
 }

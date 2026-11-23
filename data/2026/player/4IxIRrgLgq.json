@@ -2,13 +2,32 @@
   "user_id": "4IxIRrgLgq",
   "player_name": "Ryan Lynch",
   "total_points": 274.12,
-  "events_played": 7,
+  "events_played": 8,
   "best_finish": 2,
   "regions": [
     "ROI"
   ],
   "team": "The Spoon Collectors",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 55,
+      "max_points": 100,
+      "points": 45.455,
+      "faction": "Aeldari",
+      "team": "The Spoon Collectors",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": false
+    },
     {
       "event_id": "cTMCSZUyw4Pt",
       "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
@@ -163,12 +182,12 @@
     },
     {
       "faction": "Aeldari",
-      "points": 40.0,
-      "events_played": 1,
-      "games_played": 3,
-      "win_rate": 0.6667,
+      "points": 85.455,
+      "events_played": 2,
+      "games_played": 8,
+      "win_rate": 0.5,
       "x1_points": 1
     }
   ],
-  "rank": 28
+  "rank": 32
 }

@@ -1,14 +1,33 @@
 {
   "user_id": "CW1NM4DE37",
   "player_name": "Oskar Szulczynski",
-  "total_points": 67.943,
-  "events_played": 2,
+  "total_points": 81.074,
+  "events_played": 3,
   "best_finish": 17,
   "regions": [
     "ROI"
   ],
   "team": null,
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 87,
+      "max_points": 100,
+      "points": 13.131,
+      "faction": "Space Marines (Astartes)",
+      "team": null,
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "counts": true
+    },
     {
       "event_id": "ZtjILkd4ciOc",
       "prefix": "ZtjILkd4ciOc",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Space Marines (Astartes)",
-      "points": 67.943,
-      "events_played": 2,
-      "games_played": 8,
-      "win_rate": 0.5,
+      "points": 81.074,
+      "events_played": 3,
+      "games_played": 13,
+      "win_rate": 0.3846,
       "x1_points": 0
     }
   ],
-  "rank": 211
+  "rank": 204
 }

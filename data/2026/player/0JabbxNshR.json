@@ -2,13 +2,32 @@
   "user_id": "0JabbxNshR",
   "player_name": "Peter Ghelfi",
   "total_points": 310.399,
-  "events_played": 9,
+  "events_played": 10,
   "best_finish": 1,
   "regions": [
     "ROI"
   ],
   "team": "Sandbox Sad Squigs",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 95,
+      "max_points": 100,
+      "points": 5.051,
+      "faction": "Black Templars",
+      "team": "Sandbox Sad Squigs",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "counts": false
+    },
     {
       "event_id": "N2eaAnoM6QNc",
       "prefix": "N2eaAnoM6QNc",
@@ -185,10 +204,10 @@
   "faction_points": [
     {
       "faction": "Black Templars",
-      "points": 355.068,
-      "events_played": 6,
-      "games_played": 22,
-      "win_rate": 0.8182,
+      "points": 360.119,
+      "events_played": 7,
+      "games_played": 23,
+      "win_rate": 0.8261,
       "x1_points": 4
     },
     {
@@ -208,5 +227,5 @@
       "x1_points": 0
     }
   ],
-  "rank": 15
+  "rank": 17
 }

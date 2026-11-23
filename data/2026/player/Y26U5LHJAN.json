@@ -1,14 +1,33 @@
 {
   "user_id": "Y26U5LHJAN",
   "player_name": "Steve Byrne",
-  "total_points": 126.918,
-  "events_played": 3,
+  "total_points": 177.423,
+  "events_played": 4,
   "best_finish": 22,
   "regions": [
     "ROI"
   ],
-  "team": null,
+  "team": "Sustained Hits Sligo",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 50,
+      "max_points": 100,
+      "points": 50.505,
+      "faction": "Adeptus Custodes",
+      "team": "Sustained Hits Sligo",
+      "forced": false,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "VszBd0tEIxjq",
       "prefix": "call_to_chaos_v_-_call_to_chaos-ier_VszBd0tEIxjq",
@@ -71,12 +90,12 @@
   "faction_points": [
     {
       "faction": "Adeptus Custodes",
-      "points": 126.918,
-      "events_played": 3,
-      "games_played": 15,
-      "win_rate": 0.4,
+      "points": 177.423,
+      "events_played": 4,
+      "games_played": 20,
+      "win_rate": 0.425,
       "x1_points": 0
     }
   ],
-  "rank": 107
+  "rank": 72
 }

@@ -1,14 +1,33 @@
 {
   "user_id": "JV8UzGvLfk",
   "player_name": "niall mulready",
-  "total_points": 10.8,
-  "events_played": 1,
+  "total_points": 27.972,
+  "events_played": 2,
   "best_finish": 17,
   "regions": [
     "ROI"
   ],
   "team": "Drogheda Tabletop Lodge",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 83,
+      "max_points": 100,
+      "points": 17.172,
+      "faction": "Orks",
+      "team": "Drogheda Tabletop Lodge",
+      "forced": false,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "counts": true
+    },
     {
       "event_id": "TXU9YF7aiAIq",
       "prefix": "TXU9YF7aiAIq",
@@ -33,12 +52,12 @@
   "faction_points": [
     {
       "faction": "Orks",
-      "points": 10.8,
-      "events_played": 1,
-      "games_played": 4,
-      "win_rate": 0.25,
+      "points": 27.972,
+      "events_played": 2,
+      "games_played": 9,
+      "win_rate": 0.2222,
       "x1_points": 0
     }
   ],
-  "rank": 428
+  "rank": 363
 }

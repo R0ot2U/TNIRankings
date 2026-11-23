@@ -1,14 +1,33 @@
 {
   "user_id": "7Z6DqObu9u",
   "player_name": "David McEvoy",
-  "total_points": 129.422,
-  "events_played": 3,
+  "total_points": 176.897,
+  "events_played": 4,
   "best_finish": 6,
   "regions": [
     "ROI"
   ],
   "team": "Tuff Kuntz",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 53,
+      "max_points": 100,
+      "points": 47.475,
+      "faction": "Black Templars",
+      "team": "Tuff Kuntz",
+      "forced": false,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "counts": true
+    },
     {
       "event_id": "cTMCSZUyw4Pt",
       "prefix": "gaelcon_2026_cTMCSZUyw4Pt",
@@ -71,12 +90,12 @@
   "faction_points": [
     {
       "faction": "Black Templars",
-      "points": 129.422,
-      "events_played": 3,
-      "games_played": 11,
-      "win_rate": 0.5455,
+      "points": 176.897,
+      "events_played": 4,
+      "games_played": 16,
+      "win_rate": 0.5,
       "x1_points": 1
     }
   ],
-  "rank": 103
+  "rank": 74
 }

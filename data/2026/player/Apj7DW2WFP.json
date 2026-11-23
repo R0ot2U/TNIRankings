@@ -1,14 +1,33 @@
 {
   "user_id": "Apj7DW2WFP",
   "player_name": "Aaron Speirs",
-  "total_points": 82.087,
-  "events_played": 2,
+  "total_points": 131.582,
+  "events_played": 3,
   "best_finish": 17,
   "regions": [
     "ROI"
   ],
-  "team": null,
+  "team": "Western Wargamers",
   "events": [
+    {
+      "event_id": "ObdchVGpEPEb",
+      "prefix": "broadsword_wargaming_40k_seasonal_major_x_ObdchVGpEPEb",
+      "event_name": "Broadsword Wargaming 40K Seasonal Major X",
+      "date": "2026-11-21",
+      "region": "ROI",
+      "field_size": 99,
+      "rounds": 5,
+      "placing": 51,
+      "max_points": 100,
+      "points": 49.495,
+      "faction": "Black Templars",
+      "team": "Western Wargamers",
+      "forced": false,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "counts": true
+    },
     {
       "event_id": "VszBd0tEIxjq",
       "prefix": "call_to_chaos_v_-_call_to_chaos-ier_VszBd0tEIxjq",
@@ -52,12 +71,12 @@
   "faction_points": [
     {
       "faction": "Black Templars",
-      "points": 82.087,
-      "events_played": 2,
-      "games_played": 10,
+      "points": 131.582,
+      "events_played": 3,
+      "games_played": 15,
       "win_rate": 0.5,
       "x1_points": 0
     }
   ],
-  "rank": 181
+  "rank": 117
 }
